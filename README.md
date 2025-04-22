@@ -540,7 +540,395 @@ de audiencia.</td>
 
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+
+
+<table align="center" border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th colspan="6" align="left">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="6" align="center">
+      ¿Qué ventajas competitivas puede desarrollar <strong>Mecanaut</strong> para diferenciarse en el mercado de software de mantenimiento frente a soluciones ya consolidadas?
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2"></th>
+    <td align="center">
+      <img src="img/logos/mecanaut_logo.jpg" width="130"><br><strong>Mecanaut</strong>
+    </td>
+    <td align="center">
+      <img src="https://safetyculture.com/_next/image/?url=https%3A%2F%2Fwp-website.safetyculture.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2023%2F11%2Fcropped-sc-icon-grey-213.png&w=1080&q=75" " width="100"><br><strong>SafetyCulture</strong>
+    </td>
+    <td align="center">
+      <img src="https://safetyculture.com/_next/image/?url=https%3A%2F%2Fwp-website.safetyculture.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2023%2F11%2FTofino-maintenance-app.jpg&w=384&q=75" width="100"><br><strong>Tofino</strong>
+    </td>
+    <td align="center">
+      <img src="https://safetyculture.com/_next/image/?url=https%3A%2F%2Fwp-website.safetyculture.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2023%2F11%2FManagerPlus-maintenance-app.jpg&w=384&q=75" width="100"><br><strong>ManagerPlus</strong>
+    </td>
+  </tr>
+    
+ <tr>
+  <td rowspan="2"><strong>Perfil</strong></td>
+  <td><strong>Overview</strong></td>
+  <td align="justify">Mecanaut es una solución integral de software enfocada en la gestión del mantenimiento de maquinaria, abarcando mantenimiento preventivo y correctivo.</td>
+  <td align="justify">SafetyCulture es una plataforma colaborativa que permite realizar inspecciones digitales, gestionar activos, asignar tareas correctivas y generar informes personalizados.</td>
+  <td align="justify">Tofino es una solución CMMS en la nube que integra mantenimiento, gestión de activos, inventario MRO y adquisiciones inteligentes, dirigida a empresas medianas y grandes en sectores como manufactura y distribución.</td>
+  <td align="justify">ManagerPlus, ahora parte de Eptura Asset, es una solución CMMS en la nube que ayuda a gestionar activos, órdenes de trabajo, mantenimiento preventivo y seguimiento de inventario.</td>
+</tr>
+
+<tr>
+  <td><strong>Ventaja competitiva</strong></td>
+    <td align="justify">
+
+- Se enfoca en las necesidades del mantenimiento de maquinaria, con funciones adaptadas a este campo.
+
+- Registrar líneas de producción y tiempos muertos permite planificar el mantenimiento de manera más eficiente, reduciendo el impacto en la producción.
+
+- El control de inventario integrado ayuda a evitar desabastecimientos y optimiza la gestión de recursos.
+</td>
+    
+<td align="justify">
+
+- Transforma listas de verificación en papel en formularios digitales personalizables
+- Ofrece paneles de control con estadísticas y tendencias para monitorear el rendimiento y cumplimiento.
+- Permite asignar tareas, capturar evidencias y comunicar acciones correctivas directamente desde la aplicación.</td>
+    
+<td align="justify">
+
+- Combina mantenimiento, inventario y adquisiciones en una sola plataforma, eliminando la necesidad de múltiples sistemas.
+- Su app para iOS y Android funciona sin conexión a internet, permitiendo operaciones en entornos con conectividad limitada.
+- Gestión de Inventario en Tiempo Real.
+
+</td>
+
+<td align="justify">
+    
+- Combina gestión de activos, mantenimiento preventivo, órdenes de trabajo, inventario y compras en una única plataforma.
+- Altamente configurable para adaptarse a las necesidades específicas de diferentes industrias y tamaños de empresa.
+- Permite supervisar niveles de stock y realizar pedidos de reabastecimiento.
+</td>
+
+</tr>
+
+
+<tr>
+  <td rowspan="2"><strong>Perfil de Marketing</strong></td>
+  <td><strong>Mercado objetivo </strong></td>
+  <td align="justify">Está dirigido a empresas que requieren una solución especializada para la gestión del mantenimiento de maquinaria, incluyendo sectores como manufactura y transporte</td>
+<td align="justify">Está dirigido a empresas de diversos sectores que buscan mejorar sus procesos de inspección y cumplimiento
+</td>
+<td align="justify">Está dirigido a empresas medianas y grandes en sectores como:​ Manufactura, distribución​, salud​, gestión de instalaciones, etc.</td>
+<td align="justify">Está dirigido a empresas de todos los tamaños en sectores como:​ Manufactura, construcción, hostelería, etc.</td>
+</tr>
+
+<tr>
+  <td><strong>Estrategias de Marketing</strong></td>
+    <td align="justify">
+
+- Mecanaut se posiciona como una solución especializada para industrias operativas, diferenciándose de competidores generalistas.
+- La plataforma se destacará por su flexibilidad e intuitividad, eliminando fricciones y permitiendo que los clientes la usen desde el primer día.
+</td>
+    <td align="justify">
+
+- Permite a los usuarios experimentar las funcionalidades premium sin compromiso.
+- Ofrece una biblioteca de plantillas, guías y seminarios web para capacitar a los usuarios.
+- Mantiene una fuerte presencia en redes sociales y plataformas de reseñas para aumentar su visibilidad.
+
+</td>
+    <td align="justify">
+
+- Ofrecen demos adaptadas a las necesidades del cliente.
+- Promueven Tofino como una herramienta que fortalece la relación entre distribuidores y sus clientes.
+- Presencia constante en Plataformas de Software.
+</td>
+    <td align="justify">
+
+- Ofrecen demos adaptadas a las necesidades del cliente para mostrar la funcionalidad del software.
+- Proporcionan acceso a capacitación, videos, seminarios en línea y tutoriales para facilitar la adopción del software.
+- Listados en sitios como Capterra y GetApp para aumentar visibilidad y credibilidad.
+
+</td>
+</tr>
+
+
+<tr>
+  <td rowspan="3"><strong>Perfil de Producto</strong></td>
+  <td><strong>Productos & Servicios</strong></td>
+    <td align="justify">
+
+- Permite una visión completa de la maquinaria y su relación con la producción.
+- Facilita el seguimiento y análisis de cada intervención de mantenimiento.
+- Análisis de KPIs para el seguimiento de indicadores clave para la mejora continua del mantenimiento.
+
+</td>
+    <td align="justify">
+
+- Creación y gestión de listas de verificación personalizadas.​
+- Registro y seguimiento del estado de equipos y maquinaria.
+- Generación de informes en múltiples formatos, incluyendo PDF, Word y Excel.
+
+</td>
+    <td align="justify">
+
+- Programación automática de tareas, seguimiento de órdenes de trabajo y alertas.
+- Seguimiento en tiempo real, documentación centralizada y alertas de calibración.
+- Compras directas desde catálogos de proveedores.
+
+</td>
+    <td align="justify">
+
+- Mantenimiento Preventivo y Correctivo
+- Seguimiento en tiempo real, documentación centralizada y alertas de mantenimiento.
+- Supervisión de niveles de stock y pedidos de reabastecimiento.
+</td>
+</tr>
+
+<tr>
+  <td><strong>Precios & Costos</strong></td>
+    <td align="justify">
+        
+- <strong>Plan Gratuito:</strong> Incluye hasta 10 activos con mantenimiento básico y 1 perfil de administrador.
+
+- <strong>Plan Profesional:</strong> Incluye hasta 50 activos con mantenimiento preventivo y correctivo, y hasta 5 administradores.
+
+- <strong>Plan Enterprise:</strong> Activos y administradores ilimitados, con opciones de personalización adicionales.</td>
+
+<td align="justify">
+
+- <strong>Plan Gratuito:</strong> Hasta 10 usuarios.
+  
+- <strong>Plan Premium:</strong> $24 USD por usuario/mes.
+  
+- <strong>Plan Enterprise:</strong> Precios personalizados.
+  
+- <strong>Licencias Lite:</strong> $5 por usuario/mes.
+
+</td>
+    <td align="justify">
+
+- <strong>Suscripción Mensual:</strong> $400 USD.
+</td>
+    <td align="justify">
+        
+- <strong>Modelo de Suscripción:</strong>Precio personalizable.
+
+- <strong>Prueba Gratuita:</strong> Pequeñas demostraciones para testear el aplicativo.
+</td>
+</tr>
+
+<tr>
+  <td><strong>Canales de distribución (Web y/o Móvil)</strong></td>
+    <td align="justify">
+
+
+- Acceso desde navegadores para gestión completa.
+
+- Conexión con otras herramientas empresariales y sistemas mediante APIs.
+</td>
+    <td align="justify">
+
+- Aplicaciones móviles,  compatibles con iOS y Android.
+
+- Versión web.
+
+- Conexión con otras herramientas empresariales y sistemas mediante APIs y sensores IoT.
+
+</td>
+    <td align="justify">
+
+- Aplicaciones móviles,  compatibles con iOS y Android.
+
+- Versión web.
+
+- Compatibilidad con sistemas ERP y otros softwares empresariales.
+
+</td>
+    <td align="justify">
+
+- Aplicaciones móviles,  compatibles con iOS y Android.
+
+- Versión web.
+
+- Compatibilidad con sistemas ERP y otros softwares empresariales.
+</td>
+</tr>
+
+
+<tr>
+  <td rowspan="4"><strong>Análisis SWOT</strong></td>
+  <td><strong>Fortalezas</strong></td>
+    <td align="justify">
+
+- Cobertura completa de mantenimiento preventivo y correctivo.
+
+- El seguimiento detallado de KPIs facilita la toma de decisiones basada en datos.
+
+- La gestión de inventario integrada optimiza la disponibilidad de repuestos y materiales.
+</td>
+    <td align="justify">
+
+- Plataforma madura y consolidada.
+  
+- Presente en múltiples industrias y países.
+  
+- Interfaz fácil de usar y centrada en móviles.
+  
+- Versión gratuita funcional para pequeños equipos.
+  
+- Amplio catálogo de plantillas personalizables.
+  
+- Gestión de tareas y seguimiento en tiempo real.
+  
+- Capacidades de análisis (Analytics Dashboard).
+  
+- Integraciones y compatibilidad con sensores IoT.
+</td>
+    <td align="justify">
+
+- Combina CMMS, gestión de inventario y adquisiciones en una sola plataforma.
+
+- Aplicación móvil que opera sin conexión, ideal para entornos industriales.
+
+- Modelo de precios que permite acceso ilimitado, favoreciendo la colaboración
+
+</td>
+    <td align="justify">
+
+- Combina CMMS, gestión de inventario y adquisiciones en una sola plataforma.
+
+- Aplicación móvil que opera sin conexión, ideal para entornos industriales.
+
+- Modelo de precios que permite acceso ilimitado, favoreciendo la colaboración
+
+</td>
+</tr>
+
+<tr>
+  <td><strong>Debilidades</strong></td>
+    <td align="justify">
+
+- Al ser una startup, Mecanaut aún no cuenta con una presencia consolidada en el mercado.
+
+- La ausencia de aplicaciones móviles puede limitar el acceso en campo y la eficiencia operativa.
+
+</td>
+    <td align="justify">
+
+- No especializado 100% en mantenimiento industrial.
+
+- Menor profundidad técnica en KPIs de mantenimiento.
+
+</td>
+    <td align="justify">
+        
+- Sin Prueba Gratuita.
+
+- Altos precios de suscripción mensual.
+
+- Algunos usuarios reportan restricciones en la personalización de la plataforma.
+
+- La amplia gama de funcionalidades puede resultar abrumadora.
+
+</td>
+    <td align="justify">
+
+- Sin Prueba Gratuita.
+
+- Interfaz desactualizada y no intuitiva.
+</td>
+</tr>
+
+<tr>
+  <td><strong>Oportunidades</strong></td>
+    <td align="justify">
+
+- Crear aplicaciones para iOS y Android para mejorar el acceso y la eficiencia en campo.
+
+- Adaptar la plataforma para pequeñas y medianas empresas en crecimiento que requieren soluciones especializadas.
+
+- Países con industrias en desarrollo necesitan herramientas para optimizar el mantenimiento.
+</td>
+    <td align="justify">
+
+- Expansión en el sector industrial y manufactura pesada.
+
+- Expansión en mercados emergentes (LatAm, Sudeste Asiático).
+
+- Integración con ERPs o CMMS especializados.
+</td>
+    <td align="justify">
+
+        
+- Adaptar la plataforma para pequeñas y medianas empresas en crecimiento.
+
+- Integración con IoT.
+
+- Colaborar con proveedores de ERP y otros software empresariales para ampliar su ecosistema.
+
+</td>
+    <td align="justify">
+
+- Adaptar la plataforma para pequeñas y medianas empresas en crecimiento.​
+
+- Incorporar sensores y dispositivos inteligentes para mantenimiento predictivo.
+
+- Colaborar con proveedores de ERP y otros software empresariales para ampliar su ecosistema.
+</td>
+</tr>
+
+<tr>
+  <td><strong>Amenazas</strong></td>
+    <td align="justify">
+
+- Empresas con soluciones más establecidas y mayor cantidad de recursos pueden representar una amenaza para la adopción de Mecanaut.
+
+- Un ataque o fuga de información podría dañar la reputación del software.
+
+- Nuevas normativas en seguridad industrial podrían requerir ajustes costosos en el software.
+</td>
+    <td align="justify">
+
+- Competidores más especializados en mantenimiento industrial.
+
+- Presión de precios en mercados con software open-source o más accesible
+
+- Ciberseguridad y manejo de datos sensibles
+
+</td>
+    <td align="justify">
+
+- Sistemas CMMS enfocados exclusivamente en mantenimiento pueden ofrecer soluciones más profundas en ese ámbito.
+
+- Empresas más pequeñas pueden optar por soluciones más económicas o con modelos freemium.
+
+</td>
+    <td align="justify">
+
+- Competencia de soluciones especializadas y emergentes
+
+- La necesidad de mantenerse actualizado con las últimas tecnologías y tendencias del mercado.
+
+- En regiones con presupuestos más ajustados, las soluciones más económicas o freemium pueden ser una amenaza.
+</td>
+</tr>
+</table>
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+
+#### Estrategia 1: Posicionamiento como solución especializada para la industria manufacturera
+- <p align="justify">A diferencia de competidores generalistas o diseñados para múltiples sectores, Mecanaut apuesta por un enfoque claro: ser el sistema de mantenimiento pensado exclusivamente para empresas con operaciones industriales o logísticas intensivas, como el sector textil, agroindustrial o de transporte interprovincial. Esta especialización le permite ofrecer flujos más adaptados al uso real en planta, términos técnicos familiares para los encargados de mantenimiento y configuraciones específicas para distintos tipos de maquinaria. Esta ventaja le otorga cercanía funcional y técnica con los procesos reales de producción.
+</p>
+
+#### Estrategia 2: Diferenciación por simplicidad de uso y adopción inmediata
+- <p align="justify">Uno de los principales obstáculos para la digitalización del mantenimiento en empresas medianas es la complejidad y curva de aprendizaje de muchas soluciones. Mecanaut convierte esto en una ventaja competitiva al diseñar una interfaz intuitiva, con lenguaje claro y flujos guiados que permiten a los usuarios empezar a usar la plataforma desde el primer día. El objetivo es reducir el tiempo necesario para capacitar al equipo, evitar barreras técnicas, y facilitar la incorporación del software al día a día sin fricciones.
+</p>
+
+#### Estrategia 3: Aprovechamiento del vacío entre soluciones simples y complejas
+- <p align="justify">El análisis competitivo demuestra que existe un “espacio intermedio” poco atendido entre herramientas demasiado simples (que no cubren inventario ni KPIs) y herramientas demasiado complejas (difíciles de adoptar y costosas). Mecanaut se posiciona justamente en ese espacio, con una propuesta que combina profundidad funcional (MTBF, control de stock, órdenes planificadas) con facilidad de uso. Esto le permite responder a necesidades reales de mantenimiento sin exigir una infraestructura TI avanzada ni grandes inversiones.
+</p>
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas 
