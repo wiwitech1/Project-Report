@@ -527,6 +527,23 @@ de audiencia.</td>
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/ClaudiaBelledonne.jpg"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Claudia Belledonne - u202210259</strong></p>
+          <p align="justify">
+            Mi nombre es Claudia Belledonne, tengo 20 años y me encuentro en mi segundo año de Ingeniería de Software en la UPC.
+            En general, soy alguien creativa, responsable, dedicada y manejo bien el hacer muchas tareas a la vez.
+            Para este trabajo, me comprometo a brindar mi máximo esfuerzo y dedicación.
+          </p>
+    </td>
+  </tr>
+</table>
+
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process
