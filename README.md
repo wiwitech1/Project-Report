@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-    <strong>Startup: awawaTech</strong><br>
-    <strong>Producto: Mecanaut</strong>
+    <strong>Startup: wiwiTech</strong><br>
+    <strong>Producto: Mecanet</strong>
 </p>
 
 <div style="text-align:center;">
