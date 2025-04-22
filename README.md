@@ -4,7 +4,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software - 2025-1</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source- 4363</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source- 4304</strong><br>
     <strong>Profesor: Efraín Ricardo Bautista Ubillús</strong><br>
     <br><strong>Informe del Trabajo Final</strong>
 </p>
