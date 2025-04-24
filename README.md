@@ -548,13 +548,13 @@ de audiencia.</td>
   </tr>
   <tr>
     <td colspan="6" align="center">
-      ¿Qué ventajas competitivas puede desarrollar <strong>Mecanaut</strong> para diferenciarse en el mercado de software de mantenimiento frente a soluciones ya consolidadas?
+      ¿Qué ventajas competitivas puede desarrollar <strong>Mecanet</strong> para diferenciarse en el mercado de software de mantenimiento frente a soluciones ya consolidadas?
     </td>
   </tr>
   <tr>
     <th colspan="2"></th>
     <td align="center">
-      <img src="img/logos/mecanaut_logo.jpg" width="130"><br><strong>Mecanaut</strong>
+      <img src="img/logos/Mecanet_logo.jpg" width="130"><br><strong>Mecanet</strong>
     </td>
     <td align="center">
       <img src="https://safetyculture.com/_next/image/?url=https%3A%2F%2Fwp-website.safetyculture.com%2Fwp-content%2Fuploads%2Fsites%2F3%2F2023%2F11%2Fcropped-sc-icon-grey-213.png&w=1080&q=75" " width="100"><br><strong>SafetyCulture</strong>
@@ -570,7 +570,7 @@ de audiencia.</td>
  <tr>
   <td rowspan="2"><strong>Perfil</strong></td>
   <td><strong>Overview</strong></td>
-  <td align="justify">Mecanaut es una solución integral de software enfocada en la gestión del mantenimiento de maquinaria, abarcando mantenimiento preventivo y correctivo.</td>
+  <td align="justify">Mecanet es una solución integral de software enfocada en la gestión del mantenimiento de maquinaria, abarcando mantenimiento preventivo y correctivo.</td>
   <td align="justify">SafetyCulture es una plataforma colaborativa que permite realizar inspecciones digitales, gestionar activos, asignar tareas correctivas y generar informes personalizados.</td>
   <td align="justify">Tofino es una solución CMMS en la nube que integra mantenimiento, gestión de activos, inventario MRO y adquisiciones inteligentes, dirigida a empresas medianas y grandes en sectores como manufactura y distribución.</td>
   <td align="justify">ManagerPlus, ahora parte de Eptura Asset, es una solución CMMS en la nube que ayuda a gestionar activos, órdenes de trabajo, mantenimiento preventivo y seguimiento de inventario.</td>
@@ -625,7 +625,7 @@ de audiencia.</td>
   <td><strong>Estrategias de Marketing</strong></td>
     <td align="justify">
 
-- Mecanaut se posiciona como una solución especializada para industrias operativas, diferenciándose de competidores generalistas.
+- Mecanet se posiciona como una solución especializada para industrias operativas, diferenciándose de competidores generalistas.
 - La plataforma se destacará por su flexibilidad e intuitividad, eliminando fricciones y permitiendo que los clientes la usen desde el primer día.
 </td>
     <td align="justify">
@@ -807,7 +807,7 @@ de audiencia.</td>
   <td><strong>Debilidades</strong></td>
     <td align="justify">
 
-- Al ser una startup, Mecanaut aún no cuenta con una presencia consolidada en el mercado.
+- Al ser una startup, Mecanet aún no cuenta con una presencia consolidada en el mercado.
 
 - La ausencia de aplicaciones móviles puede limitar el acceso en campo y la eficiencia operativa.
 
@@ -880,7 +880,7 @@ de audiencia.</td>
   <td><strong>Amenazas</strong></td>
     <td align="justify">
 
-- Empresas con soluciones más establecidas y mayor cantidad de recursos pueden representar una amenaza para la adopción de Mecanaut.
+- Empresas con soluciones más establecidas y mayor cantidad de recursos pueden representar una amenaza para la adopción de Mecanet.
 
 - Un ataque o fuga de información podría dañar la reputación del software.
 
@@ -918,15 +918,15 @@ de audiencia.</td>
 
 
 #### Estrategia 1: Posicionamiento como solución especializada para la industria manufacturera
-- <p align="justify">A diferencia de competidores generalistas o diseñados para múltiples sectores, Mecanaut apuesta por un enfoque claro: ser el sistema de mantenimiento pensado exclusivamente para empresas con operaciones industriales o logísticas intensivas, como el sector textil, agroindustrial o de transporte interprovincial. Esta especialización le permite ofrecer flujos más adaptados al uso real en planta, términos técnicos familiares para los encargados de mantenimiento y configuraciones específicas para distintos tipos de maquinaria. Esta ventaja le otorga cercanía funcional y técnica con los procesos reales de producción.
+- <p align="justify">A diferencia de competidores generalistas o diseñados para múltiples sectores, Mecanet apuesta por un enfoque claro: ser el sistema de mantenimiento pensado exclusivamente para empresas con operaciones industriales o logísticas intensivas, como el sector textil, agroindustrial o de transporte interprovincial. Esta especialización le permite ofrecer flujos más adaptados al uso real en planta, términos técnicos familiares para los encargados de mantenimiento y configuraciones específicas para distintos tipos de maquinaria. Esta ventaja le otorga cercanía funcional y técnica con los procesos reales de producción.
 </p>
 
 #### Estrategia 2: Diferenciación por simplicidad de uso y adopción inmediata
-- <p align="justify">Uno de los principales obstáculos para la digitalización del mantenimiento en empresas medianas es la complejidad y curva de aprendizaje de muchas soluciones. Mecanaut convierte esto en una ventaja competitiva al diseñar una interfaz intuitiva, con lenguaje claro y flujos guiados que permiten a los usuarios empezar a usar la plataforma desde el primer día. El objetivo es reducir el tiempo necesario para capacitar al equipo, evitar barreras técnicas, y facilitar la incorporación del software al día a día sin fricciones.
+- <p align="justify">Uno de los principales obstáculos para la digitalización del mantenimiento en empresas medianas es la complejidad y curva de aprendizaje de muchas soluciones. Mecanet convierte esto en una ventaja competitiva al diseñar una interfaz intuitiva, con lenguaje claro y flujos guiados que permiten a los usuarios empezar a usar la plataforma desde el primer día. El objetivo es reducir el tiempo necesario para capacitar al equipo, evitar barreras técnicas, y facilitar la incorporación del software al día a día sin fricciones.
 </p>
 
 #### Estrategia 3: Aprovechamiento del vacío entre soluciones simples y complejas
-- <p align="justify">El análisis competitivo demuestra que existe un “espacio intermedio” poco atendido entre herramientas demasiado simples (que no cubren inventario ni KPIs) y herramientas demasiado complejas (difíciles de adoptar y costosas). Mecanaut se posiciona justamente en ese espacio, con una propuesta que combina profundidad funcional (MTBF, control de stock, órdenes planificadas) con facilidad de uso. Esto le permite responder a necesidades reales de mantenimiento sin exigir una infraestructura TI avanzada ni grandes inversiones.
+- <p align="justify">El análisis competitivo demuestra que existe un “espacio intermedio” poco atendido entre herramientas demasiado simples (que no cubren inventario ni KPIs) y herramientas demasiado complejas (difíciles de adoptar y costosas). Mecanet se posiciona justamente en ese espacio, con una propuesta que combina profundidad funcional (MTBF, control de stock, órdenes planificadas) con facilidad de uso. Esto le permite responder a necesidades reales de mantenimiento sin exigir una infraestructura TI avanzada ni grandes inversiones.
 </p>
 
 ## 2.2. Entrevistas
