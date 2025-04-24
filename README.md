@@ -547,6 +547,7 @@ de audiencia.</td>
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
 A continuación, se presentará los 2 user persona de acuerdo al segmento objetivo encontrado: <br/>
 **User persona #1:** <br/>
 ![User persona #1](img/Carlos-Mendoza-user-persona.png)
