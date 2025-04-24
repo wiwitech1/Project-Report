@@ -548,6 +548,29 @@ de audiencia.</td>
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
+
+**Segmento #1: Gerentes y Responsables de Producción** <br/>
+
+|Tarea|Frecuencia|Importancia|
+|-----|-----------|----------|
+|Supervisar el cumplimiento del plan de mantenimiento preventivo|Often|High|
+|Analizar indicadores de desempeño de equipos|Often|High|
+|Autorizar órdenes de trabajo y asignar recursos|Sometimes|High|
+|Generar reportes para auditorías o juntas directivas|Occasionally|Medium|
+|Aprobar solicitudes de compra de repuestos o servicios externos|Occasionally|Medium|
+|Definir estrategias para reducir costos operativos relacionados al mantenimiento|Sometimes|High|
+
+**Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
+
+|Tarea|Frecuencia|Importancia|
+|-------|---------|-----------|
+|Ejecutar tareas de mantenimiento preventivo y correctivo|Often|High|
+|Registrar incidencias, fallos y soluciones en el sistema|Often|High|
+|Consultar órdenes de trabajo y actualizar su estado|Often|Medium|
+|Solicitar repuestos o herramientas necesarias para una intervención|Sometimes|Medium|
+|Subir evidencia visual (fotos/videos) de tareas realizadas|Occasionally|Medium|
+|Recibir notificaciones de tareas asignadas o cambios en las órdenes de trabajo|Often|High|
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
