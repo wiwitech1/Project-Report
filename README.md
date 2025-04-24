@@ -559,6 +559,7 @@ de audiencia.</td>
 |Generar reportes para auditorías o juntas directivas|Occasionally|Medium|
 |Aprobar solicitudes de compra de repuestos o servicios externos|Occasionally|Medium|
 |Definir estrategias para reducir costos operativos relacionados al mantenimiento|Sometimes|High|
+<br/>
 
 **Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
 
