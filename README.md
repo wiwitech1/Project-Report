@@ -557,6 +557,617 @@ de audiencia.</td>
 
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+
+**ACA
+
+<table>
+    <tr>
+        <td>Story ID</td>
+        <td>Título</td>
+        <td>Descripción</td>
+        <td>Criterios de aceptación</td>
+        <td>Linked ID</td>
+    </tr>
+    <tr>
+  <td>US01</td>
+  <td>Registro de maquinarias</td>
+  <td align="justify">
+    Como administrador de mantenimiento, quiero registrar maquinarias en el sistema para llevar un control detallado de los equipos que operan en planta.
+  </td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Registro exitoso</strong><br>
+      Given que el administrador accede al sistema desde el módulo de gestión de activos,<br>
+      When completa todos los campos obligatorios del formulario de maquinaria (nombre, código, tipo, ubicación, estado, fabricante),<br>
+      Then el sistema guarda la maquinaria correctamente y muestra una notificación de éxito.</li>
+       <br>
+<li><strong>Escenario 2: Campos incompletos</strong><br>
+      Given que el administrador intenta registrar una maquinaria,<br>
+      When omite uno o más campos obligatorios,<br>
+      Then el sistema bloquea el registro y muestra un mensaje de error específico indicando qué campos faltan completar.</li>
+       <br>
+<li><strong>Escenario 3: Código duplicado</strong><br>
+      Given que ya existe una maquinaria registrada con un código único,<br>
+      When el administrador intenta registrar una nueva maquinaria con el mismo código,<br>
+      Then el sistema impide el registro y muestra una advertencia indicando la duplicidad del código.</li>
+    </ul>
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US02</td>
+  <td>Registro de líneas de producción</td>
+  <td align="justify">
+    Como administrador de mantenimiento, quiero registrar líneas de producción con prioridad asignada para poder planificar eficientemente las tareas de mantenimiento preventivo y correctivo.
+  </td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Registro exitoso</strong><br>
+      Given que el administrador accede al módulo de líneas de producción,<br>
+      When completa el formulario con el nombre, ubicación y selecciona una prioridad válida (Alta, Media, Baja),<br>
+      Then el sistema registra la línea correctamente y la muestra en la lista de líneas activas.</li>
+ <br>
+<li><strong>Escenario 2: Prioridad no asignada</strong><br>
+      Given que el administrador intenta registrar una nueva línea de producción,<br>
+      When omite seleccionar una prioridad,<br>
+      Then el sistema bloquea el registro y muestra un mensaje de error indicando que la prioridad es obligatoria.</li>
+    </ul>
+  </td>
+  <td>EP01</td>
+</tr>
+
+<tr>
+  <td>US03</td>
+  <td>Generación de órdenes de trabajo correctivas</td>
+  <td align="justify">
+    Como administrador de mantenimiento, quiero generar órdenes de trabajo correctivas para responder a mantenimientos inesperados y garantizar la continuidad operativa.
+  </td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Orden generada exitosamente</strong><br>
+      Given que un activo presenta una falla repentina,<br>
+      When el administrador accede al sistema y crea manualmente una orden de trabajo correctiva especificando la maquinaria, tipo de falla y urgencia,<br>
+      Then la orden queda registrada en el sistema, es visible en el calendario y notifica a los técnicos asignados.</li>
+ <br>
+<li><strong>Escenario 2: Error de duplicación</strong><br>
+      Given que ya existe una orden activa para el mismo activo y tipo de falla,<br>
+      When el administrador intenta generar otra orden igual,<br>
+      Then el sistema detecta la duplicidad, bloquea la acción y muestra un mensaje indicando que ya existe una orden similar en curso.</li>
+    </ul>
+  </td>
+  <td>EP02</td>
+</tr>
+
+<tr>
+  <td>US04</td>
+  <td>Asignación de personal técnico</td>
+  <td align="justify">
+    Como administrador de mantenimiento, quiero asignar técnicos a las órdenes de trabajo para asegurar que las tareas se ejecuten de manera efectiva y puntual.
+  </td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Asignación exitosa</strong><br>
+      Given que una orden de trabajo está activa y aún no tiene técnicos asignados,<br>
+      When el administrador selecciona uno o más técnicos disponibles y los asigna a la orden,<br>
+      Then el sistema actualiza la orden con los técnicos asignados y les notifica automáticamente.</li>
+ <br>
+<li><strong>Escenario 2: Técnicos no disponibles</strong><br>
+      Given que los técnicos seleccionados ya están asignados a otras órdenes en el mismo horario,<br>
+      When el administrador intenta asignarlos a una nueva orden,<br>
+      Then el sistema alerta sobre el conflicto de disponibilidad e impide la asignación hasta resolver el conflicto.</li>
+    </ul>
+  </td>
+  <td>EP02</td>
+</tr>
+
+
+<tr>
+  <td>US05</td>
+  <td>Supervisión del calendario de plan de mantenimiento</td>
+  <td align="justify">Como administrador de mantenimiento, quiero visualizar el calendario de los planes de mantenimiento para monitorear el avance y cumplimiento de las actividades programadas.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Visualización exitosa</strong><br>Given que el administrador accede al módulo de calendario, When se carga la vista mensual o semanal de los planes de mantenimiento, Then se muestran todas las órdenes planificadas con su estado actual: pendiente, en progreso o finalizada, diferenciadas visualmente con colores o íconos.</li> <br>
+      <li><strong>Escenario 2: Error de carga</strong><br>Given que ocurre una falla técnica en el sistema, When el administrador intenta cargar el calendario, Then el sistema muestra un mensaje informando la indisponibilidad temporal y sugiere intentar más tarde o contactar al soporte técnico.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+<tr>
+  <td>US06</td>
+  <td>Filtro de plan de mantenimiento</td>
+  <td align="justify">Como administrador del sistema, quiero filtrar los planes de mantenimiento por criterios como tipo de activo, fecha o estado para visualizar únicamente los planes relevantes y facilitar la gestión.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Filtrar planes de mantenimiento</strong><br>Given que el administrador se encuentra en la vista del calendario de mantenimiento, When selecciona un tipo de filtro (por ejemplo: activo = "Compresor", estado = "Pendiente", fecha = "Abril"), And aplica la búsqueda, Then el sistema muestra únicamente los planes de mantenimiento que coinciden con los criterios seleccionados.</li> <br>
+      <li><strong>Escenario 2: Filtro no válido</strong><br>Given que el administrador aplica un filtro con un valor que no tiene resultados asociados (por ejemplo, estado = "Cancelado" sin registros), When realiza la búsqueda, Then el sistema muestra un mensaje indicando que no se encontraron resultados para los criterios especificados.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+<tr>
+  <td>US07</td>
+  <td>Visualización de KPIs</td>
+  <td align="justify">Como administrador de mantenimiento, quiero acceder y analizar métricas clave como MTBF, MTTR y disponibilidad para evaluar el rendimiento del mantenimiento y tomar decisiones informadas.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Acceso a métricas</strong><br>Given que el administrador accede al módulo de KPIs desde el dashboard, When selecciona una métrica específica (por ejemplo, MTBF) y define un rango de fechas, Then el sistema carga un gráfico actualizado con los datos correspondientes y permite visualizar tendencias o comparativas.</li> <br>
+      <li><strong>Escenario 2: Filtro no válido</strong><br>Given que el administrador aplica un filtro con valores incorrectos o fuera de rango (por ejemplo, fecha futura sin registros), When solicita la visualización de una métrica, Then el sistema muestra un mensaje de error claro explicando que no hay datos disponibles o que el filtro es inválido.</li>
+    </ul>
+  </td>
+  <td>EP03</td>
+</tr>
+
+<tr>
+  <td>US08</td>
+  <td>Reporte de orden de trabajo</td>
+  <td align="justify">Como técnico de mantenimiento, quiero generar un reporte final de una orden de trabajo para dejar constancia de la intervención realizada.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Reporte exitoso</strong><br>Given que el técnico ha finalizado una orden de trabajo, When sube la evidencia (fotos, notas, checklist) correspondiente al reporte, Then el sistema registra correctamente el reporte y lo asocia a la orden finalizada.</li> <br>
+      <li><strong>Escenario 2: Formato de evidencia incorrecto</strong><br>Given que el técnico intenta subir un archivo como evidencia, When el archivo tiene un formato no permitido, Then el sistema rechaza el archivo y muestra un mensaje indicando los formatos válidos.</li>
+    </ul>
+  </td>
+  <td>EP04</td>
+</tr>
+
+<tr>
+  <td>US09</td>
+  <td>Implementación de plan de mantenimiento</td>
+  <td align="justify">Como administrador de mantenimiento, quiero crear un plan de mantenimiento para una línea de producción para programarlo en el calendario y organizar los recursos.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Agregación exitosa</strong><br>Given que el administrador accede al módulo de creación de planes, When completa los campos requeridos (línea, maquinaria, duración, fecha), Then el sistema agrega el plan al calendario y lo notifica a los técnicos asignados.</li> <br>
+      <li><strong>Escenario 2: Falla en la agregación</strong><br>Given que el administrador omite uno o más campos requeridos, When intenta guardar el plan, Then el sistema bloquea el envío y solicita completar los campos obligatorios.</li>
+    </ul>
+  </td>
+  <td>EP02</td>
+</tr>
+
+<tr>
+  <td>US10</td>
+  <td>Consulta de órdenes de trabajo diarias</td>
+  <td align="justify">Como técnico, quiero visualizar las órdenes de trabajo asignadas en el día para planificar mi jornada de manera eficiente.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Consulta correcta</strong><br>Given que el técnico accede al calendario, When selecciona un día específico, Then el sistema muestra un listado ordenado con las órdenes asignadas para ese día, incluyendo estado, prioridad y duración estimada.</li> <br>
+      <li><strong>Escenario 2: Sin tareas asignadas</strong><br>Given que el técnico no tiene tareas asignadas para ese día, When consulta el calendario, Then el sistema muestra un mensaje informando que no hay órdenes asignadas para la fecha seleccionada.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+<tr>
+  <td>US11</td>
+  <td>Solicitud de repuestos</td>
+  <td align="justify">Como técnico, quiero solicitar repuestos faltantes para poder completar una tarea de mantenimiento correctamente.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Solicitud correcta</strong><br>Given que una tarea está en ejecución, When el técnico detecta la falta de un repuesto, Then puede solicitar el material directamente desde la orden, y el sistema registra la solicitud en el módulo de inventario.</li> <br>
+      <li><strong>Escenario 2: Solicitud duplicada</strong><br>Given que ya existe una solicitud activa para el mismo repuesto, When el técnico intenta solicitarlo nuevamente, Then el sistema notifica que hay una solicitud pendiente y evita la duplicación.</li>
+    </ul>
+  </td>
+  <td>EP06</td>
+</tr>
+
+<tr>
+  <td>US12</td>
+  <td>Revisión de inventario</td>
+  <td align="justify">Como administrador, quiero consultar el inventario actualizado en tiempo real para verificar la disponibilidad de herramientas y materiales.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Revisión exitosa</strong><br>Given que el administrador accede al módulo de inventario, When consulta una herramienta o material, Then el sistema muestra el stock actualizado en tiempo real, incluyendo ubicación y estado.</li> <br>
+      <li><strong>Escenario 2: Error en la base de datos</strong><br>Given que ocurre una falla de conexión o error interno, When intenta revisar el inventario, Then el sistema muestra un mensaje de error indicando la falla y sugiere reintentar más tarde.</li>
+    </ul>
+  </td>
+  <td>EP06</td>
+</tr>
+
+<tr>
+  <td>US13</td>
+  <td>Sección de beneficios del sistema</td>
+  <td align="justify">Como usuario interesado, quiero conocer los beneficios del sistema para evaluar si se adapta a mis necesidades.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Acceso a sección</strong><br>Given que el visitante ingresa a la landing page, When accede a la sección de beneficios, Then visualiza una lista clara de beneficios organizados con íconos y descripciones breves.</li> <br>
+      <li><strong>Escenario 2: Error de carga</strong><br>Given que hay una interrupción de red, When accede a la sección, Then el sistema muestra un mensaje indicando que no se pudo cargar el contenido.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+
+<tr>
+  <td>US14</td>
+  <td>Sección precios del sitio web</td>
+  <td align="justify">Como usuario interesado, quiero conocer los planes de precios disponibles para seleccionar el que mejor se adapte a mis necesidades.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Visualización correcta de planes</strong><br>Given que el visitante está en la landing page, When accede a la sección de precios, Then visualiza los tres planes disponibles (gratuito, corporativo, profesional) con sus características destacadas.</li><br>
+      <li><strong>Escenario 2: Error de carga de planes</strong><br>Given que ocurre una falla técnica, When accede a la sección, Then el sistema muestra un mensaje indicando que no se pudieron cargar los planes.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+<tr>
+  <td>US15</td>
+  <td>Sección footer del sitio web</td>
+  <td align="justify">Como usuario interesado, quiero acceder a información útil en el footer del sitio para consultar contacto, políticas y otros enlaces relevantes.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Footer accesible</strong><br>Given que el visitante navega hasta el final de la página, When visualiza el footer, Then encuentra secciones organizadas como contacto, redes sociales, políticas de privacidad y enlaces rápidos.</li><br>
+      <li><strong>Escenario 2: Footer incompleto</strong><br>Given que hay un error de carga, When el visitante intenta ver el footer, Then solo se muestran algunas secciones o enlaces no funcionales.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+<tr>
+  <td>US16</td>
+  <td>Navegación en el sitio web</td>
+  <td align="justify">Como usuario interesado, quiero contar con una barra de navegación para explorar fácilmente las secciones del sitio.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Navegación funcional</strong><br>Given que el visitante accede al sitio web, When utiliza la barra de navegación, Then puede moverse entre las secciones del sitio sin errores ni recargas innecesarias.</li><br>
+      <li><strong>Escenario 2: Barra no visible</strong><br>Given que el sitio no carga correctamente, When intenta navegar, Then la barra no aparece y no puede cambiar de sección.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+<tr>
+  <td>US17</td>
+  <td>Sección dudas del sitio web</td>
+  <td align="justify">Como usuario interesado, quiero consultar preguntas frecuentes para resolver mis dudas rápidamente.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Acceso a preguntas frecuentes</strong><br>Given que el visitante accede a la landing page, When entra a la sección de dudas, Then visualiza una lista organizada de preguntas y respuestas comunes.</li><br>
+      <li><strong>Escenario 2: Error al cargar contenido</strong><br>Given que hay un problema de conexión, When accede a la sección, Then se muestra un mensaje indicando que el contenido no está disponible.</li>
+    </ul>
+  </td>
+  <td>EP08</td>
+</tr>
+
+<tr>
+  <td>US18</td>
+  <td>Registro de tareas realizadas</td>
+  <td align="justify">Como técnico, quiero marcar las tareas que ya completé para llevar un seguimiento claro de mi progreso.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Registro exitoso de tarea</strong><br>Given que el técnico está trabajando en una orden, When marca una tarea como realizada, Then el sistema actualiza el estado de la tarea en tiempo real y la refleja como completada.</li><br>
+      <li><strong>Escenario 2: Fallo al guardar tarea</strong><br>Given que hay una pérdida de conexión o error técnico, When intenta marcar una tarea como realizada, Then el sistema muestra un mensaje de error y permite reintentar más adelante.</li>
+    </ul>
+  </td>
+  <td>EP04</td>
+</tr>
+
+<tr>
+  <td>US19</td>
+  <td>Visualización de pantalla en dispositivos</td>
+  <td align="justify">Como usuario, quiero que el sitio se vea correctamente en cualquier dispositivo para poder navegar cómodamente sin perder funcionalidad.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Visualización correcta en móvil</strong><br>Given que el visitante accede desde un teléfono móvil, When navega por el sitio, Then el contenido se adapta correctamente al tamaño de la pantalla, manteniendo legibilidad y funcionalidad.</li><br>
+      <li><strong>Escenario 2: Fallo en el diseño responsive</strong><br>Given que accede desde un dispositivo con pantalla pequeña, When navega por el sitio, Then el contenido se desborda o aparece desordenado, y el sistema sugiere utilizar otro dispositivo o recargar.</li>
+    </ul>
+  </td>
+  <td>EP05</td>
+</tr>
+
+<tr>
+  <td>US20</td>
+  <td>Registro de cuenta</td>
+  <td align="justify">Como administrador, quiero registrar una cuenta con los datos de la empresa, tipo y contacto para poder empezar a usar el sistema.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Registro exitoso</strong><br>Given que accede al formulario de registro, When completa todos los campos requeridos, Then el sistema crea la cuenta, envía una confirmación al correo ingresado y redirige al login.</li><br>
+      <li><strong>Escenario 2: Campos incompletos</strong><br>Given que el administrador deja campos obligatorios vacíos, When intenta registrar la cuenta, Then el sistema muestra mensajes de error específicos y no permite continuar.</li>
+    </ul>
+  </td>
+  <td>EP09</td>
+</tr>
+
+<tr>
+  <td>US21</td>
+  <td>Registro de técnicos</td>
+  <td align="justify">Como administrador, quiero registrar técnicos con sus datos personales y de contacto para poder asignarles tareas de mantenimiento.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Técnico registrado correctamente</strong><br>Given que el administrador dispone de la información del técnico, When completa el formulario y lo envía, Then el sistema registra al técnico y lo muestra como disponible.</li><br>
+      <li><strong>Escenario 2: Error en el formulario</strong><br>Given que se ingresan datos inválidos (email mal escrito, teléfono incompleto), When se intenta guardar, Then el sistema muestra mensajes de error y no permite el registro hasta corregirlos.</li>
+    </ul>
+  </td>
+  <td>EP09</td>
+</tr>
+
+<tr>
+  <td>US22</td>
+  <td>Inicio de sesión</td>
+  <td align="justify">Como administrador o técnico, quiero iniciar sesión en el sistema para acceder a mis funcionalidades asignadas.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Inicio de sesión exitoso</strong><br>Given que el usuario tiene credenciales válidas, When las ingresa correctamente, Then accede a su panel correspondiente según su rol.</li><br>
+      <li><strong>Escenario 2: Error en las credenciales</strong><br>Given que el usuario escribe mal su usuario o contraseña, When intenta iniciar sesión, Then el sistema informa que las credenciales son inválidas y ofrece opción de recuperación.</li>
+    </ul>
+  </td>
+  <td>EP09</td>
+</tr>
+
+<tr>
+  <td>US23</td>
+  <td>Modificar plan de mantenimiento</td>
+  <td align="justify">Como administrador, quiero modificar un plan de mantenimiento ya registrado para ajustarlo a nuevas fechas o condiciones.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Modificación exitosa</strong><br>Given que accede al calendario, When edita un plan y guarda los cambios, Then el sistema actualiza la planificación y notifica a los técnicos involucrados.</li><br>
+      <li><strong>Escenario 2: Campos inválidos al modificar</strong><br>Given que se deja un campo obligatorio vacío durante la edición, When intenta guardar los cambios, Then el sistema muestra los errores y bloquea la acción.</li>
+    </ul>
+  </td>
+  <td>EP02</td>
+</tr>
+
+<tr>
+  <td>US24</td>
+  <td>Eliminar plan de mantenimiento</td>
+  <td align="justify">Como administrador, quiero eliminar planes que ya no se ejecutarán para mantener el calendario limpio y actualizado.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Eliminación exitosa</strong><br>Given que accede a un plan de mantenimiento, When lo elimina, Then el sistema borra el plan y actualiza las asignaciones.</li><br>
+      <li><strong>Escenario 2: Error al eliminar plan inexistente</strong><br>Given que el plan fue eliminado previamente, When intenta eliminarlo, Then el sistema informa que no se encuentra el plan.</li>
+    </ul>
+  </td>
+  <td>EP02</td>
+</tr>
+
+<tr>
+  <td>US25</td>
+  <td>Eliminar activo</td>
+  <td align="justify">Como administrador, quiero eliminar activos que ya no están en uso para mantener actualizada la base de datos del sistema.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Eliminación exitosa</strong><br>Given que accede al listado de activos, When selecciona uno y confirma su eliminación, Then el sistema elimina el activo y actualiza todos los registros relacionados.</li><br>
+      <li><strong>Escenario 2: Error por dependencias activas</strong><br>Given que el activo está asociado a órdenes activas, When intenta eliminarlo, Then el sistema bloquea la acción y muestra una advertencia.</li>
+    </ul>
+  </td>
+  <td>EP01</td>
+</tr>
+
+<tr>
+  <td>US26</td>
+  <td>Eliminar orden de trabajo repentina</td>
+  <td align="justify">Como administrador, quiero eliminar órdenes creadas por error para evitar confusión en el calendario.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Eliminación correcta</strong><br>Given que accede a una orden de trabajo, When la elimina, Then el sistema la retira del calendario y del historial.</li><br>
+      <li><strong>Escenario 2: Orden ya finalizada</strong><br>Given que la orden ya está marcada como completada, When intenta eliminarla, Then el sistema indica que no se pueden eliminar órdenes cerradas.</li>
+    </ul>
+  </td>
+  <td>EP02</td>
+</tr>
+
+<tr>
+  <td>US27</td>
+  <td>Visualización de perfil de administrador</td>
+  <td align="justify">Como administrador, quiero visualizar mi perfil para revisar y actualizar mi información.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Visualización exitosa del perfil</strong><br>Given que inicia sesión correctamente, When accede a su perfil, Then el sistema muestra sus datos personales y de cuenta.</li><br>
+      <li><strong>Escenario 2: Error al cargar perfil</strong><br>Given que hay una falla técnica, When intenta abrir su perfil, Then el sistema muestra un mensaje temporal de error.</li>
+    </ul>
+  </td>
+  <td>EP09</td>
+</tr>
+
+<tr>
+  <td>US28</td>
+  <td>Visualización de perfil de técnico</td>
+  <td align="justify">Como técnico, quiero visualizar mi perfil para conocer mis datos personales y tareas recientes.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Acceso exitoso al perfil</strong><br>Given que el técnico inicia sesión, When accede a su perfil, Then ve sus datos personales y el historial de tareas asignadas.</li><br>
+      <li><strong>Escenario 2: Perfil no encontrado</strong><br>Given que hay un error de base de datos, When intenta acceder a su perfil, Then el sistema informa que no se pudo cargar.</li>
+    </ul>
+  </td>
+  <td>EP09</td>
+</tr>
+
+<tr>
+  <td>US29</td>
+  <td>Eliminar técnico</td>
+  <td align="justify">Como administrador, quiero eliminar técnicos que ya no forman parte del equipo para mantener la base de datos limpia.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Eliminación correcta</strong><br>Given que accede al listado de técnicos, When elimina a uno sin tareas pendientes, Then el sistema actualiza la base de datos y lo retira de las listas.</li><br>
+      <li><strong>Escenario 2: Técnico con tareas pendientes</strong><br>Given que el técnico aún tiene tareas asignadas, When intenta eliminarlo, Then el sistema bloquea la acción e informa del conflicto.</li>
+    </ul>
+  </td>
+  <td>EP09</td>
+</tr>
+
+<tr>
+  <td>US30</td>
+  <td>Modificar perfil</td>
+  <td align="justify">Como usuario (técnico o administrador), quiero editar los datos de mi perfil para mantener mi información personal actualizada.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Modificación exitosa</strong><br>Given que accede a su perfil, When modifica sus datos y guarda los cambios, Then el sistema actualiza la información y confirma la operación.</li><br>
+      <li><strong>Escenario 2: Error en formato de datos</strong><br>Given que ingresa datos inválidos (correo mal escrito, teléfono incompleto), When intenta guardar, Then el sistema muestra errores específicos y bloquea la acción.</li>
+    </ul>
+  </td>
+  <td>EP09</td>
+</tr>
+
+<tr>
+  <td>US31</td>
+  <td>Actualización de inventario</td>
+  <td align="justify">Como administrador, quiero actualizar las cantidades en el inventario para mantener la información actualizada y confiable.</td>
+  <td align="justify">
+    <ul>
+      <li><strong>Escenario 1: Revisión de inventario</strong><br>Given que accede al módulo de inventario, When edita la cantidad de un material o herramienta, Then el sistema guarda los cambios y muestra un mensaje de confirmación.</li><br>
+      <li><strong>Escenario 2: Error en la base de datos</strong><br>Given que se intenta ingresar una cantidad negativa, When se guarda el valor, Then el sistema muestra un mensaje de error indicando que el número no es válido.</li>
+    </ul>
+  </td>
+  <td>EP06</td>
+</tr>
+
+</table>
+
+<br>
+### Epics:
+
+<table>
+    <tr>
+  <th>Epic ID</th>
+  <th>Título</th>
+  <th>Descripción</th>
+  <th>HUs asociadas</th>
+</tr>
+
+<tr>
+  <td>EP01</td>
+  <td>Registro y organización inicial</td>
+  <td align="justify">Como administrador, quiero registrar los elementos y categorías del sistema para organizar de manera estructurada la información base del mantenimiento.</td>
+  <td>US01, US02, US25</td>
+</tr>
+
+<tr>
+  <td>EP02</td>
+  <td>Gestión y planificación del plan de mantenimiento</td>
+  <td align="justify">Como administrador, quiero gestionar y planificar el plan de mantenimiento para asegurar que las tareas se ejecuten en tiempo y forma según lo programado.</td>
+  <td>US03, US04, US23, US24, US26</td>
+</tr>
+
+<tr>
+  <td>EP03</td>
+  <td>Métricas de desempeño</td>
+  <td align="justify">Como administrador, quiero visualizar indicadores clave del sistema para evaluar el rendimiento del equipo técnico y la eficiencia operativa.</td>
+  <td>US07</td>
+</tr>
+
+<tr>
+  <td>EP04</td>
+  <td>Ejecución técnica</td>
+  <td align="justify">Como técnico operativo, quiero recibir y completar las tareas de mantenimiento con claridad y respaldo para asegurar un trabajo eficiente y sin errores.</td>
+  <td>US08, US18</td>
+</tr>
+
+<tr>
+  <td>EP05</td>
+  <td>Responsive Design</td>
+  <td align="justify">Como usuario, quiero que la interfaz se adapte a cualquier dispositivo para navegar cómodamente desde móviles, tablets o PCs.</td>
+  <td>US19</td>
+</tr>
+
+<tr>
+  <td>EP06</td>
+  <td>Gestión de inventario</td>
+  <td align="justify">Como administrador o técnico, quiero revisar, actualizar y solicitar el inventario para asegurar la disponibilidad de insumos y mantener el control de materiales.</td>
+  <td>US11, US12, US31</td>
+</tr>
+
+<tr>
+  <td>EP07</td>
+  <td>Sitio web informativo</td>
+  <td align="justify">Como usuario interesado, quiero acceder a un sitio web con información clara del sistema para conocer su propuesta de valor.</td>
+  <td>US13, US14, US15, US16, US17</td>
+</tr>
+
+<tr>
+  <td>EP08</td>
+  <td>Monitoreo general del plan de mantenimiento</td>
+  <td align="justify">Como administrador o técnico, quiero acceder al estado general del plan de mantenimiento para supervisar su avance y cumplimiento.</td>
+  <td>US05, US06, US10</td>
+</tr>
+
+<tr>
+  <td>EP09</td>
+  <td>Gestión de cuentas e inicio de sesión</td>
+  <td align="justify">Como usuario (administrador o técnico), quiero registrarme, iniciar sesión y gestionar mi cuenta para acceder al sistema de manera segura y mantener mis datos actualizados.</td>
+  <td>US20, US21, US22, US27, US28, US29, US30</td>
+</tr>
+
+</table>
+<br>
+
+
+### Technical Stories:
+
+<table>
+    <table>
+  <tr>
+    <th>Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+  </tr>
+
+  <tr>
+    <td>TS01</td>
+    <td>Post Usuario</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero registrar un nuevo usuario mediante una API REST para que pueda autenticarse y utilizar las funcionalidades del sistema.</td>
+  </tr>
+
+  <tr>
+    <td>TS02</td>
+    <td>Get Usuario</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero obtener la información de un usuario mediante una API para mostrar sus datos personales y permisos en la interfaz del sistema.</td>
+  </tr>
+
+  <tr>
+    <td>TS03</td>
+    <td>Get Roles por Usuario</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero obtener los roles asignados a un usuario mediante una API para controlar su acceso a módulos y funcionalidades específicas.</td>
+  </tr>
+
+  <tr>
+    <td>TS04</td>
+    <td>Post Orden de Trabajo</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero registrar una nueva orden de trabajo mediante una API para llevar un seguimiento organizado de los mantenimientos realizados.</td>
+  </tr>
+
+  <tr>
+    <td>TS05</td>
+    <td>Get Órdenes de Trabajo</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero obtener las órdenes de trabajo existentes mediante una API para mostrar el historial y estado de cada tarea de mantenimiento.</td>
+  </tr>
+
+  <tr>
+    <td>TS06</td>
+    <td>Get Métricas de Mantenimiento</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero obtener las métricas generales de mantenimiento mediante una API para mostrar indicadores clave (como MTBF, MTTR) en el dashboard del sistema.</td>
+  </tr>
+
+  <tr>
+    <td>TS07</td>
+    <td>Post Inventory Item</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero registrar un nuevo ítem en el inventario mediante una API para mantener actualizado el stock de herramientas, repuestos y materiales.</td>
+  </tr>
+
+  <tr>
+    <td>TS08</td>
+    <td>Get Inventory Item</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero obtener los detalles de un ítem del inventario mediante una API para visualizar su disponibilidad, ubicación y cantidad actualizada.</td>
+  </tr>
+
+  <tr>
+    <td>TS09</td>
+    <td>Post Activo</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero registrar un nuevo activo (maquinaria, equipo) mediante una API para tenerlo disponible para programación de mantenimientos.</td>
+  </tr>
+
+  <tr>
+    <td>TS10</td>
+    <td>Get Activo</td>
+    <td align="justify">Como desarrollador que trabaja en la aplicación MecaNet, quiero obtener la información detallada de un activo mediante una API para mostrarla en el módulo de gestión de activos del sistema.</td>
+  </tr>
+</table>
+
+</table>
+
+<br>
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
