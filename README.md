@@ -533,6 +533,17 @@ de audiencia.</td>
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
+**Creemos que** la integración del control del mantenimiento mediante Mecanaut optimizará la eficiencia operativa y minimizará los tiempos de inactividad en las industrias.<br/>
+**Sabremos que hemos tenido éxito cuando** veamos una disminución del 30% en los paros no programados y un aumento del 25% en la puntualidad de los mantenimientos en los primeros 6 meses.<br/>
+
+**Creemos que** ofrecer alertas automáticas y programación inteligente optimizará la planificación del mantenimiento preventivo.<br/>
+**Sabremos que hemos tenido éxito cuando** el 80% de los usuarios técnicos activen las alertas automáticas y al menos el 60% de las tareas se programen con antelación en los primeros 3 meses.<br/>
+
+**Creemos que** integrar un sistema de gestión de repuestos reducirá los retrasos por falta de materiales.<br/>
+**Sabremos que hemos tenido éxito cuando** el tiempo promedio entre fallo y solución disminuya un 20%, y el 70% de los mantenimientos se realicen con repuestos disponibles al primer intento.<br/>
+
+**Creemos que** ofrecer una interfaz intuitiva mejorará la adopción por parte de técnicos con poca experiencia en software.<br/>
+**Sabremos que hemos tenido éxito cuando** al menos el 90% de los usuarios nuevos completen su primera orden de trabajo sin necesidad de asistencia en el primer mes.<br/>
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
 
