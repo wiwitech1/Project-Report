@@ -1171,6 +1171,43 @@ de audiencia.</td>
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
+<table>
+  <tr>
+    <th>#Orden</th>
+    <th>User Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Story Points</th>
+  </tr>
+
+  <tr><td>1</td><td>US01</td><td>Registro de maquinarias</td><td>Como administrador de mantenimiento, quiero registrar maquinarias en el sistema para llevar un control detallado de los equipos que operan en planta.</td><td>5</td></tr>
+  <tr><td>2</td><td>US02</td><td>Registro de líneas de producción</td><td>Como administrador de mantenimiento, quiero registrar líneas de producción con prioridad asignada para poder planificar eficientemente las tareas de mantenimiento preventivo y correctivo.</td><td>5</td></tr>
+  <tr><td>3</td><td>US03</td><td>Generación de órdenes de trabajo correctivas</td><td>Como administrador de mantenimiento, quiero generar órdenes de trabajo correctivas para responder a mantenimientos inesperados y garantizar la continuidad operativa.</td><td>8</td></tr>
+  <tr><td>4</td><td>US04</td><td>Asignación de personal técnico</td><td>Como administrador de mantenimiento, quiero asignar técnicos a las órdenes de trabajo para asegurar que las tareas se ejecuten de manera efectiva y puntual.</td><td>5</td></tr>
+  <tr><td>5</td><td>US05</td><td>Supervisión del calendario de plan de mantenimiento.</td><td>Como administrador de mantenimiento, quiero visualizar el calendario de los planes de mantenimiento para monitorear el avance y cumplimiento de las actividades programadas.</td><td>3</td></tr>
+  <tr><td>6</td><td>US06</td><td>Filtro de plan de mantenimiento</td><td>Como administrador del sistema, quiero filtrar los planes de mantenimiento por criterios como tipo de activo, fecha o estado para visualizar únicamente los planes relevantes y facilitar la gestión.</td><td>2</td></tr>
+  <tr><td>7</td><td>US07</td><td>Visualización de KPIs</td><td>Como administrador de mantenimiento, quiero acceder y analizar métricas clave como MTBF, MTTR y disponibilidad para evaluar el rendimiento del mantenimiento y tomar decisiones informadas.</td><td>2</td></tr>
+  <tr><td>8</td><td>US08</td><td>Reporte de orden de trabajo</td><td>Como técnico de mantenimiento, quiero generar un reporte final de una orden de trabajo para dejar constancia de la intervención realizada.</td><td>3</td></tr>
+  <tr><td>9</td><td>US09</td><td>Implementación de plan de trabajo</td><td>Como administrador de mantenimiento, quiero crear un plan de mantenimiento para una línea de producción para programarlo en el calendario y organizar los recursos.</td><td>8</td></tr>
+  <tr><td>10</td><td>US10</td><td>Consulta de órdenes de trabajo diarias</td><td>Como técnico, quiero visualizar las órdenes de trabajo asignadas en el día para planificar mi jornada de manera eficiente.</td><td>3</td></tr>
+  <tr><td>11</td><td>US11</td><td>Solicitud de repuestos</td><td>Como técnico, quiero solicitar repuestos faltantes para poder completar una tarea de mantenimiento correctamente.</td><td>2</td></tr>
+  <tr><td>12</td><td>US12</td><td>Revisión de inventario</td><td>Como administrador, quiero consultar el inventario actualizado en tiempo real para verificar la disponibilidad de herramientas y materiales.</td><td>2</td></tr>
+  <tr><td>13</td><td>US13</td><td>Sección de beneficios del sistema</td><td>Como usuario interesado, quiero conocer los beneficios del sistema para evaluar si se adapta a mis necesidades.</td><td>2</td></tr>
+  <tr><td>14</td><td>US14</td><td>Sección precios del sitio web</td><td>Como usuario interesado, quiero conocer los planes de precios disponibles para seleccionar el que mejor se adapte a mis necesidades.</td><td>5</td></tr>
+  <tr><td>15</td><td>US15</td><td>Sección footer del sitio web</td><td>Como usuario interesado, quiero acceder a información útil en el footer del sitio para consultar contacto, políticas y otros enlaces relevantes.</td><td>1</td></tr>
+  <tr><td>16</td><td>US16</td><td>Navegación del sitio web</td><td>Como usuario interesado, quiero contar con una barra de navegación para explorar fácilmente las secciones del sitio.</td><td>2</td></tr>
+  <tr><td>17</td><td>US17</td><td>Sección dudas del sitio web</td><td>Como usuario interesado, quiero consultar preguntas frecuentes para resolver mis dudas rápidamente.</td><td>1</td></tr>
+  <tr><td>18</td><td>US18</td><td>Registro de tareas realizadas</td><td>Como técnico, quiero marcar las tareas que ya completé para llevar un seguimiento claro de mi progreso.</td><td>5</td></tr>
+  <tr><td>19</td><td>US19</td><td>Visualización de pantalla en dispositivos</td><td>Como usuario, quiero que el sitio se vea correctamente en cualquier dispositivo para poder navegar cómodamente sin perder funcionalidad.</td><td>2</td></tr>
+  <tr><td>20</td><td>US20</td><td>Registro de cuenta</td><td>Como administrador, quiero registrar una cuenta con los datos de la empresa, tipo y contacto para poder empezar a usar el sistema.</td><td>3</td></tr>
+  <tr><td>21</td><td>US21</td><td>Registro de técnicos</td><td>Como administrador, quiero registrar técnicos con sus datos personales y de contacto para poder asignarles tareas de mantenimiento.</td><td>3</td></tr>
+  <tr><td>22</td><td>US22</td><td>Inicio de sesión</td><td>Como administrador o técnico, quiero iniciar sesión en el sistema para acceder a mis funcionalidades asignadas.</td><td>3</td></tr>
+  <tr><td>23</td><td>US23</td><td>Modificar plan de mantenimiento</td><td>Como administrador, quiero modificar un plan de mantenimiento ya registrado para ajustarlo a nuevas fechas o condiciones.</td><td>5</td></tr>
+  <tr><td>24</td><td>US24</td><td>Eliminar plan de mantenimiento</td><td>Como administrador, quiero eliminar planes que ya no se ejecutarán para mantener el calendario limpio y actualizado.</td><td>5</td></tr>
+  <tr><td>25</td><td>US25</td><td>Eliminar activo</td><td>Como administrador, quiero eliminar activos que ya no están en uso para mantener actualizada la base de datos del sistema.</td><td>5</td></tr>
+
+</table>
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
