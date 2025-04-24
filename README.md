@@ -547,9 +547,9 @@ Se dirige hacia un modelo de mantenimiento más eficiente, preventivo y basado e
 **¿Dónde surge el problema?** <br/>
 Surge dentro de las operaciones industriales que carecen de herramientas digitales específicas para la gestión de mantenimiento, lo que produce desorganización, pérdida de información histórica y decisiones basadas en intuición más que en datos. <br/>
 **Who** <br/>
-¿Quiénes están involucrados?** <br/>
+**¿Quiénes están involucrados?** <br/>
 Técnicos de mantenimiento, supervisores, ingenieros industriales, jefes de planta, operarios, responsables de inventario y directivos encargados de la eficiencia operativa. <br/>
-¿A quiénes les sucede el problema?** <br/>
+**¿A quiénes les sucede el problema?** <br/>
 Principalmente a los técnicos y supervisores encargados de ejecutar y planificar el mantenimiento, pero también afecta a los responsables de producción cuando una línea se detiene por una falla inesperada. <br/>
 **¿Quién lo utiliza?** <br/>
 Mecanet es utilizado por técnicos para registrar tareas y fallas, por supervisores para asignar mantenimientos y gestionar recursos, y por gerentes para monitorear indicadores como disponibilidad, tiempo medio entre fallos (MTBF), tiempo medio de reparación (MTTR), y cumplimiento de mantenimientos programados. <br/>
