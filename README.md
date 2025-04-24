@@ -600,7 +600,87 @@ de audiencia.</td>
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Planning Background</strong></th>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>22/04/2025</td>
+    </tr>
+     <tr>
+        <td>Time</td>
+        <td>10:00 AM</td>
+    </tr>
+     <tr>
+        <td>Location</td>
+        <td>Reunión virtual – Discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By</td>
+        <td>Claudia Belledonne</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning meeting)</td>
+        <td>
+
+- Ariana Cecilia Agreda Sobrino
+            
+- Claudia Valeria Belledonne Espinoza
+            
+- Mauricio Daniel Elera Rodríguez
+            
+- Jean Pool Huaman De La Cruz
+            
+- Britney Delhy Qqueso Rodriguez
+   </td>
+    </tr>
+    <tr>
+        <td>Sprint 1 – 1 Review Summary</td>
+        <td>No aplica al ser el primer sprint entregado</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 – 1 Retrospective Summary</td>
+        <td>No aplica al ser el primer sprint entregado</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+    </tr>
+    <tr>
+        <td>Sprint 1 Goal</td>
+        <td>
+<strong>Nuestra meta fue</strong> desplegar el landing page que presente claramente los beneficios, procesos y precios del sistema. 
+
+<strong>Creemos que</strong> esto genera comprensión y confianza en los clientes potenciales. 
+
+<strong>Esto se confirmará</strong> cuando los usuarios puedan acceder a la página de destino y navegar por todas las secciones informativas (beneficios, precios, preguntas frecuentes, pie de página, etc.) desde múltiples dispositivos.
+    </td>
+    </tr>
+     <tr>
+        <td>Sprint 1 Velocity  </td>
+        <td>13 Story Points.</td>
+    </tr>
+     <tr>
+        <td>Sum of Story Points  </td>
+        <td>13 Story Points.</td>
+    </tr>
+</table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+
+<table>
+<tr>
+    <td>Team Member (Last Name, First Name)</td>
+    <td>GitHub Username</td>
+    <td>Aspect Name 1 Leader (L) / Collaborator (C)</td>
+</tr>    
+</table>
+
 #### 5.2.1.3. Sprint Backlog n.
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
