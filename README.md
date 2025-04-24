@@ -531,42 +531,42 @@ de audiencia.</td>
 ### 1.2.1 Antecedentes y problemática
 **What** <br/>
 **¿Cuál es el problema?** <br/>
-En muchas plantas industriales y empresas manufactureras, el mantenimiento de maquinaria se gestiona de forma manual o con herramientas dispersas, lo que genera falta de control, retrasos en tareas críticas, paradas no programadas y altos costos operativos. La ausencia de un sistema integral que permita planificar, ejecutar y dar seguimiento a las intervenciones de mantenimiento preventivo y correctivo limita la eficiencia operativa y reduce la vida útil de los activos.
+En muchas plantas industriales y empresas manufactureras, el mantenimiento de maquinaria se gestiona de forma manual o con herramientas dispersas, lo que genera falta de control, retrasos en tareas críticas, paradas no programadas y altos costos operativos. La ausencia de un sistema integral que permita planificar, ejecutar y dar seguimiento a las intervenciones de mantenimiento preventivo y correctivo limita la eficiencia operativa y reduce la vida útil de los activos. <br/>
 **¿Cuál es la relación con la persona en cuestión?** <br/>
-El usuario, que puede ser un técnico, jefe de mantenimiento o supervisor de planta, se enfrenta diariamente al reto de mantener en óptimas condiciones las máquinas de producción. Mecanet nace como una plataforma que les permite digitalizar todo el ciclo del mantenimiento, desde la planificación hasta la ejecución, facilitando la trazabilidad, la gestión de repuestos, la asignación de recursos y la generación de reportes técnicos.
+El usuario, que puede ser un técnico, jefe de mantenimiento o supervisor de planta, se enfrenta diariamente al reto de mantener en óptimas condiciones las máquinas de producción. Mecanet nace como una plataforma que les permite digitalizar todo el ciclo del mantenimiento, desde la planificación hasta la ejecución, facilitando la trazabilidad, la gestión de repuestos, la asignación de recursos y la generación de reportes técnicos. <br/>
 **When** <br/>
 **¿Cuándo sucede el problema?** <br/>
-El problema ocurre de forma continua en las operaciones diarias, especialmente cuando se omiten mantenimientos por falta de registro o programación adecuada. Sucede cada vez que una máquina falla inesperadamente, cuando no se realiza mantenimiento preventivo a tiempo, o cuando no se tiene historial técnico disponible para tomar decisiones informadas.
+El problema ocurre de forma continua en las operaciones diarias, especialmente cuando se omiten mantenimientos por falta de registro o programación adecuada. Sucede cada vez que una máquina falla inesperadamente, cuando no se realiza mantenimiento preventivo a tiempo, o cuando no se tiene historial técnico disponible para tomar decisiones informadas. <br/>
 **¿Cuándo utiliza el cliente el producto?** <br/>
-El cliente utiliza Mecanet en diversas etapas del día: al inicio de su jornada para revisar tareas pendientes, durante la ejecución de mantenimientos, al gestionar inventario de repuestos o registrar fallos, y al final para analizar el estado de sus activos mediante reportes y métricas.
+El cliente utiliza Mecanet en diversas etapas del día: al inicio de su jornada para revisar tareas pendientes, durante la ejecución de mantenimientos, al gestionar inventario de repuestos o registrar fallos, y al final para analizar el estado de sus activos mediante reportes y métricas. <br/>
 **Where** <br/>
 **¿Dónde está el cliente cuando utiliza el producto?** <br/>
-El usuario se encuentra en el entorno industrial: plantas de producción, áreas técnicas, talleres o salas de control. Mecanet está diseñado para ser accesible tanto desde una computadora de escritorio como desde un dispositivo móvil o tablet industrial en el piso de producción.
+El usuario se encuentra en el entorno industrial: plantas de producción, áreas técnicas, talleres o salas de control. Mecanet está diseñado para ser accesible tanto desde una computadora de escritorio como desde un dispositivo móvil o tablet industrial en el piso de producción. <br/>
 **¿A dónde se dirige?** <br/>
-Se dirige hacia un modelo de mantenimiento más eficiente, preventivo y basado en datos, con reducción de tiempos de inactividad, optimización del uso de repuestos y mejora en la disponibilidad de los activos.
+Se dirige hacia un modelo de mantenimiento más eficiente, preventivo y basado en datos, con reducción de tiempos de inactividad, optimización del uso de repuestos y mejora en la disponibilidad de los activos. <br/>
 **¿Dónde surge el problema?** <br/>
-Surge dentro de las operaciones industriales que carecen de herramientas digitales específicas para la gestión de mantenimiento, lo que produce desorganización, pérdida de información histórica y decisiones basadas en intuición más que en datos.
+Surge dentro de las operaciones industriales que carecen de herramientas digitales específicas para la gestión de mantenimiento, lo que produce desorganización, pérdida de información histórica y decisiones basadas en intuición más que en datos. <br/>
 **Who** <br/>
 ¿Quiénes están involucrados?** <br/>
-Técnicos de mantenimiento, supervisores, ingenieros industriales, jefes de planta, operarios, responsables de inventario y directivos encargados de la eficiencia operativa.
+Técnicos de mantenimiento, supervisores, ingenieros industriales, jefes de planta, operarios, responsables de inventario y directivos encargados de la eficiencia operativa. <br/>
 ¿A quiénes les sucede el problema?** <br/>
-Principalmente a los técnicos y supervisores encargados de ejecutar y planificar el mantenimiento, pero también afecta a los responsables de producción cuando una línea se detiene por una falla inesperada.
+Principalmente a los técnicos y supervisores encargados de ejecutar y planificar el mantenimiento, pero también afecta a los responsables de producción cuando una línea se detiene por una falla inesperada. <br/>
 **¿Quién lo utiliza?** <br/>
-Mecanet es utilizado por técnicos para registrar tareas y fallas, por supervisores para asignar mantenimientos y gestionar recursos, y por gerentes para monitorear indicadores como disponibilidad, tiempo medio entre fallos (MTBF), tiempo medio de reparación (MTTR), y cumplimiento de mantenimientos programados.
+Mecanet es utilizado por técnicos para registrar tareas y fallas, por supervisores para asignar mantenimientos y gestionar recursos, y por gerentes para monitorear indicadores como disponibilidad, tiempo medio entre fallos (MTBF), tiempo medio de reparación (MTTR), y cumplimiento de mantenimientos programados. <br/>
 **Why** <br/>
 **¿Cuál es la causa del problema?** <br/>
-La raíz del problema está en la falta de digitalización y centralización de los procesos de mantenimiento. Muchas empresas todavía usan hojas de cálculo, libretas o múltiples herramientas desconectadas, lo que dificulta tener una visión clara, actualizada y confiable de los activos, sus mantenimientos y costos asociados.
+La raíz del problema está en la falta de digitalización y centralización de los procesos de mantenimiento. Muchas empresas todavía usan hojas de cálculo, libretas o múltiples herramientas desconectadas, lo que dificulta tener una visión clara, actualizada y confiable de los activos, sus mantenimientos y costos asociados. <br/>
 **How** <br/>
 **¿En qué condiciones nuestros clientes usan el producto?** <br/>
-En entornos exigentes donde la producción depende fuertemente del estado operativo de las máquinas. Se requiere un sistema confiable, rápido, adaptable y accesible desde distintos dispositivos. Mecanet se adapta tanto a infraestructuras grandes como pequeñas, y puede operar en la nube o en entornos locales con acceso restringido.
+En entornos exigentes donde la producción depende fuertemente del estado operativo de las máquinas. Se requiere un sistema confiable, rápido, adaptable y accesible desde distintos dispositivos. Mecanet se adapta tanto a infraestructuras grandes como pequeñas, y puede operar en la nube o en entornos locales con acceso restringido. <br/>
 **¿Cómo nos conocieron nuestros compradores?** <br/>
-A través de recomendaciones de otros profesionales del sector, ferias de tecnología industrial, demostraciones en planta, publicaciones técnicas y búsqueda activa de soluciones para la mejora del mantenimiento industrial.
+A través de recomendaciones de otros profesionales del sector, ferias de tecnología industrial, demostraciones en planta, publicaciones técnicas y búsqueda activa de soluciones para la mejora del mantenimiento industrial. <br/>
 **¿Cómo prefieren nuestros consumidores acceder a nuestro producto?** <br/>
-Prefieren una plataforma fácil de implementar, con una interfaz intuitiva, acceso desde dispositivos móviles y funcionalidades específicas para la gestión de mantenimiento industrial, incluyendo inventario, cronogramas, órdenes de trabajo y reportes técnicos.
+Prefieren una plataforma fácil de implementar, con una interfaz intuitiva, acceso desde dispositivos móviles y funcionalidades específicas para la gestión de mantenimiento industrial, incluyendo inventario, cronogramas, órdenes de trabajo y reportes técnicos. <br/>
 **¿Qué llevó a la persona a esa situación?** <br/>
-La necesidad de reducir fallas inesperadas, cumplir con normativas de calidad, asegurar la trazabilidad de las tareas, y optimizar la planificación de mantenimientos en un entorno de alta exigencia operativa y competencia.
+La necesidad de reducir fallas inesperadas, cumplir con normativas de calidad, asegurar la trazabilidad de las tareas, y optimizar la planificación de mantenimientos en un entorno de alta exigencia operativa y competencia. <br/>
 **How Much** <br/>
-El informe de McKinsey & Company (2021) sobre transformación digital en la industria destaca que el 70% de las empresas que adoptaron sistemas de mantenimiento inteligente lograron una mejora significativa en sus KPIs operativos. Por otro lado, se estima que más del 50% de las pequeñas y medianas industrias en Latinoamérica aún no utilizan un software especializado para la gestión del mantenimiento, lo que evidencia una gran oportunidad de impacto para herramientas como Mecanet.
+El informe de McKinsey & Company (2021) sobre transformación digital en la industria destaca que el 70% de las empresas que adoptaron sistemas de mantenimiento inteligente lograron una mejora significativa en sus KPIs operativos. Por otro lado, se estima que más del 50% de las pequeñas y medianas industrias en Latinoamérica aún no utilizan un software especializado para la gestión del mantenimiento, lo que evidencia una gran oportunidad de impacto para herramientas como Mecanet. <br/>
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
