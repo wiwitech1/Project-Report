@@ -547,6 +547,13 @@ de audiencia.</td>
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+A continuación, se presentará los 2 user persona de acuerdo al segmento objetivo encontrado: <br/>
+**User persona #1:** <br/>
+![User persona #1](img/Carlos-Mendoza-user-persona.png)
+
+**User persona #2:** <br/>
+![User persona #2:](img/Juan-Martínez-user-persona.png)
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
