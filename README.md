@@ -2846,15 +2846,85 @@ Diagrama de clases basado en bounded contexts
 #### 5.2.1.3. Sprint Backlog n.
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
+Durante este Sprint se logró implementar de forma completa la Landing Page del proyecto Macanet. Esta vista inicial permite a los usuarios conocer las funcionalidades clave del sistema, resolver dudas frecuentes y visualizar la propuesta de valor. Se trabajó en secciones como el header, sección de producto, sección de preguntas frecuentes (FAQ) y el footer, garantizando una navegación fluida y una presentación clara de los objetivos del producto.
 
-## 5.4. Video About-the-Product.
+A continuación, se presentan capturas de pantalla de las vistas desarrolladas:
+
+Inicio:
+![image](https://github.com/user-attachments/assets/5c2cf261-3f16-4870-9b86-4255fc1273fe)
+
+
+Producto:
+![image](https://github.com/user-attachments/assets/c4e2e6b6-4eda-43f4-877d-235b45d0707e)
+
+
+Beneficios:
+![image](https://github.com/user-attachments/assets/601c02a8-8321-4203-8f10-b33227eaacf6)
+
+
+Planes:
+![image](https://github.com/user-attachments/assets/285afcca-d0a0-4cc0-9be4-871073e31385)
+
+
+Faq:
+![image](https://github.com/user-attachments/assets/6748a8ff-a926-4459-9e98-445fa230d549)
+
+
+Footer:
+![image](https://github.com/user-attachments/assets/96a2bc59-16b1-462b-b05f-5e89e2b48acd)
+
+
+Video de Demostración e Implementación:
+[Ver video de Demostración e Implementación](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElEzvPegLThJuJq3nIyFwB0BASzKXkKKbALgeuaPbHs2-w?e=Og9J2a) 
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Durante este Sprint no se desarrollaron ni documentaron Web Services, ya que el objetivo principal fue la implementación de la Landing Page como primer entregable del sistema. Por ello, en esta fase del proyecto no se dispone de endpoints disponibles ni de documentación OpenAPI.
+
+La elaboración de la documentación de servicios está prevista para los próximos Sprints, cuando comience el desarrollo del backend y se defina la estructura inicial de la API que permitirá la integración con las vistas web implementadas.
+
+La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Durante este Sprint se logró exitosamente el despliegue de la Landing Page de la solución **SwiftPort** a través del servicio **Azure Static Web Apps**, en línea con el enfoque de entrega incremental del producto.
+
+## Actividades ejecutadas:
+- Se creó una cuenta en **Azure** y se configuró un **grupo de recursos compartido** para optimizar la gestión de los servicios asociados.
+- Se realizó el **despliegue** de la Landing Page desde su **repositorio de GitHub** mediante **Azure Static Web Apps**, habilitando así un flujo automatizado de publicación a través de **GitHub Actions**.
+- Se implementó y verificó el flujo de **CI/CD** (Integración y Entrega Continua), asegurando que cada **commit** realizado sobre la rama **main** actualice automáticamente la aplicación desplegada.
+- Se validó la **disponibilidad** y el **correcto funcionamiento** del producto accediendo al **dominio asignado por Azure**.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el desarrollo del Sprint, cada miembro del equipo participó activamente en la implementación de la **Landing Page**, dividiéndose por secciones según el diseño y el contenido definido previamente.
+
+A continuación, se detalla la participación específica de cada integrante del equipo:
+
+| **Nombre**                       | **Actividad** |
+| ---------------------------------|------------|
+| Agreda Sobrino, Ariana Cecilia   | Implementación de las secciones "Navbar" y "Hero" |
+| Belledone Espinoza, Claudia      | Implementación de las secciones "Products" y "Benefits" |
+| Elera Rodríguez, Mauricio Daniel | Implenmentación de las secciones "Benefits" e inicialización del setup |
+| Huamán , Jean                    | Implementación de la sección "Plans" y "FAQ" |
+| Queso, Britney                   | Implementación de la sección "Footer"  |
+
+> **Nota:** Algunos integrantes colaboraron en secciones compartidas para asegurar consistencia en diseño y funcionalidad.
+
+##### Evidencia de colaboración en GitHub
+
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
+
+![image](https://github.com/user-attachments/assets/fd3c9fe9-387c-4805-829d-5e394fc24a9a)
+
+![image](https://github.com/user-attachments/assets/1d6b12ba-76bb-4b65-a044-fca4b6676002)
+
+
+
+##### Repositorio de trabajo:
+
+- [Repositorio de la Landing Page en GitHub](https://github.com/wiwitech1/Project-Report)
+
+Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
