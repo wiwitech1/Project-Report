@@ -530,7 +530,7 @@ de audiencia.</td>
 <table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
   <tr>
     <td style="width: 150px; text-align: center;">
-      <img src="img/profile-photos/ariana.jpg"  width="520"></img>
+      <img src="img/profile-photos/ari.jpg"  width="520"></img>
     </td>
       <td>
           <p align="center"><strong>Ariana Agreda - u202315044</strong></p>
