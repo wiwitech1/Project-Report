@@ -1081,6 +1081,55 @@ Comprender su experiencia directa con las máquinas, cómo reportan fallas, qué
 13. Si pudieras contar con una herramienta como Mecanet para gestionar fallas, órdenes de trabajo y mantener un registro centralizado, ¿Qué características o funciones crees que serían más útiles para ti en el día a día?
 
 ### 2.2.2. Registro de entrevistas 
+## 2.2.2. Registro de entrevistas
+El registro de entrevistas es fundamental para recopilar la experiencia real de los técnicos y operarios en sus tareas de mantenimiento. Nos permite organizar y analizar mejor la información, identificar necesidades comunes y tomar decisiones basadas en lo que realmente viven los usuarios. Así, Mecanet puede adaptarse mejor a sus necesidades y aportar soluciones útiles.
+
+### Segmento 1: Administradores y Responsables de Producción
+
+#### Entrevista #1
+- **Nombre completo:** Grisel Arones  
+- **Edad:** 24 años  
+- **Cargo / Rol en la empresa:** Asistente de Logística y Planta  
+- **Enlace del video:** [https://youtu.be/3co_jPUM9lA](https://youtu.be/3co_jPUM9lA)  
+ <img src="img/segmento-objetivo/Grisel.jpg">
+
+#### Entrevista #2
+- **Nombre completo:** Arnold Vargas  
+- **Edad:** 31 años  
+- **Cargo / Rol en la empresa:** Administrador de mantenimiento  
+- **Enlace del video:** [https://youtu.be/tKjNAA7Iq4M](https://youtu.be/tKjNAA7Iq4M)  
+ <img src="img/segmento-objetivo/arnol.jpg">
+
+
+### Segmento 2: Técnicos y Operarios de Mantenimiento
+
+#### Entrevista #1
+- **Nombre completo:** Jhohan De la Cruz  
+- **Edad:** 23 años  
+- **Puesto o función que desempeñas:** Técnico de Diagnóstico y Reparación  
+- **Enlace del video:** [https://youtu.be/W0m4wlCXusY](https://youtu.be/W0m4wlCXusY)  
+ <img src="img/segmento-objetivo/jhohan.jpg ">
+
+#### Entrevista #2
+- **Nombre completo:** César Gallo  
+- **Edad:** 48 años  
+- **Puesto o función que desempeñas:** Soy conductor de camión volquete  
+- **Enlace del video:** [https://youtu.be/I830YHdAFo4](https://youtu.be/I830YHdAFo4)  
+ <img src="img/segmento-objetivo/cesar.jpg">
+
+#### Entrevista #3
+- **Nombre completo:** Luis Fernandez  
+- **Edad:** 25 años  
+- **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
+- **Enlace del video:** [https://youtu.be/eywWGijGBPM](https://youtu.be/eywWGijGBPM)  
+ <img src="img/segmento-objetivo/luis.jpg ">
+
+
+
+
+
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
