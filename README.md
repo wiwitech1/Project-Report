@@ -463,7 +463,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Durante TB1, colaboré activamente en la elaboración del Solution Profile, la identificación de la problemática y la aplicación del proceso Lean UX. Participé en la construcción del Lean UX Canvas, el desarrollo de los Hypothesis Statements y la organización de entrevistas. También apoyé en la creación de entregables como User Personas, Journey Mapping y Empathy Mapping.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -520,7 +520,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Mi participación contribuyó a un trabajo conjunto fluido, donde cada integrante aportó al desarrollo de los entregables, fortaleciendo la cooperación del equipo.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -582,7 +582,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Apoyé la definición de metas para la fase inicial, colaboré en la planificación de tareas y en la distribución del trabajo. Participé en la organización de entrevistas, mapeos y documentación, siempre promoviendo la participación equitativa.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -640,7 +640,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>El trabajo coordinado permitió avanzar de forma organizada, integrando aportes de todos los miembros y logrando los objetivos propuestos de la TB1.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
