@@ -843,43 +843,6 @@ de audiencia.</td>
 </tr>
 
 
-
-<tr>
-    <th rowspan="4">US16</th>
-    <th rowspan="4">Navegación del sitio web</th>
-    <td>12</td>
-    <td align="justify">Crear componente navbar</td>
-    <td align="justify">Generar el componente modular navbar para integrarlo en el layout general del sitio.</td>
-    <td>0.3 hr</td>
-    <td>e</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>13</td>
-    <td align="justify">Maquetar HTML del navbar con secciones y botones</td>
-    <td align="justify">Maquetar el logo, menú de navegación (Home, Producto, Beneficios, Planes, FAQ) y botones de sesión ("Iniciar sesión", "Crear cuenta").</td>
-    <td>1 hr</td>
-    <td>ea</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>14</td>
-    <td align="justify">Estilizar navbar según diseño con CSS</td>
-    <td align="justify">Aplicar estilos: tipografía, resaltado del ítem activo, separación de botones, borde suave, fondo translúcido con sombra sutil.</td>
-    <td>1 hr</td>
-    <td>ea</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>15</td>
-    <td align="justify">Agregar rutas funcionales a los botones</td>
-    <td align="justify">Vincular los ítems de navegación a sus rutas internas.</td>
-    <td>1 hr</td>
-    <td>ea</td>
-    <td>Done</td>
-</tr>
-
-
 <tr>
   <th rowspan="4">US15</th>
   <th rowspan="4">Sección footer del sitio web</th>
@@ -917,43 +880,27 @@ de audiencia.</td>
 
 
 <tr>
-  <th rowspan="5">US19</th>
-  <th rowspan="5">Visualización de pantalla en dispositivos</th>
+  <th rowspan="3">US32</th>
+  <th rowspan="3">Sección Hero del sitio web</th>
   <td>16</td>
-  <td align="justify">Implementar responsividad para BenefitsComponent</td>
-  <td align="justify">Asegurar adaptabilidad desde móviles hasta pantallas grandes.</td>
+  <td align="justify">Crear componente Hero</td>
+  <td align="justify">Generar el componente principal de bienvenida para la landing page.</td>
   <td>1 hr</td>
   <td></td>
   <td>Done</td>
 </tr>
 <tr>
   <td>17</td>
-  <td align="justify">Implementar responsividad para pricing-section</td>
-  <td align="justify">Implementar columnas en desktop y cards en columna en móviles entre otros.</td>
+  <td align="justify">Codificar estructura HTML del hero</td>
+  <td align="justify">Generar el componente principal de bienvenida para la landing page.</td>
   <td>1 hr</td>
   <td></td>
   <td>Done</td>
 </tr>
 <tr>
   <td>18</td>
-  <td align="justify">Implementar responsividad para faq-section</td>
-  <td align="justify">Asegurar adaptabilidad desde móviles hasta pantallas grandes. Evita desbordamientos y asegura buena legibilidad en pantallas pequeñas.</td>
-  <td>1 hr</td>
-  <td></td>
-  <td>Done</td>
-</tr>
-<tr>
-  <td>19</td>
-  <td align="justify">Adaptar navbar a vista responsive</td>
-  <td align="justify">En móviles, convertir el menú en un ícono tipo hamburguesa. Asegurar legibilidad y accesibilidad.</td>
-  <td>1 hr</td>
-  <td></td>
-  <td>Done</td>
-</tr>
-<tr>
-  <td>20</td>
-  <td align="justify">Responsividad del footer</td>
-  <td align="justify">Asegurar adaptabilidad desde móviles hasta pantallas grandes.</td>
+  <td align="justify">Estilizar fondo degradado, íconos y tipografía con CSS.</td>
+  <td align="justify">Aplicar estilos visuales como colores, fuentes e íconos para resaltar el impacto visual del hero.</td>
   <td>1 hr</td>
   <td></td>
   <td>Done</td>
