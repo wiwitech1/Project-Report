@@ -551,6 +551,51 @@ de audiencia.</td>
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
+En esta sección, se presenta el As-Is Scenario Mapping de los segmentos objetivo. Este mapeo nos permite identificar y comprender a fondo los puntos de contacto que tiene el usuario a lo largo de su interacción.
+
+**Segmento #1: Administradores y Responsables de Producción** <br/>
+
+**Brainstorm individually:** <br/>
+![Brainstorm individually 1](img/As-is-Scenario-Mapping-1.1.jpg) <br/>
+
+**Identify the highs and lows:** <br/>
+![Identify the highs and lows 1](img/As-is-Scenario-Mapping-1.1.jpg) <br/>
+
+**Áreas Positivas:** <br/>
+- Muestra interés activo por implementar soluciones tecnológicas para optimizar procesos.
+- Ve el valor de una solución centralizada para el seguimiento del mantenimiento.
+
+**Áreas Negativas:** <br/>
+- Experimenta frustración al comparar opciones sin poder validar cuál se adapta mejor a sus necesidades reales.
+- No tiene visibilidad del impacto concreto que tiene el software en el trabajo diario de su equipo.
+
+**Blank Areas (Áreas que requieren aprender más):** <br/>
+- Cómo recopila la información técnica y operativa para tomar decisiones.
+- Cómo se comunica actualmente con los técnicos de mantenimiento para monitorear avances o problemas.
+- Qué tan involucrado está en el seguimiento post-implementación de herramientas digitales.
+
+
+**Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
+
+**Brainstorm individually:** <br/>
+![Brainstorm individually 2](img/As-is-Scenario-Mapping-2.1.jpg) <br/>
+
+**Identify the highs and lows:** <br/>
+![Identify the highs and lows 2](img/As-is-Scenario-Mapping-2.2.jpg) <br/>
+
+**Áreas Positivas:** <br/>
+- Tiene disposición a usar herramientas tecnológicas si estas le facilitan el trabajo y ahorran tiempo.
+- Sabe resolver problemas técnicos bajo presión, incluso con recursos limitados.
+
+**Áreas Negativas:** <br/>
+- Se frustra al recibir tareas de manera informal y sin instrucciones claras.
+- Tiene dificultades para registrar de manera organizada el trabajo que realiza.
+
+**Blank Areas (Áreas que requieren aprender más):** <br/>
+- Cómo realiza el diagnóstico de fallas antes de ejecutar un mantenimiento.
+- Cómo se coordina con sus superiores y otros departamentos.
+- Qué espera exactamente de una herramienta digital en su día a día (usabilidad, funciones, soporte, etc.).
+
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
