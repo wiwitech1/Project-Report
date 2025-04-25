@@ -533,7 +533,7 @@ de audiencia.</td>
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
-**Creemos que** la integración del control del mantenimiento mediante Mecanaut optimizará la eficiencia operativa y minimizará los tiempos de inactividad en las industrias.<br/>
+**Creemos que** la integración del control del mantenimiento mediante Mecanet optimizará la eficiencia operativa y minimizará los tiempos de inactividad en las industrias.<br/>
 **Sabremos que hemos tenido éxito cuando** veamos una disminución del 30% en los paros no programados y un aumento del 25% en la puntualidad de los mantenimientos en los primeros 6 meses.<br/>
 
 **Creemos que** ofrecer alertas automáticas y programación inteligente optimizará la planificación del mantenimiento preventivo.<br/>
