@@ -1420,6 +1420,15 @@ A continuación, se presentará los 2 user persona de acuerdo al segmento objeti
 |Recibir notificaciones de tareas asignadas o cambios en las órdenes de trabajo|Often|High|
 
 ### 2.3.3. User Journey Mapping
+**Segmento #1: Administradores y Responsables de Producción** <br/>
+
+![Segmento #1: Administradores y Responsables de Producción](img/Customer-journey-map-1.1.png)
+<br/>
+
+**Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
+
+![Segmento #2: Técnicos y Operarios de Mantenimiento](img/Customer-journey-map-2.png)
+
 ### 2.3.4. Empathy Mapping
 A continuación, se mostrarán los Empathy Mapping creados para cada perfil de usuario identificado en nuestros dos segmentos objetivo. Estos mapas nos ayudarán a comprender mejor a nuestros clientes y, así, optimizar la aplicación. <br/>
 
