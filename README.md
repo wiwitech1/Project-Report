@@ -532,6 +532,32 @@ de audiencia.</td>
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
+**User Assumptions** <br/>
+
+**¿Quién es mi usuario?** <br/>
+Nuestros usuarios son técnicos de mantenimiento, jefes de planta, supervisores industriales y responsables de inventario que necesitan controlar el estado operativo de las máquinas y ejecutar mantenimientos con eficacia. <br/>
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?** <br/>
+Mecanaut se integra directamente en la rutina diaria de trabajo industrial: planificación de tareas, ejecución de mantenimientos, gestión de inventario y análisis de reportes operativos. <br/>
+
+**¿Qué problemas tiene nuestro producto que resolver?** <br/>
+El descontrol en los mantenimientos, la falta de trazabilidad de órdenes de trabajo, la ausencia de alertas para mantenimientos preventivos, y la gestión manual del inventario de repuestos. <br/>
+
+**¿Cuándo y cómo es usado nuestro producto?** <br/>
+Se usa al inicio de la jornada para revisar tareas asignadas, durante el día para registrar mantenimientos y repuestos utilizados, y al cierre de turnos para reportar avances o fallas detectadas. <br/>
+
+**¿Qué características son importantes?** <br/>
+Gestión de órdenes de servicio, agenda de citas, control de inventario de repuestos, historial de mantenimiento por vehículo, notificaciones automáticas, generación de presupuestos, seguimiento del progreso de trabajos y reportes de desempeño del taller. <br/>
+
+**¿Cómo debe verse nuestro producto y cómo debe comportarse?** <br/>
+Debe tener un diseño limpio y profesional, con navegación clara y flujos rápidos. Debe permitir operar fácilmente desde computadoras o dispositivos móviles, ofrecer acceso rápido a información clave y simplificar la digitalización de procesos técnicos. <br/>
+
+**Business Assumptions** <br/>
+
+Creemos que las empresas industriales necesitan una plataforma centralizada y fácil de usar para gestionar el mantenimiento de sus máquinas de forma eficiente. Mecanaut resolverá esta necesidad conectando activos, tareas, repuestos y personal técnico en una sola herramienta, mejorando así la planificación, ejecución y seguimiento de los mantenimientos. <br/>
+
+Nuestros primeros clientes serán medianas y grandes industrias que aún utilizan métodos manuales y buscan digitalizar sus procesos para reducir paros no programados y mejorar la productividad. Les ofreceremos una solución con precios escalables y accesibles, soporte técnico y capacitación especializada. <br/>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
