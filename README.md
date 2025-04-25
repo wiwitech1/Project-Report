@@ -1154,6 +1154,17 @@ Se espera que Mecanet tenga monitoreo en tiempo real, alertas automáticas y un 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+A continuación, se presentará los 2 user persona de acuerdo al segmento objetivo encontrado: <br/>
+
+**User persona #1: Administradores y Responsables de Producción** <br/>
+
+![User persona #1](img/Carlos-Mendoza-user-persona1.png)
+
+**User persona #2: Técnicos y Operarios de Mantenimiento** <br/>
+
+![User persona #2:](img/Juan-Martínez-user-persona.png)
+
 ### 2.3.2. User Task Matrix
 
 **Segmento #1: Administradores y Responsables de Producción** <br/>
