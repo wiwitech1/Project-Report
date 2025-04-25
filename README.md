@@ -605,7 +605,7 @@ El siguiente diagrama presenta en una sola vista el sistema SwiftPort, sus actor
 El C2 hace “zoom” dentro del sistema y destaca los contenedores lógicos. Para mostrar cómo se aplica DDD, se representan seis contenedores en forma de hexágono —los bounded contexts— dentro del monolito API Application.
 
 <div>
-  <p align="center"><img src="img/ddd/c2-png" alt="c2: Containers Diagram.png" width="700px" /></p>
+  <p align="center"><img src="img/ddd/c2.png" alt="c2: Containers Diagram.png" width="700px" /></p>
 </div>
 
 ### 4.6.3. Software Architecture Components Diagrams
