@@ -1,4 +1,4 @@
-![ordentrabajo1](https://github.com/user-attachments/assets/4da267cf-96fd-4487-bda2-6e6e8db41960)# <center>Project Report</center>
+# <center>Project Report</center>
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
