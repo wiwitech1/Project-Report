@@ -593,7 +593,7 @@ Heurísticas aplicadas
     <li>Consistencia y estándares. Distribución clásica de landing empresarial; reduce curva de aprendizaje.</li>
     <li>Reconocimiento antes que recuerdo. Iconos y rótulos intuitivos evitan búsquedas innecesarias.</li>
 </ul>
-<img scr="img/landing-page/landing-page-wireframe.jpg">
+<img src="img/landing-page/landing-page-wireframe.jpg">
 
 ### 4.3.2. Landing Page Mock-up.
 
@@ -620,8 +620,8 @@ Heurísticas aplicadas
     <li>Reconocimiento antes que recuerdo. Iconos de llave inglesa, cronómetro o calendario ayudan a identificar secciones de un vistazo.</li>
 </ul>
 
-<img scr="img/landing-page/landing-page-es.jpg"/>
-<img scr="img/landing-page/landing-page-en.jpg"/>
+<img src="img/landing-page/landing-page-es.jpg"/>
+<img src="img/landing-page/landing-page-en.jpg"/>
 
 
 
