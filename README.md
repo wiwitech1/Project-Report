@@ -552,6 +552,36 @@ de audiencia.</td>
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
+Este glosario define los términos esenciales de nuestro sistema de gestión de mantenimiento industrial. Su objetivo es unificar el lenguaje técnico entre el equipo y los colaboradores, evitando confusiones y garantizando una comunicación clara durante el diseño, la construcción y la validación de nuestra solución. <br/>
+
+
+|Término|Definición|
+|-------|-----------|
+|Orden de Trabajo|
+Instrucción formal que detalla una tarea de mantenimiento a realizar, asignando responsables, fechas y recursos necesarios.|
+|Equipo Crítico|	
+Maquinaria o sistema cuya falla puede detener la producción o causar pérdidas significativas. Tiene prioridad en las tareas de mantenimiento.|
+|Plan de Mantenimiento|
+Programa que define las tareas preventivas y correctivas que deben ejecutarse en un periodo determinado para garantizar el funcionamiento de los equipos.|
+|Incidencia|
+Evento inesperado que afecta el funcionamiento normal de un equipo y requiere atención inmediata o correctiva.|
+|Técnico de Mantenimiento|
+Usuario operativo responsable de ejecutar tareas de mantenimiento y registrar información sobre el estado de los equipos.|
+|Gerente de Mantenimiento|
+Usuario estratégico que supervisa el plan de mantenimiento, evalúa indicadores de rendimiento y toma decisiones de optimización.|
+|Historial de Mantenimiento|
+Registro cronológico de todas las intervenciones realizadas sobre un equipo, incluyendo fechas, responsables, fallas detectadas y repuestos utilizados.|
+|Notificación de Tarea|
+Alerta enviada al técnico o supervisor para informar sobre una nueva tarea asignada o cambios en una orden de trabajo existente.|
+|Repuesto|
+Componente o pieza de recambio utilizada para reparar o mantener el funcionamiento de los equipos.|
+|Mantenimiento Preventivo|
+Intervención programada que busca evitar fallas mediante inspecciones, ajustes o reemplazos planificados.|
+|Mantenimiento Correctivo|
+Intervención realizada como respuesta a una falla ya ocurrida, con el objetivo de restaurar el funcionamiento del equipo.|
+|Indicador de Rendimiento|
+Métrica utilizada para evaluar la efectividad de la gestión del mantenimiento, como MTTR (Tiempo Medio de Reparación) o MTBF (Tiempo Medio entre Fallas).|
+
 
 # Capítulo III: Requirements Specification
 
