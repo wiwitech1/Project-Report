@@ -602,9 +602,6 @@ En esta sección, se presenta el As-Is Scenario Mapping de los segmentos objetiv
 
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
-
-**ACA
-
 <table>
     <tr>
         <td>Story ID</td>
