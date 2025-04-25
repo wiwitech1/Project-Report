@@ -597,7 +597,7 @@ En SwiftPort, esta filosofía permite separar responsabilidades (autenticación,
 El siguiente diagrama presenta en una sola vista el sistema SwiftPort, sus actores principales y los sistemas externos con los que se comunica:
 
 <div>
-  <p align="center"><img src="" alt="c1: System Context.png" width="700px" /></p>
+  <p align="center"><img src="img/ddd/c1.png" alt="c1: System Context.png" width="700px" /></p>
 </div>
 
 ### 4.6.2. Software Architecture Container Diagrams
@@ -605,7 +605,7 @@ El siguiente diagrama presenta en una sola vista el sistema SwiftPort, sus actor
 El C2 hace “zoom” dentro del sistema y destaca los contenedores lógicos. Para mostrar cómo se aplica DDD, se representan seis contenedores en forma de hexágono —los bounded contexts— dentro del monolito API Application.
 
 <div>
-  <p align="center"><img src="" alt="c2: Containers Diagram.png" width="700px" /></p>
+  <p align="center"><img src="img/ddd/c2-png" alt="c2: Containers Diagram.png" width="700px" /></p>
 </div>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -614,32 +614,32 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
 
 * Work Order Context:  
   <div>
-    <p align="center"><img src="" alt="c3: Work Order Context Components.png" width="700px" /></p>
+    <p align="center"><img src="img/ddd/workorder.png" alt="c3: Work Order Context Components.png" width="700px" /></p>
   </div>
 
 * Asset Management Context:  
   <div>
-    <p align="center"><img src="" alt="c3:Asset Management Context Components.png" width="700px" /></p>
+    <p align="center"><img src="img/ddd/assets-manangment.png" alt="c3:Asset Management Context Components.png" width="700px" /></p>
   </div>
 
 * Maintance Planning Context:  
   <div>
-    <p align="center"><img src="" alt="c3: Maintance Planning Context.png" width="700px" /></p>
+    <p align="center"><img src="img/ddd/maintenence.png" alt="c3: Maintance Planning Context.png" width="700px" /></p>
   </div>
 
 * Predictive Analysis Context:  
   <div>
-    <p align="center"><img src="" alt="c3:  Predictive Analysis Context" width="700px" /></p>
+    <p align="center"><img src="img/ddd/predicte.png" alt="c3:  Predictive Analysis Context" width="700px" /></p>
   </div>
 
 * Notificaction Context:  
   <div>
-    <p align="center"><img src="" alt="c3: Notificaction Context" width="700px" /></p>
+    <p align="center"><img src="img/ddd/notifici.png" alt="c3: Notificaction Context" width="700px" /></p>
   </div>
 
 * Billing Context:  
   <div>
-    <p align="center"><img src="" alt="c3: Billing Context Components.png" width="700px" /></p>
+    <p align="center"><img src="img/ddd/billing.png" alt="c3: Billing Context Components.png" width="700px" /></p>
   </div>
 
 
