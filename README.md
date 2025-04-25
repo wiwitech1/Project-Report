@@ -2498,10 +2498,131 @@ Heurísticas aplicadas
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+![iniciarsesion](https://github.com/user-attachments/assets/a75c86c9-4509-494e-92e8-db290cbf5ce6)
+![crearcuenta](https://github.com/user-attachments/assets/27659bde-0155-40be-9829-04870054bde1)
+![inicio](https://github.com/user-attachments/assets/c7a5be58-6c95-4b68-a52a-6c243bdc1c50)
+![dashboard](https://github.com/user-attachments/assets/1d12c00a-949d-48cc-8711-13e17bd4b73a)
+![personal1](https://github.com/user-attachments/assets/30629a90-f9a8-4738-a2a6-e8073645bd97)
+![personalformu](https://github.com/user-attachments/assets/25d064a3-37bb-474f-8a29-64c69246ba23)
+![rep](https://github.com/user-attachments/assets/987c90be-c165-4529-aa86-e0a00d1ac2be)
+![repform](https://github.com/user-attachments/assets/1b2e236a-a77b-4c8c-8ca8-d31cfd0724f3)
+![calendario1](https://github.com/user-attachments/assets/90328c75-3a8d-4930-8723-fd8a62b53b5a)
+![calendario2](https://github.com/user-attachments/assets/ea59bc2f-46d0-4ae6-828a-a021b3a73281)
+![compra1](https://github.com/user-attachments/assets/4c229846-9a90-4586-ac23-5ec43ebd006d)
+![compraform](https://github.com/user-attachments/assets/07b29bcb-a837-40e0-ac73-828531092237)
+![configuracion1](https://github.com/user-attachments/assets/8fd90008-8e83-4759-86f8-8acf597d59e7)
+![configuracion2](https://github.com/user-attachments/assets/f76c6bb9-4224-4ab5-a486-954902c0a0ae)
+![configuracion3](https://github.com/user-attachments/assets/fe0de7af-85ae-4ad5-9c4f-ffb49ff30885)
+![ejec](https://github.com/user-attachments/assets/5af64c7c-d1ec-4f06-91d7-b94d553e5078)
+![linea](https://github.com/user-attachments/assets/fc0076a7-bd08-4fda-91d6-bca9381f9efc)
+![lineaform](https://github.com/user-attachments/assets/b255eaf3-0763-4c72-b1f1-5e29e105f642)
+![maquina1](https://github.com/user-attachments/assets/0255f8d6-f421-4a18-b84c-ce2fd5dfa2b1)
+![maquinaform](https://github.com/user-attachments/assets/68c9804f-dd7d-46b0-b673-a158a7648ff6)
+![ordentrabajo](https://github.com/user-attachments/assets/28be4adb-d0dd-47f9-b35d-b7eb0ccc391e)
+![ordentrabajo1](https://github.com/user-attachments/assets/c5a91fde-4171-41d9-842d-72dd741f60df)
+![planmantenimiento](https://github.com/user-attachments/assets/8aed9e79-55de-43a2-996a-96137f7de696)
+![planmantenimiento-d](https://github.com/user-attachments/assets/09bafb47-c4c3-4248-8e60-ba82f1cd6367)
+![planmantenimiento-e1](https://github.com/user-attachments/assets/29549a4b-ceea-45a9-a453-dd5e4f464a80)
+![planmantenimiento-e2](https://github.com/user-attachments/assets/8398ed3b-f8c5-422f-8ef2-ee6df43c0ba7)
+
+https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=441-377&t=jNJo4wjbluVyQsOh-1
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+User Goal: “Crear cuenta corporativa”
+User persona: Empresas — Administrador
+“Como administrador de la empresa, quiero crear una cuenta corporativa para empezar a usar Mecanet y centralizar la gestión de mantenimiento.”
+![wireflow-crear-cuenta](https://github.com/user-attachments/assets/520c8354-4966-452c-a366-94e40fac5c93)
+
+User Goal: “Registrar nueva línea de producción”
+User persona: Empresas — Administrador
+“Como administrador de la empresa, quiero registrar una nueva línea de producción para organizar sus máquinas y supervisar sus programas de mantenimiento.”
+![wireflow-nueva-linea](https://github.com/user-attachments/assets/31d587d6-5969-4061-9843-81533f55fa7d)
+
+
+User Goal: “Registrar nueva maquinaria”
+User persona: Empresas — Administrador
+“Como administrador de la empresa, quiero registrar una nueva máquina para tener actualizado el inventario de activos y poder planificar sus intervenciones.”
+![wireflow-nueva-maquinaria](https://github.com/user-attachments/assets/4fdfa53b-e8b3-40e6-9b46-85cfad40078a)
+
+
+User Goal: “Generar plan mensual de mantenimiento”
+User persona: Empresas — Administrador
+“Como administrador de la empresa, quiero generar un plan mensual de mantenimiento para asegurar que todas las máquinas reciban servicio preventivo a tiempo y reducir fallos.”
+![wireflow-checklist](https://github.com/user-attachments/assets/17f5ec8d-876d-48ef-8631-61a83860f25b)
+
+
+User Goal: “Completar checklist de una orden de trabajo”
+User persona: Trabajador— Técnico
+“Como técnico de mantenimiento, quiero completar el checklist de una orden de trabajo para dejar constancia de la ejecución y las evidencias del servicio realizado.”
+![wireflow-checklist](https://github.com/user-attachments/assets/9b4f6b7a-d488-414e-b582-f4538ab1411f)
+
+
 ### 4.4.2. Web Applications Mock-ups.
+
+
+
+![crear-cuenta](https://github.com/user-attachments/assets/565ac229-8c2a-4aec-be85-964da89649b1)
+
+![iniciar-sesion](https://github.com/user-attachments/assets/8320a94e-fd2a-4e50-8b70-f66da0aafc96)
+![inicio](https://github.com/user-attachments/assets/c8f5de5e-1b48-4ea3-a4e2-f20a81e99e91)
+![personal](https://github.com/user-attachments/assets/ce36094a-0e86-4c70-a4b9-8740a1bbe0d5)
+![personal-form](https://github.com/user-attachments/assets/483e0229-4ead-49cb-83af-99f543ef493b)
+
+![monitoreo](https://github.com/user-attachments/assets/ad230854-d201-4831-9f3a-0b453563c494)
+![calendario](https://github.com/user-attachments/assets/27534a61-dc02-45d1-92c7-2d88feeb5251)
+![calendario-1](https://github.com/user-attachments/assets/47b38342-5ab7-4098-84e9-f2e483c8a859)
+![ejecucion](https://github.com/user-attachments/assets/689d5e59-c2d0-4ee6-8bc4-9f0d0479040f)
+![linea-produccion](https://github.com/user-attachments/assets/b831fcef-d15b-4279-ac8a-00fbc27b3526)
+![linea-produccion-form](https://github.com/user-attachments/assets/0eafeea8-cb94-4b65-8827-b07cf1b8dc6b)
+
+
+https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=441-377&t=jNJo4wjbluVyQsOh-1
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+User Goal: “Crear cuenta corporativa”
+User persona: Empresas — Administrador
+![userflow-crear-cuenta](https://github.com/user-attachments/assets/95095c70-302a-439f-9ed7-c5e329c3f855)
+
+Happy paths:
+El usuario ingresa a la aplicación y puede ver su perfil
+Unhappy paths:
+
+
+User Goal: “Registrar nueva línea de producción”
+User persona: Empresas — Administrador
+![userflow-nueva-linea](https://github.com/user-attachments/assets/07fa78ac-a4e0-4f6b-b7c9-e697c701302e)
+
+Happy paths:
+El usuario ingresa a la pantalla de “Gestión Activos > línea de producción”
+Selecciona “Nueva Línea”
+El usuario completa los campos del formulario
+Cuando el usuario esté conforme con los datos presiona guardar
+Unhappy paths:
+El usuario decide no continuar con el proceso de creación y presiona en cancelar
+
+User Goal: “Registrar nueva maquinaria”
+User persona: Empresas — Administrador
+![userflow-nueva-maquina](https://github.com/user-attachments/assets/9b704531-ca4a-4cb5-95de-6e02d8b16c96)
+
+Happy paths:
+El usuario ingresa a la pantalla de “Gestión Activos > maquinarias”
+Selecciona “Nueva Línea”
+El usuario completa los campos del formulario
+Cuando el usuario esté conforme con los datos presiona guardar
+Unhappy paths:
+El usuario decide no continuar con el proceso de creación y presiona en cancelar
+
 ## 4.5. Web Applications Prototyping.
+
+El prototipo web de Mecanet ha sido diseñado siguiendo principios de arquitectura de información, diseño centrado en el usuario y las heurísticas de usabilidad de Nielsen, con el objetivo de ofrecer una experiencia clara, funcional y accesible. La navegación se estructura de forma jerárquica, permitiendo a los usuarios acceder fácilmente a las distintas secciones informativas y funcionalidades del sistema.
+La interfaz presenta una organización visual coherente, utilizando una paleta de colores sobria y una tipografía legible que refuerzan la identidad institucional. Los elementos clave, como botones de acceso, formularios y menús, se ubican estratégicamente para facilitar la interacción y reducir la carga cognitiva.
+Cada componente del prototipo está pensado para mantener la consistencia visual y la visibilidad del estado del sistema, ofreciendo retroalimentación clara en cada acción del usuario. Además, se respetan los estándares de diseño web actuales para garantizar una experiencia fluida en diferentes dispositivos.
+
+https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&t=T8aZA1CjBy1z5Osa-1&scaling=min-zoom&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
+
 ## 4.6. Domain-Driven Software Architecture.
 
 ## 4.6. Domain-Driven Software Architecture
