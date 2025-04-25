@@ -412,111 +412,241 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
     </thead>
   <tbody>
     <tr>
-      <td><b>Comunica oralmente con
-efectividad a diferentes rangos
-de audiencia.</b></td>
+      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
       <td>
-        <p><b>name  </b></p>
+<p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TP1:</b></p>
-        <p>,..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+        
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p></p>
+        <p>Durante TB1, tomé un rol activo en la elaboración del análisis competitivo y en la propuesta de estrategias clave para el proyecto. Guié la redacción de las historias de usuario, los epics y la estructuración del product backlog, fomentando siempre la toma de decisiones conjunta y el liderazgo compartido en las etapas iniciales del trabajo. Finalmente, lidere el modelado del diagrama de la base de datos relacional para el trabajo.</p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>     
-        </p>
+        <p>-</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b></b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
       <td>
-        <p><strong>TB1:</strong></p>
-        <p></p>
-        <p><strong>TP1:</strong></p>
-        <p>.</p>
-        <p><strong>TB2:</strong></p>
-        <p></p>
-        <p><strong>TF:</strong></p>
-        <p></p>
+        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
+        <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
+       <p><b>TB1:</b></p>
+        <p>Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
+        <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
+       <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
     </tr>
-    <tr>
-      <td>Comunica por escrito con
-efectividad a diferentes rangos
-de audiencia.</td>
+    
+<tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
       <td>
-        <p><b>name  </b></p>
+        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TP1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>..</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p>..</p>
+        <p>Contribuí a crear un entorno colaborativo proponiendo metas claras para el Sprint 1 y apoyando la planificación de tareas desde una perspectiva inclusiva. Además, elaboré la documentación del sprint y del informe general, asegurando que las ideas del equipo fueran reflejadas de forma coherente y ordenada.</p>
         <p><b>TP1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>..
-        </p>
+        <p>-</p>
         <p><b>TP1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TP1:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>...</p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
-       <td>
-        <p><strong>TB1:</strong></p>
-        <p>..</p>
-        <p><strong>TP1:</strong></p>
-        <p>...</p>
-        <p><strong>TB2:</strong></p>
-        <p>..</p>
-        <p><strong>TF:</strong></p>
-        <p>...</p>
+      
+<td>
+        <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
+       <p><b>TB1:</b></p>
+        <p>Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+        
+
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
+        <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
+       <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>-</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
     </tr>
   </tbody>
