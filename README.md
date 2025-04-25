@@ -642,6 +642,36 @@ Se espera que Mecanet tenga monitoreo en tiempo real, alertas automáticas y un 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+El *To-Be Scenario Mapping* describe cómo será el proceso ideal de gestión de mantenimiento con **Mecanet**, destacando mejoras respecto al estado actual. Este enfoque permite visualizar de forma clara y compartida el flujo de trabajo futuro, optimizado y más eficiente para los dos perfiles clave: **Administrador Industrial** y **Técnico de Mantenimiento**. Al anticipar este escenario, se identifican oportunidades de mejora, se alinean los objetivos del proyecto y se facilita la planificación, implementación y comunicación de los cambios necesarios.  
+[Visualiza el escenario en Miro](https://miro.com/app/board/uXjVI-VfEvI=/?share_link_id=129646866929)
+
+
+
+#### ● To-Be del Segmento 1: Administradores o Responsables de Producción
+
+**Brainstorm individually:**
+
+<img src="img/segmento-objetivo/segmento1ideas.jpg">
+
+Las ideas seleccionadas para el Segmento 1 se centran en la **automatización de tareas** y la **visualización de KPIs**, lo cual mejora la eficiencia operativa, reduce tiempos de inactividad y permite tomar decisiones rápidas y basadas en datos. Estas soluciones optimizan la asignación de recursos y la toma de decisiones estratégicas.  
+Se descartaron ideas como la capacitación continua dentro del software, ya que no eran prioritarias para los objetivos inmediatos del proyecto.
+<img src="img/segmento-objetivo/segmento1.jpg">
+
+#### ● To-Be del Segmento 2: Técnicos y Operarios de Mantenimiento
+
+**Brainstorm individually:**
+
+<img src="img/segmento-objetivo/segmento2ideas.jpg">
+
+Para el Segmento 2, las ideas seleccionadas se enfocan en **mejorar la eficiencia operativa** de los técnicos, facilitando la **asignación de tareas**, el **seguimiento en tiempo real** y la **documentación digital** de las actividades. Estas soluciones permiten una mayor claridad en la comunicación, reducen retrabajos y mejoran la visibilidad de las tareas.  
+Se descartaron propuestas como sistemas de retroalimentación complejos que no generaban valor inmediato, ya que el enfoque principal es optimizar los procesos operativos y aumentar la productividad en el corto plazo.
+
+<img src="img/segmento-objetivo/segmento2.jpg">
+
+
+
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
