@@ -573,7 +573,58 @@ de audiencia.</td>
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+
+En el wireframe de la landing page se puede observar la estructura general del sitio web, donde destaca una cabecera fija agrupa el logotipo, la barra de navegación (Inicio, Producto, Beneficios, Planes, FAQ), el selector ES | EN y dos CTAs primarios: «Iniciar sesión» y «Crear cuenta». Justo debajo, el hero alinea un título (“Mecanet”), un eslogan corto y el mock-up de un portátil que servirá más adelante para mostrar la interfaz.
+Principios de diseño
+<ul>
+    <li>Jerarquía visual. Logo, título y CTAs ocupan la zona “above the fold” para captar primero la atención.</li>
+    <li>Consistencia. Rejilla uniforme, tipografía Montserrat y espaciados en todo el boceto.</li>
+    <li>Espaciado. Separación generosa entre bloques que evita saturación y favorece el escaneo.</li>
+</ul>
+Arquitectura de la información
+<ul>
+    <li>Organización. Contenido en bloques temáticos claramente rotulados.</li>
+    <li>Navegabilidad. La barra fija con anclas internas permite saltar a cada sección sin perder el contexto.</li>
+</ul>
+
+Heurísticas aplicadas
+<ul>
+    <li>Visibilidad del estado del sistema. Menú siempre visible indica la ubicación del usuario.</li>
+    <li>Consistencia y estándares. Distribución clásica de landing empresarial; reduce curva de aprendizaje.</li>
+    <li>Reconocimiento antes que recuerdo. Iconos y rótulos intuitivos evitan búsquedas innecesarias.</li>
+</ul>
+<img scr="img/landing-page/landing-page-wireframe.jpg">
+
 ### 4.3.2. Landing Page Mock-up.
+
+En el mockup de la landing page se aprecia cómo el diseño visual refuerza la estructura vista en el wireframe. Se mantiene el logo en la parte superior con una breve descripción y las tarjetas de métrica se insertan en una banda de color que rompe la monotonía y aporta foco.. La barra de navegación fija sigue presente para facilitar el acceso a las secciones informativas, pero aquí destaca el uso de colores contrastantes y una tipografía moderna que mejora la experiencia de usuario.
+Además, se mantienen las mismas secciones de la barra de navegación se mantienen, pero ahora con un diseño que se acopla mejor a la imagen de Mecanet y mejora la interacción del usuario.
+
+Principios de diseño
+<ul>
+    <li>Contraste. Violeta intenso para elementos accionables; fondo blanco para contenido, garantiza una buena visibilidad de todos los elementos</li>
+    <li>Jerarquía visual. Títulos de 48 px, subtítulos de 32 px y cuerpo de 16 px ordenan la información.</li>
+    <li>Consistencia. Colores, iconos lineales y radios de 12 px se repiten en toda la interfaz.</li>
+</ul>
+
+Arquitectura de la información
+<ul>
+    <li>Claridad. Cada sección responde a un objetivo único (explicar, demostrar, convertir).</li>
+    <li>Priorización. Los CTAs “Crear cuenta” aparecen tras exponer valor y precios, impulsando la conversión.</li>
+</ul>
+
+Heurísticas aplicadas
+<ul>
+    <li>Diseño estético y minimalista. Paleta reducida (violeta, blanco, acento lavanda) y abundante espacio en blanco evitan ruido visual.</li>
+    <li>Consistencia y estándares. Botones y navegación siguen patrones web familiares, fortaleciendo la confianza.</li>
+    <li>Reconocimiento antes que recuerdo. Iconos de llave inglesa, cronómetro o calendario ayudan a identificar secciones de un vistazo.</li>
+</ul>
+
+<img scr="img/landing-page/landing-page-es.jpg"/>
+<img scr="img/landing-page/landing-page-en.jpg"/>
+
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
