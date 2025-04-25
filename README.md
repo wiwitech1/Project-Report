@@ -684,6 +684,14 @@ Comprender su experiencia directa con las máquinas, cómo reportan fallas, qué
 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
+A continuación, se mostrarán los Empathy Mapping creados para cada perfil de usuario identificado en nuestros dos segmentos objetivo. Estos mapas nos ayudarán a comprender mejor a nuestros clientes y, así, optimizar la aplicación. <br/>
+
+**Segmento #1: Administradores y Responsables de Producción** <br/>
+![Segmento #1: Administradores y Responsables de Producción](img/Empathy-map-segmento1.1.png) <br/>
+
+**Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
+![Segmento #2: Técnicos y Operarios de Mantenimiento](img/Empathy-map-segmento2.png) <br/>
+
 ### 2.3.5. As-is Scenario Mapping
 En esta sección, se presenta el As-Is Scenario Mapping de los segmentos objetivo. Este mapeo nos permite identificar y comprender a fondo los puntos de contacto que tiene el usuario a lo largo de su interacción.
 
