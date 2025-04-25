@@ -452,7 +452,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>  ●	Colaboré en actividades como la definición de segmentos objetivos y en el diseño y registro de entrevistas. También participé en partes del análisis y en la elaboración del To-Be Scenario Mapping e Impact Mapping, aportando desde mi perspectiva. </p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -509,7 +509,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Aunque mi participación no fue muy destacada, cumplí con las tareas asignadas y apoyé en lo que fue necesario. Esto ayudó a que el equipo pudiera avanzar de forma organizada y mantener una buena dinámica de trabajo. </p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -571,7 +571,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Aporté en la planificación inicial de algunas tareas y colaboré en la organización del contenido relacionado a entrevistas y usuarios. Entregué mis partes a tiempo y traté de mantenerme alineado con el equipo. </p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -629,7 +629,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Gracias a una buena coordinación y compromiso, logramos mantener un ambiente de trabajo en el que todos pudieron participar activamente y avanzar de manera ordenada hacia las metas del proyecto. </p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
