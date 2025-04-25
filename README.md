@@ -965,6 +965,9 @@ de audiencia.</td>
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+<p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 <table>
