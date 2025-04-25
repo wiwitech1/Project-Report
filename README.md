@@ -531,7 +531,7 @@ de audiencia.</td>
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-Nuestro servicio ofrece una plataforma digital integral para la gestión del mantenimiento industrial, permitiendo a las empresas registrar activos, planificar mantenimientos preventivos y correctivos, gestionar inventarios de repuestos, y hacer seguimiento en tiempo real de las órdenes de trabajo. A través de Mecanaut, los usuarios tienen acceso a una vista centralizada de la información crítica de sus máquinas, facilitando la toma de decisiones técnicas y operativas para mejorar la eficiencia y reducir tiempos de inactividad. <br/>
+Nuestro servicio ofrece una plataforma digital integral para la gestión del mantenimiento industrial, permitiendo a las empresas registrar activos, planificar mantenimientos preventivos y correctivos, gestionar inventarios de repuestos, y hacer seguimiento en tiempo real de las órdenes de trabajo. A través de Mecanet, los usuarios tienen acceso a una vista centralizada de la información crítica de sus máquinas, facilitando la toma de decisiones técnicas y operativas para mejorar la eficiencia y reducir tiempos de inactividad. <br/>
 
 Hemos observado un factor crítico que afecta a muchas industrias manufactureras: el mantenimiento de activos se gestiona todavía con herramientas desconectadas o procesos manuales, lo que genera pérdidas económicas por fallos inesperados, retrasos en producción y desorganización en los registros. Además, los técnicos y supervisores carecen de trazabilidad y reportes fiables que les permitan medir el rendimiento del mantenimiento a lo largo del tiempo. <br/>
 
