@@ -681,7 +681,287 @@ de audiencia.</td>
 </tr>    
 </table>
 
-#### 5.2.1.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog 1
+
+
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+
+    
+<tr>
+    <th rowspan="4">US13</th>
+    <th rowspan="4">Sección de beneficios del sistema</th>
+    <td>1</td>
+    <td align="justify">Crear componente BenefitsComponent</td>
+    <td align="justify">Generar el componente BenefitsComponent para esta sección.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td align="justify">Codificar estructura HTML de BenefitsComponent</td>
+    <td align="justify">Maquetar columnas, puntos de separación y alineación de textos e íconos.</td>
+    <td>1.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td align="justify">Estilar la sección de beneficios según el diseño (CSS)</td>
+    <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects si aplica.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td align="justify">Incorporar animaciones suaves de scroll a BenefitsComponent</td>
+    <td align="justify">Agregar animaciones al hacer scroll o al cargar los beneficios para mejorar la experiencia visual.</td>
+    <td>0.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="4">US14</th>
+    <th rowspan="4">Sección precios del sitio web</th>
+    <td>5</td>
+    <td align="justify">Crear componente pricing-section</td>
+    <td align="justify">Generar el componente pricing-section para esta sección.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td align="justify">Codificar estructura HTML de pricing-section</td>
+    <td align="justify">Maqueta la estructura visual con tarjetas (cards) en un contenedor principal que mantenga alineación responsiva.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>7</td>
+    <td align="justify">Estilar la sección de precios según el diseño (CSS)</td>
+    <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects si aplica.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td align="justify">Implementar el switch “Mensual / Anual</td>
+    <td align="justify">Desarrolla el botón deslizante de alternancia entre pago mensual/anual de forma visual y funcional.</td>
+    <td>0.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="3">US17</th>
+    <th rowspan="3">Sección dudas del sitio web</th>
+    <td>9</td>
+    <td align="justify">Crear componente faq-section</td>
+    <td align="justify">Generar el componente que contendrá la sección de preguntas frecuentes.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td align="justify">Maquetar HTML con estructura tipo acordeón</td>
+    <td align="justify">Mostrar preguntas con comportamiento colapsable (mostrar/ocultar respuesta).</td>
+    <td>1.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>11</td>
+    <td align="justify">Estilizar acordeón con branding de Mecanet</td>
+    <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+<tr>
+    <th rowspan="4">US16</th>
+    <th rowspan="4">Navegación del sitio web</th>
+    <td>12</td>
+    <td align="justify">Crear componente navbar</td>
+    <td align="justify">Generar el componente modular navbar para integrarlo en el layout general del sitio.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>13</td>
+    <td align="justify">Maquetar HTML del navbar con secciones y botones</td>
+    <td align="justify">Maquetar el logo, menú de navegación (Home, Producto, Beneficios, Planes, FAQ) y botones de sesión ("Iniciar sesión", "Crear cuenta").</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td align="justify">Estilizar navbar según diseño con CSS</td>
+    <td align="justify">Aplicar estilos: tipografía, resaltado del ítem activo, separación de botones, borde suave, fondo translúcido con sombra sutil.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>15</td>
+    <td align="justify">Agregar rutas funcionales a los botones</td>
+    <td align="justify">Vincular los ítems de navegación a sus rutas internas.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="4">US16</th>
+    <th rowspan="4">Navegación del sitio web</th>
+    <td>12</td>
+    <td align="justify">Crear componente navbar</td>
+    <td align="justify">Generar el componente modular navbar para integrarlo en el layout general del sitio.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>13</td>
+    <td align="justify">Maquetar HTML del navbar con secciones y botones</td>
+    <td align="justify">Maquetar el logo, menú de navegación (Home, Producto, Beneficios, Planes, FAQ) y botones de sesión ("Iniciar sesión", "Crear cuenta").</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td align="justify">Estilizar navbar según diseño con CSS</td>
+    <td align="justify">Aplicar estilos: tipografía, resaltado del ítem activo, separación de botones, borde suave, fondo translúcido con sombra sutil.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>15</td>
+    <td align="justify">Agregar rutas funcionales a los botones</td>
+    <td align="justify">Vincular los ítems de navegación a sus rutas internas.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="4">US15</th>
+  <th rowspan="4">Sección footer del sitio web</th>
+  <td>8</td>
+  <td align="justify">Crear componente footer</td>
+  <td align="justify">Generar un componente exclusivo para el footer.</td>
+  <td>0.3 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td align="justify">Codificar estructura HTML del footer</td>
+  <td align="justify">Maquetar el footer en base al diseño visual.</td>
+  <td>1 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td align="justify">Estilizar fondo degradado, íconos y tipografía con CSS</td>
+  <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects.</td>
+  <td>1 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td align="justify">Agregar enlaces funcionales o placeholders</td>
+  <td align="justify">Asignar rutas internas o externas a los enlaces del footer, o usar placeholders si aún no están definidas.</td>
+  <td>1 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="5">US19</th>
+  <th rowspan="5">Visualización de pantalla en dispositivos</th>
+  <td>16</td>
+  <td align="justify">Implementar responsividad para BenefitsComponent</td>
+  <td align="justify">Asegurar adaptabilidad desde móviles hasta pantallas grandes.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td align="justify">Implementar responsividad para pricing-section</td>
+  <td align="justify">Implementar columnas en desktop y cards en columna en móviles entre otros.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td align="justify">Implementar responsividad para faq-section</td>
+  <td align="justify">Asegurar adaptabilidad desde móviles hasta pantallas grandes. Evita desbordamientos y asegura buena legibilidad en pantallas pequeñas.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>19</td>
+  <td align="justify">Adaptar navbar a vista responsive</td>
+  <td align="justify">En móviles, convertir el menú en un ícono tipo hamburguesa. Asegurar legibilidad y accesibilidad.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td align="justify">Responsividad del footer</td>
+  <td align="justify">Asegurar adaptabilidad desde móviles hasta pantallas grandes.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+
+</table>
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
