@@ -529,13 +529,15 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>-</p>
       </td>
     </tr>
+
+
     
 <tr>
       <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Fomenté un entorno de trabajo colaborativo desde el inicio del proyecto, promoviendo la participación equitativa entre los miembros del equipo. Propuse ideas creativas para la landing page y ayudé a definir los objetivos del Sprint 1. Participé activamente en la planificación de tareas, coordinando esfuerzos con mis compañeros para cumplir los entregables establecidos de manera organizada y puntual.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -559,7 +561,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Programé la landing page respetando las ideas y diseños planteados por el equipo, asegurando que todas las contribuciones se integraran de forma equitativa. Ayudé a planificar las tareas de desarrollo y a cumplir los plazos establecidos, fomentando un entorno colaborativo donde se valoraron todas las propuestas.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -592,8 +594,9 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       </td>
       
 <td>
+    <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -617,7 +620,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
