@@ -581,9 +581,68 @@ de audiencia.</td>
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
-### 4.6.2. Software Architecture Container Diagrams.
-### 4.6.3. Software Architecture Components Diagrams.
+
+## 4.6. Domain-Driven Software Architecture
+
+El **Domain-Driven Design (DDD)** pretende que el software represente con exactitud el mundo de negocio, favoreciendo la cooperación fluida entre desarrolladores y especialistas del dominio. Para lograrlo, DDD introduce:
+
+- **Lenguaje ubicuo**: un vocabulario compartido tanto en el código como en las conversaciones, que elimina interpretaciones ambiguas.  
+- **Bounded Contexts**: división del dominio en zonas independientes, cada una con su propio modelo y límites claros.  
+- **Patrones estratégicos** (Context Map, Anticorruption Layer) y **tácticos** (Entidades, Value Objects, Repositories, Domain Services) que orientan la estructura del código y la arquitectura general.
+
+En SwiftPort, esta filosofía permite separar responsabilidades (autenticación, facturación, recursos, planificación, ejecución y notificaciones) y evolucionar cada área por separado sin sacrificar la coherencia global.
+
+### 4.6.1. Software Architecture Context Diagram
+
+El siguiente diagrama presenta en una sola vista el sistema SwiftPort, sus actores principales y los sistemas externos con los que se comunica:
+
+<div>
+  <p align="center"><img src="" alt="c1: System Context.png" width="700px" /></p>
+</div>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+El C2 hace “zoom” dentro del sistema y destaca los contenedores lógicos. Para mostrar cómo se aplica DDD, se representan seis contenedores en forma de hexágono —los bounded contexts— dentro del monolito API Application.
+
+<div>
+  <p align="center"><img src="" alt="c2: Containers Diagram.png" width="700px" /></p>
+</div>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los C3 de los bounded contexts identificados:
+
+* Work Order Context:  
+  <div>
+    <p align="center"><img src="" alt="c3: Work Order Context Components.png" width="700px" /></p>
+  </div>
+
+* Asset Management Context:  
+  <div>
+    <p align="center"><img src="" alt="c3:Asset Management Context Components.png" width="700px" /></p>
+  </div>
+
+* Maintance Planning Context:  
+  <div>
+    <p align="center"><img src="" alt="c3: Maintance Planning Context.png" width="700px" /></p>
+  </div>
+
+* Predictive Analysis Context:  
+  <div>
+    <p align="center"><img src="" alt="c3:  Predictive Analysis Context" width="700px" /></p>
+  </div>
+
+* Notificaction Context:  
+  <div>
+    <p align="center"><img src="" alt="c3: Notificaction Context" width="700px" /></p>
+  </div>
+
+* Billing Context:  
+  <div>
+    <p align="center"><img src="" alt="c3: Billing Context Components.png" width="700px" /></p>
+  </div>
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
