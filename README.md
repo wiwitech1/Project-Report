@@ -542,7 +542,21 @@ de audiencia.</td>
     </td>
   </tr>
 </table>
-
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/Britney-Qqueso.png"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Britney Qqueso - u20211g671</strong></p>
+          <p align="justify">
+            Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). 
+            Me considero una persona autodidacta, dedicada, creativa y responsable. 
+            Me comprometo a  contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso.
+          </p>
+    </td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
