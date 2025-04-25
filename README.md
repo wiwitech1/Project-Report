@@ -3059,8 +3059,372 @@ Diagrama de clases basado en bounded contexts
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Planning Background</strong></th>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>22/04/2025</td>
+    </tr>
+     <tr>
+        <td>Time</td>
+        <td>10:00 AM</td>
+    </tr>
+     <tr>
+        <td>Location</td>
+        <td>Reunión virtual – Discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By</td>
+        <td>Claudia Belledonne</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning meeting)</td>
+        <td>
+
+- Ariana Cecilia Agreda Sobrino
+            
+- Claudia Valeria Belledonne Espinoza
+            
+- Mauricio Daniel Elera Rodríguez
+            
+- Jean Pool Huaman De La Cruz
+            
+- Britney Delhy Qqueso Rodriguez
+   </td>
+    </tr>
+    <tr>
+        <td>Sprint 1 – 1 Review Summary</td>
+        <td>No aplica al ser el primer sprint entregado</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 – 1 Retrospective Summary</td>
+        <td>No aplica al ser el primer sprint entregado</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+    </tr>
+    <tr>
+        <td>Sprint 1 Goal</td>
+        <td>
+<strong>Nuestra meta fue</strong> desplegar el landing page que presente claramente los beneficios, procesos y precios del sistema. 
+
+<strong>Creemos que</strong> esto genera comprensión y confianza en los clientes potenciales. 
+
+<strong>Esto se confirmará</strong> cuando los usuarios puedan acceder a la página de destino y navegar por todas las secciones informativas (beneficios, precios, preguntas frecuentes, pie de página, etc.) desde múltiples dispositivos.
+    </td>
+    </tr>
+     <tr>
+        <td>Sprint 1 Velocity  </td>
+        <td>18 Story Points.</td>
+    </tr>
+     <tr>
+        <td>Sum of Story Points  </td>
+        <td>18 Story Points.</td>
+    </tr>
+</table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
-#### 5.2.1.3. Sprint Backlog n.
+
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Sección de beneficios del sistema<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección precios del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección dudas del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Navegación del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección footer del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección Hero del sitio web<br/>Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>arii4w</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Cl4us-tb</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Maur1xio</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Huaman, Jean</td>
+    <td>JeanXP404</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Qqueso, Britney</td>
+    <td>brit2801</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+
+
+#### 5.2.1.3. Sprint Backlog 1
+<p>El objetivo de este primer sprint fue desarrollar la primera versión de la Landing Page de nuestro sistema Mecanet, enfocada en presentar la propuesta de valor del producto a potenciales usuarios. Esta versión incluye las secciones clave que comunican los beneficios, planes, preguntas frecuentes, footer y navegación general.</p>
+<img src="img/sprint1/trleo.jpg">
+<p>link:https://trello.com/invite/b/680a6cc7e8740865732b2289/ATTI0f0d254cd7c3649f29efcc5f9b5924a54D385D43/open-source</p>
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+
+    
+<tr>
+    <th rowspan="4">US13</th>
+    <th rowspan="4">Sección de beneficios del sistema</th>
+    <td>1</td>
+    <td align="justify">Crear componente BenefitsComponent</td>
+    <td align="justify">Generar el componente BenefitsComponent para esta sección.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td align="justify">Codificar estructura HTML de BenefitsComponent</td>
+    <td align="justify">Maquetar columnas, puntos de separación y alineación de textos e íconos.</td>
+    <td>1.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td align="justify">Estilar la sección de beneficios según el diseño (CSS)</td>
+    <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects si aplica.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td align="justify">Incorporar animaciones suaves de scroll a BenefitsComponent</td>
+    <td align="justify">Agregar animaciones al hacer scroll o al cargar los beneficios para mejorar la experiencia visual.</td>
+    <td>0.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="4">US14</th>
+    <th rowspan="4">Sección precios del sitio web</th>
+    <td>5</td>
+    <td align="justify">Crear componente pricing-section</td>
+    <td align="justify">Generar el componente pricing-section para esta sección.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td align="justify">Codificar estructura HTML de pricing-section</td>
+    <td align="justify">Maqueta la estructura visual con tarjetas (cards) en un contenedor principal que mantenga alineación responsiva.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>7</td>
+    <td align="justify">Estilar la sección de precios según el diseño (CSS)</td>
+    <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects si aplica.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td align="justify">Implementar el switch “Mensual / Anual</td>
+    <td align="justify">Desarrolla el botón deslizante de alternancia entre pago mensual/anual de forma visual y funcional.</td>
+    <td>0.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="3">US17</th>
+    <th rowspan="3">Sección dudas del sitio web</th>
+    <td>9</td>
+    <td align="justify">Crear componente faq-section</td>
+    <td align="justify">Generar el componente que contendrá la sección de preguntas frecuentes.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td align="justify">Maquetar HTML con estructura tipo acordeón</td>
+    <td align="justify">Mostrar preguntas con comportamiento colapsable (mostrar/ocultar respuesta).</td>
+    <td>1.5 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>11</td>
+    <td align="justify">Estilizar acordeón con branding de Mecanet</td>
+    <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+<tr>
+    <th rowspan="4">US16</th>
+    <th rowspan="4">Navegación del sitio web</th>
+    <td>12</td>
+    <td align="justify">Crear componente navbar</td>
+    <td align="justify">Generar el componente modular navbar para integrarlo en el layout general del sitio.</td>
+    <td>0.3 hr</td>
+    <td>e</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>13</td>
+    <td align="justify">Maquetar HTML del navbar con secciones y botones</td>
+    <td align="justify">Maquetar el logo, menú de navegación (Home, Producto, Beneficios, Planes, FAQ) y botones de sesión ("Iniciar sesión", "Crear cuenta").</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td align="justify">Estilizar navbar según diseño con CSS</td>
+    <td align="justify">Aplicar estilos: tipografía, resaltado del ítem activo, separación de botones, borde suave, fondo translúcido con sombra sutil.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>15</td>
+    <td align="justify">Agregar rutas funcionales a los botones</td>
+    <td align="justify">Vincular los ítems de navegación a sus rutas internas.</td>
+    <td>1 hr</td>
+    <td>ea</td>
+    <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="4">US15</th>
+  <th rowspan="4">Sección footer del sitio web</th>
+  <td>8</td>
+  <td align="justify">Crear componente footer</td>
+  <td align="justify">Generar un componente exclusivo para el footer.</td>
+  <td>0.3 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td align="justify">Codificar estructura HTML del footer</td>
+  <td align="justify">Maquetar el footer en base al diseño visual.</td>
+  <td>1 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td align="justify">Estilizar fondo degradado, íconos y tipografía con CSS</td>
+  <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects.</td>
+  <td>1 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td align="justify">Agregar enlaces funcionales o placeholders</td>
+  <td align="justify">Asignar rutas internas o externas a los enlaces del footer, o usar placeholders si aún no están definidas.</td>
+  <td>1 hr</td>
+  <td>a</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="3">US32</th>
+  <th rowspan="3">Sección Hero del sitio web</th>
+  <td>16</td>
+  <td align="justify">Crear componente Hero</td>
+  <td align="justify">Generar el componente principal de bienvenida para la landing page.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td align="justify">Codificar estructura HTML del hero</td>
+  <td align="justify">Generar el componente principal de bienvenida para la landing page.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td align="justify">Estilizar fondo degradado, íconos y tipografía con CSS.</td>
+  <td align="justify">Aplicar estilos visuales como colores, fuentes e íconos para resaltar el impacto visual del hero.</td>
+  <td>1 hr</td>
+  <td></td>
+  <td>Done</td>
+</tr>
+
+</table>
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Durante este Sprint se logró implementar de forma completa la Landing Page del proyecto Macanet. Esta vista inicial permite a los usuarios conocer las funcionalidades clave del sistema, resolver dudas frecuentes y visualizar la propuesta de valor. Se trabajó en secciones como el header, sección de producto, sección de preguntas frecuentes (FAQ) y el footer, garantizando una navegación fluida y una presentación clara de los objetivos del producto.
@@ -3094,7 +3458,28 @@ Footer:
 Video de Demostración e Implementación:
 [Ver video de Demostración e Implementación](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElEzvPegLThJuJq3nIyFwB0BASzKXkKKbALgeuaPbHs2-w?e=Og9J2a) 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+
+
+<p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository                                                                 | Branch   | Commit Id             | Commit Message                              | Commit Message Body                                                                 | Committed on (Date) |
+|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
+| https://github.com/wiwitech1/mecanet-l4nding-page                          | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 25/04/2025           |
+|                                                                            | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 25/04/2025           |
+|                                                                            | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 25/04/2025           |
+|                                                                            | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 25/04/2025           |
+|                                                                            | main     | 50cb013…a52b2c8       | chore(release): merge release 1.0.0 into main | First release containing Hero, Navbar and base styling                              | 25/04/2025           |
+|                                                                            | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 25/04/2025           |
+
+
+
+
+
+=======
 Durante este Sprint no se desarrollaron ni documentaron Web Services, ya que el objetivo principal fue la implementación de la Landing Page como primer entregable del sistema. Por ello, en esta fase del proyecto no se dispone de endpoints disponibles ni de documentación OpenAPI.
 
 La elaboración de la documentación de servicios está prevista para los próximos Sprints, cuando comience el desarrollo del backend y se defina la estructura inicial de la API que permitirá la integración con las vistas web implementadas.
@@ -3180,7 +3565,6 @@ Mecanets no solo resuelve los problemas inmediatos de las empresas, sino que tie
 **Fomentar la Colaboración Constante**: Es importante mantener una comunicación fluida entre todos los miembros del equipo durante todo el proceso de desarrollo. Utilizar herramientas de gestión de proyectos y reuniones regulares para asegurar que todos estén alineados con los objetivos y plazos.
 
 **Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar.
-
 
 
 # Video About-the-Team.
