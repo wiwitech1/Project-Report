@@ -2072,8 +2072,380 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+Diagrama de clases basado en bounded contexts
+
+<div>
+  <p align="center"><img src="img/odd/classes-db.jpg" alt="Class Diagram" width="700px" /></p>
+</div>
 ### 4.7.2. Class Dictionary.
+## Security Context
+
+### Account
+**Descripción**: Organización cliente suscrita a la plataforma, con límites de usuarios y activos definidos por su plan.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `name` | `String` | `private` | Nombre de la compañía |
+| `plan` | `PlanType` | `private` | Plan de suscripción |
+| `maxUsers` | `int` | `private` | Límite de usuarios permitidos |
+| `maxAssets` | `int` | `private` | Límite de activos registrados |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `canAddUser(): boolean` | `public` | Devuelve **true** si aún no se alcanzó `maxUsers` |
+
+---
+
+### User
+**Descripción**: Persona que accede al sistema en nombre de una cuenta.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `username` | `String` | `private` | Alias de inicio de sesión |
+| `email` | `String` | `private` | Correo electrónico |
+| `passwordHash` | `String` | `private` | Contraseña en hash |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `checkPassword(raw: String): boolean` | `public` | Valida `raw` contra `passwordHash` |
+
+---
+
+### Role
+**Descripción**: Conjunto de permisos asignado a usuarios.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `name` | `String` | `private` | Nombre del rol (p. ej. `ADMIN`) |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `assignTo(user: User): void` | `public` | Asigna este rol a un usuario |
+
+---
+
+### Permission
+**Descripción**: Permiso atómico para control de acceso.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `name` | `String` | `private` | Código del permiso |
+
+---
+
+### MenuItem
+**Descripción**: Opción de menú visible según permisos.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `label` | `String` | `private` | Texto mostrado |
+| `route` | `String` | `private` | Ruta/URL destino |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `isAccessibleBy(perms: List<Permission>): boolean` | `public` | **true** si el usuario posee los permisos requeridos |
+
+---
+
+#### Interfaces del Security Context
+| Nombre | Métodos clave |
+| ------ | ------------- |
+| `IUserRepository` | `findByUsername(username): Optional<User>`<br>`save(user): User` |
+| `IRoleRepository` | `findByName(name): Optional<Role>`<br>`save(role): Role` |
+| `IJwtTokenProvider` | `generateToken(user): String`<br>`validateToken(token): boolean` |
+| `IPasswordEncoder` | `encode(raw): String`<br>`matches(raw, encoded): boolean` |
+
+---
+
+## Asset Management Context
+
+### Asset
+**Descripción**: Maquinaria o equipo registrado en planta.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `name` | `String` | `private` | Nombre del activo |
+| `model` | `String` | `private` | Modelo de fabricante |
+| `serialNumber` | `String` | `private` | Número de serie |
+| `status` | `AssetStatus` | `private` | Estado operativo |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `scheduleMaintenance(plan: MaintenancePlan): void` | `public` | Asocia un plan preventivo al activo |
+
+---
+
+### SparePart
+**Descripción**: Repuesto utilizable por los activos.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `code` | `String` | `private` | Código interno |
+| `stock` | `int` | `private` | Existencias |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `isLowStock(): boolean` | `public` | **true** si el stock está por debajo del mínimo |
+
+---
+
+**Enum**  
+`AssetStatus { ACTIVE, INACTIVE, MAINTENANCE }`
+
+#### Interfaces del Asset Management Context
+| Nombre | Métodos clave |
+| ------ | ------------- |
+| `IAssetRepository` | `findById(id): Optional<Asset>`<br>`save(asset): Asset` |
+| `ISparePartRepository` | `findLowStock(): List<SparePart>` |
+
+---
+
+## Maintenance Planning Context
+
+### MaintenancePlan
+**Descripción**: Definición de mantenimiento periódico.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `name` | `String` | `private` | Título del plan |
+| `frequency` | `Frequency` | `private` | Periodicidad |
+| `nextRun` | `LocalDate` | `private` | Próxima ejecución |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `generateTasks(): List<MaintenanceTask>` | `public` | Crea tareas futuras |
+
+---
+
+### MaintenanceTask
+**Descripción**: Tarea derivada de un plan.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `plannedDate` | `LocalDate` | `private` | Fecha programada |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `assign(slot: ScheduleSlot): void` | `public` | Asigna la tarea a un horario dado |
+
+---
+
+### ScheduleSlot
+**Descripción**: Franja de calendario disponible.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `date` | `LocalDate` | `private` | Día |
+| `startTime` | `LocalTime` | `private` | Hora de inicio |
+| `endTime` | `LocalTime` | `private` | Hora de fin |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `conflictsWith(other: ScheduleSlot): boolean` | `public` | Detecta solapamiento |
+
+---
+
+**Enum**  
+`Frequency { DAILY, WEEKLY, MONTHLY, USAGE }`
+
+#### Interfaces del Maintenance Planning Context
+| Nombre | Métodos clave |
+| ------ | ------------- |
+| `IPlanRepository` | `save(plan): MaintenancePlan` |
+| `ITaskRepository` | `save(task): MaintenanceTask` |
+
+---
+
+## Work Order Context
+
+### WorkOrder
+**Descripción**: Orden de trabajo derivada de una tarea planificada.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `status` | `WorkOrderStatus` | `private` | Estado |
+| `openedAt` | `LocalDateTime` | `private` | Fecha de creación |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `close(): void` | `public` | Cierra la orden |
+
+---
+
+### WorkOrderLine
+**Descripción**: Detalle o paso de una orden.
+
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `description` | `String` | `private` | Texto descriptivo |
+
+---
+
+### Evidence
+**Descripción**: Evidencia (foto/firma) de ejecución.
+
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `url` | `String` | `private` | Ubicación del archivo |
+| `capturedAt` | `LocalDateTime` | `private` | Fecha de captura |
+
+---
+
+**Enum**  
+`WorkOrderStatus { OPEN, IN_PROGRESS, CLOSED }`
+
+#### Interfaces del Work Order Context
+| Nombre | Métodos clave |
+| ------ | ------------- |
+| `IWorkOrderRepository` | `save(order): WorkOrder` |
+
+---
+
+## Predictive Analysis Context
+
+### SensorReading
+**Descripción**: Medición obtenida de un sensor IoT.
+
+#### Atributos
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `assetId` | `UUID` | `private` | FK → `Asset` |
+| `metric` | `String` | `private` | Tipo de métrica |
+| `value` | `double` | `private` | Valor |
+| `timestamp` | `LocalDateTime` | `private` | Momento de la lectura |
+
+---
+
+### AnalysisResult
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `risk` | `RiskLevel` | `private` | Nivel de riesgo |
+| `predictedFailure` | `LocalDate` | `private` | Fecha estimada de fallo |
+
+---
+
+**Enum**  
+`RiskLevel { LOW, MEDIUM, HIGH }`
+
+#### Interfaces del Predictive Analysis Context
+| Nombre | Métodos clave |
+| ------ | ------------- |
+| `ISensorGateway` | `fetch(assetId): List<SensorReading>` |
+| `IAnalysisRepository` | `save(res): AnalysisResult` |
+
+---
+
+## Notification Context
+
+### NotificationTemplate
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador único |
+| `channel` | `String` | `private` | `EMAIL` / `SMS` |
+| `subject` | `String` | `private` | Asunto |
+| `body` | `String` | `private` | Texto con *placeholders* |
+
+---
+
+### Notification
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `status` | `NotificationStatus` | `private` | Estado actual |
+
+---
+
+**Enum**  
+`NotificationStatus { PENDING, SENT, FAILED }`
+
+#### Interfaces del Notification Context
+| Nombre | Métodos clave |
+| ------ | ------------- |
+| `INotificationRepository` | `save(n): Notification` |
+| `IEmailSender` / `ISmsSender` | `send(...): void` |
+
+---
+
+## Billing Context
+
+### Subscription
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `plan` | `PlanType` | `private` | Plan activo |
+| `start` | `LocalDate` | `private` | Inicio |
+| `end` | `LocalDate` | `private` | Fin |
+
+#### Métodos
+| Firma | Visibilidad | Descripción |
+| ----- | ----------- | ----------- |
+| `isActive(): boolean` | `public` | Verifica vigencia |
+
+---
+
+### Invoice
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `total` | `BigDecimal` | `private` | Importe |
+| `issuedAt` | `LocalDate` | `private` | Fecha de emisión |
+
+---
+
+### Payment
+| Nombre | Tipo | Visibilidad | Descripción |
+| ------ | ---- | ----------- | ----------- |
+| `id` | `UUID` | `private` | Identificador |
+| `amount` | `BigDecimal` | `private` | Monto |
+| `paidAt` | `LocalDateTime` | `private` | Fecha de pago |
+
+---
+
+**Enum**  
+`PlanType { BASIC, PRO, ENTERPRISE }`
+
+#### Interfaces del Billing Context
+| Nombre | Métodos clave |
+| ------ | ------------- |
+| `IBillingRepository` | `save(sub): Subscription` |
+| `IPaymentGateway` | `charge(sub, amt): String` |
+
+
 ## 4.8. Database Design.
+
 ### 4.8.1. Database Diagram.
 
 # Capítulo V: Product Implementation, Validation & Deployment
