@@ -558,6 +558,30 @@ de audiencia.</td>
   </tr>
 </table>
 
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/Jean.jpeg" width="520">
+    </td>
+    <td>
+      <p align="center"><strong>Jean Pool Huamán - u20201e781</strong></p>
+      <p align="justify">
+        Soy Jean Pool Huamán, tengo 22 años y estudio Ingeniería de Software en la UPC. 
+        Me gusta trabajar en equipo y siempre trato de aportar lo mejor de mí en cada proyecto. 
+        Me considero una persona tranquila, responsable y con muchas ganas de seguir aprendiendo. 
+        En este trabajo, voy a dar mi mayor esfuerzo para que todo salga bien y podamos lograr un buen resultado como grupo.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process
