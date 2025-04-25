@@ -570,16 +570,15 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Edad:** 24 años  
 - **Cargo / Rol en la empresa:** Asistente de Logística y Planta  
 - **Enlace del video:** [https://youtu.be/3co_jPUM9lA](https://youtu.be/3co_jPUM9lA)  
-- **Imagen:**  
-  ![Imagen](ruta/a/la/imagen)
+ <img src="img/segmento-objetivo/Grisel.jpg">
 
 #### Entrevista #2
 - **Nombre completo:** Arnold Vargas  
 - **Edad:** 31 años  
 - **Cargo / Rol en la empresa:** Administrador de mantenimiento  
 - **Enlace del video:** [https://youtu.be/tKjNAA7Iq4M](https://youtu.be/tKjNAA7Iq4M)  
-- **Imagen:**  
-  ![Imagen](ruta/a/la/imagen)
+ <img src="img/segmento-objetivo/arnol.jpg">
+
 
 ### Segmento 2: Técnicos y Operarios de Mantenimiento
 
@@ -588,24 +587,21 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Edad:** 23 años  
 - **Puesto o función que desempeñas:** Técnico de Diagnóstico y Reparación  
 - **Enlace del video:** [https://youtu.be/W0m4wlCXusY](https://youtu.be/W0m4wlCXusY)  
-- **Imagen:**  
-  ![Imagen](ruta/a/la/imagen)
+ <img src="img/segmento-objetivo/jhohan.jpg ">
 
 #### Entrevista #2
 - **Nombre completo:** César Gallo  
 - **Edad:** 48 años  
 - **Puesto o función que desempeñas:** Soy conductor de camión volquete  
 - **Enlace del video:** [https://youtu.be/I830YHdAFo4](https://youtu.be/I830YHdAFo4)  
-- **Imagen:**  
-  ![Imagen](ruta/a/la/imagen)
+ <img src="img/segmento-objetivo/cesar.jpg">
 
 #### Entrevista #3
 - **Nombre completo:** Luis Fernandez  
 - **Edad:** 25 años  
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
 - **Enlace del video:** [https://youtu.be/eywWGijGBPM](https://youtu.be/eywWGijGBPM)  
-- **Imagen:**  
-  ![Imagen](ruta/a/la/imagen)
+ <img src="img/segmento-objetivo/luis.jpg ">
 
 
 
