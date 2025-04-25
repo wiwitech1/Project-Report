@@ -416,7 +416,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       <td>
 <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>urante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -440,7 +440,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>Durante el desarrollo de la TB1, me encargué del diseño de la interfaz de usuario de la landing page, creando su wireframe y mock-up para establecer tanto la estructura como el diseño visual final. También trabajé en el diseño de la experiencia y la interfaz de usuario de la aplicación web, desarrollando los wireframes, los diagramas de wireflow para ilustrar el flujo de interacciones entre pantallas, los mock-ups detallados y los diagramas de flujo de usuario para visualizar las rutas dentro de la aplicación. Además, creé prototipos interactivos de la aplicación web para probar las funcionalidades y la experiencia del usuario antes de la implementación final.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -474,7 +474,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p> Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -497,7 +497,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>-</p>
+        <p>El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
