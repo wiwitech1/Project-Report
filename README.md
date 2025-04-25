@@ -560,6 +560,9 @@ Nuestros primeros clientes serán medianas y grandes industrias que aún utiliza
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](img/mecanaut-lean-ux-canvas.png)
+
 ## 1.3. Segmentos objetivo
 
 # Capítulo II: Requirements Elicitation & Analysis
