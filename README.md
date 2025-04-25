@@ -663,23 +663,79 @@ de audiencia.</td>
     </tr>
      <tr>
         <td>Sprint 1 Velocity  </td>
-        <td>13 Story Points.</td>
+        <td>18 Story Points.</td>
     </tr>
      <tr>
         <td>Sum of Story Points  </td>
-        <td>13 Story Points.</td>
+        <td>18 Story Points.</td>
     </tr>
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 <table>
-<tr>
-    <td>Team Member (Last Name, First Name)</td>
-    <td>GitHub Username</td>
-    <td>Aspect Name 1 Leader (L) / Collaborator (C)</td>
-</tr>    
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Sección de beneficios del sistema<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección precios del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección dudas del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Navegación del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección footer del sitio web<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección Hero del sitio web<br/>Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>arii4w</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Cl4us-tb</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Maur1xio</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Huaman, Jean</td>
+    <td>JeanXP404</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Qqueso, Britney</td>
+    <td>brit2801</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
 </table>
+
 
 #### 5.2.1.3. Sprint Backlog 1
 <p>El objetivo de este primer sprint fue desarrollar la primera versión de la Landing Page de nuestro sistema Mecanet, enfocada en presentar la propuesta de valor del producto a potenciales usuarios. Esta versión incluye las secciones clave que comunican los beneficios, planes, preguntas frecuentes, footer y navegación general.</p>
