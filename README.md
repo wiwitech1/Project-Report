@@ -2208,6 +2208,8 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
+<img src="img/database/bdd.png">
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
