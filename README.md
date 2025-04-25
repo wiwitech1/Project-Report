@@ -553,7 +553,7 @@ de audiencia.</td>
 ### 2.3.5. As-is Scenario Mapping
 En esta sección, se presenta el As-Is Scenario Mapping de los segmentos objetivo. Este mapeo nos permite identificar y comprender a fondo los puntos de contacto que tiene el usuario a lo largo de su interacción.
 
-**Segmento #1: Gerentes y Responsables de Producción** <br/>
+**Segmento #1: Administradores y Responsables de Producción** <br/>
 
 **Brainstorm individually:** <br/>
 ![Brainstorm individually 1](img/As-is-Scenario-Mapping-1.1.jpg) <br/>
