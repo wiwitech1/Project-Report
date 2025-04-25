@@ -1131,6 +1131,27 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 
 
 ### 2.2.3. Análisis de entrevistas
+
+- **Gestión actual del mantenimiento**  
+De acuerdo con lo expresado en las entrevistas, el mantenimiento se gestiona principalmente de manera manual, utilizando registros en papel y hojas de cálculo. Este sistema trae consigo varios inconvenientes, como errores al registrar la información, pérdida de datos importantes y la inexistencia de una plataforma central donde todo esté organizado. Esto hace que sea difícil rastrear fallas o reparaciones y genera confusión en la gestión diaria.
+
+- **Principales dificultades**  
+Una de las complicaciones más mencionadas es la falta de control sobre el estado de las fallas, ya que muchas veces no se sabe si fueron solucionadas o cuánto tiempo llevan pendientes. Además, se percibe una deficiencia en la comunicación entre áreas, especialmente entre producción y mantenimiento, lo que ocasiona demoras y desorganización en las reparaciones. También se señaló que no hay una metodología clara para coordinar las tareas, lo que genera duplicidad o mala distribución del trabajo.
+
+- **Impacto del tiempo de inactividad**  
+Todos coinciden en que las paradas de máquinas tienen un efecto muy negativo en la operación general. Cada vez que se detiene un equipo clave, como una trituradora o un horno, toda la producción se ve comprometida. Esto genera retrasos en la entrega de pedidos, incrementa los costos y añade presión al personal que debe resolver los inconvenientes rápidamente.
+
+- **Necesidades de información**  
+La falta de acceso a datos organizados y actualizados es un problema recurrente. Se señala que contar con un sistema que muestre en tiempo real el estado de los equipos, con historial de fallas, tareas pendientes y disponibilidad de repuestos, mejoraría significativamente la eficiencia. También se considera valioso poder incluir imágenes o notas que den más contexto a los técnicos antes de intervenir.
+
+- **Funciones deseadas en Mecanet**  
+Se espera que Mecanet tenga monitoreo en tiempo real, alertas automáticas y un historial de reparaciones. También se valora la capacidad de asignar tareas, controlar repuestos y adjuntar fotos o notas. Un sistema que genere reportes facilitaría el trabajo y aumentaría la eficiencia general.
+
+
+
+
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
