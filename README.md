@@ -412,111 +412,244 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
     </thead>
   <tbody>
     <tr>
-      <td><b>Comunica oralmente con
-efectividad a diferentes rangos
-de audiencia.</b></td>
+      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
       <td>
-        <p><b>name  </b></p>
+<p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>..</p>
+        <p>urante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
         <p><b>TP1:</b></p>
-        <p>,..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+        
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p></p>
+        <p>Durante TB1, tomé un rol activo en la elaboración del análisis competitivo y en la propuesta de estrategias clave para el proyecto. Guié la redacción de las historias de usuario, los epics y la estructuración del product backlog, fomentando siempre la toma de decisiones conjunta y el liderazgo compartido en las etapas iniciales del trabajo. Finalmente, lidere el modelado del diagrama de la base de datos relacional para el trabajo.</p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>     
-        </p>
+        <p>Durante el desarrollo de la TB1, me encargué del diseño de la interfaz de usuario de la landing page, creando su wireframe y mock-up para establecer tanto la estructura como el diseño visual final. También trabajé en el diseño de la experiencia y la interfaz de usuario de la aplicación web, desarrollando los wireframes, los diagramas de wireflow para ilustrar el flujo de interacciones entre pantallas, los mock-ups detallados y los diagramas de flujo de usuario para visualizar las rutas dentro de la aplicación. Además, creé prototipos interactivos de la aplicación web para probar las funcionalidades y la experiencia del usuario antes de la implementación final.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b></b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p></p>
+        <p>  ●	Colaboré en actividades como la definición de segmentos objetivos y en el diseño y registro de entrevistas. También participé en partes del análisis y en la elaboración del To-Be Scenario Mapping e Impact Mapping, aportando desde mi perspectiva. </p>
         <p><b>TP1:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p></p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>Durante TB1, colaboré activamente en la elaboración del Solution Profile, la identificación de la problemática y la aplicación del proceso Lean UX. Participé en la construcción del Lean UX Canvas, el desarrollo de los Hypothesis Statements y la organización de entrevistas. También apoyé en la creación de entregables como User Personas, Journey Mapping y Empathy Mapping.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
       <td>
-        <p><strong>TB1:</strong></p>
-        <p></p>
-        <p><strong>TP1:</strong></p>
-        <p>.</p>
-        <p><strong>TB2:</strong></p>
-        <p></p>
-        <p><strong>TF:</strong></p>
-        <p></p>
+        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
+        <p><b>TB1:</b></p>
+        <p> Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
+       <p><b>TB1:</b></p>
+        <p>Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
+        <p><b>TB1:</b></p>
+        <p>El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
+       <p><b>TB1:</b></p>
+        <p>Aunque mi participación no fue muy destacada, cumplí con las tareas asignadas y apoyé en lo que fue necesario. Esto ayudó a que el equipo pudiera avanzar de forma organizada y mantener una buena dinámica de trabajo. </p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>Mi participación contribuyó a un trabajo conjunto fluido, donde cada integrante aportó al desarrollo de los entregables, fortaleciendo la cooperación del equipo.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
     </tr>
-    <tr>
-      <td>Comunica por escrito con
-efectividad a diferentes rangos
-de audiencia.</td>
+
+
+    
+<tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
       <td>
-        <p><b>name  </b></p>
+        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>..</p>
+        <p>Fomenté un entorno de trabajo colaborativo desde el inicio del proyecto, promoviendo la participación equitativa entre los miembros del equipo. Propuse ideas creativas para la landing page y ayudé a definir los objetivos del Sprint 1. Participé activamente en la planificación de tareas, coordinando esfuerzos con mis compañeros para cumplir los entregables establecidos de manera organizada y puntual.</p>
         <p><b>TP1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>..</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p>..</p>
+        <p>Contribuí a crear un entorno colaborativo proponiendo metas claras para el Sprint 1 y apoyando la planificación de tareas desde una perspectiva inclusiva. Además, elaboré la documentación del sprint y del informe general, asegurando que las ideas del equipo fueran reflejadas de forma coherente y ordenada.</p>
         <p><b>TP1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>..
-        </p>
+        <p>Programé la landing page respetando las ideas y diseños planteados por el equipo, asegurando que todas las contribuciones se integraran de forma equitativa. Ayudé a planificar las tareas de desarrollo y a cumplir los plazos establecidos, fomentando un entorno colaborativo donde se valoraron todas las propuestas.</p>
         <p><b>TP1:</b></p>
-        <p>..</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>name</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>Aporté en la planificación inicial de algunas tareas y colaboré en la organización del contenido relacionado a entrevistas y usuarios. Entregué mis partes a tiempo y traté de mantenerme alineado con el equipo. </p>
         <p><b>TP1:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TB2:</b></p>
-        <p>...</p>
+        <p>-</p>
         <p><b>TF:</b></p>
-        <p>...</p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>Apoyé la definición de metas para la fase inicial, colaboré en la planificación de tareas y en la distribución del trabajo. Participé en la organización de entrevistas, mapeos y documentación, siempre promoviendo la participación equitativa.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
-       <td>
-        <p><strong>TB1:</strong></p>
-        <p>..</p>
-        <p><strong>TP1:</strong></p>
-        <p>...</p>
-        <p><strong>TB2:</strong></p>
-        <p>..</p>
-        <p><strong>TF:</strong></p>
-        <p>...</p>
+      
+<td>
+    <p><b>Ariana Cecilia Agreda Sobrino</b></p>
+        <p><b>TB1:</b></p>
+        <p>Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Claudia Valeria Belledonne Espinoza</b></p>
+       <p><b>TB1:</b></p>
+        <p>Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+        
+
+<p><b>Mauricio Daniel Elera Rodríguez</b></p>
+        <p><b>TB1:</b></p>
+        <p>Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+
+          
+<p><b>Jean Pool Huaman De La Cruz</b></p>
+       <p><b>TB1:</b></p>
+        <p>Gracias a una buena coordinación y compromiso, logramos mantener un ambiente de trabajo en el que todos pudieron participar activamente y avanzar de manera ordenada hacia las metas del proyecto. </p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
+          <br>
+          
+<p><b>Britney Delhy Qqueso Rodriguez</b></p>
+       <p><b>TB1:</b></p>
+        <p>El trabajo coordinado permitió avanzar de forma organizada, integrando aportes de todos los miembros y logrando los objetivos propuestos de la TB1.</p>
+        <p><b>TP1:</b></p>
+        <p>-</p>
+        <p><b>TB2:</b></p>
+        <p>-</p>
+        <p><b>TF:</b></p>
+        <p>-</p>
       </td>
     </tr>
   </tbody>
