@@ -1310,7 +1310,7 @@ Comprender su experiencia directa con las máquinas, cómo reportan fallas, qué
 13. Si pudieras contar con una herramienta como Mecanet para gestionar fallas, órdenes de trabajo y mantener un registro centralizado, ¿Qué características o funciones crees que serían más útiles para ti en el día a día?
 
 ### 2.2.2. Registro de entrevistas 
-## 2.2.2. Registro de entrevistas
+
 El registro de entrevistas es fundamental para recopilar la experiencia real de los técnicos y operarios en sus tareas de mantenimiento. Nos permite organizar y analizar mejor la información, identificar necesidades comunes y tomar decisiones basadas en lo que realmente viven los usuarios. Así, Mecanet puede adaptarse mejor a sus necesidades y aportar soluciones útiles.
 
 ### Segmento 1: Administradores y Responsables de Producción
@@ -1355,7 +1355,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 
 
 
-
+<br>
 
 
 
