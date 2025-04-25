@@ -973,42 +973,21 @@ de audiencia.</td>
 <p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-<table>
-  <tr>
-    <th>Alumno</th>
-    <th>Actividad</th>
-  </tr>
-  <tr>
-    <td>Agreda, Ariana</td>
-    <td>Realizó los componentes de navegación (<code>NavbarComponent</code>) y de portada principal (<code>HeroComponent</code>), encargándose del diseño inicial de la landing page y del acceso directo a sus secciones principales.</td>
-  </tr>
-  <tr>
-    <td>Belledonne, Claudia</td>
-    <td>Realizó los componentes de productos (<code>ProductComponent</code>) y beneficios (<code>BenefitsComponent</code>), donde se presentan las características principales del sistema y las ventajas para el usuario.</td>
-  </tr>
-  <tr>
-    <td>Elera, Mauricio</td>
-    <td>Realizó el componente de preguntas frecuentes (<code>FAQComponent</code>), proporcionando respuestas a las dudas más comunes de los usuarios.</td>
-  </tr>
-  <tr>
-    <td>Queso, Britney</td>
-    <td>Realizó el componente de planes (<code>PlansComponent</code>), el cual muestra las diferentes opciones de suscripción disponibles.</td>
-  </tr>
-  <tr>
-    <td>Huaman, Jean</td>
-    <td>Realizó el componente de pie de página (<code>FooterComponent</code>), que contiene enlaces adicionales, redes sociales y otros elementos de navegación complementaria.</td>
-  </tr>
-</table>
+### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository                                                                 | Branch   | Commit Id             | Commit Message                              | Commit Message Body                                                                 | Committed on (Date) |
+|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
+| https://github.com/wiwitech1/mecanet-l4nding-page                          | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 25/04/2025           |
+|                                                                            | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 25/04/2025           |
+|                                                                            | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 25/04/2025           |
+|                                                                            | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 25/04/2025           |
+|                                                                            | main     | 50cb013…a52b2c8       | chore(release): merge release 1.0.0 into main | First release containing Hero, Navbar and base styling                              | 25/04/2025           |
+|                                                                            | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 25/04/2025           |
 
 
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
 
-## 5.4. Video About-the-Product.
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
