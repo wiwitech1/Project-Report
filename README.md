@@ -550,9 +550,9 @@ de audiencia.</td>
 
 A continuación, se presentará los 2 user persona de acuerdo al segmento objetivo encontrado: <br/>
 
-**User persona #1: Gerentes y Responsables de Producción** <br/>
+**User persona #1: Administradores y Responsables de Producción** <br/>
 
-![User persona #1](img/Carlos-Mendoza-user-persona.png)
+![User persona #1](img/Carlos-Mendoza-user-persona1.png)
 
 **User persona #2: Técnicos y Operarios de Mantenimiento** <br/>
 
