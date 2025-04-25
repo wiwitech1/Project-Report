@@ -967,6 +967,35 @@ de audiencia.</td>
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+<table>
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>Realizó los componentes de navegación (<code>NavbarComponent</code>) y de portada principal (<code>HeroComponent</code>), encargándose del diseño inicial de la landing page y del acceso directo a sus secciones principales.</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Realizó los componentes de productos (<code>ProductComponent</code>) y beneficios (<code>BenefitsComponent</code>), donde se presentan las características principales del sistema y las ventajas para el usuario.</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Realizó el componente de preguntas frecuentes (<code>FAQComponent</code>), proporcionando respuestas a las dudas más comunes de los usuarios.</td>
+  </tr>
+  <tr>
+    <td>Queso, Britney</td>
+    <td>Realizó el componente de planes (<code>PlansComponent</code>), el cual muestra las diferentes opciones de suscripción disponibles.</td>
+  </tr>
+  <tr>
+    <td>Huaman, Jean</td>
+    <td>Realizó el componente de pie de página (<code>FooterComponent</code>), que contiene enlaces adicionales, redes sociales y otros elementos de navegación complementaria.</td>
+  </tr>
+</table>
+
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
