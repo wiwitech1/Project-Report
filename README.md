@@ -605,6 +605,54 @@ Nuestros primeros clientes serán medianas y grandes industrias que aún utiliza
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+#### Segmento 1: Administradores y Responsables de Producción
+**Dirigido a:**  
+Personas encargadas de la gestión operativa y estratégica en empresas industriales, con poder de decisión sobre procesos, recursos y coordinación de áreas como producción y mantenimiento.
+
+**Objetivo:**  
+Conocer cómo gestionan actualmente el mantenimiento, cómo enfrentan las fallas, qué impacto tienen estas en la producción, cómo toman decisiones y qué esperan de una herramienta digital como Mecanet.
+
+**Preguntas:**
+
+1. Nombre completo:
+2. Edad:
+3. Cargo / Rol en la empresa:
+4. Años de experiencia en el sector:
+5. ¿Cuáles son las responsabilidades que tienes relacionadas con el mantenimiento industrial dentro de la empresa?
+6. ¿Qué métodos o enfoques utilizan actualmente para planificar y gestionar el mantenimiento de las máquinas?
+7. ¿Cuáles son los mayores desafíos o problemas que suelen enfrentar cuando se producen fallas en las máquinas?
+8. ¿Cómo influye el tiempo de inactividad de las máquinas en el proceso productivo o en los objetivos operativos de la empresa?
+9. ¿Cómo suelen coordinar las áreas de producción y mantenimiento para minimizar las interrupciones en la operación?
+10. ¿Qué tipo de información consideras esencial para poder tomar decisiones rápidas y efectivas cuando se presenta una falla?
+11. ¿Qué consecuencias ha tenido una falla crítica en la producción en el pasado y cómo lo resolvieron?
+12. Si pudieras mejorar un aspecto del mantenimiento en tu empresa de manera inmediata, ¿cuál sería y por qué?
+13. Imagina que tienes una plataforma como Mecanet a tu disposición, la cual te permite gestionar de manera digital el mantenimiento, las fallas y las órdenes de trabajo. ¿Qué funcionalidades crees que serían las más útiles para ti y tu equipo en la gestión del mantenimiento?
+
+
+#### Segmento 2: Técnicos y Operarios de Mantenimiento
+**Dirigido a:**  
+Técnicos, mecánicos y operarios que trabajan directamente con las máquinas en planta. Suelen ser quienes detectan, reportan y resuelven fallas, así como quienes ejecutan el mantenimiento preventivo o correctivo.
+
+**Objetivo:**  
+Comprender su experiencia directa con las máquinas, cómo reportan fallas, qué obstáculos enfrentan en su trabajo diario y qué funcionalidades valoran en una herramienta digital para mantenimiento.
+
+**Preguntas:**
+
+1. Nombre completo:
+2. Edad:
+3. Puesto o función que desempeñas:
+4. Años de experiencia en el área de mantenimiento:
+5. ¿Qué tipo de maquinaria operas o mantienes habitualmente y qué tareas realizas en ese proceso?
+6. ¿Qué herramientas o sistemas utilizan actualmente para registrar y hacer seguimiento de las fallas en las máquinas?
+7. ¿Cuáles son los tipos de fallas más comunes que enfrentas y cómo suelen manejarse?
+8. ¿Cómo te afecta, en tu trabajo diario, el tiempo que una máquina permanece fuera de servicio debido a una falla?
+9. ¿Qué dificultades encuentras a la hora de reportar fallas o coordinar con otros departamentos para realizar las reparaciones necesarias?
+10. ¿Qué tipo de información te gustaría tener de manera más accesible o visible para poder solucionar las fallas más rápidamente y de forma más eficiente?
+11. ¿Alguna vez tuviste una situación difícil con una falla que no pudiste resolver a tiempo? ¿Qué pasó y qué te habría ayudado en ese momento?
+12. ¿Qué harías diferente en tu rutina de trabajo si tuvieras una herramienta que te ahorre tiempo con los reportes y seguimiento de fallas?
+13. Si pudieras contar con una herramienta como Mecanet para gestionar fallas, órdenes de trabajo y mantener un registro centralizado, ¿Qué características o funciones crees que serían más útiles para ti en el día a día?
+
 ### 2.2.2. Registro de entrevistas 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
