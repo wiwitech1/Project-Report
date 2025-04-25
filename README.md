@@ -535,6 +535,22 @@ de audiencia.</td>
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
+### Segmento 1: Empresas — Administradores Industriales y Responsables de Producción (Decisores Estratégicos)
+
+**Perfil del Usuario:**
+
+- Administradores de mantenimiento, administradores, directores de planta, encargados de producción o calidad.  
+- Poseen una perspectiva estratégica, enfocados en optimizar la eficiencia operativa.  
+- Su rol incluye cumplir con indicadores clave como: Disponibilidad de maquinaria Productividad Reducción de costos.  
+
+### Segmento 2: Trabajadores — Técnicos y Supervisores de Mantenimiento (Usuarios Operativos)
+
+**Perfil del Usuario:**
+
+- Técnicos de campo, supervisores de mantenimiento y operarios industriales.  
+- Interactúan directamente con equipos críticos en plantas productivas.  
+- Ejecutan tareas de mantenimiento preventivo y correctivo.  
+- Registran incidencias diarias.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
