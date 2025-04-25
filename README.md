@@ -658,6 +658,18 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+<h2>Descripción de Mecanet</h2>
+<p>Mecanet es un software especializado para la gestión de mantenimiento industrial, diseñado para empresas que operan con maquinaria crítica. Permite registrar activos, materiales, líneas de producción y organizar tanto órdenes de trabajo correctivas como planes de mantenimiento preventivo, fijos o dinámicos.</p>
+<p>Con una interfaz intuitiva y flujos de trabajo optimizados, Mecanet ayuda a técnicos y administradores a mantener sus equipos operativos, reducir tiempos de inactividad y tomar decisiones basadas en indicadores clave como MTTR, MTBF y costos operativos.</p>
+
+<h3>Misión</h3>
+<p>Proveer a las empresas industriales una solución digital intuitiva y robusta que centralice el control de activos, tareas y recursos, facilitando la toma de decisiones técnicas basadas en datos para maximizar la disponibilidad operativa y reducir costos de mantenimiento.</p>
+
+<h3>Visión</h3>
+<p>Ser la plataforma líder en gestión de mantenimiento industrial en Latinoamérica, optimizando la operación de maquinaria crítica mediante tecnología accesible, eficiente y orientada a resultados.</p>
+
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
