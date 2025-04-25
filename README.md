@@ -530,6 +530,20 @@ de audiencia.</td>
 <table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
   <tr>
     <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/ariana.jpg"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Ariana Agreda - u202315044</strong></p>
+          <p align="justify">
+            Mi nombre es Ariana Agreda, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona creativa, responsable y comprometida con cada tarea. Por ello, estoy dispuesta a dedicar un gran esfuerzo y apoyo para que logremos los mejores resultados para el proyecto.
+          </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
       <img src="img/profile-photos/ClaudiaBelledonne.jpg"  width="520"></img>
     </td>
       <td>
@@ -542,6 +556,21 @@ de audiencia.</td>
     </td>
   </tr>
 </table>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/mau.jpg"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Mauricio Elera - u202313702</strong></p>
+          <p align="justify">
+            Mi nombre es Mauricio Elera, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona proactiva, organizada y con muchas ganas de aprender. Estoy comprometido con el trabajo en equipo y dispuesto a aportar todo lo necesario para que nuestro proyecto sea exitoso.
+          </p>
+    </td>
+  </tr>
+</table>
+
 <table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
   <tr>
     <td style="width: 150px; text-align: center;">
