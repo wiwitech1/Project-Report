@@ -527,6 +527,90 @@ de audiencia.</td>
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/ari.jpg"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Ariana Agreda - u202315044</strong></p>
+          <p align="justify">
+            Mi nombre es Ariana Agreda, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona creativa, responsable y comprometida con cada tarea. Por ello, estoy dispuesta a dedicar un gran esfuerzo y apoyo para que logremos los mejores resultados para el proyecto.
+          </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/ClaudiaBelledonne.jpg"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Claudia Belledonne - u202210259</strong></p>
+          <p align="justify">
+            Mi nombre es Claudia Belledonne, tengo 20 años y me encuentro en mi segundo año de Ingeniería de Software en la UPC.
+            En general, soy alguien creativa, responsable, dedicada y manejo bien el hacer muchas tareas a la vez.
+            Para este trabajo, me comprometo a brindar mi máximo esfuerzo y dedicación.
+          </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/mau.jpg"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Mauricio Elera - u202313702</strong></p>
+          <p align="justify">
+            Mi nombre es Mauricio Elera, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona proactiva, organizada y con muchas ganas de aprender. Estoy comprometido con el trabajo en equipo y dispuesto a aportar todo lo necesario para que nuestro proyecto sea exitoso.
+          </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/Britney-Qqueso.png"  width="520"></img>
+    </td>
+      <td>
+          <p align="center"><strong>Britney Qqueso - u20211g671</strong></p>
+          <p align="justify">
+            Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). 
+            Me considero una persona autodidacta, dedicada, creativa y responsable. 
+            Me comprometo a  contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso.
+          </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; text-align: center;">
+      <img src="img/profile-photos/Jean.jpeg" width="520">
+    </td>
+    <td>
+      <p align="center"><strong>Jean Pool Huamán - u20201e781</strong></p>
+      <p align="justify">
+        Soy Jean Pool Huamán, tengo 22 años y estudio Ingeniería de Software en la UPC. 
+        Me gusta trabajar en equipo y siempre trato de aportar lo mejor de mí en cada proyecto. 
+        Me considero una persona tranquila, responsable y con muchas ganas de seguir aprendiendo. 
+        En este trabajo, voy a dar mi mayor esfuerzo para que todo salga bien y podamos lograr un buen resultado como grupo.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 **What** <br/>
