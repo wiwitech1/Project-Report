@@ -3322,7 +3322,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Crear componente BenefitsComponent</td>
     <td align="justify">Generar el componente BenefitsComponent para esta sección.</td>
     <td>0.3 hr</td>
-    <td>e</td>
+    <td>Claudia Belledonne</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3330,7 +3330,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Codificar estructura HTML de BenefitsComponent</td>
     <td align="justify">Maquetar columnas, puntos de separación y alineación de textos e íconos.</td>
     <td>1.5 hr</td>
-    <td>ea</td>
+    <td>Claudia Belledonne</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3338,7 +3338,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Estilar la sección de beneficios según el diseño (CSS)</td>
     <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects si aplica.</td>
     <td>1 hr</td>
-    <td>ea</td>
+    <td>Claudia Belledonne</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3346,7 +3346,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Incorporar animaciones suaves de scroll a BenefitsComponent</td>
     <td align="justify">Agregar animaciones al hacer scroll o al cargar los beneficios para mejorar la experiencia visual.</td>
     <td>0.5 hr</td>
-    <td>ea</td>
+    <td>Claudia Belledonne</td>
     <td>Done</td>
 </tr>
 
@@ -3359,7 +3359,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Crear componente pricing-section</td>
     <td align="justify">Generar el componente pricing-section para esta sección.</td>
     <td>0.3 hr</td>
-    <td>e</td>
+    <td>Britney Qqueso</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3367,7 +3367,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Codificar estructura HTML de pricing-section</td>
     <td align="justify">Maqueta la estructura visual con tarjetas (cards) en un contenedor principal que mantenga alineación responsiva.</td>
     <td>1 hr</td>
-    <td>ea</td>
+    <td>Britney Qqueso</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3375,7 +3375,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Estilar la sección de precios según el diseño (CSS)</td>
     <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects si aplica.</td>
     <td>1 hr</td>
-    <td>ea</td>
+    <td>Britney Qqueso</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3383,7 +3383,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Implementar el switch “Mensual / Anual</td>
     <td align="justify">Desarrolla el botón deslizante de alternancia entre pago mensual/anual de forma visual y funcional.</td>
     <td>0.5 hr</td>
-    <td>ea</td>
+    <td>Britney Qqueso</td>
     <td>Done</td>
 </tr>
 
@@ -3404,7 +3404,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Maquetar HTML con estructura tipo acordeón</td>
     <td align="justify">Mostrar preguntas con comportamiento colapsable (mostrar/ocultar respuesta).</td>
     <td>1.5 hr</td>
-    <td>ea</td>
+    <td>Mauricio Elera</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3412,7 +3412,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Estilizar acordeón con branding de Mecanet</td>
     <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects.</td>
     <td>1 hr</td>
-    <td>ea</td>
+    <td>Mauricio Elera</td>
     <td>Done</td>
 </tr>
 
@@ -3424,7 +3424,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Crear componente navbar</td>
     <td align="justify">Generar el componente modular navbar para integrarlo en el layout general del sitio.</td>
     <td>0.3 hr</td>
-    <td>e</td>
+    <td>Mauricio Elera</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3432,7 +3432,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Maquetar HTML del navbar con secciones y botones</td>
     <td align="justify">Maquetar el logo, menú de navegación (Home, Producto, Beneficios, Planes, FAQ) y botones de sesión ("Iniciar sesión", "Crear cuenta").</td>
     <td>1 hr</td>
-    <td>ea</td>
+    <td>Mauricio Elera</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3440,7 +3440,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Estilizar navbar según diseño con CSS</td>
     <td align="justify">Aplicar estilos: tipografía, resaltado del ítem activo, separación de botones, borde suave, fondo translúcido con sombra sutil.</td>
     <td>1 hr</td>
-    <td>ea</td>
+    <td>Mauricio Elera</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3448,7 +3448,7 @@ Diagrama de clases basado en bounded contexts
     <td align="justify">Agregar rutas funcionales a los botones</td>
     <td align="justify">Vincular los ítems de navegación a sus rutas internas.</td>
     <td>1 hr</td>
-    <td>ea</td>
+    <td>Mauricio Elera</td>
     <td>Done</td>
 </tr>
 
@@ -3460,7 +3460,7 @@ Diagrama de clases basado en bounded contexts
   <td align="justify">Crear componente footer</td>
   <td align="justify">Generar un componente exclusivo para el footer.</td>
   <td>0.3 hr</td>
-  <td>a</td>
+  <td>Jean Huaman</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3468,7 +3468,7 @@ Diagrama de clases basado en bounded contexts
   <td align="justify">Codificar estructura HTML del footer</td>
   <td align="justify">Maquetar el footer en base al diseño visual.</td>
   <td>1 hr</td>
-  <td>a</td>
+  <td>Jean Huaman</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3476,7 +3476,7 @@ Diagrama de clases basado en bounded contexts
   <td align="justify">Estilizar fondo degradado, íconos y tipografía con CSS</td>
   <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects.</td>
   <td>1 hr</td>
-  <td>a</td>
+  <td>Jean Huaman</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3484,7 +3484,7 @@ Diagrama de clases basado en bounded contexts
   <td align="justify">Agregar enlaces funcionales o placeholders</td>
   <td align="justify">Asignar rutas internas o externas a los enlaces del footer, o usar placeholders si aún no están definidas.</td>
   <td>1 hr</td>
-  <td>a</td>
+  <td>Jean Huaman</td>
   <td>Done</td>
 </tr>
 
@@ -3496,7 +3496,7 @@ Diagrama de clases basado en bounded contexts
   <td align="justify">Crear componente Hero</td>
   <td align="justify">Generar el componente principal de bienvenida para la landing page.</td>
   <td>1 hr</td>
-  <td></td>
+  <td>Ariana Agreda</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3504,7 +3504,7 @@ Diagrama de clases basado en bounded contexts
   <td align="justify">Codificar estructura HTML del hero</td>
   <td align="justify">Generar el componente principal de bienvenida para la landing page.</td>
   <td>1 hr</td>
-  <td></td>
+  <td>Ariana Agreda</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3512,7 +3512,7 @@ Diagrama de clases basado en bounded contexts
   <td align="justify">Estilizar fondo degradado, íconos y tipografía con CSS.</td>
   <td align="justify">Aplicar estilos visuales como colores, fuentes e íconos para resaltar el impacto visual del hero.</td>
   <td>1 hr</td>
-  <td></td>
+  <td>Ariana Agreda</td>
   <td>Done</td>
 </tr>
 
