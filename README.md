@@ -2169,6 +2169,25 @@ Se descartaron propuestas como sistemas de retroalimentación complejos que no g
 <br>
 
 ## 3.3. Impact Mapping
+
+Impact Mapping es una herramienta muy útil que nos permite visualizar y planificar cómo nuestro proyecto puede generar un impacto positivo en los usuarios y en los objetivos finales. Nos ayuda a definir claramente los resultados que queremos lograr, los comportamientos que esperamos de los usuarios y las acciones necesarias para alcanzar esas metas. Al aplicar Impact Mapping, podremos alinear nuestras actividades con los objetivos de manera más efectiva, tomar decisiones más fundamentadas y optimizar el impacto de nuestro proyecto.
+
+[Ver mapa en Miro](https://miro.com/app/board/uXjVI-Ud85A=/?share_link_id=366979847971)
+
+
+- #### Segmento 1: Users
+
+
+  <img src="img/segmento-objetivo/impactmapping1.jpg">
+
+
+
+- #### Segmento 2: Users
+  <img src="img/segmento-objetivo/impactmapping2.jpg">
+
+
+
+
 ## 3.4. Product Backlog
 
 <table>
