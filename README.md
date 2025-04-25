@@ -2248,6 +2248,60 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
 
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+<h2>Logo</h2>
+
+<h3>Isotipo</h3>
+<p>El isotipo de <strong>Mecanet</strong> representa un robot estilizado fusionado con un engranaje, transmitiendo la idea de automatización, tecnología y mantenimiento industrial. En el centro del engranaje se encuentra una "M", inicial del nombre del proyecto, reforzando su identidad. El diseño es simétrico y minimalista, con un estilo amigable que refleja accesibilidad y eficiencia técnica.</p>
+
+<h3>Logotipo</h3>
+<p>El logotipo de <strong>Mecanet</strong> incorpora el nombre completo del proyecto en una tipografía moderna y legible. En algunas versiones, el isotipo se integra al inicio del logotipo, sustituyendo la letra "M", lo que genera una identidad visual cohesiva, versátil y memorable.</p>
+
+<p>Se han desarrollado múltiples versiones del isotipo y logotipo para su correcta aplicación sobre diferentes fondos y en distintos formatos (claro, oscuro, con y sin nombre), garantizando la legibilidad y la consistencia visual de la marca en todos los entornos.</p>
+
+<img src="img/general/mecanetLogo.jpg"></img>
+<br>
+
+<h2>Tipografía</h2>
+<p><strong>Montserrat:</strong> Esta fuente, reconocida por su modernidad y legibilidad, continúa siendo la elección en la interfaz de la aplicación. Aunque inicialmente se orientaba a un público joven, su diseño limpio y profesional se adapta perfectamente a las exigencias de un público de mayor edad. La tipografía proyecta una imagen contemporánea, sin perder la elegancia y claridad que un usuario maduro valora, garantizando así una experiencia visual agradable y accesible para todos.</p>
+<img src="img/general/font.jpg"></img>
+<br>
+
+
+<h2>Colores</h2>
+
+<h3>Gamas de Morado y Azul</h3>
+<p>Los tonos predominantes en la identidad visual de <strong>Mecanet</strong> combinan morados y azules en distintas intensidades, proyectando una imagen tecnológica, confiable y moderna. El morado comunica sofisticación e innovación, mientras que los matices de azul aportan estabilidad y profesionalismo. Esta combinación establece un vínculo visual fuerte con sectores industriales que valoran tanto la precisión como el diseño.</p>
+
+<h3>Neutros y Contrastes</h3>
+<p>La paleta incluye grises suaves y oscuros, blanco puro y negro cálido, que refuerzan la estructura visual de la interfaz. Estos colores actúan como base para generar jerarquía visual, aportan balance y mejoran la legibilidad en todos los entornos, tanto en pantallas claras como en modos oscuros.</p>
+
+<h3>Toques de Rojo y Rosa</h3>
+<p>El rojo vibrante y su versión más clara aportan un acento en la interfaz, utilizado estratégicamente para elementos de alerta, interacción crítica o llamados de atención. Este contraste no solo añade vitalidad, sino que también asegura que las acciones importantes sean percibidas con claridad inmediata por el usuario.</p>
+<img src="img/general/colores.jpg"></img>
+
+
+<h2>Botones</h2>
+
+<p>La interfaz de <strong>Mecanet</strong> emplea un sistema de botones visualmente claro, accesible y jerárquico, diseñado para facilitar la acción del usuario en entornos industriales y administrativos. Cada tipo de botón ha sido definido con un propósito específico, utilizando colores de la paleta institucional y formas consistentes para una experiencia coherente y eficiente.</p>
+
+<h3>Botones Primarios</h3>
+<p>Como el botón <em>“+ Nuevo Repuesto”</em>, destacan acciones principales. Su diseño de esquinas redondeadas, ícono de acción y texto blanco refuerzan su protagonismo visual y sugieren inmediatez.</p>
+
+<h3>Botones Secundarios</h3>
+<p>Representados por estilos contorneados o colores secundarios (como el morado), los botones como <em>“Guardar”</em> y <em>“Agregar Técnico”</em> brindan soporte a acciones relevantes pero no prioritarias. Se usan para completar flujos sin interferir con las acciones primarias.</p>
+
+<h3>Botones de Advertencia o Críticos</h3>
+<p>Botones como <em>“Eliminar”</em> emplean un rojo vibrante para denotar acciones destructivas o de alto impacto. Su visibilidad asegura que el usuario evalúe la decisión antes de continuar.</p>
+
+<h3>Botones Neutros / de Estado</h3>
+<p>El botón <em>“Marcar como Finalizada”</em>, con contorno negro y fondo blanco, comunica una acción intermedia o de estado. Su tono neutro evita confusión con acciones prioritarias o destructivas.</p>
+
+<h3>Botones de Filtro y Herramientas</h3>
+<p>Botones como <em>“Filtro”</em> utilizan íconos y contornos sutiles en morado, orientados a tareas auxiliares o de navegación. Refuerzan la funcionalidad sin competir visualmente con los botones principales.</p>
+<img src="img/general/botones.jpg"></img>
+<p>En conjunto, estos botones garantizan una experiencia clara, intuitiva y adaptable a distintos perfiles de usuario, manteniendo siempre la armonía visual y la funcionalidad del sistema.</p>
+
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 
