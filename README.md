@@ -553,7 +553,7 @@ de audiencia.</td>
 A continuación, se mostrarán los Empathy Mapping creados para cada perfil de usuario identificado en nuestros dos segmentos objetivo. Estos mapas nos ayudarán a comprender mejor a nuestros clientes y, así, optimizar la aplicación. <br/>
 
 **Segmento #1: Administradores y Responsables de Producción** <br/>
-![Segmento #1: Gerentes y Responsables de Producción](img/Empathy-map-segmento1.png) <br/>
+![Segmento #1: Administradores y Responsables de Producción](img/Empathy-map-segmento1.1.png) <br/>
 
 **Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
 ![Segmento #2: Técnicos y Operarios de Mantenimiento](img/Empathy-map-segmento2.png) <br/>
