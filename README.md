@@ -682,8 +682,9 @@ de audiencia.</td>
 </table>
 
 #### 5.2.1.3. Sprint Backlog 1
-
-
+<p>El objetivo de este primer sprint fue desarrollar la primera versión de la Landing Page de nuestro sistema Mecanet, enfocada en presentar la propuesta de valor del producto a potenciales usuarios. Esta versión incluye las secciones clave que comunican los beneficios, planes, preguntas frecuentes, footer y navegación general.</p>
+<img src="img/sprint1/trleo.jpg">
+<p>link:https://trello.com/invite/b/680a6cc7e8740865732b2289/ATTI0f0d254cd7c3649f29efcc5f9b5924a54D385D43/open-source</p>
 <table>
   <tr>
     <th colspan="2">Sprint #</th>
