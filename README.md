@@ -812,7 +812,7 @@ Hemos observado un factor crítico que afecta a muchas industrias manufactureras
 Nuestros usuarios son técnicos de mantenimiento, jefes de planta, supervisores industriales y responsables de inventario que necesitan controlar el estado operativo de las máquinas y ejecutar mantenimientos con eficacia. <br/>
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?** <br/>
-Mecanaut se integra directamente en la rutina diaria de trabajo industrial: planificación de tareas, ejecución de mantenimientos, gestión de inventario y análisis de reportes operativos. <br/>
+Mecanet se integra directamente en la rutina diaria de trabajo industrial: planificación de tareas, ejecución de mantenimientos, gestión de inventario y análisis de reportes operativos. <br/>
 
 **¿Qué problemas tiene nuestro producto que resolver?** <br/>
 El descontrol en los mantenimientos, la falta de trazabilidad de órdenes de trabajo, la ausencia de alertas para mantenimientos preventivos, y la gestión manual del inventario de repuestos. <br/>
@@ -2633,11 +2633,11 @@ El **Domain-Driven Design (DDD)** pretende que el software represente con exacti
 - **Bounded Contexts**: división del dominio en zonas independientes, cada una con su propio modelo y límites claros.  
 - **Patrones estratégicos** (Context Map, Anticorruption Layer) y **tácticos** (Entidades, Value Objects, Repositories, Domain Services) que orientan la estructura del código y la arquitectura general.
 
-En SwiftPort, esta filosofía permite separar responsabilidades (autenticación, facturación, recursos, planificación, ejecución y notificaciones) y evolucionar cada área por separado sin sacrificar la coherencia global.
+En Mecanet, esta filosofía permite separar responsabilidades (autenticación, facturación, recursos, planificación, ejecución y notificaciones) y evolucionar cada área por separado sin sacrificar la coherencia global.
 
 ### 4.6.1. Software Architecture Context Diagram
 
-El siguiente diagrama presenta en una sola vista el sistema SwiftPort, sus actores principales y los sistemas externos con los que se comunica:
+El siguiente diagrama presenta en una sola vista el sistema Mecanet, sus actores principales y los sistemas externos con los que se comunica:
 
 <div>
   <p align="center"><img src="img/ddd/c1.png" alt="c1: System Context.png" width="700px" /></p>
@@ -3702,7 +3702,7 @@ La elaboración de la documentación de servicios está prevista para los próxi
 La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Durante este Sprint se logró exitosamente el despliegue de la Landing Page de la solución **SwiftPort** a través del servicio **Azure Static Web Apps**, en línea con el enfoque de entrega incremental del producto.
+Durante este Sprint se logró exitosamente el despliegue de la Landing Page de la solución **Mecanaut** a través del servicio **Azure Static Web Apps**, en línea con el enfoque de entrega incremental del producto.
 
 ## Actividades ejecutadas:
 - Se creó una cuenta en **Azure** y se configuró un **grupo de recursos compartido** para optimizar la gestión de los servicios asociados.
