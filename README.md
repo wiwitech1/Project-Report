@@ -54,39 +54,94 @@
 <h1 align="center">Registro de versiones del Informe</h1>
 </br>
 <table>
-        <thead>
             <tr>
                 <th>Versión</th>
                 <th>Fecha</th>
                 <th>Autor</th>
                 <th>Descripción de modificaciones</th>
             </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th>TB1</th>
-                <th></th>
-                <td>
-                    <ul>
-          <li>..</li>
-          <li>..</li>
-          <li>..</li>
-          <li>..</li>
-                    <ul>
-           </td>
-      <td>            
-             <ul>
-          <li>Capítulo I: Introducción</li>
-          <li>Capítulo II: Requirements Elicitation & Analysis</li>
-          <li>Capítulo III: Requirements Specification</li>
-          <li>Capítulo IV: Product Design</li>
-          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
-          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
-        </ul>
-      </td>
-  </tr>
-</tbody>
+<tr>
+    <td>0</td>
+    <td>18/04/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Creación del reporte.</td>
+</tr>
+<tr>
+    <td>1.0</td>
+    <td>26/04/2025</td>
+    <td>Jean Pool Huaman De La Cruz</td>
+    <td>Creación y redacción del Startup Profile</td>
+</tr>
+<tr>
+    <td>1.1</td>
+    <td>26/04/2025</td>
+    <td>Jean Pool Huaman De La Cruz</td>
+    <td>Creación y redacción de los segmentos objetivos</td>
+</tr>
+<tr>
+    <td>1.2</td>
+    <td>26/04/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Creación y redacción de los análisis competitivo asi como las propuesta de estrategias para enfrentarlo.</td>
+</tr>
+<tr>
+    <td>1.3</td>
+    <td>26/04/2025</td>
+    <td>Britney Delhy Qqueso Rodriguez</td>
+    <td>Documentación y análisis de las entrevistas a nuestros segmentos objetivos.</td>
+</tr>
+<tr>
+    <td>1.4</td>
+    <td>26/04/2025</td>
+    <td>Britney Delhy Qqueso Rodriguez</td>
+    <td>Creación y maquetación de la sección 'Needfinding' y sus diagramas. De la misma forma, se completo la redaccion de las historias de usuario y el to-be scenario mapping.</td>
+</tr>
+<tr>
+    <td>1.5</td>
+    <td>26/04/2025</td>
+    <td>Jean Pool Huaman De La Cruz</td>
+    <td>Creación del impact mapping asi como la asignacion de user story points en el product backlog.</td>
+</tr>
+<tr>
+    <td>1.6</td>
+    <td>26/04/2025</td>
+    <td>Ariana Cecilia Agreda Sobrino, Claudia Belldonne</td>
+    <td>Documentación de los style guidelines. Documentación de la seccion de la arquitectura de la información.</td>
+</tr>
+<tr>
+    <td>1.7</td>
+    <td>26/04/2025</td>
+    <td>Ariana Cecilia Agreda Sobrino</td>
+    <td>Creación y documentación del Landing Page UI Design, Web Applications UX/UI Design y Web Applications Prototyping.</td>
+</tr>
+<tr>
+    <td>1.8</td>
+    <td>26/04/2025</td>
+    <td>Mauricio Elera, Claudia Belledonne</td>
+    <td>Creación y documentación del la sección de Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design.</td>
+</tr>
+<tr>
+    <td>1.9</td>
+    <td>26/04/2025</td>
+    <td>Mauricio Elera</td>
+    <td>Creación e implementación de la sección Software Configuration Management.</td>
+</tr>
+<tr>
+    <td>1.10</td>
+    <td>26/04/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Planeación y documentación del Sprint 1</td>
+</tr>
+<tr>
+    <td>1.11</td>
+    <td>06/05/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Corrección de la sección de versiones del reporte</td>
+</tr>
 </table>
+
+</br>
+
 
 # Project Report Collaboration Insights
 [Link de repositorio del reporte:](https://github.com/wiwitech1/Project-Report): https://github.com/wiwitech1/Project-Report.git
