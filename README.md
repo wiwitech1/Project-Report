@@ -3500,6 +3500,28 @@ Diagrama de clases basado en bounded contexts
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+
+| Repository                                                                 | Branch   | Commit Id             | Commit Message                              | Commit Message Body                                                                 | Committed on (Date) |
+|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
+| https://github.com/wiwitech1/mecanet-l4nding-page                          | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 25/04/2025           |
+|                                                                            | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 25/04/2025           |
+|                                                                            | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 25/04/2025           |
+|                                                                            | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 25/04/2025           |
+|                                                                            | main     | 50cb013…a52b2c8       | chore(release): merge release 1.0.0 into main | First release containing Hero, Navbar and base styling                              | 25/04/2025           |
+|                                                                            | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 25/04/2025           |
+
+
+
+
+
+=======
+Durante este Sprint no se desarrollaron ni documentaron Web Services, ya que el objetivo principal fue la implementación de la Landing Page como primer entregable del sistema. Por ello, en esta fase del proyecto no se dispone de endpoints disponibles ni de documentación OpenAPI.
+
+La elaboración de la documentación de servicios está prevista para los próximos Sprints, cuando comience el desarrollo del backend y se defina la estructura inicial de la API que permitirá la integración con las vistas web implementadas.
+
+La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Durante este Sprint se logró implementar de forma completa la Landing Page del proyecto Macanet. Esta vista inicial permite a los usuarios conocer las funcionalidades clave del sistema, resolver dudas frecuentes y visualizar la propuesta de valor. Se trabajó en secciones como el header, sección de producto, sección de preguntas frecuentes (FAQ) y el footer, garantizando una navegación fluida y una presentación clara de los objetivos del producto.
 
@@ -3533,37 +3555,15 @@ Video de Demostración e Implementación:
 [Ver video de Demostración e Implementación](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElEzvPegLThJuJq3nIyFwB0BASzKXkKKbALgeuaPbHs2-w?e=Og9J2a) 
 
 
-
-
 <p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.6. Software Deployment Evidence for Sprint Review.
 
-| Repository                                                                 | Branch   | Commit Id             | Commit Message                              | Commit Message Body                                                                 | Committed on (Date) |
-|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
-| https://github.com/wiwitech1/mecanet-l4nding-page                          | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 25/04/2025           |
-|                                                                            | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 25/04/2025           |
-|                                                                            | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 25/04/2025           |
-|                                                                            | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 25/04/2025           |
-|                                                                            | main     | 50cb013…a52b2c8       | chore(release): merge release 1.0.0 into main | First release containing Hero, Navbar and base styling                              | 25/04/2025           |
-|                                                                            | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 25/04/2025           |
-
-
-
-
-
-=======
-Durante este Sprint no se desarrollaron ni documentaron Web Services, ya que el objetivo principal fue la implementación de la Landing Page como primer entregable del sistema. Por ello, en esta fase del proyecto no se dispone de endpoints disponibles ni de documentación OpenAPI.
-
-La elaboración de la documentación de servicios está prevista para los próximos Sprints, cuando comience el desarrollo del backend y se defina la estructura inicial de la API que permitirá la integración con las vistas web implementadas.
-
-La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Durante este Sprint se logró exitosamente el despliegue de la Landing Page de la solución **Mecanaut** a través del servicio **Azure Static Web Apps**, en línea con el enfoque de entrega incremental del producto.
 
-## Actividades ejecutadas:
+##### Actividades ejecutadas:
 - Se creó una cuenta en **Azure** y se configuró un **grupo de recursos compartido** para optimizar la gestión de los servicios asociados.
 - Se realizó el **despliegue** de la Landing Page desde su **repositorio de GitHub** mediante **Azure Static Web Apps**, habilitando así un flujo automatizado de publicación a través de **GitHub Actions**.
 - Se implementó y verificó el flujo de **CI/CD** (Integración y Entrega Continua), asegurando que cada **commit** realizado sobre la rama **main** actualice automáticamente la aplicación desplegada.
@@ -3594,8 +3594,6 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 
 ![image](https://github.com/user-attachments/assets/1d6b12ba-76bb-4b65-a044-fca4b6676002)
 
-
-
 ##### Repositorio de trabajo:
 
 - [Repositorio de la Landing Page en GitHub](https://github.com/wiwitech1/Project-Report)
@@ -3604,14 +3602,13 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
-
-
-
-
-
-
-
-
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.3. Sprint Backlog 2.
+#### 5.2.2.4. Development Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 
 
