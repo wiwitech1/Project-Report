@@ -229,16 +229,16 @@
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
+      - [5.2.1.3. Sprint Backlog 1.](#5213-sprint-backlog-n)
       - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 1](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-2)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
-      - [5.2.2.3. Sprint Backlog n.](#5223-sprint-backlog-2)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
       - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
@@ -3511,10 +3511,6 @@ Diagrama de clases basado en bounded contexts
 |                                                                            | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 25/04/2025           |
 
 
-
-
-
-=======
 Durante este Sprint no se desarrollaron ni documentaron Web Services, ya que el objetivo principal fue la implementación de la Landing Page como primer entregable del sistema. Por ello, en esta fase del proyecto no se dispone de endpoints disponibles ni de documentación OpenAPI.
 
 La elaboración de la documentación de servicios está prevista para los próximos Sprints, cuando comience el desarrollo del backend y se defina la estructura inicial de la API que permitirá la integración con las vistas web implementadas.
@@ -3530,30 +3526,23 @@ A continuación, se presentan capturas de pantalla de las vistas desarrolladas:
 Inicio:
 ![image](https://github.com/user-attachments/assets/5c2cf261-3f16-4870-9b86-4255fc1273fe)
 
-
 Producto:
 ![image](https://github.com/user-attachments/assets/c4e2e6b6-4eda-43f4-877d-235b45d0707e)
-
 
 Beneficios:
 ![image](https://github.com/user-attachments/assets/601c02a8-8321-4203-8f10-b33227eaacf6)
 
-
 Planes:
 ![image](https://github.com/user-attachments/assets/285afcca-d0a0-4cc0-9be4-871073e31385)
-
 
 Faq:
 ![image](https://github.com/user-attachments/assets/6748a8ff-a926-4459-9e98-445fa230d549)
 
-
 Footer:
 ![image](https://github.com/user-attachments/assets/96a2bc59-16b1-462b-b05f-5e89e2b48acd)
 
-
 Video de Demostración e Implementación:
 [Ver video de Demostración e Implementación](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElEzvPegLThJuJq3nIyFwB0BASzKXkKKbALgeuaPbHs2-w?e=Og9J2a) 
-
 
 <p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
 
@@ -3602,6 +3591,75 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Planning Background</strong></th>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>13/05/2025</td>
+    </tr>
+     <tr>
+        <td>Time</td>
+        <td> 3:00 PM</td>
+    </tr>
+     <tr>
+        <td>Location</td>
+        <td>Reunión virtual – Discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By</td>
+        <td>Claudia Belledonne</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning meeting)</td>
+        <td>
+
+- Ariana Cecilia Agreda Sobrino
+            
+- Claudia Valeria Belledonne Espinoza
+            
+- Mauricio Daniel Elera Rodríguez
+            
+- Britney Delhy Qqueso Rodriguez
+   </td>
+    </tr>
+    <tr>
+        <td>Sprint 2 – 1 Review Summary</td>
+        <td>Durante la revisión del Sprint 1, se demostró la funcionalidad del landing page, incluyendo las secciones de beneficios, procesos y precios. Se recibieron comentarios positivos sobre la claridad de la información y la navegación.</td>
+    </tr>
+    <tr>
+        <td>Sprint 2 – 1 Retrospective Summary</td>
+        <td>En la retrospectiva del Sprint 1, identificamos como puntos fuertes la buena comunicación del equipo y coodinación. Como áreas de mejora, se señaló mejorar la gesión del tiempo.</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+    </tr>
+    <tr>
+        <td>Sprint 2 Goal</td>
+        <td>
+<strong>Nuestra meta para este sprint es</strong> desarrollar e implementar las funcionalidades esenciales en la página web para la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo. 
+
+<strong>Creemos que</strong> esto proporcionará una base sólida para la interacción de los usuarios con el sistema y la gestión de sus operaciones clave. 
+
+<strong>Esto se confirmará</strong> cuando los usuarios puedan crear e iniciar sesión en sus respectivas cuentas, administrar los activos, visualizar y gestionar la línea de producción, acceder a la planificación del mantenimiento y utilizar el menú de órdenes de trabajo desde la página web.
+    </td>
+    </tr>
+     <tr>
+        <td>Sprint 2 Velocity  </td>
+        <td>35 Story Points.</td>
+    </tr>
+     <tr>
+        <td>Sum of Story Points  </td>
+        <td>35 Story Points.</td>
+    </tr>
+</table>
+
+
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 #### 5.2.2.3. Sprint Backlog 2.
 #### 5.2.2.4. Development Evidence for Sprint Review.
