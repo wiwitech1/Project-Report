@@ -3659,8 +3659,60 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     </tr>
 </table>
 
-
 #### 5.2.2.2. Aspect Leaders and Collaborators.
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Sección de inicio de sesión<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de crear cuenta (corporativa y usuario)<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de gestión de activos (maquinarias)<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección plan de mantenimiento<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de gestión de línea de producción<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de ordenes de trabajo<br/>Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>arii4w</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Cl4us-tb</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Maur1xio</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Qqueso, Britney</td>
+    <td>brit2801</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+
 #### 5.2.2.3. Sprint Backlog 2.
 #### 5.2.2.4. Development Evidence for Sprint Review.
 #### 5.2.2.5. Execution Evidence for Sprint Review.
