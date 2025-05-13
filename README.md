@@ -138,6 +138,12 @@
     <td>Claudia Belledonne</td>
     <td>Corrección de la sección de versiones del reporte</td>
 </tr>
+<tr>
+    <td>2.0</td>
+    <td>13/05/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Planeación y documentación del Sprint 1</td>
+</tr>
 </table>
 
 </br>
@@ -243,6 +249,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 1](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog n.](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
@@ -3797,6 +3812,20 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 - [Repositorio de la Landing Page en GitHub](https://github.com/wiwitech1/Project-Report)
 
 Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+
+
+
+
+
+
+
+
+
+
 
 # Conclusiones y recomendaciones.
 ## Conclusiones: 
