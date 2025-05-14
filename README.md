@@ -3804,28 +3804,66 @@ A continuación, se presenta una tabla con los commits relacionados con la imple
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
-En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, generar órdenes de trabajo correctivas y asignar personal técnico a ellas, establecer planes de mantenimiento para las líneas de producción, y permitir a los técnicos consultar sus órdenes de trabajo diarias. Además, se ha implementado el sistema de registro e inicio de sesión para cuentas corporativas y de usuario, proporcionando la base para el acceso seguro al sistema.<br/>
+En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, generar órdenes de trabajo correctivas y asignar personal técnico a ellas, establecer planes de mantenimiento para las líneas de producción, y permitir a los técnicos consultar sus órdenes de trabajo diarias.<br/>
 
 A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
 
+#### Plants Manager View  
+![Login View](img/sprint2/plants.png)
+
+#### New Plant View  
+![Login View](img/sprint2/add-plants.png)
+
+#### Production Line Manager View  
+![Login View](img/sprint2/production-line.png)
+
+#### New Production Line View  
+![Login View](img/sprint2/add-production-line.png)
+
+#### Machinery Manager View  
+![Login View](img/sprint2/machinery.png)
+
+#### Maintanice Plan View  
+![Login View](img/sprint2/maintanice-plan.png)
+
+#### New Plan View  
+![Login View](img/sprint2/add-plan-man.png)
+
+#### New Plan Static View  
+![Login View](img/sprint2/view-plan-man.png)
+
+#### New Plan Dynamic View  
+![Login View](img/sprint2/dynamic-plan.png)
+
+#### Spare Parts View  
+![Login View](img/sprint2/repuestos.png)
+
+#### Edit Spare Parts View  
+![Login View](img/sprint2/edit-repuesto.png)
+
+
+
+
+
+
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-Durante el Sprint 2, se logró documentar exitosamente los servicios web fundamentales para el registro y gestión de usuarios, maquinarias, líneas de producción, órdenes de trabajo, así como la planificación de mantenimiento. Se utilizó la especificación OpenAPI (Swagger) para la documentación estandarizada, facilitando la visualización y pruebas interactivas de los endpoints implementados.<br/>
+Durante este Sprint no se desarrollaron ni documentaron Web Services, dado que el enfoque principal estuvo en la implementación del FrontEnd de la Aplicación Web, con todas sus vistas. Por lo tanto, no se cuenta con endpoints disponibles ni documentación generada en OpenAPI en esta etapa del proyecto.
 
-Estos servicios permiten la interacción básica entre la interfaz web y la lógica del backend, habilitando el flujo de operaciones esenciales para los distintos roles del sistema.<br/>
-
-La siguiente tabla detalla los endpoints documentados durante el Sprint:<br/>
+La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Durante este Sprint, se avanzó de manera significativa en el proceso de Deployment de los principales componentes del sistema, incluyendo la Landing Page, las Aplicaciones Web y los Servicios Web (API). A continuación, se describen las acciones realizadas y se documentan con capturas y explicaciones técnicas.
 
-##### 1. Creación de cuentas y configuración de recursos 
+##### 1. Crear nuevo recurso SPA dentro de mismo grupo de recursos
 Se seleccionó Azure como plataforma de despliegue por su facilidad de integración con herramientas de desarrollo y CI/CD. Las principales acciones realizadas fueron:
 
-- Creación de cuenta de equipo.
-- Creación de proyectos separados para cada componente: Capa de datos y capa de aplicación.
-- Configuración de entornos (Production y Development).
-- Asignación de variables de entorno necesarias para conexiones seguras a servicios externos (base de datos, APIs externas, etc).
+![alt text](/img/sprint2/azure1.png)
+
+![alt text](/img/sprint2/azure2.png)
+
 
 Captura 1: Configuración del proyecto en Azure
 
@@ -3838,20 +3876,35 @@ Se integraron los repositorios de GitHub con el servicio de despliegue, permitie
     - Ejecución de pruebas.
     - Construcción del proyecto.
 
+![alt text](/img/sprint2/azure3.png)
+![alt text](/img/sprint2/azure4.png)
+
+  
+
 Captura 2: Registro de despliegue exitoso tras push en rama main
 
 ##### 3. Deployment de la Aplicación Web
 La App Web fue desplegada como una SPA (Single Page Application), asegurando el correcto enrutamiento y carga de componentes dinámicos. El build se generó con npm run build y fue subido al entorno de producción.
 
-- Se verificó la conexión con los servicios backend.
-- Se realizaron pruebas básicas de navegación e interacción.
+![alt text](/img/sprint2/azure5.png)
 
-Captura 3: Interfaz de usuario desplegada
+![alt text](/img/sprint2/azure6.png)
+
 
 ##### 4. Deployment de los Servicios Web (API)
 Se simuló el backend utilizando MockAPI, el cual proporcionó soporte para peticiones REST y autenticación básica. Se verificó la correcta funcionalidad de las rutas implementadas mediante pruebas exhaustivas con Postman. <br/>
 
-Captura 4: Prueba exitosa de endpoints desde Postman
+Solo creamos 2 recursos (ya que es el límite gratiuto que tiene mockapi).
+![alt text](/img/sprint2/mock1.png)
+
+Lo probamos en Postman o Thuder Client:
+![alt text](/img/sprint2/mock2.png)
+
+
+
+
+
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 Durante el desarrollo de este Sprint, el equipo colaboró estrechamente en la implementación de las funcionalidades clave de la aplicación web. La colaboración se centró en la creación de las entidades de la base de datos, el desarrollo de las interfaces de usuario iniciales y la implementación de la lógica de negocio fundamental. <br/>
