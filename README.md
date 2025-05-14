@@ -3995,12 +3995,26 @@ Fomentar aún más la documentación técnica paso a paso, especialmente en las 
 McKinsey & Company. (2021). Innovación a través de la disrupción digital en servicio a clientes. [https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service](https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service) 
 # Anexos
 
-Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=0-1&t=TNttHot2q3YOT97v-1
-Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
-Link del Video del Product: https://youtu.be/C0cHMqzKaEI
-Link del Repositorio del informe: https://github.com/wiwitech1/Project-Report?tab=readme-ov-file
-Link del Respositorio de la Landing Page: https://github.com/wiwitech1/mecanet-l4nding-page
+
+Link del Proyecto Desplegado: https://agreeable-moss-0b81a851e.6.azurestaticapps.net/
+
 Link de la Landing Page: https://kind-wave-030d8c21e.6.azurestaticapps.net/
+
+
+Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=0-1&t=TNttHot2q3YOT97v-1
+
+Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
+
+
+Link del Repositorio del informe: https://github.com/wiwitech1/Project-Report?tab=readme-ov-file
+
+Link del Respositorio de la Landing Page: https://github.com/wiwitech1/mecanet-l4nding-page
+
 Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
 
+
+Link del Video del Product: https://youtu.be/C0cHMqzKaEI
+
 Video de Exposición TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
+
+
