@@ -151,6 +151,13 @@
 
 # Project Report Collaboration Insights
 [Link de repositorio del reporte:](https://github.com/wiwitech1/Project-Report): https://github.com/wiwitech1/Project-Report.git
+## TB1
+En esta entrega, cada miembro del equipo contribuyó activamente al desarrollo del proyecto y a la implementación de la Landing Page, organizándose por secciones según el diseño y el contenido previamente establecidos. Las capturas de los analíticos de colaboración del repositorio oficial evidencian la participación de todos.
+![Contributions tb1](img/sprint2/Contributions-Tb1.png)
+
+## TP
+En esta entrega, la estrecha colaboración del equipo permitió implementar las funcionalidades clave de la aplicación web. La asignación de tareas por secciones, en concordancia con el diseño y contenido predefinidos, facilitó este proceso. La participación activa de todos los miembros se evidencia en los analíticos de colaboración del repositorio oficial.
+![Contributions tp](img/sprint2/Contributions-Tb1.png)
 
 # Contenido
 [Student Outcome](#student-outcome)
