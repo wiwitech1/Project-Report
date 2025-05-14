@@ -3769,8 +3769,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 
 
 <tr>
-    <th rowspan="4">US02</th>
-    <th rowspan="4">Registro de líneas de producción</th>
+    <th rowspan="3">US02</th>
+    <th rowspan="3">Registro de líneas de producción</th>
     <td>4</td>
     <td align="justify">Crear entidad LíneaProducción en la base de datos</td>
     <td align="justify">Definir la estructura de la tabla para almacenar la información de las líneas de producción (nombre, prioridad, descripción, etc.)</td>
