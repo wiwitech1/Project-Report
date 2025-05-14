@@ -4001,13 +4001,13 @@ A continuación, se presenta una tabla con los commits relacionados con la imple
 
 | Repository        | Branch   | Commit Id       | Commit Message         | Commit Message Body             | Committed on (Date) |
 |----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
-| https://github.com/wiwitech1/mecanet-frontend.git    | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 13/05/2025           |
-|                                                      | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 13/05/2025       |
-|                                                      | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 13/05/2025        |
-|                                                      | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 13/05/2025        |
-|                                                       | main     | 50cb013…a52b2c8       | chore(release): merge release 1.0.0 into main | First release containing Hero, Navbar and base styling                              | 13/05/2025        |
-|                                                       | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 13/05/2025        |
-
+| https://github.com/wiwitech1/mecanet-frontend.git    | develop     | c12e9fa               | feat(maintenance): add maintenance planning UI                   | Created UI for maintenance planning section with form inputs and dynamic validation                    | 11/05/2025           |
+| https://github.com/wiwitech1/mecanet-frontend.git   | develop  | d98a3b2              | feat(auth): implement login and auth logic          | Developed login screen with form validation and integrated authentication flow                     | 11/05/2025       |
+| https://github.com/wiwitech1/mecanet-frontend.git | develop  | a53e7c1              | feat(orders): add corrective work orders flow        | Implemented UI and logic to register and assign corrective work orders to technical staff                    | 12/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git    | develop  | b17f00c             | feat(account): add production line creation | Added section for production line registration linked to user account context          | 12/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git   | main     | e6a82d3           | feat(order-entity): implement work order entity | Developed the base model for work orders including type, priority, status and technician assignment                              | 12/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git | develop  | f5c9b11              | ci: update deploy workflow for release preview     | Updated CI/CD GitHub Actions to deploy Sprint 2 features to Azure Static Web Apps preview environment             | 13/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git    | main     | c12e9fa…f5c9b11              | chore(release): merge release 1.1.0 into main                    | Merged Sprint 2 release including login, maintenance planning, production lines and corrective orders                    | 14/05/2025           |
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
