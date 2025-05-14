@@ -2382,10 +2382,8 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
 Diagrama de clases basado en bounded contexts
 
 <div>
-  <p align="center"><img src="img/odd/classes-db.jpg" alt="Class Diagram" width="700px" /></p>
+  <p align="center"><img src="img/odd/classes-db.png" alt="Class Diagram" width="700px" /></p>
 </div>
-### 4.7.2. Class Dictionary.
-## Security Context
 
 ### Account
 **Descripción**: Organización cliente suscrita a la plataforma, con límites de usuarios y activos definidos por su plan.
