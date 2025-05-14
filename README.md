@@ -1178,14 +1178,16 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Nombre completo:** Grisel Arones  
 - **Edad:** 24 años  
 - **Cargo / Rol en la empresa:** Asistente de Logística y Planta  
-- **Enlace del video:** [https://youtu.be/3co_jPUM9lA](https://youtu.be/3co_jPUM9lA)  
+- **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 0:00 s
  <img src="img/segmento-objetivo/Grisel.jpg">
 
 #### Entrevista #2
 - **Nombre completo:** Arnold Vargas  
 - **Edad:** 31 años  
 - **Cargo / Rol en la empresa:** Administrador de mantenimiento  
-- **Enlace del video:** [https://youtu.be/tKjNAA7Iq4M](https://youtu.be/tKjNAA7Iq4M)  
+- **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 4:48 s 
  <img src="img/segmento-objetivo/arnol.jpg">
 
 
@@ -1195,21 +1197,24 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Nombre completo:** Jhohan De la Cruz  
 - **Edad:** 23 años  
 - **Puesto o función que desempeñas:** Técnico de Diagnóstico y Reparación  
-- **Enlace del video:** [https://youtu.be/W0m4wlCXusY](https://youtu.be/W0m4wlCXusY)  
+- **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 11:42 s
  <img src="img/segmento-objetivo/jhohan.jpg ">
 
 #### Entrevista #2
 - **Nombre completo:** César Gallo  
 - **Edad:** 48 años  
 - **Puesto o función que desempeñas:** Soy conductor de camión volquete  
-- **Enlace del video:** [https://youtu.be/I830YHdAFo4](https://youtu.be/I830YHdAFo4)  
+- **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 17:06 s
  <img src="img/segmento-objetivo/cesar.jpg">
 
 #### Entrevista #3
 - **Nombre completo:** Luis Fernandez  
 - **Edad:** 25 años  
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
-- **Enlace del video:** [https://youtu.be/eywWGijGBPM](https://youtu.be/eywWGijGBPM)  
+- **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 25:32 s
  <img src="img/segmento-objetivo/luis.jpg ">
 
 
