@@ -4055,10 +4055,10 @@ A continuación, se detalla la participación específica de cada integrante del
 
 | **Nombre**                       | **Actividad** |
 | ---------------------------------|------------|
-| Agreda Sobrino, Ariana Cecilia   |     |
-| Belledone Espinoza, Claudia      |     |
-| Elera Rodríguez, Mauricio Daniel |     |
-| Qqueso Rodriguez, Britney Delhy  |     |
+| Agreda Sobrino, Ariana Cecilia   |Líder en planificación de mantenimiento. Desarrolló planes de mantenimiento, registro de cuentas y lógica de autenticación.|
+| Belledone Espinoza, Claudia      |Líder en inicio de sesión. Desarrolló el login, consulta de órdenes diarias y registro de maquinarias.|
+| Elera Rodríguez, Mauricio Daniel |Líder en órdenes de trabajo. Implementó órdenes correctivas, asignación de técnicos y gestión de sesiones.|
+| Qqueso Rodriguez, Britney Delhy  |Líder en creación de cuentas. Desarrolló líneas de producción y entidad de órdenes de trabajo.|
 
 ##### Evidencia de colaboración en GitHub
 A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo. <br/>
