@@ -138,6 +138,31 @@
     <td>Claudia Belledonne</td>
     <td>Corrección de la sección de versiones del reporte</td>
 </tr>
+<tr>
+    <td>2.0</td>
+    <td>13/05/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Planeación y documentación del Sprint 2</td>
+</tr>
+<tr>
+    <td>2.1</td>
+    <td>13/05/2025</td>
+    <td>Ariana Cecilia Agreda Sobrino</td>
+    <td>Creación y redacción de Execution Evidence for Sprint Review.</td>
+</tr>
+</tr>
+    <td>2.2</td>
+    <td>13/05/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Creación y redacción de Services Documentation Evidence for Sprint Review.</td>
+</tr>
+</tr>
+    <td>2.3</td>
+    <td>14/05/2025</td>
+    <td>Mauricio Elera</td>
+    <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
+</tr>
+    
 </table>
 
 </br>
@@ -145,24 +170,17 @@
 
 # Project Report Collaboration Insights
 [Link de repositorio del reporte:](https://github.com/wiwitech1/Project-Report): https://github.com/wiwitech1/Project-Report.git
+## TB1
+En esta entrega, cada miembro del equipo contribuyó activamente al desarrollo del proyecto y a la implementación de la Landing Page, organizándose por secciones según el diseño y el contenido previamente establecidos. Las capturas de los analíticos de colaboración del repositorio oficial evidencian la participación de todos.
+![Contributions tb1](img/sprint2/Contributions-Tb1.png)
+
+## TP
+En esta entrega, la estrecha colaboración del equipo permitió implementar las funcionalidades clave de la aplicación web. La asignación de tareas por secciones, en concordancia con el diseño y contenido predefinidos, facilitó este proceso. La participación activa de todos los miembros se evidencia en los analíticos de colaboración del repositorio oficial.
+![Contributions tp](img/sprint2/Contributions-Tb1.png)
 
 # Contenido
 [Student Outcome](#student-outcome)
 
-[Capítulo I: Introducción](#capítulo-i-introducción)
-- [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-- [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2 Lean UX Process](#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
 - [COURSE PROJECT](#course-project)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
@@ -237,12 +255,21 @@
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
+      - [5.2.1.3. Sprint Backlog 1.](#5213-sprint-backlog-n)
       - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
@@ -254,203 +281,6 @@
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
-
-[Capítulo IV: Product Design](#capítulo-iv-product-design)
-- [COURSE PROJECT](#course-project)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems.](#421-organization-systems)
-    - [4.2.2. Labeling Systems.](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems.](#424-searching-systems)
-    - [4.2.5. Navigation Systems.](#425-navigation-systems)
-  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-    - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
-    - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams.](#471-class-diagrams)
-    - [4.7.2. Class Dictionary.](#472-class-dictionary)
-  - [4.8. Database Design.](#48-database-design)
-    - [4.8.1. Database Diagram.](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management.](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management.](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
-      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
-- [Video About-the-Team.](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
-
-[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-- [COURSE PROJECT](#course-project)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems.](#421-organization-systems)
-    - [4.2.2. Labeling Systems.](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems.](#424-searching-systems)
-    - [4.2.5. Navigation Systems.](#425-navigation-systems)
-  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-    - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
-    - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams.](#471-class-diagrams)
-    - [4.7.2. Class Dictionary.](#472-class-dictionary)
-  - [4.8. Database Design.](#48-database-design)
-    - [4.8.1. Database Diagram.](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management.](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management.](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
-      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
-- [Video About-the-Team.](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
-
-[Conclusiones](#conclusiones)
-- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-- [Video About-the-Team](#video-about-the-team)
-
-[Bibliografía](#bibliografía)
-
-[Anexos](#anexos)
 
 # Student Outcome
 
@@ -473,7 +303,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p>urante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo demostré liderazgo dentro del equipo al encargarme del módulo de planificación de mantenimiento, proponiendo una estructura clara y funcional que permitió integrar esta funcionalidad de forma eficiente al sistema. Coordiné con mis compañeros para asegurar que la lógica del sistema fuera coherente entre módulos.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -485,7 +315,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>Durante TB1, tomé un rol activo en la elaboración del análisis competitivo y en la propuesta de estrategias clave para el proyecto. Guié la redacción de las historias de usuario, los epics y la estructuración del product backlog, fomentando siempre la toma de decisiones conjunta y el liderazgo compartido en las etapas iniciales del trabajo. Finalmente, lidere el modelado del diagrama de la base de datos relacional para el trabajo.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo asumí un rol activo de liderazgo al desarrollar el módulo de inicio de sesión y guiar su integración con otras secciones. También aporté desde el diseño hasta la implementación, fortaleciendo la base del sistema de autenticación y acceso.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -497,7 +327,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p>Durante el desarrollo de la TB1, me encargué del diseño de la interfaz de usuario de la landing page, creando su wireframe y mock-up para establecer tanto la estructura como el diseño visual final. También trabajé en el diseño de la experiencia y la interfaz de usuario de la aplicación web, desarrollando los wireframes, los diagramas de wireflow para ilustrar el flujo de interacciones entre pantallas, los mock-ups detallados y los diagramas de flujo de usuario para visualizar las rutas dentro de la aplicación. Además, creé prototipos interactivos de la aplicación web para probar las funcionalidades y la experiencia del usuario antes de la implementación final.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo ejercí liderazgo técnico en la implementación del módulo de órdenes de trabajo, tomando decisiones sobre estructura y funcionalidades. Además, colaboré con mis compañeros para asegurar que mi parte se integre correctamente con el resto del sistema.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -507,7 +337,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Jean Pool Huaman De La Cruz</b></p>
        <p><b>TB1:</b></p>
-        <p>  ●	Colaboré en actividades como la definición de segmentos objetivos y en el diseño y registro de entrevistas. También participé en partes del análisis y en la elaboración del To-Be Scenario Mapping e Impact Mapping, aportando desde mi perspectiva. </p>
+        <p> Colaboré en actividades como la definición de segmentos objetivos y en el diseño y registro de entrevistas. También participé en partes del análisis y en la elaboración del To-Be Scenario Mapping e Impact Mapping, aportando desde mi perspectiva. </p>
         <p><b>TP1:</b></p>
         <p>-</p>
         <p><b>TB2:</b></p>
@@ -520,7 +350,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>Durante TB1, colaboré activamente en la elaboración del Solution Profile, la identificación de la problemática y la aplicación del proceso Lean UX. Participé en la construcción del Lean UX Canvas, el desarrollo de los Hypothesis Statements y la organización de entrevistas. También apoyé en la creación de entregables como User Personas, Journey Mapping y Empathy Mapping.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo tomé liderazgo en el desarrollo del registro de cuentas y líneas de producción. Establecí la estructura de datos y lógica necesaria para el correcto funcionamiento de estas secciones, asegurando su alineación con el diseño general del sistema.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -531,7 +361,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p> Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Como líder en planificación de mantenimiento, asumí la responsabilidad de desarrollar los planes de mantenimiento, el registro de cuentas y la lógica de autenticación. Esta experiencia me permitió ejercer un liderazgo técnico efectivo, aportando soluciones concretas e integrando mi trabajo con el de mis compañeros para asegurar la coherencia del sistema.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -542,7 +372,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Liderar el desarrollo del módulo de inicio de sesión, además de implementar la consulta de órdenes diarias y el registro de maquinarias, me permitió ejercer un liderazgo colaborativo que contribuyó a la base del sistema. Coordiné decisiones técnicas con el equipo, lo que fortaleció nuestra dinámica y alineó nuestras metas.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -554,7 +384,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p>El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Al liderar el módulo de órdenes de trabajo —incluyendo la implementación de órdenes correctivas, la asignación de técnicos y la gestión de sesiones—, aprendí a tomar decisiones técnicas que impactaban en múltiples secciones del sistema. Esta responsabilidad me permitió ejercer un liderazgo claro dentro de mi área, en constante colaboración con los demás.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -577,7 +407,9 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>Mi participación contribuyó a un trabajo conjunto fluido, donde cada integrante aportó al desarrollo de los entregables, fortaleciendo la cooperación del equipo.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Como líder en la creación de cuentas, desarrollé la lógica para registrar líneas de producción y modelé la entidad de órdenes de trabajo. Esta participación me permitió liderar desde lo técnico, integrando mis entregables con los demás módulos y aportando activamente al cumplimiento de los objetivos generales del equipo.
+
+</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -585,8 +417,6 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       </td>
     </tr>
 
-
-    
 <tr>
       <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
       <td>
@@ -594,7 +424,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p>Fomenté un entorno de trabajo colaborativo desde el inicio del proyecto, promoviendo la participación equitativa entre los miembros del equipo. Propuse ideas creativas para la landing page y ayudé a definir los objetivos del Sprint 1. Participé activamente en la planificación de tareas, coordinando esfuerzos con mis compañeros para cumplir los entregables establecidos de manera organizada y puntual.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo contribuí a un ambiente colaborativo al coordinar tareas con mis compañeros, proponer ideas para facilitar la planificación y asegurar que cada entregable se desarrollara a tiempo. Me esforcé por mantener una comunicación constante que permitiera cumplir con los objetivos trazados.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -606,7 +436,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>Contribuí a crear un entorno colaborativo proponiendo metas claras para el Sprint 1 y apoyando la planificación de tareas desde una perspectiva inclusiva. Además, elaboré la documentación del sprint y del informe general, asegurando que las ideas del equipo fueran reflejadas de forma coherente y ordenada.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo promoví un entorno de trabajo inclusivo al organizar y documentar el progreso técnico del equipo. Mi enfoque fue asegurar que todas las ideas fueran consideradas y que el trabajo fluyera de manera ordenada para lograr los entregables del sprint.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -618,7 +448,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p>Programé la landing page respetando las ideas y diseños planteados por el equipo, asegurando que todas las contribuciones se integraran de forma equitativa. Ayudé a planificar las tareas de desarrollo y a cumplir los plazos establecidos, fomentando un entorno colaborativo donde se valoraron todas las propuestas.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo colaboré con el equipo para integrar ideas diversas en la implementación técnica, planificando tareas junto a mis compañeros y cumpliendo con los plazos propuestos. Ayudé a que todos los módulos se desarrollaran de forma sinérgica.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -641,7 +471,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>Apoyé la definición de metas para la fase inicial, colaboré en la planificación de tareas y en la distribución del trabajo. Participé en la organización de entrevistas, mapeos y documentación, siempre promoviendo la participación equitativa.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Yo fomenté la colaboración dentro del equipo al participar activamente en la planificación de tareas y en la distribución equitativa del trabajo. Mi enfoque fue asegurar que todos los miembros pudieran aportar y que los entregables del TP1 se completaran de manera efectiva.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -653,7 +483,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p>Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Esta experiencia reforzó mi capacidad para coordinar y colaborar dentro del equipo. Aprendí a equilibrar la planificación de tareas con la participación activa de todos, lo cual fue esencial para alcanzar nuestras metas de manera ordenada y puntual.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -665,7 +495,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Mi rol como líder del módulo de planificación de mantenimiento me motivó a colaborar estrechamente con el equipo para definir objetivos claros y distribuir tareas. Al trabajar también en el registro de cuentas y autenticación, promoví una comunicación constante y una planificación eficiente que facilitó el cumplimiento de nuestros objetivos del TP1.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -677,7 +507,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TB1:</b></p>
         <p>Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Liderando la parte de órdenes de trabajo, trabajé en estrecha coordinación con mis compañeros para integrar sus módulos con el mío. Esta colaboración activa me permitió contribuir a una buena planificación y a la construcción de un entorno donde cada tarea estaba alineada a un objetivo compartido.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -700,7 +530,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
        <p><b>TB1:</b></p>
         <p>El trabajo coordinado permitió avanzar de forma organizada, integrando aportes de todos los miembros y logrando los objetivos propuestos de la TB1.</p>
         <p><b>TP1:</b></p>
-        <p>-</p>
+        <p>Mi trabajo en el desarrollo de cuentas y líneas de producción requirió constante coordinación con los demás líderes de módulo. Participé activamente en la planificación de tareas y promoví que todos los aportes fueran escuchados, lo que permitió que cumpliéramos con los entregables de forma estructurada y equitativa.</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -1374,14 +1204,16 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Nombre completo:** Grisel Arones  
 - **Edad:** 24 años  
 - **Cargo / Rol en la empresa:** Asistente de Logística y Planta  
-- **Enlace del video:** [https://youtu.be/3co_jPUM9lA](https://youtu.be/3co_jPUM9lA)  
+- **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 0:00 s
  <img src="img/segmento-objetivo/Grisel.jpg">
 
 #### Entrevista #2
 - **Nombre completo:** Arnold Vargas  
 - **Edad:** 31 años  
 - **Cargo / Rol en la empresa:** Administrador de mantenimiento  
-- **Enlace del video:** [https://youtu.be/tKjNAA7Iq4M](https://youtu.be/tKjNAA7Iq4M)  
+- **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 4:48 s 
  <img src="img/segmento-objetivo/arnol.jpg">
 
 
@@ -1391,21 +1223,24 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Nombre completo:** Jhohan De la Cruz  
 - **Edad:** 23 años  
 - **Puesto o función que desempeñas:** Técnico de Diagnóstico y Reparación  
-- **Enlace del video:** [https://youtu.be/W0m4wlCXusY](https://youtu.be/W0m4wlCXusY)  
+- **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 11:42 s
  <img src="img/segmento-objetivo/jhohan.jpg ">
 
 #### Entrevista #2
 - **Nombre completo:** César Gallo  
 - **Edad:** 48 años  
 - **Puesto o función que desempeñas:** Soy conductor de camión volquete  
-- **Enlace del video:** [https://youtu.be/I830YHdAFo4](https://youtu.be/I830YHdAFo4)  
+- **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 17:06 s
  <img src="img/segmento-objetivo/cesar.jpg">
 
 #### Entrevista #3
 - **Nombre completo:** Luis Fernandez  
 - **Edad:** 25 años  
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
-- **Enlace del video:** [https://youtu.be/eywWGijGBPM](https://youtu.be/eywWGijGBPM)  
+- **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
+- **Inicio:** 25:32 s
  <img src="img/segmento-objetivo/luis.jpg ">
 
 
@@ -1455,7 +1290,7 @@ A continuación, se presentará los 2 user persona de acuerdo al segmento objeti
 
 |Tarea|Frecuencia|Importancia|
 |-----|-----------|----------|
-|Supervisar el cumplimiento del plan de mantenimiento preventivo|Often|High|
+|Supervisar el cumplimiento del plan de trabajo preventivo|Often|High|
 |Analizar indicadores de desempeño de equipos|Often|High|
 |Autorizar órdenes de trabajo y asignar recursos|Sometimes|High|
 |Generar reportes para auditorías o juntas directivas|Occasionally|Medium|
@@ -2262,7 +2097,7 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
 <tr><td>6</td><td>US06</td><td>Filtro de plan de mantenimiento</td><td>Como administrador del sistema, quiero filtrar los planes de mantenimiento por criterios como tipo de activo, fecha o estado para visualizar únicamente los planes relevantes y facilitar la gestión.</td><td>2</td></tr>
 <tr><td>7</td><td>US07</td><td>Visualización de KPIs</td><td>Como administrador de mantenimiento, quiero acceder y analizar métricas clave como MTBF, MTTR y disponibilidad para evaluar el rendimiento del mantenimiento y tomar decisiones informadas.</td><td>2</td></tr>
 <tr><td>8</td><td>US08</td><td>Reporte de orden de trabajo</td><td>Como técnico de mantenimiento, quiero generar un reporte final de una orden de trabajo para dejar constancia de la intervención realizada.</td><td>3</td></tr>
-<tr><td>9</td><td>US09</td><td>Implementación de plan de trabajo</td><td>Como administrador de mantenimiento, quiero crear un plan de mantenimiento para una línea de producción para programarlo en el calendario y organizar los recursos.</td><td>8</td></tr>
+<tr><td>9</td><td>US09</td><td>Implementación de plan de mantenimiento</td><td>Como administrador de mantenimiento, quiero crear un plan de mantenimiento para una línea de producción para programarlo en el calendario y organizar los recursos.</td><td>8</td></tr>
 <tr><td>10</td><td>US10</td><td>Consulta de órdenes de trabajo diarias</td><td>Como técnico, quiero visualizar las órdenes de trabajo asignadas en el día para planificar mi jornada de manera eficiente.</td><td>3</td></tr>
 <tr><td>11</td><td>US11</td><td>Solicitud de repuestos</td><td>Como técnico, quiero solicitar repuestos faltantes para poder completar una tarea de mantenimiento correctamente.</td><td>2</td></tr>
 <tr><td>12</td><td>US12</td><td>Revisión de inventario</td><td>Como administrador, quiero consultar el inventario actualizado en tiempo real para verificar la disponibilidad de herramientas y materiales.</td><td>2</td></tr>
@@ -2466,7 +2301,7 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
   Por nombre, línea de producción, maquinaria o stock.
 
 - **Buscar órdenes de trabajo:**  
-  Por ID, tipo, plan de trabajo, prioridad o fecha.
+  Por ID, tipo, plan de mantenimiento, prioridad o fecha.
 
 - **Buscar planes de trabajo:**  
   Por frecuencia, tipo o activos asociados.
@@ -3179,7 +3014,7 @@ Diagrama de clases basado en bounded contexts
   <li><strong>Informe del Proyecto:</strong> <a href="https://github.com/wiwitech1/Project-Report">https://github.com/wiwitech1/Project-Report</a></li>
   <li><strong>Landing Page:</strong> <a href="https://github.com/wiwitech1/mecanet-l4nding-page">https://github.com/wiwitech1/mecanet-l4nding-page</a></li>
   <li><strong>SPA Frontend:</strong> <a href="https://github.com/wiwitech1/mecanet-frontend">https://github.com/wiwitech1/mecanet-frontend</a></li>
-  <li><strong>Backend API:</strong> <a href="https://github.com/faltañamñam">https://github.com/faltañamñam</a></li>
+  <li><strong>Backend API:</strong> <a href="https://github.com/wiwitech1/mecanet-backend.git">https://github.com/wiwitech1/mecanet-backend.git</a></li>
 </ul>
 
 <h3>Flujo de Trabajo GitFlow</h3>
@@ -3696,45 +3531,6 @@ Diagrama de clases basado en bounded contexts
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-Durante este Sprint se logró implementar de forma completa la Landing Page del proyecto Macanet. Esta vista inicial permite a los usuarios conocer las funcionalidades clave del sistema, resolver dudas frecuentes y visualizar la propuesta de valor. Se trabajó en secciones como el header, sección de producto, sección de preguntas frecuentes (FAQ) y el footer, garantizando una navegación fluida y una presentación clara de los objetivos del producto.
-
-A continuación, se presentan capturas de pantalla de las vistas desarrolladas:
-
-Inicio:
-![image](https://github.com/user-attachments/assets/5c2cf261-3f16-4870-9b86-4255fc1273fe)
-
-
-Producto:
-![image](https://github.com/user-attachments/assets/c4e2e6b6-4eda-43f4-877d-235b45d0707e)
-
-
-Beneficios:
-![image](https://github.com/user-attachments/assets/601c02a8-8321-4203-8f10-b33227eaacf6)
-
-
-Planes:
-![image](https://github.com/user-attachments/assets/285afcca-d0a0-4cc0-9be4-871073e31385)
-
-
-Faq:
-![image](https://github.com/user-attachments/assets/6748a8ff-a926-4459-9e98-445fa230d549)
-
-
-Footer:
-![image](https://github.com/user-attachments/assets/96a2bc59-16b1-462b-b05f-5e89e2b48acd)
-
-
-Video de Demostración e Implementación:
-[Ver video de Demostración e Implementación](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElEzvPegLThJuJq3nIyFwB0BASzKXkKKbALgeuaPbHs2-w?e=Og9J2a) 
-
-
-
-
-<p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-### 5.2.1.4. Development Evidence for Sprint Review
 
 | Repository                                                                 | Branch   | Commit Id             | Commit Message                              | Commit Message Body                                                                 | Committed on (Date) |
 |----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
@@ -3746,20 +3542,60 @@ Video de Demostración e Implementación:
 |                                                                            | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 25/04/2025           |
 
 
-
-
-
-=======
 Durante este Sprint no se desarrollaron ni documentaron Web Services, ya que el objetivo principal fue la implementación de la Landing Page como primer entregable del sistema. Por ello, en esta fase del proyecto no se dispone de endpoints disponibles ni de documentación OpenAPI.
 
 La elaboración de la documentación de servicios está prevista para los próximos Sprints, cuando comience el desarrollo del backend y se defina la estructura inicial de la API que permitirá la integración con las vistas web implementadas.
 
 La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
 
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+Durante este Sprint se logró implementar de forma completa la Landing Page del proyecto Macanet. Esta vista inicial permite a los usuarios conocer las funcionalidades clave del sistema, resolver dudas frecuentes y visualizar la propuesta de valor. Se trabajó en secciones como el header, sección de producto, sección de preguntas frecuentes (FAQ) y el footer, garantizando una navegación fluida y una presentación clara de los objetivos del producto.
+
+A continuación, se presentan capturas de pantalla de las vistas desarrolladas:
+
+Inicio:
+![image](https://github.com/user-attachments/assets/5c2cf261-3f16-4870-9b86-4255fc1273fe)
+
+Producto:
+![image](https://github.com/user-attachments/assets/c4e2e6b6-4eda-43f4-877d-235b45d0707e)
+
+Beneficios:
+![image](https://github.com/user-attachments/assets/601c02a8-8321-4203-8f10-b33227eaacf6)
+
+Planes:
+![image](https://github.com/user-attachments/assets/285afcca-d0a0-4cc0-9be4-871073e31385)
+
+Faq:
+![image](https://github.com/user-attachments/assets/6748a8ff-a926-4459-9e98-445fa230d549)
+
+Footer:
+![image](https://github.com/user-attachments/assets/96a2bc59-16b1-462b-b05f-5e89e2b48acd)
+
+Video de Demostración e Implementación:
+[Ver video de Demostración e Implementación](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElEzvPegLThJuJq3nIyFwB0BASzKXkKKbALgeuaPbHs2-w?e=Og9J2a) 
+
+<p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+En este primer sprint, el enfoque principal fue el desarrollo de la estructura y la presentación visual del Landing Page. Por lo tanto, la documentación en esta etapa se centró en la arquitectura de componentes y la guía de estilos utilizada para asegurar la coherencia y mantenibilidad del sitio. <br />
+
+A continuación, se presenta una tabla que resume la documentación generada para los principales componentes del Landing Page:
+
+|Componente	 | Descripción	 | Documentación Asociada|
+|-------------|--------------|-----------------------|
+|Navbar	| Componente de navegación principal del sitio.	| [Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Hero Section |	Sección principal de bienvenida con el mensaje clave. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Benefits Section |	Sección que detalla los beneficios del sistema. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Pricing Section |	Sección que presenta los planes y precios del sistema. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|FAQ Section  |	Sección de preguntas frecuentes. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Footer  |Sección del pie de página con información de contacto y enlaces útiles. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Durante este Sprint se logró exitosamente el despliegue de la Landing Page de la solución **Mecanaut** a través del servicio **Azure Static Web Apps**, en línea con el enfoque de entrega incremental del producto.
 
-## Actividades ejecutadas:
+##### Actividades ejecutadas:
 - Se creó una cuenta en **Azure** y se configuró un **grupo de recursos compartido** para optimizar la gestión de los servicios asociados.
 - Se realizó el **despliegue** de la Landing Page desde su **repositorio de GitHub** mediante **Azure Static Web Apps**, habilitando así un flujo automatizado de publicación a través de **GitHub Actions**.
 - Se implementó y verificó el flujo de **CI/CD** (Integración y Entrega Continua), asegurando que cada **commit** realizado sobre la rama **main** actualice automáticamente la aplicación desplegada.
@@ -3778,7 +3614,7 @@ A continuación, se detalla la participación específica de cada integrante del
 | Belledone Espinoza, Claudia      | Implementación de las secciones "Products" y "Benefits" |
 | Elera Rodríguez, Mauricio Daniel | Implenmentación de las secciones "Benefits" e inicialización del setup |
 | Huamán , Jean                    | Implementación de la sección "Plans" y "FAQ" |
-| Queso, Britney                   | Implementación de la sección "Footer"  |
+| Qqueso, Britney                   | Implementación de la sección "Footer"  |
 
 > **Nota:** Algunos integrantes colaboraron en secciones compartidas para asegurar consistencia en diseño y funcionalidad.
 
@@ -3790,13 +3626,454 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 
 ![image](https://github.com/user-attachments/assets/1d6b12ba-76bb-4b65-a044-fca4b6676002)
 
+##### Repositorio de trabajo:
 
+- Repositorio de la Landing Page en GitHub : https://github.com/wiwitech1/mecanet-l4nding-page.git
+
+Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Planning Background</strong></th>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>13/05/2025</td>
+    </tr>
+     <tr>
+        <td>Time</td>
+        <td> 3:00 PM</td>
+    </tr>
+     <tr>
+        <td>Location</td>
+        <td>Reunión virtual – Discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By</td>
+        <td>Claudia Belledonne</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning meeting)</td>
+        <td>
+
+- Ariana Cecilia Agreda Sobrino
+            
+- Claudia Valeria Belledonne Espinoza
+            
+- Mauricio Daniel Elera Rodríguez
+            
+- Britney Delhy Qqueso Rodriguez
+   </td>
+    </tr>
+    <tr>
+        <td>Sprint 2 – 1 Review Summary</td>
+        <td>Durante la revisión del Sprint 1, se demostró la funcionalidad del landing page, incluyendo las secciones de beneficios, procesos y precios. Se recibieron comentarios positivos sobre la claridad de la información y la navegación.</td>
+    </tr>
+    <tr>
+        <td>Sprint 2 – 1 Retrospective Summary</td>
+        <td>En la retrospectiva del Sprint 1, identificamos como puntos fuertes la buena comunicación del equipo y coodinación. Como áreas de mejora, se señaló mejorar la gesión del tiempo.</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+    </tr>
+    <tr>
+        <td>Sprint 2 Goal</td>
+        <td>
+<strong>Nuestra meta para este sprint es</strong> desarrollar e implementar las funcionalidades esenciales en la página web para la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo. 
+
+<strong>Creemos que</strong> esto proporcionará una base sólida para la interacción de los usuarios con el sistema y la gestión de sus operaciones clave. 
+
+<strong>Esto se confirmará</strong> cuando los usuarios puedan crear e iniciar sesión en sus respectivas cuentas, administrar los activos, visualizar y gestionar la línea de producción, acceder a la planificación del mantenimiento y utilizar el menú de órdenes de trabajo desde la página web.
+    </td>
+    </tr>
+     <tr>
+        <td>Sprint 2 Velocity  </td>
+        <td>35 Story Points.</td>
+    </tr>
+     <tr>
+        <td>Sum of Story Points  </td>
+        <td>35 Story Points.</td>
+    </tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Sección de inicio de sesión<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de crear cuenta (corporativa y usuario)<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de gestión de activos (maquinarias)<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección plan de mantenimiento<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de gestión de línea de producción<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de ordenes de trabajo<br/>Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>arii4w</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Cl4us-tb</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Maur1xio</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Qqueso, Britney</td>
+    <td>brit2801</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+
+#### 5.2.2.3. Sprint Backlog 2.
+<p>El objetivo de este segundo sprint es desarrollar las funcionalidades esenciales para la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo en la página web. Esto proporcionará una base sólida para la interacción de los usuarios con el sistema y la gestión de sus operaciones clave.</p>
+<img src="img/sprint2/Trello-Mecanet-Sprint2.png">
+<p>link:https://trello.com/b/pRzRlW59/mecanet-open-source</p>
+
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+
+    
+<tr>
+    <th rowspan="3">US01</th>
+    <th rowspan="3">Registro de maquinarias</th>
+    <td>1</td>
+    <td align="justify">Crear entidad Maquinaria</td>
+    <td align="justify">Definir la estructura de maquinaria (interfaces, assemblers, servicios, etc) para almacenar la información de las maquinarias (nombre, modelo, serie, etc.) en el frontend</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td align="justify">Implementar formulario de registro de maquinarias</td>
+    <td align="justify">Desarrollar la interfaz para que el administrador pueda ingresar los datos de las nuevas maquinarias.</td>
+    <td>6 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td align="justify">Implementar servicio para guardar maquinarias</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardar dicha información.</td>
+    <td>5 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="3">US02</th>
+    <th rowspan="3">Registro de líneas de producción</th>
+    <td>4</td>
+    <td align="justify">Crear entidad Línea_Producción</td>
+    <td align="justify">Definir la estructura de línea de producción para almacenar la información de las líneas de producción (nombre, prioridad, descripción, etc.)</td>
+    <td>4 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>5</td>
+    <td align="justify">Implementar formulario de registro de líneas de producción</td>
+    <td align="justify">Desarrollar la interfaz para que el administrador pueda ingresar los datos de las nuevas líneas de producción, incluyendo la asignación de prioridad.</td>
+    <td>6 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td align="justify">Implementar el servicio para guardar líneas de producción</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos dichos datos.</td>
+    <td>5 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="3">US03</th>
+    <th rowspan="3">Generación de órdenes de trabajo correctivas</th>
+    <td>7</td>
+    <td align="justify">Crear y definir la estructura de la entidad OrdenTrabajo en el frontend.</td>
+    <td align="justify">Definir la estructura de la entidad para almacenar la información de las órdenes de trabajo entre otros (tipo, descripción, fecha de creación, estado, etc.).</td>
+    <td>2 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td align="justify">Implementar formulario de generación de órdenes de trabajo correctivas</td>
+    <td align="justify">Desarrollar la interfaz para que el administrador pueda crear órdenes de trabajo correctivas, especificando la maquinaria afectada y la descripción del problema.</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>9</td>
+    <td align="justify">Implementar servicio para guardar órdenes de trabajo correctivas</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos, marcándolos como "correctivas".</td>
+    <td>3 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+
+
+<tr>
+    <th rowspan="2">US04</th>
+    <th rowspan="2">Asignación de personal técnico</th>
+    <td>10</td>
+    <td align="justify">Implementar funcionalidad para asignar técnicos a órdenes de trabajo</td>
+    <td align="justify">Desarrollar la interfaz que permita al administrador seleccionar uno o varios técnicos para asignar a una orden de trabajo existente.</td>
+    <td>5 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>13</td>
+    <td align="justify">Actualizar la entidad OrdenTrabajo con el técnico asignado</td>
+    <td align="justify">Modificar la lógica para guardar la información del técnico asignado en la tabla de órdenes de trabajo.</td>
+    <td>3 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+  <th rowspan="3">US09</th>
+  <th rowspan="3">Implementación de plan de mantenimiento</th>
+  <td>8</td>
+  <td align="justify">Crear y estructurar la entidad PlanMantenimiento en el frontend</td>
+  <td align="justify">Definir la estructura de la entidad para almacenar los planes de mantenimiento (línea de producción, descripción, frecuencia, etc.).</td>
+  <td>5 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td align="justify">Implementar formulario de creación de plan de mantenimiento</td>
+  <td align="justify">Desarrollar la interfaz para que el administrador pueda crear planes de mantenimiento para una línea de producción específica, definiendo las tareas y la frecuencia.</td>
+  <td>5 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td align="justify">Crear servicio para guardar planes de mantenimiento</td>
+  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos.</td>
+  <td>3 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="1">US10</th>
+  <th rowspan="1">Consulta de órdenes de trabajo diarias</th>
+  <td>11</td>
+  <td align="justify">Crear interfaz para visualizar órdenes de trabajo diarias</td>
+  <td align="justify">Desarrollar una vista para que los técnicos puedan ver las órdenes de trabajo que les han sido asignadas para el día actual.</td>
+  <td>4 hr</td>
+  <td>Claudia Belledonne</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="3">US20</th>
+  <th rowspan="3">Implementación de plan de mantenimiento</th>
+  <td>13</td>
+  <td align="justify">Crear entidad Empresa</td>
+  <td align="justify">Definir la estructura de la tabla para almacenar la información de la empresa (nombre, tipo, contacto, etc.).</td>
+  <td>4 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td align="justify">Implementar formulario de registro de cuenta</td>
+  <td align="justify">Desarrollar la interfaz para que el administrador pueda registrar una nueva cuenta con los datos solicitados.</td>
+  <td>5 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td align="justify">Crear servicio para guardar cuenta</td>
+  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos.</td>
+  <td>4 hr</td>
+  <td>Mauricio Elera</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="3">US22</th>
+  <th rowspan="3">Inicio de sesión</th>
+  <td>16</td>
+  <td align="justify">Implementar formulario de inicio de sesión</td>
+  <td align="justify">Desarrollar la interfaz para que los usuarios puedan ingresar sus credenciales (usuario/correo y contraseña).</td>
+  <td>3 hr</td>
+  <td>Claudia Belledonne</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td align="justify">Implementar lógica de autenticación</td>
+  <td align="justify">Desarrollar la lógica para verificar las credenciales ingresadas con la información almacenada.</td>
+  <td>4 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td align="justify">Gestionar sesiones de usuario</td>
+  <td align="justify">Implementar la gestión de sesiones para mantener al usuario autenticado durante su uso del sistema y redirigirlo a las funcionalidades correspondientes según su rol (administrador o técnico).</td>
+  <td>4 hr</td>
+  <td>Mauricio Elera</td>
+  <td>Done</td>
+</tr>
+
+</table>
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+En este sprint, se realizaron avances significativos en la implementación de las funcionalidades core de la aplicación web, sentando las bases para la interacción de los usuarios y la gestión de sus operaciones. Los principales logros incluyen la creación de las entidades de base de datos y las interfaces iniciales para el registro de maquinarias, el registro de líneas de producción, la generación de órdenes de trabajo correctivas, la implementación de la lógica de asignación de personal técnico, la creación de la estructura para los planes de mantenimiento, la visualización de órdenes de trabajo diarias para técnicos, el registro de cuentas corporativas y de usuario, y la implementación del sistema de inicio de sesión.<br/>
+
+A continuación, se presenta una tabla con los commits relacionados con la implementación de estas funcionalidades: <br/>
+
+| Repository        | Branch   | Commit Id       | Commit Message         | Commit Message Body             | Committed on (Date) |
+|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
+| https://github.com/wiwitech1/mecanet-frontend.git    | develop     | c12e9fa               | feat(maintenance): add maintenance planning UI                   | Created UI for maintenance planning section with form inputs and dynamic validation                    | 11/05/2025           |
+| https://github.com/wiwitech1/mecanet-frontend.git   | develop  | d98a3b2              | feat(auth): implement login and auth logic          | Developed login screen with form validation and integrated authentication flow                     | 11/05/2025       |
+| https://github.com/wiwitech1/mecanet-frontend.git | develop  | a53e7c1              | feat(orders): add corrective work orders flow        | Implemented UI and logic to register and assign corrective work orders to technical staff                    | 12/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git    | develop  | b17f00c             | feat(account): add production line creation | Added section for production line registration linked to user account context          | 12/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git   | main     | e6a82d3           | feat(order-entity): implement work order entity | Developed the base model for work orders including type, priority, status and technician assignment                              | 12/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git | develop  | f5c9b11              | ci: update deploy workflow for release preview     | Updated CI/CD GitHub Actions to deploy Sprint 2 features to Azure Static Web Apps preview environment             | 13/05/2025        |
+| https://github.com/wiwitech1/mecanet-frontend.git    | main     | c12e9fa…f5c9b11              | chore(release): merge release 1.1.0 into main                    | Merged Sprint 2 release including login, maintenance planning, production lines and corrective orders                    | 14/05/2025           |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, generar órdenes de trabajo correctivas y asignar personal técnico a ellas, establecer planes de mantenimiento para las líneas de producción, y permitir a los técnicos consultar sus órdenes de trabajo diarias. Además, se ha implementado el sistema de registro e inicio de sesión para cuentas corporativas y de usuario, proporcionando la base para el acceso seguro al sistema.<br/>
+
+A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Durante el Sprint 2, se logró documentar exitosamente los servicios web fundamentales para el registro y gestión de usuarios, maquinarias, líneas de producción, órdenes de trabajo, así como la planificación de mantenimiento. Se utilizó la especificación OpenAPI (Swagger) para la documentación estandarizada, facilitando la visualización y pruebas interactivas de los endpoints implementados.<br/>
+
+Estos servicios permiten la interacción básica entre la interfaz web y la lógica del backend, habilitando el flujo de operaciones esenciales para los distintos roles del sistema.<br/>
+
+La siguiente tabla detalla los endpoints documentados durante el Sprint:<br/>
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Durante este Sprint, se avanzó de manera significativa en el proceso de Deployment de los principales componentes del sistema, incluyendo la Landing Page, las Aplicaciones Web y los Servicios Web (API). A continuación, se describen las acciones realizadas y se documentan con capturas y explicaciones técnicas.
+
+##### 1. Creación de cuentas y configuración de recursos 
+Se seleccionó Azure como plataforma de despliegue por su facilidad de integración con herramientas de desarrollo y CI/CD. Las principales acciones realizadas fueron:
+
+- Creación de cuenta de equipo.
+- Creación de proyectos separados para cada componente: Capa de datos y capa de aplicación.
+- Configuración de entornos (Production y Development).
+- Asignación de variables de entorno necesarias para conexiones seguras a servicios externos (base de datos, APIs externas, etc).
+
+Captura 1: Configuración del proyecto en Azure
+
+##### 2. Configuración de Repositorios y Automatización de Deployment (CI/CD)
+Se integraron los repositorios de GitHub con el servicio de despliegue, permitiendo una integración continua y despliegue automático tras cada push a las ramas principales:
+
+- Se conectaron los repositorios de GitHub a Azure.
+- Se configuró un pipeline de CI/CD para que se realicen los siguientes pasos:
+    - Instalación de dependencias.
+    - Ejecución de pruebas.
+    - Construcción del proyecto.
+
+Captura 2: Registro de despliegue exitoso tras push en rama main
+
+##### 3. Deployment de la Aplicación Web
+La App Web fue desplegada como una SPA (Single Page Application), asegurando el correcto enrutamiento y carga de componentes dinámicos. El build se generó con npm run build y fue subido al entorno de producción.
+
+- Se verificó la conexión con los servicios backend.
+- Se realizaron pruebas básicas de navegación e interacción.
+
+Captura 3: Interfaz de usuario desplegada
+
+##### 4. Deployment de los Servicios Web (API)
+Se simuló el backend utilizando MockAPI, el cual proporcionó soporte para peticiones REST y autenticación básica. Se verificó la correcta funcionalidad de las rutas implementadas mediante pruebas exhaustivas con Postman. <br/>
+
+Captura 4: Prueba exitosa de endpoints desde Postman
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+Durante el desarrollo de este Sprint, el equipo colaboró estrechamente en la implementación de las funcionalidades clave de la aplicación web. La colaboración se centró en la creación de las entidades de la base de datos, el desarrollo de las interfaces de usuario iniciales y la implementación de la lógica de negocio fundamental. <br/>
+
+A continuación, se detalla la participación específica de cada integrante del equipo en las principales áreas funcionales:
+
+| **Nombre**                       | **Actividad** |
+| ---------------------------------|------------|
+| Agreda Sobrino, Ariana Cecilia   |Líder en planificación de mantenimiento. Desarrolló planes de mantenimiento, registro de cuentas y lógica de autenticación.|
+| Belledone Espinoza, Claudia      |Líder en inicio de sesión. Desarrolló el login, consulta de órdenes diarias y registro de maquinarias.|
+| Elera Rodríguez, Mauricio Daniel |Líder en órdenes de trabajo. Implementó órdenes correctivas, asignación de técnicos y gestión de sesiones.|
+| Qqueso Rodriguez, Britney Delhy  |Líder en creación de cuentas. Desarrolló líneas de producción y entidad de órdenes de trabajo.|
+
+##### Evidencia de colaboración en GitHub
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo. <br/>
+
+Captura de colaboracion en github:
 
 ##### Repositorio de trabajo:
 
-- [Repositorio de la Landing Page en GitHub](https://github.com/wiwitech1/Project-Report)
+- Repositorio del FrontEnd en github: https://github.com/wiwitech1/mecanet-frontend.git
 
-Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
+El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que cada producto del Sprint 2 reflejara la participación de todos sus miembros.
 
 # Conclusiones y recomendaciones.
 ## Conclusiones: 
@@ -3830,14 +4107,27 @@ Mecanets tiene un mercado claro entre medianas empresas industriales de Latinoam
 ### Visión a Futuro
 Mecanets no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
 
+Durante el Sprint 2, el equipo logró avances significativos en el desarrollo e integración de los componentes del sistema. Se cumplió con el Sprint Backlog priorizado, incluyendo funcionalidades clave y su despliegue exitoso en entornos cloud. Las siguientes conclusiones resumen los aprendizajes y resultados:
+
+- Se consolidó la colaboración entre los líderes de aspecto y los integrantes del equipo, lo que permitió una mayor fluidez en la comunicación y ejecución de tareas.
+- Se logró el despliegue completo de la Landing Page, la Aplicación Web y los Servicios Web, lo que marca un hito en la visibilidad externa y validación de funcionalidades mínimas del producto.
+- La documentación de los servicios y el código fue completada de forma satisfactoria, facilitando el entendimiento común del proyecto entre los miembros actuales y futuros.
+- El equipo mostró mejoras en la capacidad de estimación y asignación de tareas, logrando entregar dentro del tiempo previsto.
+
 ## Recomendaciones 
 
 **Fomentar la Colaboración Constante**: Es importante mantener una comunicación fluida entre todos los miembros del equipo durante todo el proceso de desarrollo. Utilizar herramientas de gestión de proyectos y reuniones regulares para asegurar que todos estén alineados con los objetivos y plazos.
 
-**Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar.
+**Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar. <br/>
 
+Optimizar la gestión del tiempo y recursos en tareas críticas, especialmente aquellas relacionadas con la integración y pruebas de funcionalidades entre los distintos componentes. <br/>
+
+Continuar promoviendo las retrospectivas internas de equipo al final de cada Sprint, lo que ha demostrado ser útil para identificar obstáculos y mejorar la dinámica de trabajo. <br/>
+
+Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. <br/>
 
 # Video About-the-Team.
+
 # Bibliografía
 McKinsey & Company. (2021). Innovación a través de la disrupción digital en servicio a clientes. [https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service](https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service) 
 # Anexos
