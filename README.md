@@ -3577,7 +3577,18 @@ Video de Demostración e Implementación:
 
 <p>Para este primer sprint no se contempló la evidencia de documentación de los servicios.</p>
 
-#### 5.2.1.6. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+En este primer sprint, el enfoque principal fue el desarrollo de la estructura y la presentación visual del Landing Page. Por lo tanto, la documentación en esta etapa se centró en la arquitectura de componentes y la guía de estilos utilizada para asegurar la coherencia y mantenibilidad del sitio. <br />
+
+A continuación, se presenta una tabla que resume la documentación generada para los principales componentes del Landing Page:
+
+|Componente	 | Descripción	 | Documentación Asociada|
+|Navbar	| Componente de navegación principal del sitio.	| [Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Hero Section |	Sección principal de bienvenida con el mensaje clave. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Benefits Section |	Sección que detalla los beneficios del sistema. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Pricing Section |	Sección que presenta los planes y precios del sistema. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|FAQ Section  |	Sección de preguntas frecuentes. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
+|Footer  |Sección del pie de página con información de contacto y enlaces útiles. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
