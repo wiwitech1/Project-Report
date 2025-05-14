@@ -3952,13 +3952,93 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 </table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
+En este sprint, se realizaron avances significativos en la implementación de las funcionalidades core de la aplicación web, sentando las bases para la interacción de los usuarios y la gestión de sus operaciones. Los principales logros incluyen la creación de las entidades de base de datos y las interfaces iniciales para el registro de maquinarias, el registro de líneas de producción, la generación de órdenes de trabajo correctivas, la implementación de la lógica de asignación de personal técnico, la creación de la estructura para los planes de mantenimiento, la visualización de órdenes de trabajo diarias para técnicos, el registro de cuentas corporativas y de usuario, y la implementación del sistema de inicio de sesión.<br/>
+
+A continuación, se presenta una tabla con los commits relacionados con la implementación de estas funcionalidades: <br/>
+
+| Repository        | Branch   | Commit Id       | Commit Message         | Commit Message Body             | Committed on (Date) |
+|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
+| https://github.com/wiwitech1/mecanet-l4nding-page    | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 13/05/2025           |
+|                                                      | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 13/05/2025       |
+|                                                      | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 13/05/2025        |
+|                                                      | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 13/05/2025        |
+|                                                       | main     | 50cb013…a52b2c8       | chore(release): merge release 1.0.0 into main | First release containing Hero, Navbar and base styling                              | 13/05/2025        |
+|                                                       | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 13/05/2025        |
+
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review.
+En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, generar órdenes de trabajo correctivas y asignar personal técnico a ellas, establecer planes de mantenimiento para las líneas de producción, y permitir a los técnicos consultar sus órdenes de trabajo diarias. Además, se ha implementado el sistema de registro e inicio de sesión para cuentas corporativas y de usuario, proporcionando la base para el acceso seguro al sistema.<br/>
+
+A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Durante el Sprint 2, se logró documentar exitosamente los servicios web fundamentales para el registro y gestión de usuarios, maquinarias, líneas de producción, órdenes de trabajo, así como la planificación de mantenimiento. Se utilizó la especificación OpenAPI (Swagger) para la documentación estandarizada, facilitando la visualización y pruebas interactivas de los endpoints implementados.<br/>
+
+Estos servicios permiten la interacción básica entre la interfaz web y la lógica del backend, habilitando el flujo de operaciones esenciales para los distintos roles del sistema.<br/>
+
+La siguiente tabla detalla los endpoints documentados durante el Sprint:<br/>
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Durante este Sprint, se avanzó de manera significativa en el proceso de Deployment de los principales componentes del sistema, incluyendo la Landing Page, las Aplicaciones Web y los Servicios Web (API). A continuación, se describen las acciones realizadas y se documentan con capturas y explicaciones técnicas.
+
+##### 1. Creación de cuentas y configuración de recursos 
+Se seleccionó Azure como plataforma de despliegue por su facilidad de integración con herramientas de desarrollo y CI/CD. Las principales acciones realizadas fueron:
+
+- Creación de cuenta de equipo.
+- Creación de proyectos separados para cada componente: Capa de datos y capa de aplicación.
+- Configuración de entornos (Production y Development).
+- Asignación de variables de entorno necesarias para conexiones seguras a servicios externos (base de datos, APIs externas, etc).
+
+Captura 1: Configuración del proyecto en Azure
+
+##### 2. Configuración de Repositorios y Automatización de Deployment (CI/CD)
+Se integraron los repositorios de GitHub con el servicio de despliegue, permitiendo una integración continua y despliegue automático tras cada push a las ramas principales:
+
+- Se conectaron los repositorios de GitHub a Azure.
+- Se configuró un pipeline de CI/CD para que se realicen los siguientes pasos:
+    - Instalación de dependencias.
+    - Ejecución de pruebas.
+    - Construcción del proyecto.
+
+Captura 2: Registro de despliegue exitoso tras push en rama main
+
+##### 3. Deployment de la Aplicación Web
+La App Web fue desplegada como una SPA (Single Page Application), asegurando el correcto enrutamiento y carga de componentes dinámicos. El build se generó con npm run build y fue subido al entorno de producción.
+
+- Se verificó la conexión con los servicios backend.
+- Se realizaron pruebas básicas de navegación e interacción.
+
+Captura 3: Interfaz de usuario desplegada
+
+##### 4. Deployment de los Servicios Web (API)
+Se simuló el backend utilizando MockAPI, el cual proporcionó soporte para peticiones REST y autenticación básica. Se verificó la correcta funcionalidad de las rutas implementadas mediante pruebas exhaustivas con Postman. <br/>
+
+Captura 4: Prueba exitosa de endpoints desde Postman
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+Durante el desarrollo de este Sprint, el equipo colaboró estrechamente en la implementación de las funcionalidades clave de la aplicación web. La colaboración se centró en la creación de las entidades de la base de datos, el desarrollo de las interfaces de usuario iniciales y la implementación de la lógica de negocio fundamental. <br/>
 
+A continuación, se detalla la participación específica de cada integrante del equipo en las principales áreas funcionales:
 
+| **Nombre**                       | **Actividad** |
+| ---------------------------------|------------|
+| Agreda Sobrino, Ariana Cecilia   |     |
+| Belledone Espinoza, Claudia      |     |
+| Elera Rodríguez, Mauricio Daniel |     |
+| Qqueso Rodriguez, Britney Delhy  |     |
 
+##### Evidencia de colaboración en GitHub
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo. <br/>
+
+Captura de colaboracion en github:
+
+##### Repositorio de trabajo:
+
+- [Repositorio de la Landing Page en GitHub](https://github.com/wiwitech1/Project-Report)
+
+El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que cada producto del Sprint 2 reflejara la participación de todos sus miembros.
 
 # Conclusiones y recomendaciones.
 ## Conclusiones: 
@@ -3992,14 +4072,27 @@ Mecanets tiene un mercado claro entre medianas empresas industriales de Latinoam
 ### Visión a Futuro
 Mecanets no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
 
+Durante el Sprint 2, el equipo logró avances significativos en el desarrollo e integración de los componentes del sistema. Se cumplió con el Sprint Backlog priorizado, incluyendo funcionalidades clave y su despliegue exitoso en entornos cloud. Las siguientes conclusiones resumen los aprendizajes y resultados:
+
+- Se consolidó la colaboración entre los líderes de aspecto y los integrantes del equipo, lo que permitió una mayor fluidez en la comunicación y ejecución de tareas.
+- Se logró el despliegue completo de la Landing Page, la Aplicación Web y los Servicios Web, lo que marca un hito en la visibilidad externa y validación de funcionalidades mínimas del producto.
+- La documentación de los servicios y el código fue completada de forma satisfactoria, facilitando el entendimiento común del proyecto entre los miembros actuales y futuros.
+- El equipo mostró mejoras en la capacidad de estimación y asignación de tareas, logrando entregar dentro del tiempo previsto.
+
 ## Recomendaciones 
 
 **Fomentar la Colaboración Constante**: Es importante mantener una comunicación fluida entre todos los miembros del equipo durante todo el proceso de desarrollo. Utilizar herramientas de gestión de proyectos y reuniones regulares para asegurar que todos estén alineados con los objetivos y plazos.
 
-**Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar.
+**Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar. <br/>
 
+Optimizar la gestión del tiempo y recursos en tareas críticas, especialmente aquellas relacionadas con la integración y pruebas de funcionalidades entre los distintos componentes. <br/>
+
+Continuar promoviendo las retrospectivas internas de equipo al final de cada Sprint, lo que ha demostrado ser útil para identificar obstáculos y mejorar la dinámica de trabajo. <br/>
+
+Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. <br/>
 
 # Video About-the-Team.
+
 # Bibliografía
 McKinsey & Company. (2021). Innovación a través de la disrupción digital en servicio a clientes. [https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service](https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service) 
 # Anexos
