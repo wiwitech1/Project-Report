@@ -142,8 +142,27 @@
     <td>2.0</td>
     <td>13/05/2025</td>
     <td>Britney Qqueso</td>
-    <td>Planeación y documentación del Sprint 1</td>
+    <td>Planeación y documentación del Sprint 2</td>
 </tr>
+<tr>
+    <td>2.1</td>
+    <td>13/05/2025</td>
+    <td>Ariana Cecilia Agreda Sobrino</td>
+    <td>Creación y redacción de Execution Evidence for Sprint Review.</td>
+</tr>
+</tr>
+    <td>2.2</td>
+    <td>13/05/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Creación y redacción de Services Documentation Evidence for Sprint Review.</td>
+</tr>
+</tr>
+    <td>2.3</td>
+    <td>14/05/2025</td>
+    <td>Mauricio Elera</td>
+    <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
+</tr>
+    
 </table>
 
 </br>
