@@ -3714,6 +3714,243 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 </table>
 
 #### 5.2.2.3. Sprint Backlog 2.
+<p>El objetivo de este segundo sprint es desarrollar las funcionalidades esenciales para la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo en la página web. Esto proporcionará una base sólida para la interacción de los usuarios con el sistema y la gestión de sus operaciones clave.</p>
+<img src="img/sprint1/trleo.jpg">
+<p>link:https://trello.com/invite/b/680a6cc7e8740865732b2289/ATTI0f0d254cd7c3649f29efcc5f9b5924a54D385D43/open-source</p>
+
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+
+    
+<tr>
+    <th rowspan="3">US01</th>
+    <th rowspan="3">Registro de maquinarias</th>
+    <td>1</td>
+    <td align="justify">Crear entidad Maquinaria en la base de datos</td>
+    <td align="justify">Definir la estructura de la tabla para almacenar la información de las maquinarias (nombre, modelo, serie, etc.)</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td align="justify">Implementar formulario de registro de maquinarias</td>
+    <td align="justify">Desarrollar la interfaz para que el administrador pueda ingresar los datos de las nuevas maquinarias.</td>
+    <td>6 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td align="justify">Crear servicio para guardar maquinarias</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+    <td>5 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="4">US02</th>
+    <th rowspan="4">Registro de líneas de producción</th>
+    <td>4</td>
+    <td align="justify">Crear entidad LíneaProducción en la base de datos</td>
+    <td align="justify">Definir la estructura de la tabla para almacenar la información de las líneas de producción (nombre, prioridad, descripción, etc.)</td>
+    <td>4 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>5</td>
+    <td align="justify">Implementar formulario de registro de líneas de producción</td>
+    <td align="justify">Desarrollar la interfaz para que el administrador pueda ingresar los datos de las nuevas líneas de producción, incluyendo la asignación de prioridad.</td>
+    <td>6 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td align="justify">Crear servicio para guardar líneas de producción</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+    <td>5 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+    <th rowspan="3">US03</th>
+    <th rowspan="3">Generación de órdenes de trabajo correctivas</th>
+    <td>7</td>
+    <td align="justify">Crear entidad OrdenTrabajo en la base de datos</td>
+    <td align="justify">Definir la estructura de la tabla para almacenar la información de las órdenes de trabajo (tipo, descripción, fecha de creación, estado, etc.).</td>
+    <td>2 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td align="justify">Implementar formulario de generación de órdenes de trabajo correctivas</td>
+    <td align="justify">Desarrollar la interfaz para que el administrador pueda crear órdenes de trabajo correctivas, especificando la maquinaria afectada y la descripción del problema.</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>9</td>
+    <td align="justify">Crear servicio para guardar órdenes de trabajo correctivas</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos, marcándolas como "correctivas".</td>
+    <td>3 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+
+
+<tr>
+    <th rowspan="2">US04</th>
+    <th rowspan="2">Asignación de personal técnico</th>
+    <td>10</td>
+    <td align="justify">Implementar funcionalidad para asignar técnicos a órdenes de trabajo</td>
+    <td align="justify">Desarrollar la interfaz que permita al administrador seleccionar uno o varios técnicos para asignar a una orden de trabajo existente.</td>
+    <td>5 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>13</td>
+    <td align="justify">Actualizar la entidad OrdenTrabajo con el técnico asignado</td>
+    <td align="justify">Modificar la lógica para guardar la información del técnico asignado en la tabla de órdenes de trabajo.</td>
+    <td>3 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+</tr>
+
+
+
+<tr>
+  <th rowspan="3">US09</th>
+  <th rowspan="3">Implementación de plan de trabajo</th>
+  <td>8</td>
+  <td align="justify">Crear entidad PlanMantenimiento en la base de datos</td>
+  <td align="justify">Definir la estructura de la tabla para almacenar los planes de mantenimiento (línea de producción, descripción, frecuencia, etc.).</td>
+  <td>5 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td align="justify">Implementar formulario de creación de plan de mantenimiento</td>
+  <td align="justify">Desarrollar la interfaz para que el administrador pueda crear planes de mantenimiento para una línea de producción específica, definiendo las tareas y la frecuencia.</td>
+  <td>5 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td align="justify">Crear servicio para guardar planes de mantenimiento</td>
+  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+  <td>3 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="2">US10</th>
+  <th rowspan="2">Consulta de órdenes de trabajo diarias</th>
+  <td>11</td>
+  <td align="justify">Crear interfaz para visualizar órdenes de trabajo diarias</td>
+  <td align="justify">Desarrollar una vista para que los técnicos puedan ver las órdenes de trabajo que les han sido asignadas para el día actual.</td>
+  <td>4 hr</td>
+  <td>Claudia Belledonne</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td align="justify">Implementar consulta de órdenes de trabajo por técnico y fecha</td>
+  <td align="justify">Desarrollar la lógica para obtener de la base de datos las órdenes de trabajo asignadas al técnico logueado para la fecha actual.</td>
+  <td>5 hr</td>
+  <td>Claudia Belledonne</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="3">US20</th>
+  <th rowspan="3">Implementación de plan de trabajo</th>
+  <td>13</td>
+  <td align="justify">Crear entidad Cuenta en la base de datos</td>
+  <td align="justify">Definir la estructura de la tabla para almacenar la información de la empresa (nombre, tipo, contacto, etc.).</td>
+  <td>4 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td align="justify">Implementar formulario de registro de cuenta</td>
+  <td align="justify">Desarrollar la interfaz para que el administrador pueda registrar una nueva cuenta con los datos solicitados.</td>
+  <td>5 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td align="justify">Crear servicio para guardar cuenta</td>
+  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+  <td>4 hr</td>
+  <td>Mauricio Elera</td>
+  <td>Done</td>
+</tr>
+
+
+<tr>
+  <th rowspan="3">US22</th>
+  <th rowspan="3">Inicio de sesión</th>
+  <td>16</td>
+  <td align="justify">Implementar formulario de inicio de sesión</td>
+  <td align="justify">Desarrollar la interfaz para que los usuarios puedan ingresar sus credenciales (usuario/correo y contraseña).</td>
+  <td>3 hr</td>
+  <td>Claudia Belledonne</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td align="justify">Implementar lógica de autenticación</td>
+  <td align="justify">Desarrollar la lógica para verificar las credenciales ingresadas con la información almacenada en la base de datos.</td>
+  <td>4 hr</td>
+  <td>Ariana Agreda</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td align="justify">Gestionar sesiones de usuario</td>
+  <td align="justify">Implementar la gestión de sesiones para mantener al usuario autenticado durante su uso del sistema y redirigirlo a las funcionalidades correspondientes según su rol (administrador o técnico).</td>
+  <td>4 hr</td>
+  <td>Mauricio Elera</td>
+  <td>Done</td>
+</tr>
+
+</table>
+
 #### 5.2.2.4. Development Evidence for Sprint Review.
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
