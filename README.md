@@ -1290,7 +1290,7 @@ A continuación, se presentará los 2 user persona de acuerdo al segmento objeti
 
 |Tarea|Frecuencia|Importancia|
 |-----|-----------|----------|
-|Supervisar el cumplimiento del plan de mantenimiento preventivo|Often|High|
+|Supervisar el cumplimiento del plan de trabajo preventivo|Often|High|
 |Analizar indicadores de desempeño de equipos|Often|High|
 |Autorizar órdenes de trabajo y asignar recursos|Sometimes|High|
 |Generar reportes para auditorías o juntas directivas|Occasionally|Medium|
@@ -2097,7 +2097,7 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
 <tr><td>6</td><td>US06</td><td>Filtro de plan de mantenimiento</td><td>Como administrador del sistema, quiero filtrar los planes de mantenimiento por criterios como tipo de activo, fecha o estado para visualizar únicamente los planes relevantes y facilitar la gestión.</td><td>2</td></tr>
 <tr><td>7</td><td>US07</td><td>Visualización de KPIs</td><td>Como administrador de mantenimiento, quiero acceder y analizar métricas clave como MTBF, MTTR y disponibilidad para evaluar el rendimiento del mantenimiento y tomar decisiones informadas.</td><td>2</td></tr>
 <tr><td>8</td><td>US08</td><td>Reporte de orden de trabajo</td><td>Como técnico de mantenimiento, quiero generar un reporte final de una orden de trabajo para dejar constancia de la intervención realizada.</td><td>3</td></tr>
-<tr><td>9</td><td>US09</td><td>Implementación de plan de trabajo</td><td>Como administrador de mantenimiento, quiero crear un plan de mantenimiento para una línea de producción para programarlo en el calendario y organizar los recursos.</td><td>8</td></tr>
+<tr><td>9</td><td>US09</td><td>Implementación de plan de mantenimiento</td><td>Como administrador de mantenimiento, quiero crear un plan de mantenimiento para una línea de producción para programarlo en el calendario y organizar los recursos.</td><td>8</td></tr>
 <tr><td>10</td><td>US10</td><td>Consulta de órdenes de trabajo diarias</td><td>Como técnico, quiero visualizar las órdenes de trabajo asignadas en el día para planificar mi jornada de manera eficiente.</td><td>3</td></tr>
 <tr><td>11</td><td>US11</td><td>Solicitud de repuestos</td><td>Como técnico, quiero solicitar repuestos faltantes para poder completar una tarea de mantenimiento correctamente.</td><td>2</td></tr>
 <tr><td>12</td><td>US12</td><td>Revisión de inventario</td><td>Como administrador, quiero consultar el inventario actualizado en tiempo real para verificar la disponibilidad de herramientas y materiales.</td><td>2</td></tr>
@@ -2301,7 +2301,7 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
   Por nombre, línea de producción, maquinaria o stock.
 
 - **Buscar órdenes de trabajo:**  
-  Por ID, tipo, plan de trabajo, prioridad o fecha.
+  Por ID, tipo, plan de mantenimiento, prioridad o fecha.
 
 - **Buscar planes de trabajo:**  
   Por frecuencia, tipo o activos asociados.
@@ -3786,8 +3786,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <th rowspan="3">US01</th>
     <th rowspan="3">Registro de maquinarias</th>
     <td>1</td>
-    <td align="justify">Crear entidad Maquinaria en la base de datos</td>
-    <td align="justify">Definir la estructura de la tabla para almacenar la información de las maquinarias (nombre, modelo, serie, etc.)</td>
+    <td align="justify">Crear entidad Maquinaria</td>
+    <td align="justify">Definir la estructura de maquinaria (interfaces, assemblers, servicios, etc) para almacenar la información de las maquinarias (nombre, modelo, serie, etc.) en el frontend</td>
     <td>4 hr</td>
     <td>Claudia Belledonne</td>
     <td>Done</td>
@@ -3802,8 +3802,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 </tr>
 <tr>
     <td>3</td>
-    <td align="justify">Crear servicio para guardar maquinarias</td>
-    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+    <td align="justify">Implementar servicio para guardar maquinarias</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardar dicha información.</td>
     <td>5 hr</td>
     <td>Claudia Belledonne</td>
     <td>Done</td>
@@ -3815,8 +3815,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <th rowspan="3">US02</th>
     <th rowspan="3">Registro de líneas de producción</th>
     <td>4</td>
-    <td align="justify">Crear entidad LíneaProducción en la base de datos</td>
-    <td align="justify">Definir la estructura de la tabla para almacenar la información de las líneas de producción (nombre, prioridad, descripción, etc.)</td>
+    <td align="justify">Crear entidad Línea_Producción</td>
+    <td align="justify">Definir la estructura de línea de producción para almacenar la información de las líneas de producción (nombre, prioridad, descripción, etc.)</td>
     <td>4 hr</td>
     <td>Britney Qqueso</td>
     <td>Done</td>
@@ -3831,8 +3831,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 </tr>
 <tr>
     <td>6</td>
-    <td align="justify">Crear servicio para guardar líneas de producción</td>
-    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+    <td align="justify">Implementar el servicio para guardar líneas de producción</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos dichos datos.</td>
     <td>5 hr</td>
     <td>Britney Qqueso</td>
     <td>Done</td>
@@ -3844,8 +3844,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <th rowspan="3">US03</th>
     <th rowspan="3">Generación de órdenes de trabajo correctivas</th>
     <td>7</td>
-    <td align="justify">Crear entidad OrdenTrabajo en la base de datos</td>
-    <td align="justify">Definir la estructura de la tabla para almacenar la información de las órdenes de trabajo (tipo, descripción, fecha de creación, estado, etc.).</td>
+    <td align="justify">Crear y definir la estructura de la entidad OrdenTrabajo en el frontend.</td>
+    <td align="justify">Definir la estructura de la entidad para almacenar la información de las órdenes de trabajo entre otros (tipo, descripción, fecha de creación, estado, etc.).</td>
     <td>2 hr</td>
     <td>Britney Qqueso</td>
     <td>Done</td>
@@ -3860,8 +3860,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 </tr>
 <tr>
     <td>9</td>
-    <td align="justify">Crear servicio para guardar órdenes de trabajo correctivas</td>
-    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos, marcándolas como "correctivas".</td>
+    <td align="justify">Implementar servicio para guardar órdenes de trabajo correctivas</td>
+    <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos, marcándolos como "correctivas".</td>
     <td>3 hr</td>
     <td>Mauricio Elera</td>
     <td>Done</td>
@@ -3891,10 +3891,10 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 
 <tr>
   <th rowspan="3">US09</th>
-  <th rowspan="3">Implementación de plan de trabajo</th>
+  <th rowspan="3">Implementación de plan de mantenimiento</th>
   <td>8</td>
-  <td align="justify">Crear entidad PlanMantenimiento en la base de datos</td>
-  <td align="justify">Definir la estructura de la tabla para almacenar los planes de mantenimiento (línea de producción, descripción, frecuencia, etc.).</td>
+  <td align="justify">Crear y estructurar la entidad PlanMantenimiento en el frontend</td>
+  <td align="justify">Definir la estructura de la entidad para almacenar los planes de mantenimiento (línea de producción, descripción, frecuencia, etc.).</td>
   <td>5 hr</td>
   <td>Ariana Agreda</td>
   <td>Done</td>
@@ -3910,7 +3910,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 <tr>
   <td>10</td>
   <td align="justify">Crear servicio para guardar planes de mantenimiento</td>
-  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos.</td>
   <td>3 hr</td>
   <td>Ariana Agreda</td>
   <td>Done</td>
@@ -3918,8 +3918,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 
 
 <tr>
-  <th rowspan="2">US10</th>
-  <th rowspan="2">Consulta de órdenes de trabajo diarias</th>
+  <th rowspan="1">US10</th>
+  <th rowspan="1">Consulta de órdenes de trabajo diarias</th>
   <td>11</td>
   <td align="justify">Crear interfaz para visualizar órdenes de trabajo diarias</td>
   <td align="justify">Desarrollar una vista para que los técnicos puedan ver las órdenes de trabajo que les han sido asignadas para el día actual.</td>
@@ -3927,21 +3927,13 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
   <td>Claudia Belledonne</td>
   <td>Done</td>
 </tr>
-<tr>
-  <td>12</td>
-  <td align="justify">Implementar consulta de órdenes de trabajo por técnico y fecha</td>
-  <td align="justify">Desarrollar la lógica para obtener de la base de datos las órdenes de trabajo asignadas al técnico logueado para la fecha actual.</td>
-  <td>5 hr</td>
-  <td>Claudia Belledonne</td>
-  <td>Done</td>
-</tr>
 
 
 <tr>
   <th rowspan="3">US20</th>
-  <th rowspan="3">Implementación de plan de trabajo</th>
+  <th rowspan="3">Implementación de plan de mantenimiento</th>
   <td>13</td>
-  <td align="justify">Crear entidad Cuenta en la base de datos</td>
+  <td align="justify">Crear entidad Empresa</td>
   <td align="justify">Definir la estructura de la tabla para almacenar la información de la empresa (nombre, tipo, contacto, etc.).</td>
   <td>4 hr</td>
   <td>Ariana Agreda</td>
@@ -3958,7 +3950,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 <tr>
   <td>15</td>
   <td align="justify">Crear servicio para guardar cuenta</td>
-  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos en la base de datos.</td>
+  <td align="justify">Implementar la lógica para recibir los datos del formulario y guardarlos.</td>
   <td>4 hr</td>
   <td>Mauricio Elera</td>
   <td>Done</td>
@@ -3978,7 +3970,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 <tr>
   <td>17</td>
   <td align="justify">Implementar lógica de autenticación</td>
-  <td align="justify">Desarrollar la lógica para verificar las credenciales ingresadas con la información almacenada en la base de datos.</td>
+  <td align="justify">Desarrollar la lógica para verificar las credenciales ingresadas con la información almacenada.</td>
   <td>4 hr</td>
   <td>Ariana Agreda</td>
   <td>Done</td>
