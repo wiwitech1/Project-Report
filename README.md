@@ -3583,6 +3583,7 @@ En este primer sprint, el enfoque principal fue el desarrollo de la estructura y
 A continuación, se presenta una tabla que resume la documentación generada para los principales componentes del Landing Page:
 
 |Componente	 | Descripción	 | Documentación Asociada|
+|-------------|--------------|-----------------------|
 |Navbar	| Componente de navegación principal del sitio.	| [Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
 |Hero Section |	Sección principal de bienvenida con el mensaje clave. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
 |Benefits Section |	Sección que detalla los beneficios del sistema. |	[Lading page](https://github.com/wiwitech1/mecanet-l4nding-page.git) |
@@ -3613,7 +3614,7 @@ A continuación, se detalla la participación específica de cada integrante del
 | Belledone Espinoza, Claudia      | Implementación de las secciones "Products" y "Benefits" |
 | Elera Rodríguez, Mauricio Daniel | Implenmentación de las secciones "Benefits" e inicialización del setup |
 | Huamán , Jean                    | Implementación de la sección "Plans" y "FAQ" |
-| Queso, Britney                   | Implementación de la sección "Footer"  |
+| Qqueso, Britney                   | Implementación de la sección "Footer"  |
 
 > **Nota:** Algunos integrantes colaboraron en secciones compartidas para asegurar consistencia en diseño y funcionalidad.
 
