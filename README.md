@@ -3,8 +3,8 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software - 2025-1</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source- 4304</strong><br>
+    <strong>Ingeniería de Software - 2025-10</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - 4304</strong><br>
     <strong>Profesor: Efraín Ricardo Bautista Ubillús</strong><br>
     <br><strong>Informe del Trabajo Final</strong>
 </p>
@@ -3870,6 +3870,15 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 
 Captura de colaboracion en github:
 
+![image](https://github.com/user-attachments/assets/d023aadf-4835-4ebf-bf6c-8e3ead9f919b)
+
+![image](https://github.com/user-attachments/assets/d29d3158-0843-47b6-b756-6565637a521c)
+![image](https://github.com/user-attachments/assets/77a93762-0bc2-4297-a57f-e6b7c6e140bd)
+
+
+![image](https://github.com/user-attachments/assets/80a2feb1-d1c2-4f82-baee-c11a1f27d0f5)
+
+
 ##### Repositorio de trabajo:
 
 - Repositorio del FrontEnd en github: https://github.com/wiwitech1/mecanet-frontend.git
@@ -3932,3 +3941,13 @@ Fomentar aún más la documentación técnica paso a paso, especialmente en las 
 # Bibliografía
 McKinsey & Company. (2021). Innovación a través de la disrupción digital en servicio a clientes. [https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service](https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service) 
 # Anexos
+
+Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=0-1&t=TNttHot2q3YOT97v-1
+Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
+Link del Video del Product: https://youtu.be/C0cHMqzKaEI
+Link del Repositorio del informe: https://github.com/wiwitech1/Project-Report?tab=readme-ov-file
+Link del Respositorio de la Landing Page: https://github.com/wiwitech1/mecanet-l4nding-page
+Link de la Landing Page: https://kind-wave-030d8c21e.6.azurestaticapps.net/
+Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
+
+Video de Exposición TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
