@@ -3014,7 +3014,7 @@ Diagrama de clases basado en bounded contexts
   <li><strong>Informe del Proyecto:</strong> <a href="https://github.com/wiwitech1/Project-Report">https://github.com/wiwitech1/Project-Report</a></li>
   <li><strong>Landing Page:</strong> <a href="https://github.com/wiwitech1/mecanet-l4nding-page">https://github.com/wiwitech1/mecanet-l4nding-page</a></li>
   <li><strong>SPA Frontend:</strong> <a href="https://github.com/wiwitech1/mecanet-frontend">https://github.com/wiwitech1/mecanet-frontend</a></li>
-  <li><strong>Backend API:</strong> <a href="https://github.com/faltañamñam">https://github.com/faltañamñam</a></li>
+  <li><strong>Backend API:</strong> <a href="https://github.com/wiwitech1/mecanet-backend.git">https://github.com/wiwitech1/mecanet-backend.git</a></li>
 </ul>
 
 <h3>Flujo de Trabajo GitFlow</h3>
@@ -3616,7 +3616,7 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 
 ##### Repositorio de trabajo:
 
-- [Repositorio de la Landing Page en GitHub](https://github.com/wiwitech1/Project-Report)
+- Repositorio de la Landing Page en GitHub : https://github.com/wiwitech1/mecanet-l4nding-page.git
 
 Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
 
@@ -3989,7 +3989,7 @@ A continuación, se presenta una tabla con los commits relacionados con la imple
 
 | Repository        | Branch   | Commit Id       | Commit Message         | Commit Message Body             | Committed on (Date) |
 |----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
-| https://github.com/wiwitech1/mecanet-l4nding-page    | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 13/05/2025           |
+| https://github.com/wiwitech1/mecanet-frontend.git    | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 13/05/2025           |
 |                                                      | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 13/05/2025       |
 |                                                      | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 13/05/2025        |
 |                                                      | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 13/05/2025        |
@@ -4067,7 +4067,7 @@ Captura de colaboracion en github:
 
 ##### Repositorio de trabajo:
 
-- [Repositorio de la Landing Page en GitHub](https://github.com/wiwitech1/Project-Report)
+- Repositorio del FrontEnd en github: https://github.com/wiwitech1/mecanet-frontend.git
 
 El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que cada producto del Sprint 2 reflejara la participación de todos sus miembros.
 
