@@ -36,10 +36,6 @@
             <td>u202313702</td>
         </tr>
         <tr>
-            <td>Jean Pool Huaman De La Cruz</td>
-            <td>u20201e781</td>
-        </tr>
-        <tr>
             <td>Britney Delhy Qqueso Rodriguez</td>
             <td>u20211g671</td>
         </tr>
@@ -298,7 +294,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
     </thead>
   <tbody>
     <tr>
-      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
+      <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
       <td>
 <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
@@ -336,17 +332,6 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           <br>
 
           
-<p><b>Jean Pool Huaman De La Cruz</b></p>
-       <p><b>TB1:</b></p>
-        <p> Colaboré en actividades como la definición de segmentos objetivos y en el diseño y registro de entrevistas. También participé en partes del análisis y en la elaboración del To-Be Scenario Mapping e Impact Mapping, aportando desde mi perspectiva. </p>
-        <p><b>TP1:</b></p>
-        <p>-</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-          
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
         <p>Durante TB1, colaboré activamente en la elaboración del Solution Profile, la identificación de la problemática y la aplicación del proceso Lean UX. Participé en la construcción del Lean UX Canvas, el desarrollo de los Hypothesis Statements y la organización de entrevistas. También apoyé en la creación de entregables como User Personas, Journey Mapping y Empathy Mapping.</p>
@@ -357,6 +342,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p><b>TF:</b></p>
         <p>-</p>
       </td>
+      <br>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
@@ -393,17 +379,6 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           <br>
 
           
-<p><b>Jean Pool Huaman De La Cruz</b></p>
-       <p><b>TB1:</b></p>
-        <p>Aunque mi participación no fue muy destacada, cumplí con las tareas asignadas y apoyé en lo que fue necesario. Esto ayudó a que el equipo pudiera avanzar de forma organizada y mantener una buena dinámica de trabajo. </p>
-        <p><b>TP1:</b></p>
-        <p>-</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-          
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
         <p>Mi participación contribuyó a un trabajo conjunto fluido, donde cada integrante aportó al desarrollo de los entregables, fortaleciendo la cooperación del equipo.</p>
@@ -419,7 +394,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
     </tr>
 
 <tr>
-      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
@@ -456,17 +431,6 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>-</p>
           <br>
 
-          
-<p><b>Jean Pool Huaman De La Cruz</b></p>
-       <p><b>TB1:</b></p>
-        <p>Aporté en la planificación inicial de algunas tareas y colaboré en la organización del contenido relacionado a entrevistas y usuarios. Entregué mis partes a tiempo y traté de mantenerme alineado con el equipo. </p>
-        <p><b>TP1:</b></p>
-        <p>-</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
@@ -509,18 +473,6 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
         <p><b>TP1:</b></p>
         <p>Liderando la parte de órdenes de trabajo, trabajé en estrecha coordinación con mis compañeros para integrar sus módulos con el mío. Esta colaboración activa me permitió contribuir a una buena planificación y a la construcción de un entorno donde cada tarea estaba alineada a un objetivo compartido.</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-
-          
-<p><b>Jean Pool Huaman De La Cruz</b></p>
-       <p><b>TB1:</b></p>
-        <p>Gracias a una buena coordinación y compromiso, logramos mantener un ambiente de trabajo en el que todos pudieron participar activamente y avanzar de manera ordenada hacia las metas del proyecto. </p>
-        <p><b>TP1:</b></p>
-        <p>-</p>
         <p><b>TB2:</b></p>
         <p>-</p>
         <p><b>TF:</b></p>
@@ -614,23 +566,6 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
             Me considero una persona autodidacta, dedicada, creativa y responsable. 
             Me comprometo a  contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso.
           </p>
-    </td>
-  </tr>
-</table>
-
-<table align="center" border="1" cellspacing="0" cellpadding="8" style="width: 90%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 150px; text-align: center;">
-      <img src="img/profile-photos/Jean.jpeg" width="520">
-    </td>
-    <td>
-      <p align="center"><strong>Jean Pool Huamán - u20201e781</strong></p>
-      <p align="justify">
-        Soy Jean Pool Huamán, tengo 22 años y estudio Ingeniería de Software en la UPC. 
-        Me gusta trabajar en equipo y siempre trato de aportar lo mejor de mí en cada proyecto. 
-        Me considero una persona tranquila, responsable y con muchas ganas de seguir aprendiendo. 
-        En este trabajo, voy a dar mi mayor esfuerzo para que todo salga bien y podamos lograr un buen resultado como grupo.
-      </p>
     </td>
   </tr>
 </table>
