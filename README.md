@@ -2392,10 +2392,11 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
 ### 4.7.1. Class Diagrams.
 Diagrama de clases del FrontEnd basado en bounded contexts
 
+<img src="img/ddd/Class_Diagram_Front.svg" alt="Descripción del diagrama" width="1000px"/>
 
+<br>
 
 Diagrama de clases del BackEnd basado en bounded contexts
-<img src="img/ddd/Class_Diagram_Front.svg" alt="Descripción del diagrama" width="1000px"/>
 
 <div>
   <p align="center"><img src="img/odd/classes-db.png" alt="Class Diagram" width="700px" /></p>
