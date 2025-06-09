@@ -162,6 +162,12 @@
     <td>Mauricio Elera  y Victor Cruz</td>
     <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
 </tr>
+</tr>
+    <td>2.4</td>
+    <td>09/06/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Correción del diagrama de clases del Front y Students Outcomes</td>
+</tr>
 
     
 </table>
@@ -2384,11 +2390,17 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Diagrama de clases basado en bounded contexts
+Diagrama de clases del FrontEnd basado en bounded contexts
+
+
+
+Diagrama de clases del BackEnd basado en bounded contexts
+<img src="img/ddd/Class_Diagram_Front.svg" alt="Descripción del diagrama" width="1000px"/>
 
 <div>
   <p align="center"><img src="img/odd/classes-db.png" alt="Class Diagram" width="700px" /></p>
 </div>
+
 
 ### Account
 **Descripción**: Organización cliente suscrita a la plataforma, con límites de usuarios y activos definidos por su plan.
