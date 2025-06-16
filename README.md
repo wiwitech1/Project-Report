@@ -47,7 +47,7 @@
 </div>
 
 <p align="center">
-    <strong>Abril, 2025</strong>
+    <strong>Junio, 2025</strong>
 </p>
 <br>
 
@@ -87,13 +87,13 @@
 <tr>
     <td>1.3</td>
     <td>26/04/2025</td>
-    <td>Britney Delhy Qqueso Rodriguez</td>
+    <td>Britney Qqueso</td>
     <td>Documentación y análisis de las entrevistas a nuestros segmentos objetivos.</td>
 </tr>
 <tr>
     <td>1.4</td>
     <td>26/04/2025</td>
-    <td>Britney Delhy Qqueso Rodriguez</td>
+    <td>Britney Qqueso</td>
     <td>Creación y maquetación de la sección 'Needfinding' y sus diagramas. De la misma forma, se completo la redaccion de las historias de usuario y el to-be scenario mapping.</td>
 </tr>
 <tr>
@@ -141,25 +141,25 @@
 <tr>
     <td>2.0</td>
     <td>13/05/2025</td>
-    <td>Rafael Vivanco</td>
+    <td>Britney Qqueso</td>
     <td>Planeación y documentación del Sprint 2</td>
 </tr>
 <tr>
     <td>2.1</td>
     <td>13/05/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino y Victor Cruz</td>
+    <td>Ariana Agreda </td>
     <td>Creación y redacción de Execution Evidence for Sprint Review.</td>
 </tr>
 </tr>
     <td>2.2</td>
     <td>13/05/2025</td>
-    <td>Claudia Belledonne y Rafael Vivanco</td>
+    <td>Claudia Belledonne</td>
     <td>Creación y redacción de Services Documentation Evidence for Sprint Review.</td>
 </tr>
 </tr>
     <td>2.3</td>
     <td>14/05/2025</td>
-    <td>Mauricio Elera  y Victor Cruz</td>
+    <td>Mauricio Elera</td>
     <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
 </tr>
 </tr>
@@ -168,6 +168,13 @@
     <td>Claudia Belledonne</td>
     <td>Correción del diagrama de clases del Front y Students Outcomes</td>
 </tr>
+</tr>
+    <td>3.0</td>
+    <td>16/06/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Documentación de Validation Interviews </td>
+</tr>
+
 
     
 </table>
@@ -277,6 +284,17 @@ En esta entrega, la estrecha colaboración del equipo permitió implementar las 
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
@@ -1014,6 +1032,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Cargo / Rol en la empresa:** Asistente de Logística y Planta  
 - **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 0:00 s
+- **Fin:** 4:47 s
  <img src="img/segmento-objetivo/Grisel.jpg">
 
 #### Entrevista #2
@@ -1022,6 +1041,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Cargo / Rol en la empresa:** Administrador de mantenimiento  
 - **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 4:48 s 
+- **Fin:** 11:41 s
  <img src="img/segmento-objetivo/arnol.jpg">
 
 
@@ -1033,6 +1053,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Puesto o función que desempeñas:** Técnico de Diagnóstico y Reparación  
 - **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 11:42 s
+- **Fin:** 17:05 s
  <img src="img/segmento-objetivo/jhohan.jpg ">
 
 #### Entrevista #2
@@ -1041,6 +1062,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Puesto o función que desempeñas:** Soy conductor de camión volquete  
 - **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 17:06 s
+- **Fin:** 25:31 s
  <img src="img/segmento-objetivo/cesar.jpg">
 
 #### Entrevista #3
@@ -1049,6 +1071,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
 - **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 25:32 s
+- **Fin:** 29:56 s
  <img src="img/segmento-objetivo/luis.jpg ">
 
 
@@ -3953,6 +3976,139 @@ Captura de colaboracion en github:
 - Repositorio del FrontEnd en github: https://github.com/wiwitech1/mecanet-frontend.git
 
 El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que cada producto del Sprint 2 reflejara la participación de todos sus miembros.
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+#### 5.2.3.3. Sprint Backlog 2.
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+Se realizarán entrevistas a los usuarios finales para validar la funcionalidad de la aplicación. Se realizarán entrevistas a los administradores y técnicos de mantenimiento que son altamente beneficiados con nuestra solución.
+
+Para estas entrevistas de validación, se mostrará la Landing Page desarrollada y la aplicación web.
+
+**Preguntas sobre la Landing Page** 
+
+1. ¿Encuentras útil la información presentada en la landing page de Mecanet?
+
+2. ¿La sección “Sobre Nosotros” te ayuda a confiar en la plataforma?
+
+3. ¿Consideras que la información proporcionada es clara y concisa, o sientes que hay demasiada o muy poca?
+
+4. ¿Qué opinas sobre el aspecto visual de la página?¿Consideras que es atractivo y apropiado para una solución de software industrial como Mecanet?
+
+5. ¿Comprendes de inmediato cuál es el propósito de Mecanet al revisar la página?
+
+6. ¿Te animarías a solicitar una demo o registrarte a un plan gratuito después de navegar por esta página? ¿Por qué?
+
+**Preguntas sobre la aplicación**
+
+**Para Administradores Industriales y Responsables de Producción**
+Se considerará los userflows de:
+
+* Creación de cuenta e inicio de sesión
+
+* Registrar nueva línea de producción
+
+* Registrar nueva maquinaria
+
+* Generar plan mensual de mantenimiento
+
+1. ¿Te pareció clara y sencilla la experiencia de creación de cuenta para tu empresa?
+
+2. ¿Qué agregarías o quitarías para facilitar este registro inicial?
+
+3. ¿Te resultó intuitivo el proceso para agregar una nueva línea de producción?
+
+4. ¿Fue fácil identificar dónde registrar una nueva máquina?
+
+5. ¿La funcionalidad para generar el plan mensual es clara y fácil de usar?
+
+6. ¿Te parece que la organización de la aplicación se entiende y comprende fácilmente?
+
+**Para Técnicos y Supervisores de Mantenimiento**
+Se considerará los userflows de:
+
+* Creación de cuenta e inicio de sesión
+
+* Completar checklist de orden de trabajo
+
+1. ¿Te resultó claro qué debías hacer al ver la orden de trabajo?
+
+2. ¿El checklist que aparece refleja las tareas típicas que ejecutas en el mantenimiento?
+
+3. ¿Pudiste completar fácilmente los campos requeridos para cerrar la orden?
+
+4. ¿Te gustaría poder subir imágenes o comentarios como evidencia adicional del trabajo realizado?
+
+5. ¿Qué mejorarías para que esta experiencia sea más rápida y cómoda durante tu jornada?
+
+### 5.3.2. Registro de Entrevistas.
+### Segmento 1: Administradores y Responsables de Producción
+
+#### Entrevista #1
+- **Nombre completo:**  
+- **Edad:**  
+- **Cargo / Rol en la empresa:**  
+- **Enlace del video:** [Entrevista 1]()
+- **Inicio:** 0:00 s
+- **Fin:** 
+ <img src="">
+
+#### Entrevista #2
+- **Nombre completo:** 
+- **Edad:** 
+- **Cargo / Rol en la empresa:** 
+- **Enlace del video:** [Entrevista 2]()
+- **Inicio:** 
+- **Fin:** 
+ <img src="">
+
+
+### Segmento 2: Técnicos y Operarios de Mantenimiento
+
+#### Entrevista #1
+- **Nombre completo:**  
+- **Edad:**  
+- **Puesto o función que desempeñas:** 
+- **Enlace del video:** [Entrevista 3]()
+- **Inicio:** 
+- **Fin:** 
+ <img src="">
+
+#### Entrevista #2
+- **Nombre completo:** 
+- **Edad:** 
+- **Puesto o función que desempeñas:** 
+- **Enlace del video:** [Entrevista 4]()
+- **Inicio:** 
+- **Fin:** 
+ <img src="">
+
+#### Entrevista #3
+- **Nombre completo:** Luis Fernandez  
+- **Edad:** 25 años  
+- **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
+- **Enlace del video:** [Entrevista 5]()
+- **Inicio:** 
+- **Fin:** 
+ <img src=" ">
+
+### 5.3.3. Evaluaciones según heurísticas.
+
 
 # Conclusiones y recomendaciones.
 ## Conclusiones: 
