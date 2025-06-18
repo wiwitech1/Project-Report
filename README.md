@@ -105,13 +105,13 @@
 <tr>
     <td>1.6</td>
     <td>26/04/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino, Claudia Belldonne</td>
+    <td>Ariana Agreda, Claudia Belldonne</td>
     <td>Documentación de los style guidelines. Documentación de la seccion de la arquitectura de la información.</td>
 </tr>
 <tr>
     <td>1.7</td>
     <td>26/04/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino</td>
+    <td>Ariana Agreda</td>
     <td>Creación y documentación del Landing Page UI Design, Web Applications UX/UI Design y Web Applications Prototyping.</td>
 </tr>
 <tr>
@@ -169,10 +169,52 @@
     <td>Correción del diagrama de clases del Front y Students Outcomes</td>
 </tr>
 </tr>
+    <td>2.4</td>
+    <td>09/06/2025</td>
+    <td>Claudia Belledonne, Britney Qqueso</td>
+    <td>Correción de observaciones del trabajo parcial</td>
+</tr>
+</tr>
     <td>3.0</td>
-    <td>16/06/2025</td>
+    <td>14/06/2025</td>
     <td>Britney Qqueso</td>
     <td>Documentación de Validation Interviews </td>
+</tr>
+</tr>
+    <td>3.1</td>
+    <td>16/06/2025</td>
+    <td>Mauricio Elera, Claudia Belledonne</td>
+    <td>Creación del Sprint 3 y documentación del Sprint Planning 3 y Aspect Leaders and Collaborators </td>
+</tr>
+</tr>
+    <td>3.2</td>
+    <td>16/06/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Creación y documentación del Sprint Backlog 3 </td>
+</tr>
+</tr>
+    <td>3.3</td>
+    <td>17/06/2025</td>
+    <td>Ariana Agreda</td>
+    <td>Redacción de Development Evidence for Sprint Review </td>
+</tr>
+</tr>
+    <td>3.4</td>
+    <td>17/06/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Documentación de Execution Evidence for Sprint Review </td>
+</tr>
+</tr>
+    <td>3.6</td>
+    <td>18/06/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Creación y redacción de Services Documentation Evidence for Sprint Review </td>
+</tr>
+</tr>
+    <td>3.7</td>
+    <td>18/06/2025</td>
+    <td>Mauricio Elera, Ariana Agreda</td>
+    <td>Redacción de Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint</td>
 </tr>
 
 
@@ -190,6 +232,10 @@ En esta entrega, cada miembro del equipo contribuyó activamente al desarrollo d
 
 ## TP
 En esta entrega, la estrecha colaboración del equipo permitió implementar las funcionalidades clave de la aplicación web. La asignación de tareas por secciones, en concordancia con el diseño y contenido predefinidos, facilitó este proceso. La participación activa de todos los miembros se evidencia en los analíticos de colaboración del repositorio oficial.
+![Contributions tp](img/sprint2/Contributions-Tb1.png)
+
+## TB2
+En esta entrega, hemos implementado con éxito el backend de la aplicación web gracias a la estrecha colaboración del equipo. La clave fue la asignación estratégica de tareas por secciones, lo que facilitó el desarrollo de las funcionalidades principales en línea con el diseño predefinido. La participación activa de todos los miembros se evidencia en los analíticos de colaboración, demostrando el compromiso y la eficiencia logrados en este proceso crucial.
 ![Contributions tp](img/sprint2/Contributions-Tb1.png)
 
 # Contenido
@@ -322,11 +368,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
     </thead>
   <tbody>
     <tr>
-      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
+      <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
       <td>
 <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>urante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
+        <p>Durante la TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
         <p><b>TP1:</b></p>
         <p>Yo demostré liderazgo dentro del equipo al encargarme del módulo de planificación de mantenimiento, proponiendo una estructura clara y funcional que permitió integrar esta funcionalidad de forma eficiente al sistema. Coordiné con mis compañeros para asegurar que la lógica del sistema fuera coherente entre módulos.</p>
         <p><b>TB2:</b></p>
@@ -382,68 +428,20 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>-</p>
       </td>
       <td>
-        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p> Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
-        <p><b>TP1:</b></p>
-        <p>Como líder en planificación de mantenimiento, asumí la responsabilidad de desarrollar los planes de mantenimiento, el registro de cuentas y la lógica de autenticación. Esta experiencia me permitió ejercer un liderazgo técnico efectivo, aportando soluciones concretas e integrando mi trabajo con el de mis compañeros para asegurar la coherencia del sistema.</p>
+        <p> Cada miembro del equipo cumplió con las tareas asignadas, manteniendo una comunicación constante y efectiva que fortaleció la confianza entre todos. Esta dinámica resultó en un trabajo en equipo cohesivo, un valor crucial en proyectos colaborativos, y nos permitió desarrollar con éxito la landing page.</p>
+        <p><b>TP:</b></p>
+        <p> Cada integrante del equipo demostró compromiso y responsabilidad al cumplir con sus tareas. La comunicación constante y efectiva fue clave para fomentar la colaboración y consolidar la confianza mutua. Este enfoque colaborativo fue fundamental para el éxito del proyecto, resaltando la importancia del trabajo en equipo en entornos colaborativos, y nos permitió desarrollar el frontend de la aplicación.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p> En la TB2, la coordinación del equipo continuó siendo un pilar fundamental. Cada miembro aportó su experiencia y dedicación, asegurando que las responsabilidades se gestionaran de forma colaborativa. Esta cohesión fue esencial para desarrollar y optimizar el backend de la aplicación, sentando una base sólida para futuras integraciones.</p>
         <p><b>TF:</b></p>
         <p>-</p>
-          <br>
-          
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
-       <p><b>TB1:</b></p>
-        <p>Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
-        <p><b>TP1:</b></p>
-        <p>Liderar el desarrollo del módulo de inicio de sesión, además de implementar la consulta de órdenes diarias y el registro de maquinarias, me permitió ejercer un liderazgo colaborativo que contribuyó a la base del sistema. Coordiné decisiones técnicas con el equipo, lo que fortaleció nuestra dinámica y alineó nuestras metas.</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-          
-
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p>El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
-        <p><b>TP1:</b></p>
-        <p>Al liderar el módulo de órdenes de trabajo —incluyendo la implementación de órdenes correctivas, la asignación de técnicos y la gestión de sesiones—, aprendí a tomar decisiones técnicas que impactaban en múltiples secciones del sistema. Esta responsabilidad me permitió ejercer un liderazgo claro dentro de mi área, en constante colaboración con los demás.</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-
-          
-<p><b>Jean Pool Huaman De La Cruz</b></p>
-       <p><b>TB1:</b></p>
-        <p>Aunque mi participación no fue muy destacada, cumplí con las tareas asignadas y apoyé en lo que fue necesario. Esto ayudó a que el equipo pudiera avanzar de forma organizada y mantener una buena dinámica de trabajo. </p>
-        <p><b>TP1:</b></p>
-        <p>-</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-          
-<p><b>Britney Delhy Qqueso Rodriguez</b></p>
-       <p><b>TB1:</b></p>
-        <p>Mi participación contribuyó a un trabajo conjunto fluido, donde cada integrante aportó al desarrollo de los entregables, fortaleciendo la cooperación del equipo.</p>
-        <p><b>TP1:</b></p>
-        <p>Como líder en la creación de cuentas, desarrollé la lógica para registrar líneas de producción y modelé la entidad de órdenes de trabajo. Esta participación me permitió liderar desde lo técnico, integrando mis entregables con los demás módulos y aportando activamente al cumplimiento de los objetivos generales del equipo.
-
-</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
+        <br>
       </td>
     </tr>
 
 <tr>
-      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
@@ -504,62 +502,15 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       </td>
       
 <td>
-    <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
+        <p>Todos los miembros del equipo se involucraron plenamente en sus tareas correspondientes, manteniendo una comunicación fluida y eficiente. Esta dinámica no solo construyó una confianza sólida entre ellos, sino que también potenció el trabajo en equipo, un elemento esencial en cualquier proyecto colaborativo.</p>
         <p><b>TP1:</b></p>
-        <p>Esta experiencia reforzó mi capacidad para coordinar y colaborar dentro del equipo. Aprendí a equilibrar la planificación de tareas con la participación activa de todos, lo cual fue esencial para alcanzar nuestras metas de manera ordenada y puntual.</p>
+        <p>Cada integrante participó activamente en las tareas asignadas, lo que se complementó con una comunicación constante y efectiva. Esto fue clave para fortalecer la confianza mutua e impulsar el trabajo en equipo, un aspecto fundamental para el éxito en proyectos colaborativos.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>En esta etapa, la colaboración del equipo fue ejemplar, con cada miembro asumiendo sus responsabilidades y manteniéndose en comunicación constante. Esta cohesión permitió superar desafíos y alcanzar los objetivos establecidos, demostrando la importancia de un equipo unido y coordinado.</p>
         <p><b>TF:</b></p>
         <p>-</p>
-          <br>
-
-          
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
-       <p><b>TB1:</b></p>
-        <p>Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
-        <p><b>TP1:</b></p>
-        <p>Mi rol como líder del módulo de planificación de mantenimiento me motivó a colaborar estrechamente con el equipo para definir objetivos claros y distribuir tareas. Al trabajar también en el registro de cuentas y autenticación, promoví una comunicación constante y una planificación eficiente que facilitó el cumplimiento de nuestros objetivos del TP1.</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-        
-
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p>Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
-        <p><b>TP1:</b></p>
-        <p>Liderando la parte de órdenes de trabajo, trabajé en estrecha coordinación con mis compañeros para integrar sus módulos con el mío. Esta colaboración activa me permitió contribuir a una buena planificación y a la construcción de un entorno donde cada tarea estaba alineada a un objetivo compartido.</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-
-          
-<p><b>Jean Pool Huaman De La Cruz</b></p>
-       <p><b>TB1:</b></p>
-        <p>Gracias a una buena coordinación y compromiso, logramos mantener un ambiente de trabajo en el que todos pudieron participar activamente y avanzar de manera ordenada hacia las metas del proyecto. </p>
-        <p><b>TP1:</b></p>
-        <p>-</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-          
-<p><b>Britney Delhy Qqueso Rodriguez</b></p>
-       <p><b>TB1:</b></p>
-        <p>El trabajo coordinado permitió avanzar de forma organizada, integrando aportes de todos los miembros y logrando los objetivos propuestos de la TB1.</p>
-        <p><b>TP1:</b></p>
-        <p>Mi trabajo en el desarrollo de cuentas y líneas de producción requirió constante coordinación con los demás líderes de módulo. Participé activamente en la planificación de tareas y promoví que todos los aportes fueran escuchados, lo que permitió que cumpliéramos con los entregables de forma estructurada y equitativa.</p>
-        <p><b>TB2:</b></p>
-        <p>-</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
+        <br>
       </td>
     </tr>
   </tbody>
