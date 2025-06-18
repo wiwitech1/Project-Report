@@ -43,7 +43,7 @@
 </div>
 
 <p align="center">
-    <strong>Abril, 2025</strong>
+    <strong>Junio, 2025</strong>
 </p>
 <br>
 
@@ -137,25 +137,25 @@
 <tr>
     <td>2.0</td>
     <td>13/05/2025</td>
-    <td>Rafael Vivanco</td>
+    <td>Britney Delhy Qqueso Rodriguez</td>
     <td>Planeación y documentación del Sprint 2</td>
 </tr>
 <tr>
     <td>2.1</td>
     <td>13/05/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino y Victor Cruz</td>
+    <td>Ariana Cecilia Agreda Sobrino y Claudia Belledonne</td>
     <td>Creación y redacción de Execution Evidence for Sprint Review.</td>
 </tr>
 </tr>
     <td>2.2</td>
     <td>13/05/2025</td>
-    <td>Claudia Belledonne y Rafael Vivanco</td>
+    <td>Claudia Belledonne y Britney Delhy Qqueso Rodriguez</td>
     <td>Creación y redacción de Services Documentation Evidence for Sprint Review.</td>
 </tr>
 </tr>
     <td>2.3</td>
     <td>14/05/2025</td>
-    <td>Mauricio Elera  y Victor Cruz</td>
+    <td>Mauricio Elera</td>
     <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
 </tr>
 </tr>
