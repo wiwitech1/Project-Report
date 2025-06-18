@@ -4231,6 +4231,22 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
 </table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
+En este sprint, se lograron avances fundamentales en la construcción de la lógica del backend para Mecanet, priorizando la gestión de usuarios, activos, órdenes de trabajo, métricas y elementos de inventario. Se implementaron múltiples endpoints REST para el registro y recuperación de datos clave, permitiendo sentar las bases para una interacción fluida con el frontend y asegurar la persistencia de la información operativa. Las validaciones, modelos de datos y estructuras de control fueron diseñadas con énfasis en escalabilidad y mantenibilidad.<br/>
+
+A continuación, se presenta una tabla con los commits relacionados con la implementación de estas funcionalidades:  <br/>
+
+| Repository                                                                                           | Branch  | Commit Id | Commit Message                                 | Commit Message Body                                                              | Committed on (Date) |
+| ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | 81f3a1c   | feat(user): implement POST user registration   | Added endpoint for user creation with validation and password hashing            | 10/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | 94b2e8d   | feat(user): add GET user by ID                 | Implemented GET endpoint to retrieve user information with role mapping          | 14/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | a72d3c7   | feat(order): implement POST work order         | Created model and controller logic to register new work orders in DB             | 16/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | b51f2a9   | feat(order): add GET work orders list          | Endpoint to retrieve and filter work orders by date, status, and priority        | 17/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | c12ff9b   | feat(metrics): implement MTTR and MTBF metrics | Developed metric calculation logic from completed orders                         | 17/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | d72ca6e   | feat(inventory): add POST inventory item       | Enabled registration of inventory tools and materials with validation rules      | 18/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | e49d8f0   | feat(asset): implement POST asset registration | Created data structure and API for adding new equipment or machines              | 19/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | f28c9ad   | ci: update CI pipeline for backend deployment  | Modified GitHub Actions for backend automatic deployment on sprint release       | 19/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | main    | f28c9ad   | chore(release): merge Sprint 3 backend to main | Merged all Sprint 3 backend features including users, assets, orders and metrics | 19/06/2025          |
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
