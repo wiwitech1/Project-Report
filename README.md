@@ -958,6 +958,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Cargo / Rol en la empresa:** Asistente de Logística y Planta  
 - **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 0:00 s
+- **Fin:** 4:47 s
  <img src="img/segmento-objetivo/Grisel.jpg">
 
 #### Entrevista #2
@@ -965,7 +966,8 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Edad:** 31 años  
 - **Cargo / Rol en la empresa:** Administrador de mantenimiento  
 - **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
-- **Inicio:** 4:48 s 
+- **Inicio:** 4:48 s
+- **Fin:** 11:41 s
  <img src="img/segmento-objetivo/arnol.jpg">
 
 
@@ -977,6 +979,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Puesto o función que desempeñas:** Técnico de Diagnóstico y Reparación  
 - **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 11:42 s
+- **Fin:** 17:05 s
  <img src="img/segmento-objetivo/jhohan.jpg ">
 
 #### Entrevista #2
@@ -985,6 +988,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Puesto o función que desempeñas:** Soy conductor de camión volquete  
 - **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 17:06 s
+- **Fin:** 25:31 s
  <img src="img/segmento-objetivo/cesar.jpg">
 
 #### Entrevista #3
@@ -993,6 +997,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
 - **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 25:32 s
+- **Fin:** 29:56 s
  <img src="img/segmento-objetivo/luis.jpg ">
 
 
