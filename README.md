@@ -3999,8 +3999,236 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Sección API Gestión de Usuarios<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Órdenes de Trabajo<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Inventario<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Plan de Mantenimiento<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Gestión de Activos<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Métricas<br/>Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>arii4w</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Cl4us-tb</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Maur1xio</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Qqueso, Britney</td>
+    <td>brit2801</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
 
 #### 5.2.3.3. Sprint Backlog 3.
+<p>El objetivo de este tercer sprint es desarrollar las APIs esenciales del backend para la gestión de usuarios (registro y autenticación), administración de inventario (registro y consulta de ítems), control de activos (maquinarias y equipos), generación de órdenes de trabajo y reportes de métricas de mantenimiento. Esto proporcionará la base técnica para el funcionamiento integral del sistema y la futura integración con el frontend.</p>
+<img src="img/sprint2/Trello-Mecanet-Sprint2.png">
+<p>link: https://trello.com/b/pRzRlW59/mecanet-open-source</p>
+
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 3</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+    
+<tr>
+    <th rowspan="2">TS01</th>
+    <th rowspan="2">Post Usuario</th>
+    <td>1</td>
+    <td align="justify">Crear endpoint POST para registrar usuario</td>
+    <td align="justify">Implementar el endpoint en el backend que permita registrar nuevos usuarios en la base de datos, validando los datos requeridos (nombre, correo, contraseña, tipo de usuario).</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>In Progress</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td align="justify">Configurar validaciones y seguridad para el registro</td>
+    <td align="justify">Agregar validaciones (campos requeridos, formato de correo, hash de contraseña) y medidas de seguridad básicas para proteger el endpoint.</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>In Progress</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS02</th>
+    <th rowspan="2">Get Usuario</th>
+    <td>3</td>
+    <td align="justify">Crear endpoint GET para consultar usuario por ID</td>
+    <td align="justify">Permitir obtener la información básica de un usuario específico mediante su ID, retornando datos personales y roles asociados.</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>To Do</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td align="justify">Conectar consulta a base de datos y estructurar respuesta</td>
+    <td align="justify">Realizar la consulta a la base de datos y retornar la información estructurada en formato JSON para el frontend.</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS03</th>
+    <th rowspan="1">Get Roles por Usuario</th>
+    <td>5</td>
+    <td align="justify">Implementar endpoint GET de roles por usuario</td>
+    <td align="justify">Permitir recuperar los roles asignados a un usuario autenticado para establecer los permisos del sistema.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS04</th>
+    <th rowspan="2">Post Orden de Trabajo</th>
+    <td>6</td>
+    <td align="justify">Diseñar modelo de orden de trabajo</td>
+    <td align="justify">Definir la estructura de datos para registrar una nueva orden de trabajo (tipo, prioridad, descripción, técnico asignado, fecha estimada).</td>
+    <td>4 hr</td>
+    <td>Britney Qqueso</td>
+    <td>In Progress</td>
+</tr>
+<tr>
+    <td>7</td>
+    <td align="justify">Crear endpoint POST para orden de trabajo</td>
+    <td align="justify">Desarrollar el endpoint que reciba los datos de la orden de trabajo y los almacene correctamente en la base de datos.</td>
+    <td>5 hr</td>
+    <td>Britney Qqueso</td>
+    <td>In Progress</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS05</th>
+    <th rowspan="1">Get Órdenes de Trabajo</th>
+    <td>8</td>
+    <td align="justify">Desarrollar endpoint GET para listar órdenes</td>
+    <td align="justify">Permitir obtener un listado de órdenes de trabajo registradas, filtrables por estado, prioridad o fecha.</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS06</th>
+    <th rowspan="1">Get Métricas de Mantenimiento</th>
+    <td>9</td>
+    <td align="justify">Implementar endpoint de métricas (MTTR, MTBF)</td>
+    <td align="justify">Desarrollar una API que calcule y entregue indicadores clave de mantenimiento utilizando los datos históricos de órdenes completadas.</td>
+    <td>5 hr</td>
+    <td>Ariana Agreda</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS07</th>
+    <th rowspan="2">Post Inventory Item</th>
+    <td>10</td>
+    <td align="justify">Diseñar modelo de ítem de inventario</td>
+    <td align="justify">Definir los atributos requeridos para registrar herramientas y materiales (nombre, código, cantidad, ubicación).</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>In Progress</td>
+</tr>
+<tr>
+    <td>11</td>
+    <td align="justify">Crear endpoint POST para ítems de inventario</td>
+    <td align="justify">Crear API que registre ítems en el sistema, permitiendo su uso posterior en tareas de mantenimiento.</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>In Progress</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS08</th>
+    <th rowspan="1">Get Inventory Item</th>
+    <td>12</td>
+    <td align="justify">Desarrollar endpoint GET para consultar ítems</td>
+    <td align="justify">Obtener información detallada de cada ítem del inventario para verificar su disponibilidad.</td>
+    <td>3 hr</td>
+    <td>Britney Qqueso</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS09</th>
+    <th rowspan="2">Post Activo</th>
+    <td>13</td>
+    <td align="justify">Diseñar modelo de activo</td>
+    <td align="justify">Definir los atributos y relaciones necesarias de activos como maquinaria, para su programación en mantenimientos.</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>To Do</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td align="justify">Crear endpoint POST para registrar activo</td>
+    <td align="justify">Permitir el registro de nuevos activos mediante API, validando la unicidad de cada registro.</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS10</th>
+    <th rowspan="1">Get Activo</th>
+    <td>15</td>
+    <td align="justify">Desarrollar API para obtener datos de activo</td>
+    <td align="justify">Permitir visualizar datos específicos de un activo registrado, como tipo, estado y uso actual.</td>
+    <td>3 hr</td>
+    <td>Mauricio Elera</td>
+    <td>To Do</td>
+</tr>
+
+
+</table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
