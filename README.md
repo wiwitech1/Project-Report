@@ -1907,8 +1907,8 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
 <tr><td>34</td><td>TS03</td><td>Get Roles por Usuario</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener los roles asociados a un usuario mediante una API para controlar el acceso y las funcionalidades disponibles.</td><td>3</td></tr>
 <tr><td>35</td><td>TS04</td><td>Post Orden de Trabajo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar una nueva orden de trabajo mediante una API para llevar control de los mantenimientos realizados.</td><td>3</td></tr>
 <tr><td>36</td><td>TS05</td><td>Get Órdenes de Trabajo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener las órdenes de trabajo existentes mediante una API para mostrar el historial de mantenimientos.</td><td>3</td></tr>
-<tr><td>37</td><td>TS06</td><td>Get Métricas de Mantenimiento</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener las métricas generales de mantenimiento mediante una API para mostrar indicadores de desempeño en el dashboard.</td>5<td>
-<tr><td>38</td><td>TS07</td><td>Post Inventory Item</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar un nuevo ítem en el inventario mediante una API para mantener actualizado el stock de herramientas, materiales o equipos.</td><td>3</td></tr>
+<tr><td>37</td><td>TS06</td><td>Get Métricas de Mantenimiento</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener las métricas generales de mantenimiento mediante una API para mostrar indicadores de desempeño en el dashboard.</td>5<td><tr>
+<td>38</td><td>TS07</td><td>Post Inventory Item</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar un nuevo ítem en el inventario mediante una API para mantener actualizado el stock de herramientas, materiales o equipos.</td><td>3</td></tr>
 <tr><td>39</td><td>T08</td><td>Get Inventory Item</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener los detalles de un ítem del inventario mediante una API para visualizar su disponibilidad, ubicación y cantidad.</td><td>3</td></tr>
 <tr><td>40</td><td>TS09</td><td>Post Activo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar un activo mediante una API para tenerlo disponible para programación de mantenimientos.</td><td>5</td></tr>
 <tr><td>41</td><td>TS10</td><td>Get Activo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener la información de un activo mediante una API para mostrarla en el módulo de activos.</td><td>3</td></tr>
@@ -3985,11 +3985,11 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     </tr>
      <tr>
         <td>Sprint 2 Velocity  </td>
-        <td>60 Story Points.</td>
+        <td>35 Story Points.</td>
     </tr>
      <tr>
         <td>Sum of Story Points  </td>
-        <td>55 Story Points.</td>
+        <td>34 Story Points.</td>
     </tr>
 </table>
 
@@ -4291,8 +4291,72 @@ Los endpoints documentados corresponden a las funcionalidades clave desarrollada
 ![Evidencia 3:]()
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Durante este Sprint, se avanzó en el proceso de Deployment del backend de la aplicación Mecanet, enfocándose en el despliegue inicial de los Web Services en un entorno de desarrollo accesible, con el objetivo de facilitar la validación funcional por parte del equipo y sentar las bases para futuras integraciones con el frontend.
+
+#### Actividades realizadas en el Sprint 3:
+1. Configuración de repositorio remoto:
+
+    * Se utilizó GitHub como repositorio de control de versiones.
+
+    * Repositorio oficial del backend: https://github.com/wiwitech1/mecanet-backend
+
+2. Creación de entorno de despliegue local (Sprint 1):
+
+    * Para este Sprint se optó por un despliegue local en entorno de desarrollo utilizando:
+
+      * Spring Boot como framework base.
+
+      * Swagger UI para la documentación de servicios.
+
+      * PostgreSQL como base de datos relacional.
+
+      * Docker para levantar contenedores del backend y base de datos en conjunto.
+
+    * Se configuró un archivo docker-compose.yml para facilitar la ejecución del entorno completo.
+
+3. Ejecución local exitosa:
+
+    * La aplicación fue levantada en el entorno local accediendo desde http://localhost:8080/swagger-ui.html.
+
+    * Esto permitió validar el comportamiento de todos los endpoints REST desarrollados y su interacción con la base de datos.
+
+#### Capturas del Proceso de Deployment
+1. Evidencia 1:
+![Evidencia 1:]()
+
+1. Evidencia 2:
+![Evidencia 2:]()
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanet. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con Spring Boot y PostgreSQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
+
+A continuación, se detalla la participación específica de cada integrante del equipo en las principales áreas funcionales del backend:
+
+| **Nombre**                       | **Actividad**                                                                                                                                                              |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos PostgreSQL. Participó en la definición de relaciones entre entidades y persistencia. |
+| Belledone Espinoza, Claudia      | Encargada de la lógica de negocio y servicios de autenticación. Desarrolló la estructura de seguridad, generación de tokens JWT y configuración de rutas protegidas.       |
+| Elera Rodríguez, Mauricio Daniel | Implementó los controladores REST y validaciones. Participó activamente en la construcción de endpoints para entidades como usuarios, técnicos y órdenes.                  |
+| Qqueso Rodriguez, Britney Delhy  | Responsable de la documentación con Swagger. Estructuró el despliegue local del backend con Docker.      |
+
+
+#### Evidencia de colaboración en GitHub
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial del backend, donde se evidencia la participación activa de todos los miembros del equipo en el Sprint 3. <br/>
+
+Captura de colaboracion en github:
+
+![image](https://github.com/user-attachments/assets/d023aadf-4835-4ebf-bf6c-8e3ead9f919b)
+
+![image](https://github.com/user-attachments/assets/d29d3158-0843-47b6-b756-6565637a521c)
+![image](https://github.com/user-attachments/assets/77a93762-0bc2-4297-a57f-e6b7c6e140bd)
+
+
+![image](https://github.com/user-attachments/assets/80a2feb1-d1c2-4f82-baee-c11a1f27d0f5)
+
+#### Repositorio de trabajo:
+* Repositorio del Backend en GitHub: https://github.com/wiwitech1/mecanet-backend.git
+
+El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando herramientas colaborativas como GitHub y reuniones breves, permitiendo una integración progresiva de los módulos desarrollados y asegurando que cada funcionalidad contara con aportes técnicos y revisiones cruzadas por parte de todos los miembros.
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
