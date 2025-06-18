@@ -429,9 +429,9 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       </td>
       <td>
         <p><b>TB1:</b></p>
-        <p> Cada miembro del equipo cumplió con las tareas asignadas, manteniendo una comunicación constante y efectiva que fortaleció la confianza entre todos. Esta dinámica resultó en un trabajo en equipo cohesivo, un valor crucial en proyectos colaborativos, y nos permitió desarrollar con éxito la landing page.</p>
+        <p> Cada integrante cumplió con las tareas que se le encomendaron, manteniendo una comunicación constante y efectiva que reforzó la confianza entre todos. Esto contribuyó al fortalecimiento del trabajo en equipo, un valor esencial en proyectos colaborativos.</p>
         <p><b>TP:</b></p>
-        <p> Cada integrante del equipo demostró compromiso y responsabilidad al cumplir con sus tareas. La comunicación constante y efectiva fue clave para fomentar la colaboración y consolidar la confianza mutua. Este enfoque colaborativo fue fundamental para el éxito del proyecto, resaltando la importancia del trabajo en equipo en entornos colaborativos, y nos permitió desarrollar el frontend de la aplicación.</p>
+        <p> Cada miembro del equipo cumplió con las tareas asignadas, demostrando compromiso y responsabilidad. Se mantuvo una comunicación constante y efectiva, lo que favoreció la colaboración y fortaleció la confianza mutua. Este enfoque contribuyó al éxito del proyecto, resaltando la importancia del trabajo en equipo en entornos colaborativos</p>
         <p><b>TB2:</b></p>
         <p> En la TB2, la coordinación del equipo continuó siendo un pilar fundamental. Cada miembro aportó su experiencia y dedicación, asegurando que las responsabilidades se gestionaran de forma colaborativa. Esta cohesión fue esencial para desarrollar y optimizar el backend de la aplicación, sentando una base sólida para futuras integraciones.</p>
         <p><b>TF:</b></p>
