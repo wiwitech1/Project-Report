@@ -315,11 +315,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       <td>
 <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>urante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
+        <p>Durante TB1, presenté y sustenté entregables clave como las Style Guidelines, Wireframes de la Landing Page y de la Aplicación Web, Wireflow Diagram, User Flow Diagram y Prototype. En cada exposición, adapté mi comunicación al tipo de audiencia: utilicé lenguaje técnico con mis compañeros de equipo y enfoques visuales y funcionales para que los docentes y evaluadores comprendieran con claridad el diseño propuesto.</p>
         <p><b>TP1:</b></p>
-        <p>Yo demostré liderazgo dentro del equipo al encargarme del módulo de planificación de mantenimiento, proponiendo una estructura clara y funcional que permitió integrar esta funcionalidad de forma eficiente al sistema. Coordiné con mis compañeros para asegurar que la lógica del sistema fuera coherente entre módulos.</p>
+        <p>Durante el desarrollo del módulo de planificación de mantenimiento, comuniqué de forma clara y efectiva la estructura que propuse al equipo. Expliqué las decisiones de diseño y lógica funcional en reuniones orales, asegurándome de que todos comprendieran su integración con otros módulos. Esta comunicación facilitó una implementación coordinada y coherente entre todas las partes del sistema.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB3, me encargué de corregir y refactorizar los bounded contexts de maquinarias e inventario en el frontend y backend. Para lograrlo, comuniqué claramente al equipo los cambios necesarios en la estructura del dominio, justificando las decisiones tomadas y resolviendo dudas en reuniones grupales. Además, adapté mi forma de explicar dependiendo del nivel técnico de cada integrante, facilitando el entendimiento tanto del impacto funcional como del diseño en capas, asegurando así una implementación coherente en ambos lados del sistema.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -327,11 +327,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p>Durante TB1, tomé un rol activo en la elaboración del análisis competitivo y en la propuesta de estrategias clave para el proyecto. Guié la redacción de las historias de usuario, los epics y la estructuración del product backlog, fomentando siempre la toma de decisiones conjunta y el liderazgo compartido en las etapas iniciales del trabajo. Finalmente, lidere el modelado del diagrama de la base de datos relacional para el trabajo.</p>
+        <p>Durante TB1, comuniqué de manera efectiva mis propuestas en el análisis competitivo y las estrategias clave del proyecto, facilitando discusiones claras y estructuradas en equipo. Lideré la redacción de historias de usuario, epics y la organización del product backlog, expresando con claridad los criterios de aceptación y prioridades. Asimismo, expuse el modelo de base de datos relacional, explicando su lógica y justificación técnica ante el equipo y docentes, adaptando el lenguaje según el público.</p>
         <p><b>TP1:</b></p>
-        <p>Yo asumí un rol activo de liderazgo al desarrollar el módulo de inicio de sesión y guiar su integración con otras secciones. También aporté desde el diseño hasta la implementación, fortaleciendo la base del sistema de autenticación y acceso.</p>
+        <p>Al desarrollar el módulo de inicio de sesión, expliqué su funcionalidad, flujos y puntos de integración con otras secciones, asegurándome de que todos los miembros entendieran su impacto en la arquitectura general. Guié reuniones breves para resolver dudas del sistema de autenticación y comuniqué con claridad tanto en términos técnicos como funcionales para facilitar la colaboración entre roles distintos.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, presenté un modelo actualizado del diagrama de base de datos y del diagrama de clases, asegurando que su estructura fuera comprendida por todos los miembros del equipo. Me centré en el bounded context de mantenimiento, y comuniqué sus responsabilidades, entidades clave y relaciones de forma clara, contribuyendo a que tanto diseñadores como desarrolladores alinearan sus tareas con la lógica del dominio.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -339,11 +339,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>Durante el desarrollo de la TB1, me encargué del diseño de la interfaz de usuario de la landing page, creando su wireframe y mock-up para establecer tanto la estructura como el diseño visual final. También trabajé en el diseño de la experiencia y la interfaz de usuario de la aplicación web, desarrollando los wireframes, los diagramas de wireflow para ilustrar el flujo de interacciones entre pantallas, los mock-ups detallados y los diagramas de flujo de usuario para visualizar las rutas dentro de la aplicación. Además, creé prototipos interactivos de la aplicación web para probar las funcionalidades y la experiencia del usuario antes de la implementación final.</p>
+        <p>Durante TB1, presenté con claridad los avances del diseño de la interfaz de la landing page mediante wireframes y mockups, explicando de forma visual y verbal las decisiones de estructura y estilo ante el equipo. Expuse los wireflows y user flows de la aplicación web, facilitando la comprensión del recorrido del usuario dentro del sistema. También guié demostraciones de los prototipos interactivos, adaptando el lenguaje técnico o funcional según los conocimientos del público (equipo de diseño, desarrolladores o docentes).</p>
         <p><b>TP1:</b></p>
-        <p>Yo ejercí liderazgo técnico en la implementación del módulo de órdenes de trabajo, tomando decisiones sobre estructura y funcionalidades. Además, colaboré con mis compañeros para asegurar que mi parte se integre correctamente con el resto del sistema.</p>
+        <p>Al implementar el módulo de órdenes de trabajo, comuniqué con precisión las decisiones técnicas sobre su estructura y funcionalidades, facilitando su correcta integración al sistema. Mediante reuniones orales y explicaciones en equipo, aseguré que las interfaces y servicios relacionados se alinearan, generando un desarrollo coordinado y comprensible para los demás integrantes.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, expuse el diagrama de clases que elaboré, explicando la lógica detrás de la organización del modelo. Aporté también en la definición de la base de datos y me enfoqué en el bounded context de usuarios y gestión de activos (Asset Management), comunicando de manera efectiva sus entidades clave y relaciones, permitiendo que tanto diseñadores como programadores comprendieran e implementaran correctamente su estructura.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -351,11 +351,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>Durante TB1, colaboré activamente en la elaboración del Solution Profile, la identificación de la problemática y la aplicación del proceso Lean UX. Participé en la construcción del Lean UX Canvas, el desarrollo de los Hypothesis Statements y la organización de entrevistas. También apoyé en la creación de entregables como User Personas, Journey Mapping y Empathy Mapping.</p>
+        <p>Durante TB1, colaboré activamente en la identificación de la problemática y en el desarrollo del Solution Profile, aplicando el enfoque de Lean UX. En cada entrega —como el Lean UX Canvas, los Hypothesis Statements o las entrevistas de usuario— comuniqué de forma clara las ideas y hallazgos, adaptando el lenguaje según el contexto: técnico con el equipo y empático con los usuarios entrevistados. También participé en la presentación de entregables como User Personas, Journey Mapping y Empathy Mapping, explicando su utilidad ante docentes y compañeros.</p>
         <p><b>TP1:</b></p>
-        <p>Yo tomé liderazgo en el desarrollo del registro de cuentas y líneas de producción. Establecí la estructura de datos y lógica necesaria para el correcto funcionamiento de estas secciones, asegurando su alineación con el diseño general del sistema.</p>
+        <p>Asumí un rol de liderazgo en la implementación del registro de cuentas y líneas de producción, explicando la estructura de datos y la lógica de negocio necesaria en reuniones del equipo. Me aseguré de comunicar de forma clara cómo estas funcionalidades se integraban con el resto del sistema, lo que facilitó el trabajo coordinado entre las distintas secciones del proyecto.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, conduje entrevistas de validación y presenté los hallazgos obtenidos de manera clara y estructurada. Además, me encargué de documentar el Sprint 3, dejando registro del avance del equipo y comunicando oralmente los puntos clave del progreso y próximos pasos en las reuniones grupales.</p>
         <p><b>TF:</b></p>
         <p>-</p>
       </td>
@@ -363,22 +363,22 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p> Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
+        <p>Durante esta etapa, mi capacidad para comunicar ideas de forma clara y visual fue clave para que todo el equipo comprendiera la propuesta general del sistema. Al presentar wireframes, diagramas y prototipos, adapté mi lenguaje según el público, logrando que tanto mis compañeros como los docentes pudieran visualizar el flujo y diseño del sistema, lo cual fortaleció el trabajo colaborativo desde el inicio.</p>
         <p><b>TP1:</b></p>
-        <p>Como líder en planificación de mantenimiento, asumí la responsabilidad de desarrollar los planes de mantenimiento, el registro de cuentas y la lógica de autenticación. Esta experiencia me permitió ejercer un liderazgo técnico efectivo, aportando soluciones concretas e integrando mi trabajo con el de mis compañeros para asegurar la coherencia del sistema.</p>
+        <p>Al liderar el desarrollo del módulo de planificación de mantenimiento, así como otras funcionalidades esenciales, reforcé mi habilidad de comunicar decisiones técnicas de forma efectiva. Esto facilitó que mis aportes se integraran sin dificultad con el trabajo del resto del equipo, asegurando una solución coherente y técnicamente sólida.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>En esta fase, reforcé mi comunicación técnica al presentar diagramas actualizados y coordinar con mis compañeros sobre las correcciones necesarias en los bounded contexts. Al explicar de forma clara las decisiones estructurales del sistema, logré que el equipo pudiera ajustar e implementar los cambios de manera alineada, fortaleciendo la cohesión entre frontend y backend.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p>Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
+        <p>Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto. Al comunicar de forma clara mis propuestas sobre el análisis competitivo, las historias de usuario y la estructuración del backlog, ayudé a que el equipo comprendiera los objetivos comunes y asumiera responsabilidades de manera organizada. Adapté mi forma de comunicar según fuera necesario, tanto en redacciones como en exposiciones orales.</p>
         <p><b>TP1:</b></p>
-        <p>Liderar el desarrollo del módulo de inicio de sesión, además de implementar la consulta de órdenes diarias y el registro de maquinarias, me permitió ejercer un liderazgo colaborativo que contribuyó a la base del sistema. Coordiné decisiones técnicas con el equipo, lo que fortaleció nuestra dinámica y alineó nuestras metas.</p>
+        <p>Liderar el desarrollo del módulo de inicio de sesión, así como contribuir con funcionalidades como la consulta de órdenes diarias y el registro de maquinarias, me permitió poner en práctica una comunicación técnica efectiva. Coordiné decisiones clave con mis compañeros, facilitando la comprensión mutua y asegurando que nuestras soluciones estuvieran alineadas con la estructura general del sistema.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>En esta etapa, reforcé mi habilidad para explicar conceptos técnicos al presentar el diagrama actualizado de la base de datos y el diagrama de clases. Al enfocarme en el bounded context de mantenimiento, comuniqué de manera clara sus componentes y relaciones, lo cual permitió una comprensión compartida entre los distintos roles del equipo y facilitó su implementación tanto en el backend como en el frontend.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -386,11 +386,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
+        <p>El trabajo que realicé durante TB1 fortaleció la comunicación dentro del equipo. Al presentar wireframes, mock-ups y prototipos interactivos, logré transmitir de manera visual y precisa la estructura y experiencia esperada de la aplicación. Esta claridad ayudó a alinear expectativas y facilitó que todos comprendiéramos mejor el producto final, fomentando así la toma de decisiones conjuntas y una colaboración más efectiva.</p>
         <p><b>TP1:</b></p>
-        <p>Al liderar el módulo de órdenes de trabajo —incluyendo la implementación de órdenes correctivas, la asignación de técnicos y la gestión de sesiones—, aprendí a tomar decisiones técnicas que impactaban en múltiples secciones del sistema. Esta responsabilidad me permitió ejercer un liderazgo claro dentro de mi área, en constante colaboración con los demás.</p>
+        <p>Liderar la implementación del módulo de órdenes de trabajo me permitió comunicar decisiones técnicas clave relacionadas con órdenes correctivas, asignación de técnicos y sesiones. Coordiné constantemente con mis compañeros para asegurar que mi parte se integrara correctamente con los demás módulos, adaptando mi lenguaje según fuera necesario para garantizar una comprensión común entre desarrolladores y diseñadores.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, reforcé mi comunicación técnica al presentar el diagrama de clases y discutir aportes en la base de datos. También participé activamente en el desarrollo del bounded context de usuarios y gestión de activos (Asset Management), explicando de forma clara cómo se estructuraban las entidades y relaciones, lo que facilitó una implementación coherente en todo el equipo.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -398,13 +398,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>Mi participación contribuyó a un trabajo conjunto fluido, donde cada integrante aportó al desarrollo de los entregables, fortaleciendo la cooperación del equipo.</p>
+        <p>Mi participación en el desarrollo de entregables iniciales como el Lean UX Canvas, entrevistas y mapas de empatía permitió una comunicación efectiva entre los miembros del equipo y los usuarios. Al expresar con claridad nuestras hipótesis, perfiles de usuario y necesidades identificadas, contribuí a crear un ambiente colaborativo y enfocado, donde cada integrante comprendía su rol dentro del proyecto.</p>
         <p><b>TP1:</b></p>
-        <p>Como líder en la creación de cuentas, desarrollé la lógica para registrar líneas de producción y modelé la entidad de órdenes de trabajo. Esta participación me permitió liderar desde lo técnico, integrando mis entregables con los demás módulos y aportando activamente al cumplimiento de los objetivos generales del equipo.
-
-</p>
+        <p>Asumí el liderazgo en la creación del registro de cuentas y líneas de producción, y modelé la entidad de órdenes de trabajo. A lo largo de esta fase, comuniqué de manera clara la lógica detrás de mis decisiones técnicas, facilitando que mi trabajo se integrara de forma coherente con otros módulos. Esta experiencia fortaleció mi capacidad de explicar ideas complejas en términos accesibles para todo el equipo.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, conduje entrevistas de validación y compartí los resultados con el equipo de forma estructurada. También documenté el desarrollo del Sprint 3, explicando claramente el avance y los desafíos enfrentados. Esta comunicación continua ayudó a mantener alineado al equipo y permitió tomar decisiones oportunas basadas en la retroalimentación obtenida.</p>
         <p><b>TF:</b></p>
         <p>-</p>
       </td>
@@ -415,11 +413,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>Fomenté un entorno de trabajo colaborativo desde el inicio del proyecto, promoviendo la participación equitativa entre los miembros del equipo. Propuse ideas creativas para la landing page y ayudé a definir los objetivos del Sprint 1. Participé activamente en la planificación de tareas, coordinando esfuerzos con mis compañeros para cumplir los entregables establecidos de manera organizada y puntual.</p>
+        <p>Durante esta etapa, redacté propuestas y descripciones claras para los entregables de la landing page y los objetivos del Sprint 1, facilitando que todos los miembros del equipo comprendieran la visión inicial del proyecto. Participé en la documentación de tareas y planificación, asegurándome de expresar de forma precisa y organizada nuestras decisiones en los reportes y documentos compartidos con el equipo y los docentes.</p>
         <p><b>TP1:</b></p>
-        <p>Yo contribuí a un ambiente colaborativo al coordinar tareas con mis compañeros, proponer ideas para facilitar la planificación y asegurar que cada entregable se desarrollara a tiempo. Me esforcé por mantener una comunicación constante que permitiera cumplir con los objetivos trazados.</p>
+        <p>Contribuí de manera escrita en la coordinación de actividades y en la definición de entregables clave, asegurándome de dejar registro claro de los avances y acuerdos tomados. Mis aportes facilitaron una comprensión común del trabajo en curso y aseguraron que todos estuviéramos alineados con los objetivos del equipo.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, redacté explicaciones detalladas para los cambios realizados en los bounded contexts del sistema, tanto en el backend como en el frontend. Mi comunicación escrita ayudó a documentar las decisiones técnicas de forma clara, permitiendo que los miembros del equipo entendieran las correcciones estructurales necesarias para asegurar la coherencia del sistema.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -427,11 +425,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p>Contribuí a crear un entorno colaborativo proponiendo metas claras para el Sprint 1 y apoyando la planificación de tareas desde una perspectiva inclusiva. Además, elaboré la documentación del sprint y del informe general, asegurando que las ideas del equipo fueran reflejadas de forma coherente y ordenada.</p>
+        <p>Contribuí a establecer un entorno de trabajo colaborativo mediante la redacción clara de metas para el Sprint 1 y la planificación de tareas. Elaboré la documentación del sprint y del informe general, cuidando que las ideas y acuerdos del equipo quedaran registrados de forma coherente, ordenada y comprensible tanto para los integrantes del equipo como para los docentes.</p>
         <p><b>TP1:</b></p>
-        <p>Yo promoví un entorno de trabajo inclusivo al organizar y documentar el progreso técnico del equipo. Mi enfoque fue asegurar que todas las ideas fueran consideradas y que el trabajo fluyera de manera ordenada para lograr los entregables del sprint.</p>
+        <p>Durante esta fase, me enfoqué en documentar con precisión el progreso técnico del equipo, organizando la información relevante de manera clara. Me aseguré de que todas las voces fueran reflejadas en los reportes escritos, lo que ayudó a mantener una comunicación efectiva entre todos los miembros, promoviendo una ejecución ordenada y bien estructurada del trabajo.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>En TB2, elaboré documentación técnica que explicaba las actualizaciones del diagrama de base de datos y del diagrama de clases. Además, escribí descripciones claras sobre el bounded context de mantenimiento, lo que permitió al equipo comprender fácilmente su estructura, relaciones internas y cómo debían implementarse en el sistema.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -439,11 +437,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>Programé la landing page respetando las ideas y diseños planteados por el equipo, asegurando que todas las contribuciones se integraran de forma equitativa. Ayudé a planificar las tareas de desarrollo y a cumplir los plazos establecidos, fomentando un entorno colaborativo donde se valoraron todas las propuestas.</p>
+        <p>Durante esta etapa, redacté observaciones claras y concisas sobre la implementación de la landing page, respetando los diseños establecidos por el equipo. Documenté el cumplimiento de tareas técnicas y colaboré en la planificación por escrito, dejando constancia de acuerdos y avances, lo cual facilitó una integración efectiva de ideas y un trabajo equitativo.</p>
         <p><b>TP1:</b></p>
-        <p>Yo colaboré con el equipo para integrar ideas diversas en la implementación técnica, planificando tareas junto a mis compañeros y cumpliendo con los plazos propuestos. Ayudé a que todos los módulos se desarrollaran de forma sinérgica.</p>
+        <p>Aporté a la documentación técnica del módulo de órdenes de trabajo, explicando la lógica de funcionamiento e integraciones necesarias con otros módulos. Redacté comentarios y notas útiles para el equipo, lo que ayudó a mantener una visión compartida del progreso técnico y asegurar una implementación coordinada.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, participé en la elaboración del diagrama de clases y en la documentación relacionada con el bounded context de usuarios y gestión de activos. Me aseguré de dejar por escrito la estructura y relaciones entre entidades, facilitando que el equipo comprendiera la lógica implementada tanto en frontend como en backend.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -451,11 +449,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>Apoyé la definición de metas para la fase inicial, colaboré en la planificación de tareas y en la distribución del trabajo. Participé en la organización de entrevistas, mapeos y documentación, siempre promoviendo la participación equitativa.</p>
+        <p>Durante esta fase, colaboré en la redacción de metas, planificación de tareas y organización del trabajo, dejando constancia escrita de nuestras decisiones en los entregables compartidos. Además, participé activamente en la elaboración de documentación como los user personas, journey maps y entrevistas, asegurando que toda la información recogida fuera expresada de forma clara y accesible para el equipo y los docentes.</p>
         <p><b>TP1:</b></p>
-        <p>Yo fomenté la colaboración dentro del equipo al participar activamente en la planificación de tareas y en la distribución equitativa del trabajo. Mi enfoque fue asegurar que todos los miembros pudieran aportar y que los entregables del TP1 se completaran de manera efectiva.</p>
+        <p>Documenté el desarrollo del módulo de registro de cuentas y líneas de producción, explicando la lógica utilizada y su integración con el sistema general. Además, apoyé en la organización escrita del trabajo en equipo, promoviendo una comunicación efectiva que ayudó a que cada miembro comprendiera su rol y contribuyera al cumplimiento de los objetivos.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>En TB2, redacté las observaciones obtenidas en entrevistas de validación, resumiendo los hallazgos y plasmándolos en un lenguaje claro y directo para orientar mejoras. También me encargué de la documentación del Sprint 3, registrando por escrito los avances del equipo y facilitando una visión compartida del progreso logrado.</p>
         <p><b>TF:</b></p>
         <p>-</p>
       </td>
@@ -463,11 +461,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 <td>
     <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
+        <p>Esta etapa me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Propicié un entorno de trabajo inclusivo y orientado a resultados, y me comprometo a seguir manteniendo ese enfoque en los siguientes sprints.</p>
         <p><b>TP1:</b></p>
-        <p>Esta experiencia reforzó mi capacidad para coordinar y colaborar dentro del equipo. Aprendí a equilibrar la planificación de tareas con la participación activa de todos, lo cual fue esencial para alcanzar nuestras metas de manera ordenada y puntual.</p>
+        <p>Esta experiencia fortaleció mi capacidad para coordinar y colaborar activamente dentro del equipo. Logré equilibrar la planificación de tareas con la participación de todos los miembros, facilitando así un avance ordenado y un cumplimiento efectivo de los objetivos del sprint.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante esta etapa, trabajé junto al equipo en la corrección de los bounded contexts de maquinarias e inventario, promoviendo una colaboración efectiva entre frontend y backend. Esta experiencia me ayudó a consolidar habilidades de planificación y comunicación técnica, fomentando la inclusión de ideas y asegurando que el trabajo colectivo avanzara con coherencia y metas claras.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -475,11 +473,11 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p>Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
+        <p>Mi enfoque en la planificación y documentación permitió establecer una base sólida para el trabajo del equipo. Fomenté la participación de todos los integrantes desde el inicio, ayudando a que los objetivos del sprint fueran comprendidos y alcanzados de forma coordinada. Esta experiencia reforzó mi compromiso con el trabajo colaborativo y la inclusión de ideas diversas.</p>
         <p><b>TP1:</b></p>
-        <p>Mi rol como líder del módulo de planificación de mantenimiento me motivó a colaborar estrechamente con el equipo para definir objetivos claros y distribuir tareas. Al trabajar también en el registro de cuentas y autenticación, promoví una comunicación constante y una planificación eficiente que facilitó el cumplimiento de nuestros objetivos del TP1.</p>
+        <p>Liderar el módulo de planificación de mantenimiento me permitió aplicar un enfoque estructurado para definir objetivos claros, distribuir tareas de manera equitativa y mantener una comunicación constante con el equipo. También participé en el desarrollo del registro de cuentas y autenticación, reforzando así la integración entre módulos y asegurando el cumplimiento de las metas del sprint.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>En esta fase, colaboré con el equipo en la actualización del diagrama de base de datos y el diagrama de clases. Además, trabajé activamente en el bounded context de mantenimiento, guiando su definición desde una visión estructurada y clara. Esta experiencia fortaleció mis habilidades de liderazgo técnico, planificación conjunta y trabajo inclusivo para lograr resultados compartidos.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
@@ -487,22 +485,22 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p>Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
+        <p>Trabajar en la programación de la landing page me permitió colaborar estrechamente con el equipo, organizar nuestras tareas de desarrollo y alinear los esfuerzos individuales hacia objetivos comunes. Esta experiencia fortaleció mi compromiso con la planificación compartida y el respeto por las contribuciones de cada integrante.</p>
         <p><b>TP1:</b></p>
-        <p>Liderando la parte de órdenes de trabajo, trabajé en estrecha coordinación con mis compañeros para integrar sus módulos con el mío. Esta colaboración activa me permitió contribuir a una buena planificación y a la construcción de un entorno donde cada tarea estaba alineada a un objetivo compartido.</p>
+        <p>Al liderar el desarrollo del módulo de órdenes de trabajo, mantuve una comunicación constante con mis compañeros para asegurar la integración fluida de sus módulos con el mío. Esta coordinación activa me permitió alinear las funcionalidades, planificar en conjunto y contribuir a la construcción de un entorno de trabajo colaborativo y orientado al cumplimiento de metas claras.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, participé en la elaboración del diagrama de clases, el diseño de la base de datos y el desarrollo del bounded context de usuarios y gestión de activos. Mi contribución se centró en facilitar un diseño coherente a través de la planificación técnica conjunta, manteniendo una comunicación abierta para asegurar que todos los cambios se comprendieran e implementaran correctamente.</p>
         <p><b>TF:</b></p>
         <p>-</p>
           <br>
           
 <p><b>Britney Delhy Qqueso Rodriguez</b></p>
        <p><b>TB1:</b></p>
-        <p>El trabajo coordinado permitió avanzar de forma organizada, integrando aportes de todos los miembros y logrando los objetivos propuestos de la TB1.</p>
+        <p>Durante esta etapa, el trabajo coordinado entre todos los miembros del equipo permitió avanzar de manera organizada. Mi participación en entrevistas, mapeos y planificación ayudó a integrar distintas perspectivas en los entregables, promoviendo así un entorno inclusivo donde cada aporte fue valorado y enfocado en el logro de los objetivos comunes.</p>
         <p><b>TP1:</b></p>
-        <p>Mi trabajo en el desarrollo de cuentas y líneas de producción requirió constante coordinación con los demás líderes de módulo. Participé activamente en la planificación de tareas y promoví que todos los aportes fueran escuchados, lo que permitió que cumpliéramos con los entregables de forma estructurada y equitativa.</p>
+        <p>Mi trabajo en el desarrollo del registro de cuentas y líneas de producción implicó una colaboración constante con los demás responsables de módulo. Participé activamente en la planificación de tareas y promoví que todas las ideas fueran escuchadas, lo que permitió mantener una estructura de trabajo equitativa y cumplir con los entregables propuestos de manera efectiva.</p>
         <p><b>TB2:</b></p>
-        <p>-</p>
+        <p>Durante TB2, me encargué de las entrevistas de validación y de la documentación del Sprint 3. Estas actividades me permitieron contribuir a la planificación y evaluación del trabajo del equipo, promoviendo una visión compartida de los avances y fomentando un entorno colaborativo donde las decisiones se basaban en evidencia y comunicación clara.</p>
         <p><b>TF:</b></p>
         <p>-</p>
       </td>
