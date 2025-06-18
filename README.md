@@ -2337,6 +2337,25 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
   </div>
 
 
+A continuación, los diagramas de componentes a nivel de front.
+
+* Work Order Context:
+![workorder](https://github.com/user-attachments/assets/1840ae4b-73a1-4ee8-8cbd-61b2260ca728)
+
+* Asset Management Context:  
+    ![assets](https://github.com/user-attachments/assets/51104c3c-759b-4575-a3b5-087481c2c2ea)
+
+* Maintance Planning Context:  
+    ![maintenanceñ](https://github.com/user-attachments/assets/4be85550-021c-42d2-b99d-69614f825914)
+
+* Inventary Context:  
+    ![inventoryparts](https://github.com/user-attachments/assets/73cbd400-0da6-4610-9578-eee70680956d)
+
+* Notificaction Context:  
+      ![structurizr-notifications_module](https://github.com/user-attachments/assets/4f104b84-636f-46c7-a9f2-281c9a50303c)
+
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Diagrama de clases del FrontEnd basado en bounded contexts
