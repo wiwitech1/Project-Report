@@ -3930,10 +3930,77 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Planning Background</strong></th>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>10/06/2025</td>
+    </tr>
+     <tr>
+        <td>Time</td>
+        <td> 11:00 AM</td>
+    </tr>
+     <tr>
+        <td>Location</td>
+        <td>Reunión virtual – Discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By</td>
+        <td>Claudia Belledonne</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning meeting)</td>
+        <td>
+
+- Ariana Cecilia Agreda Sobrino
+            
+- Claudia Valeria Belledonne Espinoza
+            
+- Mauricio Daniel Elera Rodríguez
+            
+- Britney Delhy Qqueso Rodriguez
+   </td>
+    </tr>
+    <tr>
+        <td>Sprint 3 – 2 Review Summary</td>
+        <td>Durante la revisión del Sprint 2, se logró desarrollar e implementar las funcionalidades esenciales de la página web para una gestión integral. Esto incluyó la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo. Se recibieron comentarios positivos sobre la claridad de la información y la navegación de estas nuevas funcionalidades.</td>
+    </tr>
+    <tr>
+        <td>Sprint 3 – 2 Retrospective Summary</td>
+        <td>En la retrospectiva del Sprint 2, se destacó como aspectos positivos la buena comunicación y coordinación durante el sprint, así como una mayor claridad en la definición de tareas desde la planificación. Sin embargo, se identificaron oportunidades de mejora, como refinar la estimación de tiempos para evitar retrasos en tareas complejas y distribuir mejor la carga de trabajo.</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+    </tr>
+    <tr>
+        <td>Sprint 2 Goal</td>
+        <td>
+<strong>Nuestra meta para este sprint es</strong> desarrollar e implementar las funcionalidades esenciales del backend para la aplicación MecaNet, enfocándonos en la creación de APIs REST para la gestión de usuarios (registro y consulta), administración de roles, manejo de órdenes de trabajo (creación y seguimiento), control de inventario (registro y consulta de ítems) y gestión de activos (maquinarias y equipos).
+
+<strong>Creemos que</strong> esto proporcionará una base técnica sólida para el correcto funcionamiento del sistema, permitiendo el almacenamiento seguro de datos y la comunicación efectiva entre el frontend y el backend.
+
+<strong>Esto se confirmará</strong> cuando las APIs de usuarios permitan registrar, consultar datos y roles correctamente. Se validará que las APIs de órdenes de trabajo faciliten la creación y listado de órdenes sin errores, mientras que las APIs de inventario soporten el registro de ítems y la consulta de su información. Finalmente, se confirmará cuando las APIs de activos permitan el registro y consulta de detalles de equipos, y las métricas de mantenimiento puedan generarse y consultarse adecuadamente, garantizando que los usuarios gestionen eficientemente sus operaciones desde la página web.
+    </td>
+    </tr>
+     <tr>
+        <td>Sprint 2 Velocity  </td>
+        <td>- Story Points.</td>
+    </tr>
+     <tr>
+        <td>Sum of Story Points  </td>
+        <td>- Story Points.</td>
+    </tr>
+</table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 
-#### 5.2.3.3. Sprint Backlog 2.
+#### 5.2.3.3. Sprint Backlog 3.
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
