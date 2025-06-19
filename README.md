@@ -4472,7 +4472,88 @@ Se considerará los userflows de:
  <img src=" ">
 
 ### 5.3.3. Evaluaciones según heurísticas.
+**Site o App a Evaluar:** MecaNet
 
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+
+* Acceder a la aplicación desde la landing page
+
+* Crear cuenta en la aplicación
+
+* Inicio de sesión
+
+* Visualización de la página de inicio
+
+* Visualización del calendario
+
+* Visualización del inventario (repuestos, órdenes de compra)
+
+* Gestión de activos (maquinarias y líneas de producción)
+
+* Visualización de órdenes de trabajo
+
+* Visualización y ejecución de planes de mantenimiento
+
+* Administración de personal técnico
+
+* Configuración de cuenta
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+* Recuperación de cuenta
+
+* Visualización de reportes y métricas
+
+* Acciones desde la vista técnica
+
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+|***Nivel***|***Descripción***|
+| :-: | :-: |
+|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+**TABLA DE RESUMEN:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
+| :- | :- | :- | :- |
+|1| No hay formulario de contacto en la landing page | 3 | Usability: Help and documentation |
+|2| El formulario de registro solo permite registro para administradores de mantenimineto | 4 | Usability: Flexibility and efficiency of use |
+
+**PROBLEMA #1:** No hay formulario de contacto en la landing page
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Help and documentation
+
+**Problema**: Aunque la landing page incluye una sección de preguntas frecuentes (FAQs), no se ofrece un canal directo para que los usuarios envíen otras consultas. La ausencia de un formulario de contacto puede limitar el soporte al usuario y generar frustración si sus dudas no están entre las FAQs.
+
+**Imagen:**
+
+<img src="img/sprint3/heuristics1.png" width="600px">
+
+
+**Recomendación:** Incluir un formulario de contacto con campos básicos (nombre, correo, mensaje) y una confirmación visual del envío. Esto permitirá que los usuarios se comuniquen directamente con el equipo de soporte para resolver inquietudes que no estén en la sección de preguntas frecuentes.
+
+-----
+
+**PROBLEMA #2:** El formulario de registro solo permite registro para administradores de mantenimineto
+
+**Severidad:** 4
+
+**Heurística violada:** Usability: Flexibility and efficiency of use
+
+**Problema**: En el proceso de registro solo se encuentra habilitada la opción de crear una cuenta como administrador. Los técnicos de mantenimiento, que son otro segmento de usuarios clave, no pueden registrarse por su cuenta. Esto limita la flexibilidad del sistema y genera dependencia en el administrador para agregar técnicos.
+
+**Imagen:**
+
+<img src="img/sprint3/heuristics2.png" width="600px">
+
+**Recomendación:** Agregar la opción de seleccionar el tipo de cuenta (Administrador o Técnico) durante el registro. Esto permitirá que ambos tipos de usuario se autogestionen según sus necesidades y se agilice el proceso de incorporación al sistema.
 
 # Conclusiones y recomendaciones.
 ## Conclusiones: 
