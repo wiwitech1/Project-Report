@@ -4524,6 +4524,8 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 |1| No hay formulario de contacto en la landing page | 3 | Usability: Help and documentation |
 |2| El formulario de registro solo permite registro para administradores de mantenimineto | 4 | Usability: Flexibility and efficiency of use |
 
+**DESCRIPCIÓN DE PROBLEMAS:**
+
 **PROBLEMA #1:** No hay formulario de contacto en la landing page
 
 **Severidad:** 3
@@ -4554,6 +4556,14 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 <img src="img/sprint3/heuristics2.png" width="600px">
 
 **Recomendación:** Agregar la opción de seleccionar el tipo de cuenta (Administrador o Técnico) durante el registro. Esto permitirá que ambos tipos de usuario se autogestionen según sus necesidades y se agilice el proceso de incorporación al sistema.
+
+## 5.4. Video About-the-Product
+En el vídeo se proporciona información sobre el producto Mecanet. Se mencionan las diferentes funcionalidades de la aplicación como son el registro y autenticación de usuarios, gestión de activos (maquinarias y líneas de producción), administración del inventario, etc.
+
+Imagen del Video About The Product:
+![Evidencia:]()
+
+Enlace al vídeo de Microsoft Stream: [Video About The Product]()
 
 # Conclusiones y recomendaciones.
 ## Conclusiones: 
