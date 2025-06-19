@@ -300,7 +300,7 @@ En esta entrega, la estrecha colaboración del equipo permitió implementar las 
 
 ABET – EAC - Student Outcome 5
 
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 <table>
   <tr>
