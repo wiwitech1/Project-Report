@@ -3974,17 +3974,17 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
         <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
     </tr>
     <tr>
-        <td>Sprint 2 Goal</td>
+        <td>Sprint 3 Goal</td>
         <td>
 <strong>Nuestra meta para este sprint es</strong> desarrollar e implementar las funcionalidades esenciales del backend para la aplicación MecaNet, enfocándonos en la creación de APIs REST para la gestión de usuarios (registro y consulta), administración de roles, manejo de órdenes de trabajo (creación y seguimiento), control de inventario (registro y consulta de ítems) y gestión de activos (maquinarias y equipos).
 
 <strong>Creemos que</strong> esto proporcionará una base técnica sólida para el correcto funcionamiento del sistema, permitiendo el almacenamiento seguro de datos y la comunicación efectiva entre el frontend y el backend.
 
-<strong>Esto se confirmará</strong> cuando las APIs de usuarios permitan registrar, consultar datos y roles correctamente. Se validará que las APIs de órdenes de trabajo faciliten la creación y listado de órdenes sin errores, mientras que las APIs de inventario soporten el registro de ítems y la consulta de su información. Finalmente, se confirmará cuando las APIs de activos permitan el registro y consulta de detalles de equipos, y las métricas de mantenimiento puedan generarse y consultarse adecuadamente, garantizando que los usuarios gestionen eficientemente sus operaciones desde la página web.
+<strong>Esto se confirmará</strong> cuando las APIs de usuarios permitan registrar y consultar datos correctamente. Se validará que las APIs de órdenes de trabajo faciliten la creación y listado de órdenes sin errores, mientras que las APIs de inventario soporten el registro de ítems y la consulta de su información. Finalmente, se confirmará cuando las APIs de activos permitan el registro y consulta de detalles de equipos, y las métricas de mantenimiento puedan generarse y consultarse adecuadamente, garantizando que los usuarios gestionen eficientemente sus operaciones desde la página web.
     </td>
     </tr>
      <tr>
-        <td>Sprint 2 Velocity  </td>
+        <td>Sprint 3 Velocity  </td>
         <td>35 Story Points.</td>
     </tr>
      <tr>
