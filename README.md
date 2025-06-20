@@ -4792,6 +4792,8 @@ McKinsey & Company. (2021). Innovación a través de la disrupción digital en s
 
 Link del Proyecto Desplegado: https://agreeable-moss-0b81a851e.6.azurestaticapps.net/
 
+Link del Backed del proyecto desplegado: https://mecanetbackend-hjexa7d8bkfybmfv.centralus-01.azurewebsites.net/swagger-ui/index.html
+
 Link de la Landing Page: https://kind-wave-030d8c21e.6.azurestaticapps.net/
 
 
