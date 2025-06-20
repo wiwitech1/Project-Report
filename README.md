@@ -4295,7 +4295,9 @@ A continuación, se presentan capturas de pantalla de las principales funcionali
 
 
 #### Evidencia 2: Listado de maquinarias registradas (GET /api/maquinarias)
-![Evidencia 2:](/img/sprint3/back-photos/ev3.png)
+![image](https://github.com/user-attachments/assets/343996b8-f1d4-4f6f-a74e-0f156dd5a030)
+![image](https://github.com/user-attachments/assets/9ebecd2f-aea6-4329-91e9-634e0d78b40b)
+
 
 #### Evidencia 3: Registro de línea de producción (POST /api/lineas-produccion)
 ![Evidencia 3:](/img/sprint3/back-photos/ev2.png)
