@@ -164,7 +164,12 @@
     <td>Claudia Belledonne</td>
     <td>Correción del diagrama de clases del Front y Students Outcomes</td>
 </tr>
-
+</tr>
+    <td>3.0</td>
+    <td>18/06/2025</td>
+    <td>Britney Delhy Qqueso Rodriguez</td>
+    <td>Documentación completa del Sprint 3 y de las entrevistas de validación</td>
+</tr>
     
 </table>
 
