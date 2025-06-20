@@ -4561,7 +4561,9 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 En el vídeo se proporciona información sobre el producto Mecanet. Se mencionan las diferentes funcionalidades de la aplicación como son el registro y autenticación de usuarios, gestión de activos (maquinarias y líneas de producción), administración del inventario, etc.
 
 Imagen del Video About The Product:
-![Evidencia:]()
+<br>
+![image](https://github.com/user-attachments/assets/a777e1fa-222c-415a-a0a0-a5022ec026a4)
+link: https://www.youtube.com/watch?v=QKpEu8YCnMQ&ab_channel=Mayo
 
 Enlace al vídeo de Microsoft Stream: [Video About The Product]()
 
@@ -4617,6 +4619,9 @@ Continuar promoviendo las retrospectivas internas de equipo al final de cada Spr
 Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. <br/>
 
 # Video About-the-Team.
+![image](https://github.com/user-attachments/assets/e49e1d18-5bf0-437b-b7ff-104f30b9a989)
+link: https://www.youtube.com/watch?v=I3xC4kqr_JM&ab_channel=Mayo
+
 
 # Bibliografía
 McKinsey & Company. (2021). Innovación a través de la disrupción digital en servicio a clientes. [https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service](https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service) 
@@ -4640,7 +4645,7 @@ Link del Respositorio de la Landing Page: https://github.com/wiwitech1/mecanet-l
 Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
 
 
-Link del Video del Product: https://youtu.be/C0cHMqzKaEI
+Link del Video About the Product: https://youtu.be/QKpEu8YCnMQ
 
 Video de Exposición TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
