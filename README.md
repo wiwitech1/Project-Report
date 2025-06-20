@@ -83,13 +83,13 @@
 <tr>
     <td>1.3</td>
     <td>26/04/2025</td>
-    <td>Britney Delhy Qqueso Rodriguez</td>
+    <td>Britney Qqueso</td>
     <td>Documentación y análisis de las entrevistas a nuestros segmentos objetivos.</td>
 </tr>
 <tr>
     <td>1.4</td>
     <td>26/04/2025</td>
-    <td>Britney Delhy Qqueso Rodriguez</td>
+    <td>Britney Qqueso</td>
     <td>Creación y maquetación de la sección 'Needfinding' y sus diagramas. De la misma forma, se completo la redaccion de las historias de usuario y el to-be scenario mapping.</td>
 </tr>
 <tr>
@@ -101,13 +101,13 @@
 <tr>
     <td>1.6</td>
     <td>26/04/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino, Claudia Belldonne</td>
+    <td>Ariana Agreda, Claudia Belldonne</td>
     <td>Documentación de los style guidelines. Documentación de la seccion de la arquitectura de la información.</td>
 </tr>
 <tr>
     <td>1.7</td>
     <td>26/04/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino</td>
+    <td>Ariana Agreda</td>
     <td>Creación y documentación del Landing Page UI Design, Web Applications UX/UI Design y Web Applications Prototyping.</td>
 </tr>
 <tr>
@@ -146,19 +146,19 @@
     <td>Ariana Cecilia Agreda Sobrino y Claudia Belledonne</td>
     <td>Creación y redacción de Execution Evidence for Sprint Review.</td>
 </tr>
-</tr>
+<tr>
     <td>2.2</td>
     <td>13/05/2025</td>
     <td>Claudia Belledonne y Britney Delhy Qqueso Rodriguez</td>
     <td>Creación y redacción de Services Documentation Evidence for Sprint Review.</td>
 </tr>
-</tr>
+<tr>
     <td>2.3</td>
     <td>14/05/2025</td>
     <td>Mauricio Elera</td>
     <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
 </tr>
-</tr>
+<tr>
     <td>2.4</td>
     <td>09/06/2025</td>
     <td>Claudia Belledonne</td>
@@ -166,9 +166,45 @@
 </tr>
 </tr>
     <td>3.0</td>
+    <td>14/06/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Documentación de Validation Interviews </td>
+</tr>
+</tr>
+    <td>3.1</td>
+    <td>16/06/2025</td>
+    <td>Mauricio Elera, Claudia Belledonne</td>
+    <td>Creación del Sprint 3 y documentación del Sprint Planning 3 y Aspect Leaders and Collaborators </td>
+</tr>
+</tr>
+    <td>3.2</td>
+    <td>16/06/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Creación y documentación del Sprint Backlog 3 </td>
+</tr>
+</tr>
+    <td>3.3</td>
+    <td>17/06/2025</td>
+    <td>Ariana Agreda</td>
+    <td>Redacción de Development Evidence for Sprint Review </td>
+</tr>
+</tr>
+    <td>3.4</td>
+    <td>17/06/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Documentación de Execution Evidence for Sprint Review </td>
+</tr>
+</tr>
+    <td>3.6</td>
     <td>18/06/2025</td>
-    <td>Britney Delhy Qqueso Rodriguez</td>
-    <td>Documentación completa del Sprint 3 y de las entrevistas de validación</td>
+    <td>Claudia Belledonne</td>
+    <td>Creación y redacción de Services Documentation Evidence for Sprint Review </td>
+</tr>
+</tr>
+    <td>3.7</td>
+    <td>18/06/2025</td>
+    <td>Mauricio Elera, Ariana Agreda</td>
+    <td>Redacción de Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint</td>
 </tr>
     
 </table>
@@ -184,6 +220,10 @@ En esta entrega, cada miembro del equipo contribuyó activamente al desarrollo d
 
 ## TP
 En esta entrega, la estrecha colaboración del equipo permitió implementar las funcionalidades clave de la aplicación web. La asignación de tareas por secciones, en concordancia con el diseño y contenido predefinidos, facilitó este proceso. La participación activa de todos los miembros se evidencia en los analíticos de colaboración del repositorio oficial.
+![Contributions tp](img/sprint2/Contributions-Tb1.png)
+
+## TB2
+En esta entrega, hemos implementado con éxito el backend de la aplicación web gracias a la estrecha colaboración del equipo. La clave fue la asignación estratégica de tareas por secciones, lo que facilitó el desarrollo de las funcionalidades principales en línea con el diseño predefinido. La participación activa de todos los miembros se evidencia en los analíticos de colaboración, demostrando el compromiso y la eficiencia logrados en este proceso crucial.
 ![Contributions tp](img/sprint2/Contributions-Tb1.png)
 
 # Contenido
@@ -278,16 +318,15 @@ En esta entrega, la estrecha colaboración del equipo permitió implementar las 
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-    
-    - [5.2.2. Sprint 3](#523-sprint-3)
-      - [5.2.2.1. Sprint Planning 2](#5231-sprint-planning-3)
-      - [5.2.2.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
-      - [5.2.2.3. Sprint Backlog 2.](#5233-sprint-backlog-3)
-      - [5.2.2.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
 
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
@@ -410,11 +449,12 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p>Durante TB2, conduje entrevistas de validación y compartí los resultados con el equipo de forma estructurada. También documenté el desarrollo del Sprint 3, explicando claramente el avance y los desafíos enfrentados. Esta comunicación continua ayudó a mantener alineado al equipo y permitió tomar decisiones oportunas basadas en la retroalimentación obtenida.</p>
         <p><b>TF:</b></p>
         <p>-</p>
+        <br>
       </td>
     </tr>
 
 <tr>
-      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
@@ -508,6 +548,7 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p>Durante TB2, me encargué de las entrevistas de validación y de la documentación del Sprint 3. Estas actividades me permitieron contribuir a la planificación y evaluación del trabajo del equipo, promoviendo una visión compartida de los avances y fomentando un entorno colaborativo donde las decisiones se basaban en evidencia y comunicación clara.</p>
         <p><b>TF:</b></p>
         <p>-</p>
+        <br>
       </td>
     </tr>
   </tbody>
@@ -971,7 +1012,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 - **Edad:** 31 años  
 - **Cargo / Rol en la empresa:** Administrador de mantenimiento  
 - **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
-- **Inicio:** 4:48 s
+- **Inicio:** 4:48 s 
 - **Fin:** 11:41 s
  <img src="img/segmento-objetivo/arnol.jpg">
 
@@ -1887,10 +1928,10 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
 <tr><td>34</td><td>TS03</td><td>Get Roles por Usuario</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener los roles asociados a un usuario mediante una API para controlar el acceso y las funcionalidades disponibles.</td><td>3</td></tr>
 <tr><td>35</td><td>TS04</td><td>Post Orden de Trabajo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar una nueva orden de trabajo mediante una API para llevar control de los mantenimientos realizados.</td><td>3</td></tr>
 <tr><td>36</td><td>TS05</td><td>Get Órdenes de Trabajo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener las órdenes de trabajo existentes mediante una API para mostrar el historial de mantenimientos.</td><td>3</td></tr>
-<tr><td>37</td><td>TS06</td><td>Get Métricas de Mantenimiento</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener las métricas generales de mantenimiento mediante una API para mostrar indicadores de desempeño en el dashboard.</td><td>
-<tr><td>38</td><td>TS07</td><td>Post Inventory Item</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar un nuevo ítem en el inventario mediante una API para mantener actualizado el stock de herramientas, materiales o equipos.</td><td>3</td></tr>
+<tr><td>37</td><td>TS06</td><td>Get Métricas de Mantenimiento</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener las métricas generales de mantenimiento mediante una API para mostrar indicadores de desempeño en el dashboard.</td>5<td><tr>
+<td>38</td><td>TS07</td><td>Post Inventory Item</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar un nuevo ítem en el inventario mediante una API para mantener actualizado el stock de herramientas, materiales o equipos.</td><td>3</td></tr>
 <tr><td>39</td><td>T08</td><td>Get Inventory Item</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener los detalles de un ítem del inventario mediante una API para visualizar su disponibilidad, ubicación y cantidad.</td><td>3</td></tr>
-<tr><td>40</td><td>TS09</td><td>Post Activo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar un activo mediante una API para tenerlo disponible para programación de mantenimientos.</td><td>3</td></tr>
+<tr><td>40</td><td>TS09</td><td>Post Activo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero registrar un activo mediante una API para tenerlo disponible para programación de mantenimientos.</td><td>5</td></tr>
 <tr><td>41</td><td>TS10</td><td>Get Activo</td><td>Como desarrollador que trabaja en la aplicación de Mecanet, quiero obtener la información de un activo mediante una API para mostrarla en el módulo de activos.</td><td>3</td></tr>
 <tr><td>42</td><td>US32</td><td>Sección Hero del sitio web</td><td>Como usuario interesado, quiero ver una presentación clara del servicio apenas ingreso, para entender rápidamente qué ofrece Mecanet y por qué me conviene usarlo.</td><td>5</td></tr>
 
@@ -3832,11 +3873,6 @@ A continuación, se presentan capturas de pantalla de las principales vistas imp
 
 
 
-
-
-
-
-
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 Durante este Sprint no se desarrollaron ni documentaron Web Services, dado que el enfoque principal estuvo en la implementación del FrontEnd de la Aplicación Web, con todas sus vistas. Por lo tanto, no se cuenta con endpoints disponibles ni documentación generada en OpenAPI en esta etapa del proyecto.
 
@@ -3927,6 +3963,675 @@ Captura de colaboracion en github:
 
 El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que cada producto del Sprint 2 reflejara la participación de todos sus miembros.
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Planning Background</strong></th>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>10/06/2025</td>
+    </tr>
+     <tr>
+        <td>Time</td>
+        <td> 11:00 AM</td>
+    </tr>
+     <tr>
+        <td>Location</td>
+        <td>Reunión virtual – Discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By</td>
+        <td>Claudia Belledonne</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning meeting)</td>
+        <td>
+
+- Ariana Cecilia Agreda Sobrino
+            
+- Claudia Valeria Belledonne Espinoza
+            
+- Mauricio Daniel Elera Rodríguez
+            
+- Britney Delhy Qqueso Rodriguez
+   </td>
+    </tr>
+    <tr>
+        <td>Sprint 3 – 2 Review Summary</td>
+        <td>Durante la revisión del Sprint 2, se logró desarrollar e implementar las funcionalidades esenciales de la página web para una gestión integral. Esto incluyó la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo. Se recibieron comentarios positivos sobre la claridad de la información y la navegación de estas nuevas funcionalidades.</td>
+    </tr>
+    <tr>
+        <td>Sprint 3 – 2 Retrospective Summary</td>
+        <td>En la retrospectiva del Sprint 2, se destacó como aspectos positivos la buena comunicación y coordinación durante el sprint, así como una mayor claridad en la definición de tareas desde la planificación. Sin embargo, se identificaron oportunidades de mejora, como refinar la estimación de tiempos para evitar retrasos en tareas complejas y distribuir mejor la carga de trabajo.</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+    </tr>
+    <tr>
+        <td>Sprint 3 Goal</td>
+        <td>
+<strong>Nuestra meta para este sprint es</strong> desarrollar e implementar las funcionalidades esenciales del backend para la aplicación MecaNet, enfocándonos en la creación de APIs REST para la gestión de usuarios (registro y consulta), administración de roles, manejo de órdenes de trabajo (creación y seguimiento), control de inventario (registro y consulta de ítems) y gestión de activos (maquinarias y equipos).
+
+<strong>Creemos que</strong> esto proporcionará una base técnica sólida para el correcto funcionamiento del sistema, permitiendo el almacenamiento seguro de datos y la comunicación efectiva entre el frontend y el backend.
+
+<strong>Esto se confirmará</strong> cuando las APIs de usuarios permitan registrar y consultar datos correctamente. Se validará que las APIs de órdenes de trabajo faciliten la creación y listado de órdenes sin errores, mientras que las APIs de inventario soporten el registro de ítems y la consulta de su información. Finalmente, se confirmará cuando las APIs de activos permitan el registro y consulta de detalles de equipos, y las métricas de mantenimiento puedan generarse y consultarse adecuadamente, garantizando que los usuarios gestionen eficientemente sus operaciones desde la página web.
+    </td>
+    </tr>
+     <tr>
+        <td>Sprint 3 Velocity  </td>
+        <td>35 Story Points.</td>
+    </tr>
+     <tr>
+        <td>Sum of Story Points  </td>
+        <td>34 Story Points.</td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Sección API Gestión de Usuarios<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Órdenes de Trabajo<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Inventario<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Plan de Mantenimiento<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Gestión de Activos<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección API Métricas<br/>Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>arii4w</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Cl4us-tb</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Maur1xio</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Qqueso, Britney</td>
+    <td>brit2801</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+
+#### 5.2.3.3. Sprint Backlog 3.
+<p>El objetivo de este tercer sprint es desarrollar las APIs esenciales del backend para la gestión de usuarios (registro y autenticación), administración de inventario (registro y consulta de ítems), control de activos (maquinarias y equipos), generación de órdenes de trabajo y reportes de métricas de mantenimiento. Esto proporcionará la base técnica para el funcionamiento integral del sistema y la futura integración con el frontend.</p>
+<img src="img/sprint2/Trello-Mecanet-Sprint2.png">
+<p>link: https://trello.com/b/pRzRlW59/mecanet-open-source</p>
+
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 3</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+    
+<tr>
+    <th rowspan="2">TS01</th>
+    <th rowspan="2">Post Usuario</th>
+    <td>1</td>
+    <td align="justify">Crear endpoint POST para registrar usuario</td>
+    <td align="justify">Implementar el endpoint en el backend que permita registrar nuevos usuarios en la base de datos, validando los datos requeridos (nombre, correo, contraseña, tipo de usuario).</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>In Progress</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td align="justify">Configurar validaciones y seguridad para el registro</td>
+    <td align="justify">Agregar validaciones (campos requeridos, formato de correo, hash de contraseña) y medidas de seguridad básicas para proteger el endpoint.</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>In Progress</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS02</th>
+    <th rowspan="2">Get Usuario</th>
+    <td>3</td>
+    <td align="justify">Crear endpoint GET para consultar usuario por ID</td>
+    <td align="justify">Permitir obtener la información básica de un usuario específico mediante su ID, retornando datos personales y roles asociados.</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>To Do</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td align="justify">Conectar consulta a base de datos y estructurar respuesta</td>
+    <td align="justify">Realizar la consulta a la base de datos y retornar la información estructurada en formato JSON para el frontend.</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS03</th>
+    <th rowspan="1">Get Roles por Usuario</th>
+    <td>5</td>
+    <td align="justify">Implementar endpoint GET de roles por usuario</td>
+    <td align="justify">Permitir recuperar los roles asignados a un usuario autenticado para establecer los permisos del sistema.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS04</th>
+    <th rowspan="2">Post Plan de mantenimiento</th>
+    <td>6</td>
+    <td align="justify">Diseñar modelo de plan de mantenimiento</td>
+    <td align="justify">Definir la estructura de datos para registrar un nuevo plan de mantenimiento (dinámico o estático).</td>
+    <td>4 hr</td>
+    <td>Britney Qqueso</td>
+    <td>In Progress</td>
+</tr>
+<tr>
+    <td>7</td>
+    <td align="justify">Crear endpoint POST para orden de trabajo</td>
+    <td align="justify">Desarrollar el endpoint que reciba los datos del plan de mantenimiento y los almacene correctamente en la base de datos.</td>
+    <td>5 hr</td>
+    <td>Britney Qqueso</td>
+    <td>In Progress</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS05</th>
+    <th rowspan="1">Get Plan de mantenimiento</th>
+    <td>8</td>
+    <td align="justify">Desarrollar endpoint GET para obtener un Plan de Mantenimiento</td>
+    <td align="justify">Permitir obtener un Plan de Mantenimiento filtrado por ID.</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS06</th>
+    <th rowspan="1">Get Métricas de Maquinarias</th>
+    <td>9</td>
+    <td align="justify">Implementar endpoint de métricas</td>
+    <td align="justify">Desarrollar una API que calcule y entregue indicadores clave de mantenimiento utilizando los datos históricos de órdenes completadas.</td>
+    <td>5 hr</td>
+    <td>Ariana Agreda</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS07</th>
+    <th rowspan="2">Post Inventory Item</th>
+    <td>10</td>
+    <td align="justify">Diseñar modelo de ítem de inventario</td>
+    <td align="justify">Definir los atributos requeridos para registrar herramientas y materiales (nombre, código, cantidad, ubicación).</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>In Progress</td>
+</tr>
+<tr>
+    <td>11</td>
+    <td align="justify">Crear endpoint POST para ítems de inventario</td>
+    <td align="justify">Crear API que registre ítems en el sistema, permitiendo su uso posterior en tareas de mantenimiento.</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>In Progress</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS08</th>
+    <th rowspan="1">Get Inventory Item</th>
+    <td>12</td>
+    <td align="justify">Desarrollar endpoint GET para consultar ítems</td>
+    <td align="justify">Obtener información detallada de cada ítem del inventario para verificar su disponibilidad.</td>
+    <td>3 hr</td>
+    <td>Britney Qqueso</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="2">TS09</th>
+    <th rowspan="2">Post Activo</th>
+    <td>13</td>
+    <td align="justify">Diseñar modelo de activo</td>
+    <td align="justify">Definir los atributos y relaciones necesarias de activos como maquinaria, para su programación en mantenimientos.</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>To Do</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td align="justify">Crear endpoint POST para registrar activo</td>
+    <td align="justify">Permitir el registro de nuevos activos mediante API, validando la unicidad de cada registro.</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>To Do</td>
+</tr>
+
+<tr>
+    <th rowspan="1">TS10</th>
+    <th rowspan="1">Get Activo</th>
+    <td>15</td>
+    <td align="justify">Desarrollar API para obtener datos de activo</td>
+    <td align="justify">Permitir visualizar datos específicos de un activo registrado, como tipo, estado y uso actual.</td>
+    <td>3 hr</td>
+    <td>Mauricio Elera</td>
+    <td>To Do</td>
+</tr>
+
+
+</table>
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+En este sprint, se lograron avances fundamentales en la construcción de la lógica del backend para Mecanet, priorizando la gestión de usuarios, activos, órdenes de trabajo, métricas y elementos de inventario. Se implementaron múltiples endpoints REST para el registro y recuperación de datos clave, permitiendo sentar las bases para una interacción fluida con el frontend y asegurar la persistencia de la información operativa. Las validaciones, modelos de datos y estructuras de control fueron diseñadas con énfasis en escalabilidad y mantenibilidad.<br/>
+
+A continuación, se presenta una tabla con los commits relacionados con la implementación de estas funcionalidades:  <br/>
+
+| Repository                                                                                           | Branch  | Commit Id | Commit Message                                 | Commit Message Body                                                              | Committed on (Date) |
+| ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | 81f3a1c   | feat(user): implement POST user registration   | Added endpoint for user creation with validation and password hashing            | 10/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | 94b2e8d   | feat(user): add GET user by ID                 | Implemented GET endpoint to retrieve user information with role mapping          | 17/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | a72d3c7   | feat(order): implement POST maintenance plan         | Created model and controller logic to register new work orders in DB             | 17/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | b51f2a9   | feat(order): add GET a maintenance plan          | Endpoint to retrieve and filter work orders by date, status, and priority        | 18/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | c12ff9b   | feat(metrics): implement machinery metrics | Developed metric calculation logic from completed orders                         | 18/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | d72ca6e   | feat(inventory): add POST inventory item       | Enabled registration of inventory tools and materials with validation rules      | 18/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | e49d8f0   | feat(asset): implement POST asset registration | Created data structure and API for adding new equipment or machines              | 19/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | f28c9ad   | ci: update CI pipeline for backend deployment  | Modified GitHub Actions for backend automatic deployment on sprint release       | 19/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | main    | f28c9ad   | chore(release): merge Sprint 3 backend to main | Merged all Sprint 3 backend features including users, assets, orders and metrics | 19/06/2025          |
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, establecer planes de mantenimiento para las líneas de producción entre otros.<br/>
+
+A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
+
+#### Evidencia 1: Registro de maquinaria (POST /api/maquinarias) 
+![Evidencia 1:]()
+
+#### Evidencia 2: Listado de maquinarias registradas (GET /api/maquinarias)
+![Evidencia 2:]()
+
+#### Evidencia 3: Registro de línea de producción (POST /api/lineas-produccion)
+![Evidencia 3:]()
+
+#### Evidencia 4: 
+![Evidencia 4:]()
+
+#### Evidencia 5: 
+![Evidencia 5:]()
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+Durante este Sprint, se avanzó significativamente en la documentación de los servicios web desarrollados para el backend del sistema MecaNet, utilizando OpenAPI (Swagger). Esta documentación permite la visualización, prueba e integración futura con el frontend y facilita la validación de la estructura de los endpoints REST implementados.
+
+Los endpoints documentados corresponden a las funcionalidades clave desarrolladas durante el Sprint, incluyendo el registro y consulta de maquinarias, líneas de producción, órdenes de trabajo, métricas de mantenimiento y gestión de usuarios. A través de Swagger UI, los desarrolladores pueden interactuar con cada uno de estos servicios, visualizar sus parámetros, realizar llamadas HTTP con datos de ejemplo y observar las respuestas correspondientes.
+
+| Módulo               | Acción                        | Método | Endpoint                  | Parámetros (ejemplo)                                                         | Respuesta (ejemplo)                                                         |
+| -------------------- | ----------------------------- | ------ | ------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Maquinarias          | Registrar maquinaria          | POST   | `/api/maquinarias`        | `{"nombre": "Compresora", "modelo": "XK-120", "serie": "A1234"}`             | `{"id": 1, "nombre": "Compresora", "modelo": "XK-120", "serie": "A1234"}`   |
+|                      | Listar maquinarias            | GET    | `/api/maquinarias`        | -                                                                            | `[{"id": 1, "nombre": "Compresora", "modelo": "XK-120", "serie": "A1234"}]` |
+| Líneas de Producción | Registrar línea de producción | POST   | `/api/lineas-produccion`  | `{"nombre": "Línea 1", "prioridad": 2}`                                      | `{"id": 1, "nombre": "Línea 1", "prioridad": 2}`                            |
+|                      | Consultar líneas              | GET    | `/api/lineas-produccion`  | -                                                                            | `[{"id": 1, "nombre": "Línea 1", "prioridad": 2}]`                          |
+| Órdenes de trabajo   | Crear plan de mantenimiento        | POST   | `/api/maintenance-plan` | `{"name": "Plan Prueba", "startDate": "2025-06-20", "endDate": "2025-06-20", "productionLineId": 1, "cyclePeriodInDays": 10, "durationInDays": 1}` | `{"id": 1, "name": "Plan Prueba", "startDate": "2025-06-20", "endDate": "2025-06-20", "status": "ACTIVE", "productionLineId": 1, "cyclePeriodInDays": 10, "durationInDays": 1, "items": []}`                    |
+|                      | Consultar plan             | GET    | `/api/maintenance-plan`            | -                                                                            | `[{"id": 1, "estado": "ACTIVE"}]`                  |
+| Métricas (MTTR/MTBF) | Obtener métricas              | GET    | `/api/metricas/mttr-mtbf` | -                                                                            | `{"mttr": 5.2, "mtbf": 48.3}`                                               |
+| Autenticación        | Login de usuario              | POST   | `/api/auth/login`         | `{"email": "admin@mecanet.com", "password": "123456"}`                       | `{"token": "eyJhbGciOi..."}`                                                |
+
+#### Capturas de la documentación OpenAPI/Swagger
+
+- Endpoint GET /api/v1/roles – Obtener todos los roles
+![image](https://github.com/user-attachments/assets/ff24f69b-b608-4f34-a29e-2722a8153a22)
+
+
+- Endpoint POST /api/v1/authentication/sign-up – Registro de usuario
+![image](https://github.com/user-attachments/assets/cad232f5-65d1-4494-a910-8a598f442b1d)
+
+
+- Endpoint GET /api/v1/metric-definitions – Obtener todas las definiciones de métricas
+![image](https://github.com/user-attachments/assets/c95defec-7c69-4399-ba45-947a4ad21078)
+
+  
+- Endpoint POST /api/maquinarias – Registro de maquinaria
+![image](https://github.com/user-attachments/assets/ab20b452-58f4-48f2-bbb4-84913f9ddef1)
+
+
+- Endpoint POST /api/v1/maintenance-plans/dynamic – Crear plan de mantenimiento estático
+![image](https://github.com/user-attachments/assets/0af52037-c86c-4c10-98a3-68f12dd198f6)
+
+
+- Endpoint GET /api/v1/maintenance-plans/static/{planId} – Obtener plan de mantenimiento dinámico
+![image](https://github.com/user-attachments/assets/2fe60178-9029-40e4-aabc-35bba9e483f5)
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Durante este Sprint, se avanzó en el proceso de Deployment del backend de la aplicación Mecanet, enfocándose en el despliegue inicial de los Web Services en un entorno de desarrollo accesible, con el objetivo de facilitar la validación funcional por parte del equipo y sentar las bases para futuras integraciones con el frontend.
+
+#### Actividades realizadas en el Sprint 3:
+1. Configuración de repositorio remoto:
+
+    * Se utilizó GitHub como repositorio de control de versiones.
+
+    * Repositorio oficial del backend: https://github.com/wiwitech1/mecanet-backend
+
+2. Creación de entorno de despliegue local (Sprint 1):
+
+    * Para este Sprint se optó por un despliegue local en entorno de desarrollo utilizando:
+
+      * Spring Boot como framework base.
+
+      * Swagger UI para la documentación de servicios.
+
+      * PostgreSQL como base de datos relacional.
+
+      * Docker para levantar contenedores del backend y base de datos en conjunto.
+
+    * Se configuró un archivo docker-compose.yml para facilitar la ejecución del entorno completo.
+
+3. Ejecución local exitosa:
+
+    * La aplicación fue levantada en el entorno local accediendo desde http://localhost:8080/swagger-ui.html.
+
+    * Esto permitió validar el comportamiento de todos los endpoints REST desarrollados y su interacción con la base de datos.
+
+#### Capturas del Proceso de Deployment
+1. Evidencia 1:
+![Evidencia 1:]()
+
+1. Evidencia 2:
+![Evidencia 2:]()
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanet. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con Spring Boot y PostgreSQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
+
+A continuación, se detalla la participación específica de cada integrante del equipo en las principales áreas funcionales del backend:
+
+| **Nombre**                       | **Actividad**                                                                                                                                                              |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos PostgreSQL. Participó en la definición de relaciones entre entidades y persistencia. |
+| Belledone Espinoza, Claudia      | Encargada de la lógica de negocio y servicios de autenticación. Desarrolló la estructura de seguridad, generación de tokens JWT y configuración de rutas protegidas.       |
+| Elera Rodríguez, Mauricio Daniel | Implementó los controladores REST y validaciones. Participó activamente en la construcción de endpoints para entidades como usuarios, técnicos y órdenes.                  |
+| Qqueso Rodriguez, Britney Delhy  | Responsable de la documentación con Swagger. Estructuró el despliegue local del backend con Docker.      |
+
+
+#### Evidencia de colaboración en GitHub
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial del backend, donde se evidencia la participación activa de todos los miembros del equipo en el Sprint 3. <br/>
+
+Captura de colaboracion en github:
+
+![image](https://github.com/user-attachments/assets/d023aadf-4835-4ebf-bf6c-8e3ead9f919b)
+
+![image](https://github.com/user-attachments/assets/d29d3158-0843-47b6-b756-6565637a521c)
+![image](https://github.com/user-attachments/assets/77a93762-0bc2-4297-a57f-e6b7c6e140bd)
+
+
+![image](https://github.com/user-attachments/assets/80a2feb1-d1c2-4f82-baee-c11a1f27d0f5)
+
+#### Repositorio de trabajo:
+* Repositorio del Backend en GitHub: https://github.com/wiwitech1/mecanet-backend.git
+
+El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando herramientas colaborativas como GitHub y reuniones breves, permitiendo una integración progresiva de los módulos desarrollados y asegurando que cada funcionalidad contara con aportes técnicos y revisiones cruzadas por parte de todos los miembros.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+Se realizarán entrevistas a los usuarios finales para validar la funcionalidad de la aplicación. Se realizarán entrevistas a los administradores y técnicos de mantenimiento que son altamente beneficiados con nuestra solución.
+
+Para estas entrevistas de validación, se mostrará la Landing Page desarrollada y la aplicación web.
+
+**Preguntas sobre la Landing Page** 
+
+1. ¿Encuentras útil la información presentada en la landing page de Mecanet?
+
+2. ¿La sección “Sobre Nosotros” te ayuda a confiar en la plataforma?
+
+3. ¿Consideras que la información proporcionada es clara y concisa, o sientes que hay demasiada o muy poca?
+
+4. ¿Qué opinas sobre el aspecto visual de la página?¿Consideras que es atractivo y apropiado para una solución de software industrial como Mecanet?
+
+5. ¿Comprendes de inmediato cuál es el propósito de Mecanet al revisar la página?
+
+6. ¿Te animarías a solicitar una demo o registrarte a un plan gratuito después de navegar por esta página? ¿Por qué?
+
+**Preguntas sobre la aplicación**
+
+**Para Administradores Industriales y Responsables de Producción**
+Se considerará los userflows de:
+
+* Creación de cuenta e inicio de sesión
+
+* Registrar nueva línea de producción
+
+* Registrar nueva maquinaria
+
+* Generar plan mensual de mantenimiento
+
+1. ¿Te pareció clara y sencilla la experiencia de creación de cuenta para tu empresa?
+
+2. ¿Qué agregarías o quitarías para facilitar este registro inicial?
+
+3. ¿Te resultó intuitivo el proceso para agregar una nueva línea de producción?
+
+4. ¿Fue fácil identificar dónde registrar una nueva máquina?
+
+5. ¿La funcionalidad para generar el plan mensual es clara y fácil de usar?
+
+6. ¿Te parece que la organización de la aplicación se entiende y comprende fácilmente?
+
+**Para Técnicos y Supervisores de Mantenimiento**
+Se considerará los userflows de:
+
+* Creación de cuenta e inicio de sesión
+
+* Completar checklist de orden de trabajo
+
+1. ¿Te resultó claro qué debías hacer al ver la orden de trabajo?
+
+2. ¿El checklist que aparece refleja las tareas típicas que ejecutas en el mantenimiento?
+
+3. ¿Pudiste completar fácilmente los campos requeridos para cerrar la orden?
+
+4. ¿Te gustaría poder subir imágenes o comentarios como evidencia adicional del trabajo realizado?
+
+5. ¿Qué mejorarías para que esta experiencia sea más rápida y cómoda durante tu jornada?
+
+### 5.3.2. Registro de Entrevistas.
+### Segmento 1: Administradores de Producción
+
+#### Entrevista #1
+- **Nombre completo:** Cesar Gonzales
+- **Edad:** 28
+- **Cargo / Rol en la empresa:**  Administrador de producción
+- **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 0:00 s
+- **Fin:** 9:48 s
+ <img src="img/interviews/entrevista-validacion-administrador-1.png"> 
+
+#### Entrevista #2
+- **Nombre completo:** Edward Rodriguez
+- **Edad:** 28
+- **Cargo / Rol en la empresa:** Administrador de producción
+- **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 9:49 s
+- **Fin:** 21:40 s
+ <img src="img/interviews/entrevista-validacion-administrador-2.png">
+
+#### Entrevista #3
+- **Nombre completo:** Yvania Ortiz
+- **Edad:** 25
+- **Cargo / Rol en la empresa:** Administradora de producción
+- **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 21:41 s
+- **Fin:** 31:14 s
+ <img src="img/interviews/entrevista-validacion-administrador-3.png">
+
+### Segmento 2: Técnicos de Mantenimiento
+
+#### Entrevista #1
+- **Nombre completo:**  Antony Ramos
+- **Edad:**  27
+- **Puesto o función que desempeñas:** Técnico de mantenimiento predictivo
+- **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 31:42 s
+- **Fin:** 40:04 s
+ <img src="img/interviews/entrevista-validacion-tecnico-1.png">
+
+#### Entrevista #2
+- **Nombre completo:** Darlin Castillo
+- **Edad:** 23
+- **Puesto o función que desempeñas:** Técnico de mantenimiento 
+- **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 40:04 s
+- **Fin:** 49:45 s
+ <img src="img/interviews/entrevista-validacion-tecnico-2.png">
+
+#### Entrevista #3
+- **Nombre completo:** Leonardo Ramirez
+- **Edad:** 25 años  
+- **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
+- **Enlace del video:** [Entrevista 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 49:46 s
+- **Fin:** 58:53 s
+ <img src="img/interviews/entrevista-validacion-tecnico-3.png">
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+**Site o App a Evaluar:** MecaNet
+
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+
+* Acceder a la aplicación desde la landing page
+
+* Crear cuenta en la aplicación
+
+* Inicio de sesión
+
+* Visualización de la página de inicio
+
+* Visualización del calendario
+
+* Visualización del inventario (repuestos, órdenes de compra)
+
+* Gestión de activos (maquinarias y líneas de producción)
+
+* Visualización de órdenes de trabajo
+
+* Visualización y ejecución de planes de mantenimiento
+
+* Administración de personal técnico
+
+* Configuración de cuenta
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+* Recuperación de cuenta
+
+* Visualización de reportes y métricas
+
+* Acciones desde la vista técnica
+
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+|***Nivel***|***Descripción***|
+| :-: | :-: |
+|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+**TABLA DE RESUMEN:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
+| :- | :- | :- | :- |
+|1| No hay formulario de contacto en la landing page | 3 | Usability: Help and documentation |
+|2| El formulario de registro solo permite registro para administradores de mantenimineto | 4 | Usability: Flexibility and efficiency of use |
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** No hay formulario de contacto en la landing page
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Help and documentation
+
+**Problema**: Aunque la landing page incluye una sección de preguntas frecuentes (FAQs), no se ofrece un canal directo para que los usuarios envíen otras consultas. La ausencia de un formulario de contacto puede limitar el soporte al usuario y generar frustración si sus dudas no están entre las FAQs.
+
+**Imagen:**
+
+<img src="img/sprint3/heuristics1.png" width="600px">
+
+
+**Recomendación:** Incluir un formulario de contacto con campos básicos (nombre, correo, mensaje) y una confirmación visual del envío. Esto permitirá que los usuarios se comuniquen directamente con el equipo de soporte para resolver inquietudes que no estén en la sección de preguntas frecuentes.
+
+-----
+
+**PROBLEMA #2:** El formulario de registro solo permite registro para administradores de mantenimineto
+
+**Severidad:** 4
+
+**Heurística violada:** Usability: Flexibility and efficiency of use
+
+**Problema**: En el proceso de registro solo se encuentra habilitada la opción de crear una cuenta como administrador. Los técnicos de mantenimiento, que son otro segmento de usuarios clave, no pueden registrarse por su cuenta. Esto limita la flexibilidad del sistema y genera dependencia en el administrador para agregar técnicos.
+
+**Imagen:**
+
+<img src="img/sprint3/heuristics2.png" width="600px">
+
+**Recomendación:** Agregar la opción de seleccionar el tipo de cuenta (Administrador o Técnico) durante el registro. Esto permitirá que ambos tipos de usuario se autogestionen según sus necesidades y se agilice el proceso de incorporación al sistema.
+
+## 5.4. Video About-the-Product
+En el vídeo se proporciona información sobre el producto Mecanet. Se mencionan las diferentes funcionalidades de la aplicación como son el registro y autenticación de usuarios, gestión de activos (maquinarias y líneas de producción), administración del inventario, etc.
+
+Imagen del Video About The Product:
+<br>
+![image](https://github.com/user-attachments/assets/a777e1fa-222c-415a-a0a0-a5022ec026a4)
+link: https://www.youtube.com/watch?v=QKpEu8YCnMQ&ab_channel=Mayo
+
+Enlace al vídeo de Microsoft Stream: [Video About The Product]()
+
 # Conclusiones y recomendaciones.
 ## Conclusiones: 
  ### Problema Principal
@@ -3979,6 +4684,9 @@ Continuar promoviendo las retrospectivas internas de equipo al final de cada Spr
 Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. <br/>
 
 # Video About-the-Team.
+![image](https://github.com/user-attachments/assets/e49e1d18-5bf0-437b-b7ff-104f30b9a989)
+link: https://www.youtube.com/watch?v=I3xC4kqr_JM&ab_channel=Mayo
+
 
 # Bibliografía
 McKinsey & Company. (2021). Innovación a través de la disrupción digital en servicio a clientes. [https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service](https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service) 
@@ -4002,7 +4710,7 @@ Link del Respositorio de la Landing Page: https://github.com/wiwitech1/mecanet-l
 Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
 
 
-Link del Video del Product: https://youtu.be/C0cHMqzKaEI
+Link del Video About the Product: https://youtu.be/QKpEu8YCnMQ
 
 Video de Exposición TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
