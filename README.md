@@ -4421,55 +4421,64 @@ Se considerará los userflows de:
 5. ¿Qué mejorarías para que esta experiencia sea más rápida y cómoda durante tu jornada?
 
 ### 5.3.2. Registro de Entrevistas.
-### Segmento 1: Administradores y Responsables de Producción
+### Segmento 1: Administradores de Producción
 
 #### Entrevista #1
-- **Nombre completo:**  
-- **Edad:**  
-- **Cargo / Rol en la empresa:**  
-- **Enlace del video:** [Entrevista 1]()
+- **Nombre completo:** Cesar Gonzales
+- **Edad:** 28
+- **Cargo / Rol en la empresa:**  Administrador de producción
+- **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
 - **Inicio:** 0:00 s
-- **Fin:** 
- <img src="">
+- **Fin:** 9:48 s
+ <img src="img/interviews/entrevista-validacion-administrador-1.png"> 
 
 #### Entrevista #2
-- **Nombre completo:** 
-- **Edad:** 
-- **Cargo / Rol en la empresa:** 
-- **Enlace del video:** [Entrevista 2]()
-- **Inicio:** 
-- **Fin:** 
- <img src="">
+- **Nombre completo:** Edward Rodriguez
+- **Edad:** 28
+- **Cargo / Rol en la empresa:** Administrador de producción
+- **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 9:49 s
+- **Fin:** 21:40 s
+ <img src="img/interviews/entrevista-validacion-administrador-2.png">
 
+#### Entrevista #3
+- **Nombre completo:** Yvania Ortiz
+- **Edad:** 25
+- **Cargo / Rol en la empresa:** Administradora de producción
+- **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 21:41 s
+- **Fin:** 31:14 s
+ <img src="img/interviews/entrevista-validacion-administrador-3.png">
 
-### Segmento 2: Técnicos y Operarios de Mantenimiento
+### Segmento 2: Técnicos de Mantenimiento
 
 #### Entrevista #1
-- **Nombre completo:**  
-- **Edad:**  
-- **Puesto o función que desempeñas:** 
-- **Enlace del video:** [Entrevista 3]()
-- **Inicio:** 
-- **Fin:** 
- <img src="">
+- **Nombre completo:**  Antony Ramos
+- **Edad:**  27
+- **Puesto o función que desempeñas:** Técnico de mantenimiento predictivo
+- **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 31:42 s
+- **Fin:** 40:04 s
+ <img src="img/interviews/entrevista-validacion-tecnico-1.png">
 
 #### Entrevista #2
 - **Nombre completo:** 
 - **Edad:** 
 - **Puesto o función que desempeñas:** 
-- **Enlace del video:** [Entrevista 4]()
-- **Inicio:** 
-- **Fin:** 
- <img src="">
+- **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 40:04 s
+- **Fin:** 49:45 s
+ <img src="img/interviews/entrevista-validacion-tecnico-2.png">
 
 #### Entrevista #3
 - **Nombre completo:** Luis Fernandez  
 - **Edad:** 25 años  
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
-- **Enlace del video:** [Entrevista 5]()
-- **Inicio:** 
-- **Fin:** 
- <img src=" ">
+- **Enlace del video:** [Entrevista 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Inicio:** 49:46 s
+- **Fin:** 58:53 s
+ <img src="img/interviews/entrevista-validacion-tecnico-3.png">
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
 **Site o App a Evaluar:** MecaNet
