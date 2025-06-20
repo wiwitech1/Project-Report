@@ -4286,10 +4286,13 @@ A continuación, se presenta una tabla con los commits relacionados con la imple
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, establecer planes de mantenimiento para las líneas de producción entre otros.<br/>
 
-A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
+A continuación, se presentan capturas de pantalla de las principales funcionalidades implementadas durante este sprint:<br/>
 
-#### Evidencia 1: Registro de maquinaria (POST /api/maquinarias) 
-![Evidencia 1:]()
+#### Evidencia 1: Registro de Plantas
+![image](https://github.com/user-attachments/assets/ca3bd3b7-4b30-4f0a-9a18-138fb59b5b47)
+![image](https://github.com/user-attachments/assets/9d3c31b4-3513-4349-860f-3a7ac9bab299)
+![image](https://github.com/user-attachments/assets/1c0154f3-8392-44d8-bee8-52b4ec8da180)
+
 
 #### Evidencia 2: Listado de maquinarias registradas (GET /api/maquinarias)
 ![Evidencia 2:]()
