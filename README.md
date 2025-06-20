@@ -4286,10 +4286,13 @@ A continuación, se presenta una tabla con los commits relacionados con la imple
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, establecer planes de mantenimiento para las líneas de producción entre otros.<br/>
 
-A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
+A continuación, se presentan capturas de pantalla de las principales funcionalidades implementadas durante este sprint:<br/>
 
-#### Evidencia 1: Registro de maquinaria (POST /api/maquinarias) 
-![Evidencia 1:](/img/sprint3/back-photos/ev1.png)
+#### Evidencia 1: Registro de Plantas
+![image](https://github.com/user-attachments/assets/ca3bd3b7-4b30-4f0a-9a18-138fb59b5b47)
+![image](https://github.com/user-attachments/assets/9d3c31b4-3513-4349-860f-3a7ac9bab299)
+![image](https://github.com/user-attachments/assets/1c0154f3-8392-44d8-bee8-52b4ec8da180)
+
 
 #### Evidencia 2: Listado de maquinarias registradas (GET /api/maquinarias)
 ![Evidencia 2:](/img/sprint3/back-photos/ev3.png)
@@ -4469,13 +4472,13 @@ Durante este Sprint, se avanzó en el proceso de Deployment del backend de la ap
 ![Evidencia 12:](/img/sprint3/prod/prod12.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
-Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanet. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con Spring Boot y PostgreSQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
+Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanet. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con Spring Boot y MySQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
 
 A continuación, se detalla la participación específica de cada integrante del equipo en las principales áreas funcionales del backend:
 
 | **Nombre**                       | **Actividad**                                                                                                                                                              |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos PostgreSQL. Participó en la definición de relaciones entre entidades y persistencia. |
+| Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos MySQL. Participó en la definición de relaciones entre entidades y persistencia. |
 | Belledone Espinoza, Claudia      | Encargada de la lógica de negocio y servicios de autenticación. Desarrolló la estructura de seguridad, generación de tokens JWT y configuración de rutas protegidas.       |
 | Elera Rodríguez, Mauricio Daniel | Implementó los controladores REST y validaciones. Participó activamente en la construcción de endpoints para entidades como usuarios, técnicos y órdenes.                  |
 | Qqueso Rodriguez, Britney Delhy  | Responsable de la documentación con Swagger. Estructuró el despliegue local del backend con Docker.      |
