@@ -224,7 +224,8 @@ En esta entrega, la estrecha colaboración del equipo permitió implementar las 
 
 ## TB2
 En esta entrega, hemos implementado con éxito el backend de la aplicación web gracias a la estrecha colaboración del equipo. La clave fue la asignación estratégica de tareas por secciones, lo que facilitó el desarrollo de las funcionalidades principales en línea con el diseño predefinido. La participación activa de todos los miembros se evidencia en los analíticos de colaboración, demostrando el compromiso y la eficiencia logrados en este proceso crucial.
-![Contributions tp](img/sprint2/Contributions-Tb1.png)
+![Contributions tb2](https://github.com/user-attachments/assets/b19e49a7-d1ba-46a0-b559-987ec7a38872)
+
 
 # Contenido
 [Student Outcome](#student-outcome)
