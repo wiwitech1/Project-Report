@@ -4289,19 +4289,13 @@ En este sprint, hemos logrado implementar las funcionalidades fundamentales para
 A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
 
 #### Evidencia 1: Registro de maquinaria (POST /api/maquinarias) 
-![Evidencia 1:]()
+![Evidencia 1:](/img/sprint3/back-photos/ev1.png)
 
 #### Evidencia 2: Listado de maquinarias registradas (GET /api/maquinarias)
-![Evidencia 2:]()
+![Evidencia 2:](/img/sprint3/back-photos/ev3.png)
 
 #### Evidencia 3: Registro de línea de producción (POST /api/lineas-produccion)
-![Evidencia 3:]()
-
-#### Evidencia 4: 
-![Evidencia 4:]()
-
-#### Evidencia 5: 
-![Evidencia 5:]()
+![Evidencia 3:](/img/sprint3/back-photos/ev2.png)
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
@@ -4350,38 +4344,129 @@ Los endpoints documentados corresponden a las funcionalidades clave desarrollada
 Durante este Sprint, se avanzó en el proceso de Deployment del backend de la aplicación Mecanet, enfocándose en el despliegue inicial de los Web Services en un entorno de desarrollo accesible, con el objetivo de facilitar la validación funcional por parte del equipo y sentar las bases para futuras integraciones con el frontend.
 
 #### Actividades realizadas en el Sprint 3:
-1. Configuración de repositorio remoto:
+# Despliegue de **Mecanet-Backend** – Guía Resumida (Windows 10/11)
 
-    * Se utilizó GitHub como repositorio de control de versiones.
+1. **Configuración de repositorio remoto:**  
+   * **Sistema de control de versiones:** Git + GitHub  
+   * **Repositorio oficial del backend:** [mecanet-backend](https://github.com/wiwitech1/mecanet-backend)
 
-    * Repositorio oficial del backend: https://github.com/wiwitech1/mecanet-backend
+2. **Creación de entorno de despliegue local:**  
+   * **Stack:** Spring Boot 3, Swagger UI, MySQL, Docker  
+   * **Archivo `docker-compose.yml`:**  
+     ```yml
+     services:
+       mecanet-db:
+         image: mysql:8
+         environment:
+           MYSQL_ROOT_PASSWORD: 123456789
+           MYSQL_DATABASE: mecanet
+           MYSQL_USER: dev
+         ports:
+           - "3306:3306"
 
-2. Creación de entorno de despliegue local (Sprint 1):
+       mecanet-backend:
+         image: mecanet-backend:0.0.1
+         build:
+           context: .
+           dockerfile: Dockerfile
+         ports:
+           - "8080:8080"
+         environment:
+           - SPRING_PROFILES_ACTIVE=dev
+           - DB_PASSWORD=123456789
+         depends_on:
+           - mecanet-db
+     ```
 
-    * Para este Sprint se optó por un despliegue local en entorno de desarrollo utilizando:
+3. **Ejecución local exitosa:**  
+   * **Comando para levantar el entorno:**  
+     ```powershell
+     docker-compose up --build
+     ```  
+   * **Acceso al Swagger:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
-      * Spring Boot como framework base.
+4. **Variables de entorno de Spring Profiles:**  
+   * **Variables a configurar en Windows:**  
+     ```powershell
+     setx SPRING_PROFILES_ACTIVE "prod"
+     setx DB_PASSWORD "123456789"
+     ```  
+   * **Configuración de `application-dev.properties` y `application-prod.properties` para MySQL.**
 
-      * Swagger UI para la documentación de servicios.
+5. **Empaquetado y dockerización:**  
+   * **Generación del JAR:**  
+     ```powershell
+     mvn clean package
+     ```  
+   * **Dockerfile:**  
+     ```dockerfile
+     FROM openjdk:17-jdk-slim
+     VOLUME /tmp
+     EXPOSE 8080
+     COPY target/mecanet-backend-0.0.1-SNAPSHOT.jar app.jar
+     ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/app.jar"]
+     ```  
+   * **Ignorar archivos de build:**  
+     ```
+     .git
+     target/
+     .mvn/
+     mvnw*
+     ```
 
-      * PostgreSQL como base de datos relacional.
+6. **Recursos de Azure (CLI Windows PowerShell):**  
+   * **Pasos para la configuración de Azure:**  
+     ```powershell
+     az login
+     az group create --name MecanetRG --location "Central US"
+     az provider register --namespace Microsoft.ContainerRegistry
+     az acr create -g MecanetRG -n mecanetacr --sku Basic --admin-enabled true
+     az acr login -n mecanetacr
+     ```
 
-      * Docker para levantar contenedores del backend y base de datos en conjunto.
+7. **Publicación de la imagen Docker:**  
+   * **Etiquetar y subir la imagen Docker a ACR:**  
+     ```powershell
+     docker tag mecanet-backend:0.0.1 mecanetacr.azurecr.io/mecanet-backend:0.0.1
+     docker push mecanetacr.azurecr.io/mecanet-backend:0.0.1
+     ```
 
-    * Se configuró un archivo docker-compose.yml para facilitar la ejecución del entorno completo.
+8. **Creación de Azure Web App for Containers:**  
+   * **Crear App Service Plan + Web App:**  
+     ```powershell
+     az appservice plan create --name MecanetPlan --resource-group MecanetRG --is-linux --sku B1
+     az webapp create --resource-group MecanetRG --plan MecanetPlan --name mecanet-api --deployment-container-image-name mecanetacr.azurecr.io/mecanet-backend:0.0.1
+     ```
 
-3. Ejecución local exitosa:
+   * **Vincular ACR & actualizar variables de entorno:**  
+     ```powershell
+     az webapp config container set --name mecanet-api --resource-group MecanetRG --docker-custom-image-name mecanetacr.azurecr.io/mecanet-backend:0.0.1 --docker-registry-server-url https://mecanetacr.azurecr.io
+     az webapp config appsettings set --name mecanet-api --resource-group MecanetRG --settings SPRING_PROFILES_ACTIVE=prod DB_PASSWORD=123456789 PORT=8080
+     ```
 
-    * La aplicación fue levantada en el entorno local accediendo desde http://localhost:8080/swagger-ui.html.
+   * **Desactivar soporte Sidecar y configurar puerto 8080.**
 
-    * Esto permitió validar el comportamiento de todos los endpoints REST desarrollados y su interacción con la base de datos.
+9. **Verificación en producción:**  
+   * **URL de prueba:**  
+     [https://mecanet-api.azurewebsites.net/swagger-ui/index.html](https://mecanet-api.azurewebsites.net/swagger-ui/index.html)  
+   Confirmar que la aplicación esté funcionando con el perfil **prod** y la conexión a Azure MySQL.
+
 
 #### Capturas del Proceso de Deployment
-1. Evidencia 1:
-![Evidencia 1:]()
 
-1. Evidencia 2:
-![Evidencia 2:]()
+
+![Evidencia 1:](/img/sprint3/prod/prod1.png)
+![Evidencia 2:](/img/sprint3/prod/prod2.png)
+![Evidencia 3:](/img/sprint3/prod/prod3.png)
+![Evidencia 4:](/img/sprint3/prod/prod4.png)
+![Evidencia 5:](/img/sprint3/prod/prod5.png)
+![Evidencia 6:](/img/sprint3/prod/prod6.png)
+![Evidencia 7:](/img/sprint3/prod/prod7.png)
+![Evidencia 8:](/img/sprint3/prod/prod8.png)
+![Evidencia 9:](/img/sprint3/prod/prod9.png)
+![Evidencia 10:](/img/sprint3/prod/prod10.png)
+![Evidencia 11:](/img/sprint3/prod/prod11.png)
+![Evidencia 12:](/img/sprint3/prod/prod12.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanet. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con Spring Boot y PostgreSQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
