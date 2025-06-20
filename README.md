@@ -4367,7 +4367,7 @@ Durante este Sprint, se avanzó en el proceso de Deployment del backend de la ap
 
       * Swagger UI para la documentación de servicios.
 
-      * PostgreSQL como base de datos relacional.
+      * MySQL como base de datos relacional.
 
       * Docker para levantar contenedores del backend y base de datos en conjunto.
 
@@ -4387,13 +4387,13 @@ Durante este Sprint, se avanzó en el proceso de Deployment del backend de la ap
 ![Evidencia 2:]()
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
-Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanet. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con Spring Boot y PostgreSQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
+Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanet. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con Spring Boot y MySQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
 
 A continuación, se detalla la participación específica de cada integrante del equipo en las principales áreas funcionales del backend:
 
 | **Nombre**                       | **Actividad**                                                                                                                                                              |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos PostgreSQL. Participó en la definición de relaciones entre entidades y persistencia. |
+| Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos MySQL. Participó en la definición de relaciones entre entidades y persistencia. |
 | Belledone Espinoza, Claudia      | Encargada de la lógica de negocio y servicios de autenticación. Desarrolló la estructura de seguridad, generación de tokens JWT y configuración de rutas protegidas.       |
 | Elera Rodríguez, Mauricio Daniel | Implementó los controladores REST y validaciones. Participó activamente en la construcción de endpoints para entidades como usuarios, técnicos y órdenes.                  |
 | Qqueso Rodriguez, Britney Delhy  | Responsable de la documentación con Swagger. Estructuró el despliegue local del backend con Docker.      |
