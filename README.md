@@ -4294,13 +4294,20 @@ A continuación, se presentan capturas de pantalla de las principales funcionali
 ![image](https://github.com/user-attachments/assets/1c0154f3-8392-44d8-bee8-52b4ec8da180)
 
 
-#### Evidencia 2: Listado de maquinarias registradas (GET /api/maquinarias)
+#### Evidencia 2: Listado de maquinarias registradas
 ![image](https://github.com/user-attachments/assets/343996b8-f1d4-4f6f-a74e-0f156dd5a030)
 ![image](https://github.com/user-attachments/assets/9ebecd2f-aea6-4329-91e9-634e0d78b40b)
 
 
-#### Evidencia 3: Registro de línea de producción (POST /api/lineas-produccion)
-![Evidencia 3:](/img/sprint3/back-photos/ev2.png)
+#### Evidencia 3: Registro de línea de producción
+![image](https://github.com/user-attachments/assets/ef9a15b0-90c1-4a22-bdf3-f6a696c51913)
+![image](https://github.com/user-attachments/assets/64af89ab-c320-4aa0-9e0f-29eb817f6fa5)
+![image](https://github.com/user-attachments/assets/31926553-c322-4da2-ac1d-dbb4970e5679)
+
+#### Evidencia 4: Obtener métricas de maquinaria
+![image](https://github.com/user-attachments/assets/d8829fad-f539-4e0a-876c-3b7fcd21c1f2)
+![image](https://github.com/user-attachments/assets/75f24a42-e25d-4224-9341-7e9bee568820)
+
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
