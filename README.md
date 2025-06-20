@@ -2413,9 +2413,11 @@ Diagrama de clases del FrontEnd basado en bounded contexts
 
 Diagrama de clases del BackEnd basado en bounded contexts
 
-<div>
-  <p align="center"><img src="img/odd/classes-db.png" alt="Class Diagram" width="700px" /></p>
-</div>
+    
+<img src="img/ddd/dominio.svg" alt="Class Diagram" width="1000px"/>
+
+<br>
+<br>
 
 
 ### Account
