@@ -4282,21 +4282,29 @@ Los endpoints documentados corresponden a las funcionalidades clave desarrollada
 
 #### Capturas de la documentación OpenAPI/Swagger
 
-- Endpoint POST /api/maquinarias – Registro de maquinaria
-![Evidencia 1:]()
-
-- Endpoint POST /api/v1/maintenance-plans/dynamic – Crear plan de mantenimiento dinámico
-![Evidencia 1:]()
-
 - Endpoint GET /api/v1/roles – Obtener todos los roles
-![Evidencia 2:]()
+![image](https://github.com/user-attachments/assets/ff24f69b-b608-4f34-a29e-2722a8153a22)
+
 
 - Endpoint POST /api/v1/authentication/sign-up – Registro de usuario
-![Evidencia 3:]()
+![image](https://github.com/user-attachments/assets/cad232f5-65d1-4494-a910-8a598f442b1d)
 
--Endpoint GET /api/v1/maintenance-plans/static/{planId} – Obtener plan de mantenimiento estático
 
--Endpoint GET /api/v1/metric-definitions – Obtener todas las definiciones de métricas
+- Endpoint GET /api/v1/metric-definitions – Obtener todas las definiciones de métricas
+![image](https://github.com/user-attachments/assets/c95defec-7c69-4399-ba45-947a4ad21078)
+
+  
+- Endpoint POST /api/maquinarias – Registro de maquinaria
+![image](https://github.com/user-attachments/assets/ab20b452-58f4-48f2-bbb4-84913f9ddef1)
+
+
+- Endpoint POST /api/v1/maintenance-plans/dynamic – Crear plan de mantenimiento estático
+![image](https://github.com/user-attachments/assets/0af52037-c86c-4c10-98a3-68f12dd198f6)
+
+
+- Endpoint GET /api/v1/maintenance-plans/static/{planId} – Obtener plan de mantenimiento dinámico
+![image](https://github.com/user-attachments/assets/2fe60178-9029-40e4-aabc-35bba9e483f5)
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Durante este Sprint, se avanzó en el proceso de Deployment del backend de la aplicación Mecanet, enfocándose en el despliegue inicial de los Web Services en un entorno de desarrollo accesible, con el objetivo de facilitar la validación funcional por parte del equipo y sentar las bases para futuras integraciones con el frontend.
