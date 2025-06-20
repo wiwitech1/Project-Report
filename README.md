@@ -4470,16 +4470,16 @@ Se considerará los userflows de:
  <img src="img/interviews/entrevista-validacion-tecnico-1.png">
 
 #### Entrevista #2
-- **Nombre completo:** 
-- **Edad:** 
-- **Puesto o función que desempeñas:** 
+- **Nombre completo:** Darlin Castillo
+- **Edad:** 23
+- **Puesto o función que desempeñas:** Técnico de mantenimiento 
 - **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
 - **Inicio:** 40:04 s
 - **Fin:** 49:45 s
  <img src="img/interviews/entrevista-validacion-tecnico-2.png">
 
 #### Entrevista #3
-- **Nombre completo:** Luis Fernandez  
+- **Nombre completo:** Leonardo Ramirez
 - **Edad:** 25 años  
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
 - **Enlace del video:** [Entrevista 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
