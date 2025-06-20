@@ -4498,13 +4498,12 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 
 Captura de colaboracion en github:
 
-![image](https://github.com/user-attachments/assets/d023aadf-4835-4ebf-bf6c-8e3ead9f919b)
+![image](https://github.com/user-attachments/assets/bcc0f50d-0c07-4656-89f8-210dc6ff022a)
+![image](https://github.com/user-attachments/assets/07cba899-1fc5-4a11-ba40-a5ef7148554d)
+![image](https://github.com/user-attachments/assets/61829674-ca49-413b-8d10-aac189bc426c)
+![image](https://github.com/user-attachments/assets/8c8fd376-b266-436e-80fc-3202e65e115a)
 
-![image](https://github.com/user-attachments/assets/d29d3158-0843-47b6-b756-6565637a521c)
-![image](https://github.com/user-attachments/assets/77a93762-0bc2-4297-a57f-e6b7c6e140bd)
 
-
-![image](https://github.com/user-attachments/assets/80a2feb1-d1c2-4f82-baee-c11a1f27d0f5)
 
 #### Repositorio de trabajo:
 * Repositorio del Backend en GitHub: https://github.com/wiwitech1/mecanet-backend.git
