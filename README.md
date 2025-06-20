@@ -4460,9 +4460,8 @@ Durante este Sprint, se avanzó en el proceso de Deployment del backend de la ap
 
 9. **Verificación en producción:**  
    * **URL de prueba:**  
-     [https://mecanet-api.azurewebsites.net/swagger-ui/index.html](https://mecanet-api.azurewebsites.net/swagger-ui/index.html)  
+     https://mecanetbackend-hjexa7d8bkfybmfv.centralus-01.azurewebsites.net/swagger-ui/index.html
    Confirmar que la aplicación esté funcionando con el perfil **prod** y la conexión a Azure MySQL.
-
 
 #### Capturas del Proceso de Deployment
 
