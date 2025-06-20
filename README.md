@@ -4123,10 +4123,10 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
 
 <tr>
     <th rowspan="2">TS04</th>
-    <th rowspan="2">Post Orden de Trabajo</th>
+    <th rowspan="2">Post Plan de mantenimiento</th>
     <td>6</td>
-    <td align="justify">Diseñar modelo de orden de trabajo</td>
-    <td align="justify">Definir la estructura de datos para registrar una nueva orden de trabajo (tipo, prioridad, descripción, técnico asignado, fecha estimada).</td>
+    <td align="justify">Diseñar modelo de plan de mantenimiento</td>
+    <td align="justify">Definir la estructura de datos para registrar un nuevo plan de mantenimiento (dinámico o estático).</td>
     <td>4 hr</td>
     <td>Britney Qqueso</td>
     <td>In Progress</td>
@@ -4134,7 +4134,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
 <tr>
     <td>7</td>
     <td align="justify">Crear endpoint POST para orden de trabajo</td>
-    <td align="justify">Desarrollar el endpoint que reciba los datos de la orden de trabajo y los almacene correctamente en la base de datos.</td>
+    <td align="justify">Desarrollar el endpoint que reciba los datos del plan de mantenimiento y los almacene correctamente en la base de datos.</td>
     <td>5 hr</td>
     <td>Britney Qqueso</td>
     <td>In Progress</td>
@@ -4142,10 +4142,10 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
 
 <tr>
     <th rowspan="1">TS05</th>
-    <th rowspan="1">Get Órdenes de Trabajo</th>
+    <th rowspan="1">Get Plan de mantenimiento</th>
     <td>8</td>
-    <td align="justify">Desarrollar endpoint GET para listar órdenes</td>
-    <td align="justify">Permitir obtener un listado de órdenes de trabajo registradas, filtrables por estado, prioridad o fecha.</td>
+    <td align="justify">Desarrollar endpoint GET para obtener un Plan de Mantenimiento</td>
+    <td align="justify">Permitir obtener un Plan de Mantenimiento filtrado por ID.</td>
     <td>4 hr</td>
     <td>Mauricio Elera</td>
     <td>To Do</td>
@@ -4153,9 +4153,9 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
 
 <tr>
     <th rowspan="1">TS06</th>
-    <th rowspan="1">Get Métricas de Mantenimiento</th>
+    <th rowspan="1">Get Métricas de Maquinarias</th>
     <td>9</td>
-    <td align="justify">Implementar endpoint de métricas (MTTR, MTBF)</td>
+    <td align="justify">Implementar endpoint de métricas</td>
     <td align="justify">Desarrollar una API que calcule y entregue indicadores clave de mantenimiento utilizando los datos históricos de órdenes completadas.</td>
     <td>5 hr</td>
     <td>Ariana Agreda</td>
@@ -4234,9 +4234,9 @@ A continuación, se presenta una tabla con los commits relacionados con la imple
 | ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | 81f3a1c   | feat(user): implement POST user registration   | Added endpoint for user creation with validation and password hashing            | 10/06/2025          |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | 94b2e8d   | feat(user): add GET user by ID                 | Implemented GET endpoint to retrieve user information with role mapping          | 17/06/2025          |
-| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | a72d3c7   | feat(order): implement POST work order         | Created model and controller logic to register new work orders in DB             | 17/06/2025          |
-| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | b51f2a9   | feat(order): add GET work orders list          | Endpoint to retrieve and filter work orders by date, status, and priority        | 18/06/2025          |
-| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | c12ff9b   | feat(metrics): implement MTTR and MTBF metrics | Developed metric calculation logic from completed orders                         | 18/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | a72d3c7   | feat(order): implement POST maintenance plan         | Created model and controller logic to register new work orders in DB             | 17/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | b51f2a9   | feat(order): add GET a maintenance plan          | Endpoint to retrieve and filter work orders by date, status, and priority        | 18/06/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | c12ff9b   | feat(metrics): implement machinery metrics | Developed metric calculation logic from completed orders                         | 18/06/2025          |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | d72ca6e   | feat(inventory): add POST inventory item       | Enabled registration of inventory tools and materials with validation rules      | 18/06/2025          |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | e49d8f0   | feat(asset): implement POST asset registration | Created data structure and API for adding new equipment or machines              | 19/06/2025          |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git) | develop | f28c9ad   | ci: update CI pipeline for backend deployment  | Modified GitHub Actions for backend automatic deployment on sprint release       | 19/06/2025          |
@@ -4244,7 +4244,7 @@ A continuación, se presenta una tabla con los commits relacionados con la imple
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
-En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, generar órdenes de trabajo correctivas y asignar personal técnico a ellas, establecer planes de mantenimiento para las líneas de producción, y permitir a los técnicos consultar sus órdenes de trabajo diarias.<br/>
+En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanet. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, establecer planes de mantenimiento para las líneas de producción entre otros.<br/>
 
 A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
 
@@ -4275,20 +4275,28 @@ Los endpoints documentados corresponden a las funcionalidades clave desarrollada
 |                      | Listar maquinarias            | GET    | `/api/maquinarias`        | -                                                                            | `[{"id": 1, "nombre": "Compresora", "modelo": "XK-120", "serie": "A1234"}]` |
 | Líneas de Producción | Registrar línea de producción | POST   | `/api/lineas-produccion`  | `{"nombre": "Línea 1", "prioridad": 2}`                                      | `{"id": 1, "nombre": "Línea 1", "prioridad": 2}`                            |
 |                      | Consultar líneas              | GET    | `/api/lineas-produccion`  | -                                                                            | `[{"id": 1, "nombre": "Línea 1", "prioridad": 2}]`                          |
-| Órdenes de trabajo   | Crear orden correctiva        | POST   | `/api/ordenes`            | `{"tipo": "Correctiva", "descripcion": "Falla en motor", "maquinariaId": 1}` | `{"id": 1, "tipo": "Correctiva", "estado": "Pendiente"}`                    |
-|                      | Consultar órdenes             | GET    | `/api/ordenes`            | -                                                                            | `[{"id": 1, "tipo": "Correctiva", "estado": "Pendiente"}]`                  |
+| Órdenes de trabajo   | Crear plan de mantenimiento        | POST   | `/api/maintenance-plan` | `{"name": "Plan Prueba", "startDate": "2025-06-20", "endDate": "2025-06-20", "productionLineId": 1, "cyclePeriodInDays": 10, "durationInDays": 1}` | `{"id": 1, "name": "Plan Prueba", "startDate": "2025-06-20", "endDate": "2025-06-20", "status": "ACTIVE", "productionLineId": 1, "cyclePeriodInDays": 10, "durationInDays": 1, "items": []}`                    |
+|                      | Consultar plan             | GET    | `/api/maintenance-plan`            | -                                                                            | `[{"id": 1, "estado": "ACTIVE"}]`                  |
 | Métricas (MTTR/MTBF) | Obtener métricas              | GET    | `/api/metricas/mttr-mtbf` | -                                                                            | `{"mttr": 5.2, "mtbf": 48.3}`                                               |
 | Autenticación        | Login de usuario              | POST   | `/api/auth/login`         | `{"email": "admin@mecanet.com", "password": "123456"}`                       | `{"token": "eyJhbGciOi..."}`                                                |
 
 #### Capturas de la documentación OpenAPI/Swagger
-1. Endpoint POST /api/maquinarias – Registro de maquinaria
+
+- Endpoint POST /api/maquinarias – Registro de maquinaria
 ![Evidencia 1:]()
 
-2. Endpoint GET /api/ordenes – Consulta de órdenes de trabajo
+- Endpoint POST /api/v1/maintenance-plans/dynamic – Crear plan de mantenimiento dinámico
+![Evidencia 1:]()
+
+- Endpoint GET /api/v1/roles – Obtener todos los roles
 ![Evidencia 2:]()
 
-3. Endpoint GET /api/metricas/mttr-mtbf – Métricas de mantenimiento
+- Endpoint POST /api/v1/authentication/sign-up – Registro de usuario
 ![Evidencia 3:]()
+
+-Endpoint GET /api/v1/maintenance-plans/static/{planId} – Obtener plan de mantenimiento estático
+
+-Endpoint GET /api/v1/metric-definitions – Obtener todas las definiciones de métricas
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Durante este Sprint, se avanzó en el proceso de Deployment del backend de la aplicación Mecanet, enfocándose en el despliegue inicial de los Web Services en un entorno de desarrollo accesible, con el objetivo de facilitar la validación funcional por parte del equipo y sentar las bases para futuras integraciones con el frontend.
