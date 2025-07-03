@@ -43,7 +43,7 @@
 </div>
 
 <p align="center">
-    <strong>Junio, 2025</strong>
+    <strong>Julio, 2025</strong>
 </p>
 <br>
 
@@ -206,6 +206,30 @@
     <td>Mauricio Elera, Ariana Agreda</td>
     <td>Redacción de Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint</td>
 </tr>
+</tr>
+    <td>4.0</td>
+    <td>03/07/2025</td>
+    <td>Britney Qqueso</td>
+    <td>Creación y redacción del Sprint 4</td>
+</tr>
+</tr>
+    <td>4.1</td>
+    <td>04/07/2025</td>
+    <td>Claudia Belledonne</td>
+    <td>Redacción y corrección del las observaciones en el Sprint 3</td>
+</tr>
+</tr>
+    <td>4.2</td>
+    <td>05/07/2025</td>
+    <td>Mauricio Elera</td>
+    <td>Documentación de Services Documentation Evidence for Sprint Review</td>
+</tr>
+</tr>
+    <td>4.3</td>
+    <td>06/07/2025</td>
+    <td>Ariana Agreda</td>
+    <td>Redacción de Software Deployment Evidence for Sprint Review</td>
+</tr>
     
 </table>
 
@@ -218,12 +242,16 @@
 En esta entrega, cada miembro del equipo contribuyó activamente al desarrollo del proyecto y a la implementación de la Landing Page, organizándose por secciones según el diseño y el contenido previamente establecidos. Las capturas de los analíticos de colaboración del repositorio oficial evidencian la participación de todos.
 ![Contributions tb1](img/sprint2/Contributions-Tb1.png)
 
-## TP
+## TP1
 En esta entrega, la estrecha colaboración del equipo permitió implementar las funcionalidades clave de la aplicación web. La asignación de tareas por secciones, en concordancia con el diseño y contenido predefinidos, facilitó este proceso. La participación activa de todos los miembros se evidencia en los analíticos de colaboración del repositorio oficial.
 ![Contributions tp](img/sprint2/Contributions-Tb1.png)
 
 ## TB2
 En esta entrega, hemos implementado con éxito el backend de la aplicación web gracias a la estrecha colaboración del equipo. La clave fue la asignación estratégica de tareas por secciones, lo que facilitó el desarrollo de las funcionalidades principales en línea con el diseño predefinido. La participación activa de todos los miembros se evidencia en los analíticos de colaboración, demostrando el compromiso y la eficiencia logrados en este proceso crucial.
+![Contributions tb2](https://github.com/user-attachments/assets/b19e49a7-d1ba-46a0-b559-987ec7a38872)
+
+## TF1
+En esta entrega, hemos integrado con éxito el backend y el frontend de la aplicación, lo cual representa un hito importante. Este logro fue posible gracias a la coordinación del equipo, asegurando una conexión fluida entre ambas capas y avanzando significativamente en la funcionalidad del proyecto.
 ![Contributions tb2](https://github.com/user-attachments/assets/b19e49a7-d1ba-46a0-b559-987ec7a38872)
 
 
@@ -310,6 +338,7 @@ En esta entrega, hemos implementado con éxito el backend de la aplicación web 
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
@@ -319,6 +348,7 @@ En esta entrega, hemos implementado con éxito el backend de la aplicación web 
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+
     - [5.2.3. Sprint 3](#523-sprint-3)
       - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
       - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
@@ -328,6 +358,16 @@ En esta entrega, hemos implementado con éxito el backend de la aplicación web 
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators.](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
 
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
@@ -3048,11 +3088,11 @@ Diagrama de clases DDD
    </td>
     </tr>
     <tr>
-        <td>Sprint 1 – 1 Review Summary</td>
+        <td>Sprint 0 Review Summary</td>
         <td>No aplica al ser el primer sprint entregado</td>
     </tr>
     <tr>
-        <td>Sprint 1 – 1 Retrospective Summary</td>
+        <td>Sprint 0 Retrospective Summary</td>
         <td>No aplica al ser el primer sprint entregado</td>
     </tr>
     <tr>
@@ -3515,11 +3555,11 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
    </td>
     </tr>
     <tr>
-        <td>Sprint 2 – 1 Review Summary</td>
+        <td>Sprint 1 Review Summary</td>
         <td>Durante la revisión del Sprint 1, se demostró la funcionalidad del landing page, incluyendo las secciones de beneficios, procesos y precios. Se recibieron comentarios positivos sobre la claridad de la información y la navegación.</td>
     </tr>
     <tr>
-        <td>Sprint 2 – 1 Retrospective Summary</td>
+        <td>Sprint 1 Retrospective Summary</td>
         <td>En la retrospectiva del Sprint 1, identificamos como puntos fuertes la buena comunicación del equipo y coodinación. Como áreas de mejora, se señaló mejorar la gesión del tiempo.</td>
     </tr>
     <tr>
@@ -4015,11 +4055,11 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
    </td>
     </tr>
     <tr>
-        <td>Sprint 3 – 2 Review Summary</td>
+        <td>Sprint 2 Review Summary</td>
         <td>Durante la revisión del Sprint 2, se logró desarrollar e implementar las funcionalidades esenciales de la página web para una gestión integral. Esto incluyó la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo. Se recibieron comentarios positivos sobre la claridad de la información y la navegación de estas nuevas funcionalidades.</td>
     </tr>
     <tr>
-        <td>Sprint 3 – 2 Retrospective Summary</td>
+        <td>Sprint 2 Retrospective Summary</td>
         <td>En la retrospectiva del Sprint 2, se destacó como aspectos positivos la buena comunicación y coordinación durante el sprint, así como una mayor claridad en la definición de tareas desde la planificación. Sin embargo, se identificaron oportunidades de mejora, como refinar la estimación de tiempos para evitar retrasos en tareas complejas y distribuir mejor la carga de trabajo.</td>
     </tr>
     <tr>
@@ -4132,7 +4172,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Implementar el endpoint en el backend que permita registrar nuevos usuarios en la base de datos, validando los datos requeridos (nombre, correo, contraseña, tipo de usuario).</td>
     <td>4 hr</td>
     <td>Mauricio Elera</td>
-    <td>In Progress</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>2</td>
@@ -4140,7 +4180,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Agregar validaciones (campos requeridos, formato de correo, hash de contraseña) y medidas de seguridad básicas para proteger el endpoint.</td>
     <td>3 hr</td>
     <td>Claudia Belledonne</td>
-    <td>In Progress</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4151,7 +4191,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Permitir obtener la información básica de un usuario específico mediante su ID, retornando datos personales y roles asociados.</td>
     <td>4 hr</td>
     <td>Mauricio Elera</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>4</td>
@@ -4159,7 +4199,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Realizar la consulta a la base de datos y retornar la información estructurada en formato JSON para el frontend.</td>
     <td>3 hr</td>
     <td>Claudia Belledonne</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4170,7 +4210,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Permitir recuperar los roles asignados a un usuario autenticado para establecer los permisos del sistema.</td>
     <td>3 hr</td>
     <td>Ariana Agreda</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4181,7 +4221,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Definir la estructura de datos para registrar un nuevo plan de mantenimiento (dinámico o estático).</td>
     <td>4 hr</td>
     <td>Britney Qqueso</td>
-    <td>In Progress</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>7</td>
@@ -4189,7 +4229,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Desarrollar el endpoint que reciba los datos del plan de mantenimiento y los almacene correctamente en la base de datos.</td>
     <td>5 hr</td>
     <td>Britney Qqueso</td>
-    <td>In Progress</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4200,7 +4240,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Permitir obtener un Plan de Mantenimiento filtrado por ID.</td>
     <td>4 hr</td>
     <td>Mauricio Elera</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4211,7 +4251,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Desarrollar una API que calcule y entregue indicadores clave de mantenimiento utilizando los datos históricos de órdenes completadas.</td>
     <td>5 hr</td>
     <td>Ariana Agreda</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4222,7 +4262,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Definir los atributos requeridos para registrar herramientas y materiales (nombre, código, cantidad, ubicación).</td>
     <td>3 hr</td>
     <td>Claudia Belledonne</td>
-    <td>In Progress</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>11</td>
@@ -4230,7 +4270,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Crear API que registre ítems en el sistema, permitiendo su uso posterior en tareas de mantenimiento.</td>
     <td>4 hr</td>
     <td>Claudia Belledonne</td>
-    <td>In Progress</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4241,7 +4281,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Obtener información detallada de cada ítem del inventario para verificar su disponibilidad.</td>
     <td>3 hr</td>
     <td>Britney Qqueso</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4252,7 +4292,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Definir los atributos y relaciones necesarias de activos como maquinaria, para su programación en mantenimientos.</td>
     <td>3 hr</td>
     <td>Claudia Belledonne</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>14</td>
@@ -4260,7 +4300,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Permitir el registro de nuevos activos mediante API, validando la unicidad de cada registro.</td>
     <td>4 hr</td>
     <td>Claudia Belledonne</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 
 <tr>
@@ -4271,7 +4311,7 @@ El equipo colaboró activamente, siguiendo el flujo de trabajo y logrando que ca
     <td align="justify">Permitir visualizar datos específicos de un activo registrado, como tipo, estado y uso actual.</td>
     <td>3 hr</td>
     <td>Mauricio Elera</td>
-    <td>To Do</td>
+    <td>Done</td>
 </tr>
 
 
@@ -4523,6 +4563,328 @@ Captura de colaboracion en github:
 
 El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando herramientas colaborativas como GitHub y reuniones breves, permitiendo una integración progresiva de los módulos desarrollados y asegurando que cada funcionalidad contara con aportes técnicos y revisiones cruzadas por parte de todos los miembros.
 
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Planning Background</strong></th>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>01/07/2025</td>
+    </tr>
+     <tr>
+        <td>Time</td>
+        <td> 08:00 AM</td>
+    </tr>
+     <tr>
+        <td>Location</td>
+        <td>Reunión presencial – Salón: UH:51</td>
+    </tr>
+    <tr>
+        <td>Prepared By</td>
+        <td>Claudia Belledonne</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning meeting)</td>
+        <td>
+
+- Ariana Cecilia Agreda Sobrino
+            
+- Claudia Valeria Belledonne Espinoza
+            
+- Mauricio Daniel Elera Rodríguez
+            
+- Britney Delhy Qqueso Rodriguez
+   </td>
+    </tr>
+    <tr>
+        <td>Sprint 3 Review Summary</td>
+        <td>Durante la revisión del Sprint 3, se completó el desarrollo de los servicios RESTful del backend de Mecanet, cubriendo la gestión de usuarios, órdenes de trabajo, activos, métricas e inventario. Estas funcionalidades están listas para ser integradas con la interfaz web desarrollada en los sprints anteriores. Se verificó el correcto funcionamiento de los endpoints mediante documentación OpenAPI y pruebas con datos reales.</td>
+    </tr>
+    <tr>
+        <td>Sprint 3 Retrospective Summary</td>
+        <td>En la retrospectiva del Sprint 3, destacamos la buena comunicación y coordinación como factores clave que nos permitieron cumplir satisfactoriamente con los objetivos propuestos. Como área de mejora, identificamos la necesidad de optimizar la distribución de tareas y la puntualidad.</td>
+    </tr>
+    <tr>
+        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+    </tr>
+    <tr>
+        <td>Sprint 4 Goal</td>
+        <td>
+<strong>Nuestra meta para este sprint es</strong> completar el desarrollo funcional de la aplicación Mecanet, integrando el frontend y el backend, y desplegar una versión navegable.
+
+<strong>Creemos que</strong> esto nos permitirá presentar una plataforma completamente funcional, con los módulos de usuarios, activos, mantenimiento, inventario y reportes conectados y operativos a través de una interfaz web intuitiva.<br/><br/>
+
+<strong>Esto se confirmará</strong> cuando los formularios del frontend interactúen correctamente con los servicios del backend para registrar y consultar datos en tiempo real, incluyendo la gestión completa de planes de mantenimiento, órdenes de trabajo, perfiles, inventario y control de usuarios, sin errores ni datos inconexos.
+    </td>
+    </tr>
+     <tr>
+        <td>Sprint 4 Velocity  </td>
+        <td>35 Story Points.</td>
+    </tr>
+     <tr>
+        <td>Sum of Story Points  </td>
+        <td>34 Story Points.</td>
+    </tr>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Integración Frontend-Backend<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de gestión de usuarios<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de calendario de plan de mantenimiento<br/>Leader (L) / Collaborator (C)</th>
+    <th>Integración con Calendar Service<br/>Leader (L) / Collaborator (C)</th>
+    <th>Sección de registro de técnicos<br/>Leader (L) / Collaborator (C)</th>
+    <th>Gestión de órdenes de trabajo<br/>Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Agreda, Ariana</td>
+    <td>arii4w</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Belledonne, Claudia</td>
+    <td>Cl4us-tb</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Elera, Mauricio</td>
+    <td>Maur1xio</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Qqueso, Britney</td>
+    <td>brit2801</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4.
+<p>El objetivo de este cuarto sprint es completar el desarrollo e integración de todas las funcionalidades restantes de la aplicación MecaNet, uniendo el frontend con el backend para lograr una experiencia completamente funcional. Además, se implementará la integración con un servicio externo (Calendar Service), autenticación mediante tokens y la conexión de todas las vistas de usuario con sus respectivos endpoints.</p>
+<img src="img/sprint2/Trello-Mecanet-Sprint2.png">
+<p>link: https://trello.com/b/pRzRlW59/mecanet-open-source</p>
+
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 4</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <th rowspan="3">US05</th>
+    <th rowspan="3">Supervisión del calendario de plan de mantenimiento</th>
+    <td>1</td>
+    <td align="justify">Conectar vista de calendario con backend</td>
+    <td align="justify">Implementar la integración del componente de calendario con los planes de mantenimiento registrados mediante API.</td>
+    <td>4 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td align="justify">Mostrar eventos en calendario</td>
+    <td align="justify">Visualizar las fechas programadas de mantenimiento con colores diferenciados por estado.</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td align="justify">Sincronizar con Calendar Service</td>
+    <td align="justify">Enviar eventos de mantenimiento a Calendar Service utilizando integración vía API externa.</td>
+    <td>6 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <th rowspan="2">US06</th>
+    <th rowspan="2">Filtro de plan de mantenimiento</th>
+    <td>4</td>
+    <td align="justify">Desarrollar filtros por tipo, estado y fecha</td>
+    <td align="justify">Agregar en frontend filtros dinámicos y consumir endpoints con parámetros opcionales para mostrar resultados.</td>
+    <td>4 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td align="justify">Validar filtros en el backend</td>
+    <td align="justify">Actualizar endpoints del backend para soportar los nuevos filtros enviados desde el frontend.</td>
+    <td>3 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <th rowspan="2">US07</th>
+    <th rowspan="2">Visualización de KPIs</th>
+    <td>6</td>
+    <td align="justify">Crear componente visual de dashboard</td>
+    <td align="justify">Implementar sección en frontend para mostrar MTBF, MTTR y disponibilidad en tarjetas con iconos y gráficas.</td>
+    <td>5 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td align="justify">Conectar API de métricas al dashboard</td>
+    <td align="justify">Consumir el endpoint de métricas en frontend y mostrar los resultados obtenidos con formato amigable.</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <th rowspan="1">US08</th>
+    <th rowspan="1">Reporte de orden de trabajo</th>
+    <td>8</td>
+    <td align="justify">Desarrollar vista y endpoint para generar reportes</td>
+    <td align="justify">Implementar la generación de reporte en frontend y el endpoint para generar datos consolidados desde el backend.</td>
+    <td>6 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <th rowspan="2">US11</th>
+    <th rowspan="2">Solicitud de repuestos</th>
+    <td>9</td>
+    <td align="justify">Implementar vista de solicitud</td>
+    <td align="justify">Implementar interfaz para solicitar repuestos, con validación de disponibilidad.</td>
+    <td>5 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td align="justify">Conectar endpoint POST de solicitud</td>
+    <td align="justify">Conectar endpoint en backend para registrar solicitud de repuestos y validar stock.</td>
+    <td>4 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <th rowspan="2">US12</th>
+    <th rowspan="2">Revisión de inventario</th>
+    <td>11</td>
+    <td align="justify">Implementar vista de revisión  de inventario</td>
+    <td align="justify">Visualización en tiempo real del stock disponible por repuesto, con búsqueda y ordenamiento.</td>
+    <td>5 hr</td>
+    <td>Britney Qqueso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td align="justify">Conexión con API de inventario</td>
+    <td align="justify">Consumir el endpoint de inventario para mostrar información actualizada al usuario.</td>
+    <td>4 hr</td>
+    <td>Mauricio Elera</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <th rowspan="1">US18</th>
+    <th rowspan="1">Registro de tareas realizadas</th>
+    <td>13</td>
+    <td align="justify">Marcar tareas como completadas</td>
+    <td align="justify">Permitir al técnico actualizar el estado de sus tareas y almacenar este cambio vía API.</td>
+    <td>5 hr</td>
+    <td>Claudia Belledonne</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <th rowspan="1">US21</th>
+    <th rowspan="1">Registro de técnicos</th>
+    <td>14</td>
+    <td align="justify">Desarrollar formulario de registro técnico</td>
+    <td align="justify">Crear vista de registro con campos de contacto y rol, y conexión al endpoint del backend.</td>
+    <td>5 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+</table> 
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+Durante este Sprint, el equipo logró culminar el desarrollo completo del backend de Mecanet, integrándolo exitosamente con el frontend. Se conectaron todas las vistas de usuario con sus respectivos endpoints RESTful. Esto aseguró que la información fluya correctamente entre el frontend y backend, cumpliendo con los principios de mantenibilidad, escalabilidad y seguridad. Además, se desarrolló una integración con Calendar Service para programar eventos de mantenimiento, brindando una experiencia más automatizada y profesional.
+
+A continuación, se presenta una tabla con los commits relevantes del repositorio backend asociados al desarrollo e integración final en Sprint 4<br/>
+
+| Repository                                                                                             | Branch  | Commit Id | Commit Message                                   | Commit Message Body                                                                | Committed on (Date) |
+| ------------------------------------------------------------------------------------------------------ | ------- | --------- | ------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------- |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | 901ab33   | feat(auth): implement authentication         | Authentication  and role verification per endpoint                  | 02/07/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | a12cb91   | feat(calendar): Calendar Service integration      | Connection to Google Calendar API with OAuth2 for event synchronization     | 03/07/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | b33ef45   | feat: metrics API              | Endpoint for availability, and efficiency metrics                     | 03/07/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | c17df21   | feat(report): implement order report generation  | technical report endpoint with execution summary and parts used       | 04/07/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | d45ae01   | feat(integration): connect backend with frontend | Final adjustments for communication between views and RESTful API            | 05/07/2025          |
+| [https://github.com/wiwitech1/mecanet-frontend.git](https://github.com/wiwitech1/mecanet-frontend.git) | main    | 223cf11   | feat(ui): consume all API endpoints from backend | Full connection between frontend and backend, including authentication and forms | 05/07/2025          |
+| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | main    | e78cd19   | chore(release): merge Sprint 4 to main           | Sprint 4 Release: complete backend integrated with frontend                    | 07/07/2025          |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+Durante este sprint final, se logró la integración completa entre el frontend y backend de la aplicación Mecanet. Esto permitió una experiencia funcional completa para los usuarios del sistema, incluyendo registro de activos, planificación de mantenimientos, seguimiento de órdenes, administración de personal e integración con Calendar Service. Todas las vistas fueron conectadas a sus respectivos servicios y endpoints, permitiendo la navegación fluida entre módulos.<br/>
+
+A continuación, se presentan evidencias visuales de las funcionalidades clave integradas:<br/>
+
+#### Evidencia 1: 
+
+
+#### Enlace al repositorio del frontend: [mecanet-frontend](https://github.com/wiwitech1/mecanet-frontend.git)
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+#### Repositorio de trabajo:
+* Repositorio del Backend en GitHub: https://github.com/wiwitech1/mecanet-backend.git
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 Se realizarán entrevistas a los usuarios finales para validar la funcionalidad de la aplicación. Se realizarán entrevistas a los administradores y técnicos de mantenimiento que son altamente beneficiados con nuestra solución.
@@ -4717,19 +5079,19 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 -----
 
-**PROBLEMA #2:** El formulario de registro solo permite registro para administradores de mantenimineto
+**PROBLEMA #2:** El formulario de registro solicita muy poca información del usuario
 
-**Severidad:** 4
+**Severidad:** 2
 
-**Heurística violada:** Usability: Flexibility and efficiency of use
+**Heurística violada:** Usability: Aesthetic and minimalist design
 
-**Problema**: En el proceso de registro solo se encuentra habilitada la opción de crear una cuenta como administrador. Los técnicos de mantenimiento, que son otro segmento de usuarios clave, no pueden registrarse por su cuenta. Esto limita la flexibilidad del sistema y genera dependencia en el administrador para agregar técnicos.
+**Problema**: En el formulario de registro actualmente solo se solicitan campos básicos como nombre de empresa, ruc, correo y contraseña. Esto resulta insuficiente para capturar información relevante que podría ser útil para la personalización del sistema o la gestión administrativa. 
 
 **Imagen:**
 
 <img src="img/sprint3/heuristics2.png" width="600px">
 
-**Recomendación:** Agregar la opción de seleccionar el tipo de cuenta (Administrador o Técnico) durante el registro. Esto permitirá que ambos tipos de usuario se autogestionen según sus necesidades y se agilice el proceso de incorporación al sistema.
+**Recomendación:** Ampliar el formulario de registro para incluir campos adicionales como ciudad, país, dirección, etc, utilizando una estructura visual clara que no sature al usuario.
 
 ## 5.4. Video About-the-Product
 En el vídeo se proporciona información sobre el producto Mecanet. Se mencionan las diferentes funcionalidades de la aplicación como son el registro y autenticación de usuarios, gestión de activos (maquinarias y líneas de producción), administración del inventario, etc.
@@ -4814,20 +5176,26 @@ Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node
 Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
 
 
+Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
+
 Link del Repositorio del informe: https://github.com/wiwitech1/Project-Report?tab=readme-ov-file
 
 Link del Respositorio de la Landing Page: https://github.com/wiwitech1/mecanet-l4nding-page
 
-Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
+Link del Repositorio del frontend: https://github.com/wiwitech1/mecanet-frontend.git
 
-Link del Video About the Product: 
-Youtube: https://www.youtube.com/watch?v=QKpEu8YCnMQ&t=1s&ab_channel=Mayo
-Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQBg5fvni5RItoLVHdwa7wUBntB9q7JdxX9SudQ-9-9Mmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4oQ5W
+Link del Repositorio del backend: https://github.com/wiwitech1/mecanet-backend.git
+
+
+Link del Video About the Product Youtube: https://www.youtube.com/watch?v=QKpEu8YCnMQ&t=1s&ab_channel=Mayo
+
+Link del Video About the Product Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQBg5fvni5RItoLVHdwa7wUBntB9q7JdxX9SudQ-9-9Mmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4oQ5W
 
 Link del Video About the Team: 
 Youtube: https://www.youtube.com/watch?v=I3xC4kqr_JM&t=17s&ab_channel=Mayo
 Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EWEM9HSeWsdFu8SPEfLrA9gBxlL6piY2xSpWZxuUL9f22A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lJDaly
 
-Video de Exposición TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
+Video de Exposición TF: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
+Link de las entrevivistas de validación:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK
 
