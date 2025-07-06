@@ -4617,11 +4617,10 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <tr>
         <td>Sprint 4 Goal</td>
         <td>
-<strong>Nuestra meta para este sprint es</strong> completar el desarrollo funcional de la aplicación Mecanet, integrando el frontend y el backend, y desplegar una versión navegable.
+<strong>Nuestra meta para este sprint es</strong> completar el desarrollo funcional de la aplicación Mecanet, integrando el frontend y el backend, incluyendo la implementación de servicios externos como el envío de correos electrónicos (Email Service), y desplegar una versión navegable y funcional del sistema.<br/><br/>
+<strong>Creemos que</strong> esto nos permitirá presentar una plataforma completamente operativa, en la cual los módulos de usuarios, activos, mantenimiento, inventario, reportes y funcionalidades externas trabajen en conjunto de forma fluida a través de una interfaz web intuitiva.<br/><br/>
 
-<strong>Creemos que</strong> esto nos permitirá presentar una plataforma completamente funcional, con los módulos de usuarios, activos, mantenimiento, inventario y reportes conectados y operativos a través de una interfaz web intuitiva.<br/><br/>
-
-<strong>Esto se confirmará</strong> cuando los formularios del frontend interactúen correctamente con los servicios del backend para registrar y consultar datos en tiempo real, incluyendo la gestión completa de planes de mantenimiento, órdenes de trabajo, perfiles, inventario y control de usuarios, sin errores ni datos inconexos.
+<strong>Esto se confirmará</strong> cuando el frontend pueda consumir satisfactoriamente los servicios RESTful desarrollados, el sistema registre y muestre información en tiempo real, y se verifique el correcto funcionamiento del envío automático de correos electrónicos como confirmaciones o alertas, garantizando una experiencia integral para el usuario final.
     </td>
     </tr>
      <tr>
@@ -4642,7 +4641,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <th>Integración Frontend-Backend<br/>Leader (L) / Collaborator (C)</th>
     <th>Sección de gestión de usuarios<br/>Leader (L) / Collaborator (C)</th>
     <th>Sección de calendario de plan de mantenimiento<br/>Leader (L) / Collaborator (C)</th>
-    <th>Integración con Calendar Service<br/>Leader (L) / Collaborator (C)</th>
+    <th>Integración con Email Service<br/>Leader (L) / Collaborator (C)</th>
     <th>Sección de registro de técnicos<br/>Leader (L) / Collaborator (C)</th>
     <th>Gestión de órdenes de trabajo<br/>Leader (L) / Collaborator (C)</th>
   </tr>
@@ -4689,9 +4688,10 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
 </table>
 
 #### 5.2.4.3. Sprint Backlog 4.
-<p>El objetivo de este cuarto sprint es completar el desarrollo e integración de todas las funcionalidades restantes de la aplicación MecaNet, uniendo el frontend con el backend para lograr una experiencia completamente funcional. Además, se implementará la integración con un servicio externo (Calendar Service), autenticación mediante tokens y la conexión de todas las vistas de usuario con sus respectivos endpoints.</p>
-<img src="img/sprint2/Trello-Mecanet-Sprint2.png">
-<p>link: https://trello.com/b/pRzRlW59/mecanet-open-source</p>
+<p>El objetivo de este cuarto sprint fue completar el desarrollo e integración de todas las funcionalidades restantes de la aplicación Mecanet, uniendo el frontend con el backend para lograr una experiencia completamente funcional. Además, se implementó la integración con un servicio externo (Email Service), autenticación mediante tokens y la conexión de todas las vistas de usuario con sus respectivos endpoints.</p>
+<img src="img/sprint4/Trello-Mecanet-Sprint4.png">
+
+[Link de Trello](https://trello.com/invite/b/6823ecc85a57e53ae9e33162/ATTI3e961727f24253b6a3f3437eb8f5a37fA12F1C68/mecanet-open-source)
 
 <table>
   <tr>
@@ -4713,8 +4713,8 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <th>Status</th>
   </tr>
   <tr>
-    <th rowspan="3">US05</th>
-    <th rowspan="3">Supervisión del calendario de plan de mantenimiento</th>
+    <th rowspan="2">US05</th>
+    <th rowspan="2">Supervisión del calendario de plan de mantenimiento</th>
     <td>1</td>
     <td align="justify">Conectar vista de calendario con backend</td>
     <td align="justify">Implementar la integración del componente de calendario con los planes de mantenimiento registrados mediante API.</td>
@@ -4731,17 +4731,9 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <td>Done</td>
   </tr>
   <tr>
-    <td>3</td>
-    <td align="justify">Sincronizar con Calendar Service</td>
-    <td align="justify">Enviar eventos de mantenimiento a Calendar Service utilizando integración vía API externa.</td>
-    <td>6 hr</td>
-    <td>Mauricio Elera</td>
-    <td>Done</td>
-  </tr>
-  <tr>
     <th rowspan="2">US06</th>
     <th rowspan="2">Filtro de plan de mantenimiento</th>
-    <td>4</td>
+    <td>3</td>
     <td align="justify">Desarrollar filtros por tipo, estado y fecha</td>
     <td align="justify">Agregar en frontend filtros dinámicos y consumir endpoints con parámetros opcionales para mostrar resultados.</td>
     <td>4 hr</td>
@@ -4749,7 +4741,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <td>Done</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>4</td>
     <td align="justify">Validar filtros en el backend</td>
     <td align="justify">Actualizar endpoints del backend para soportar los nuevos filtros enviados desde el frontend.</td>
     <td>3 hr</td>
@@ -4759,7 +4751,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
   <tr>
     <th rowspan="2">US07</th>
     <th rowspan="2">Visualización de KPIs</th>
-    <td>6</td>
+    <td>5</td>
     <td align="justify">Crear componente visual de dashboard</td>
     <td align="justify">Implementar sección en frontend para mostrar MTBF, MTTR y disponibilidad en tarjetas con iconos y gráficas.</td>
     <td>5 hr</td>
@@ -4767,7 +4759,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <td>Done</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>6</td>
     <td align="justify">Conectar API de métricas al dashboard</td>
     <td align="justify">Consumir el endpoint de métricas en frontend y mostrar los resultados obtenidos con formato amigable.</td>
     <td>4 hr</td>
@@ -4777,7 +4769,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
   <tr>
     <th rowspan="1">US08</th>
     <th rowspan="1">Reporte de orden de trabajo</th>
-    <td>8</td>
+    <td>7</td>
     <td align="justify">Desarrollar vista y endpoint para generar reportes</td>
     <td align="justify">Implementar la generación de reporte en frontend y el endpoint para generar datos consolidados desde el backend.</td>
     <td>6 hr</td>
@@ -4787,7 +4779,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
   <tr>
     <th rowspan="2">US11</th>
     <th rowspan="2">Solicitud de repuestos</th>
-    <td>9</td>
+    <td>8</td>
     <td align="justify">Implementar vista de solicitud</td>
     <td align="justify">Implementar interfaz para solicitar repuestos, con validación de disponibilidad.</td>
     <td>5 hr</td>
@@ -4795,7 +4787,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <td>Done</td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>9</td>
     <td align="justify">Conectar endpoint POST de solicitud</td>
     <td align="justify">Conectar endpoint en backend para registrar solicitud de repuestos y validar stock.</td>
     <td>4 hr</td>
@@ -4805,7 +4797,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
   <tr>
     <th rowspan="2">US12</th>
     <th rowspan="2">Revisión de inventario</th>
-    <td>11</td>
+    <td>10</td>
     <td align="justify">Implementar vista de revisión  de inventario</td>
     <td align="justify">Visualización en tiempo real del stock disponible por repuesto, con búsqueda y ordenamiento.</td>
     <td>5 hr</td>
@@ -4813,7 +4805,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     <td>Done</td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>11</td>
     <td align="justify">Conexión con API de inventario</td>
     <td align="justify">Consumir el endpoint de inventario para mostrar información actualizada al usuario.</td>
     <td>4 hr</td>
@@ -4823,7 +4815,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
   <tr>
     <th rowspan="1">US18</th>
     <th rowspan="1">Registro de tareas realizadas</th>
-    <td>13</td>
+    <td>12</td>
     <td align="justify">Marcar tareas como completadas</td>
     <td align="justify">Permitir al técnico actualizar el estado de sus tareas y almacenar este cambio vía API.</td>
     <td>5 hr</td>
@@ -4833,7 +4825,7 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
   <tr>
     <th rowspan="1">US21</th>
     <th rowspan="1">Registro de técnicos</th>
-    <td>14</td>
+    <td>13</td>
     <td align="justify">Desarrollar formulario de registro técnico</td>
     <td align="justify">Crear vista de registro con campos de contacto y rol, y conexión al endpoint del backend.</td>
     <td>5 hr</td>
@@ -4844,14 +4836,13 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
 
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
-Durante este Sprint, el equipo logró culminar el desarrollo completo del backend de Mecanet, integrándolo exitosamente con el frontend. Se conectaron todas las vistas de usuario con sus respectivos endpoints RESTful. Esto aseguró que la información fluya correctamente entre el frontend y backend, cumpliendo con los principios de mantenibilidad, escalabilidad y seguridad. Además, se desarrolló una integración con Calendar Service para programar eventos de mantenimiento, brindando una experiencia más automatizada y profesional.
+Durante este sprint, el equipo logró culminar el desarrollo completo del backend de Mecanet, integrándolo exitosamente con el frontend. Todas las vistas de usuario fueron conectadas con sus respectivos endpoints RESTful, asegurando el flujo correcto de información y la operación integral del sistema. Se cumplió con los principios de mantenibilidad, escalabilidad y seguridad. Además, se implementó la integración con Email Service, permitiendo el envío automático de notificaciones por correo electrónico, lo cual mejora la interacción del usuario y la automatización del sistema.
 
-A continuación, se presenta una tabla con los commits relevantes del repositorio backend asociados al desarrollo e integración final en Sprint 4<br/>
+A continuación, se presenta una tabla con los commits relevantes del repositorio backend y frontend asociados al desarrollo e integración final en el Sprint 4:<br/>
 
 | Repository                                                                                             | Branch  | Commit Id | Commit Message                                   | Commit Message Body                                                                | Committed on (Date) |
 | ------------------------------------------------------------------------------------------------------ | ------- | --------- | ------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------- |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | 901ab33   | feat(auth): implement authentication         | Authentication  and role verification per endpoint                  | 02/07/2025          |
-| [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | a12cb91   | feat(calendar): Calendar Service integration      | Connection to Google Calendar API with OAuth2 for event synchronization     | 03/07/2025          |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | b33ef45   | feat: metrics API              | Endpoint for availability, and efficiency metrics                     | 03/07/2025          |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | c17df21   | feat(report): implement order report generation  | technical report endpoint with execution summary and parts used       | 04/07/2025          |
 | [https://github.com/wiwitech1/mecanet-backend.git](https://github.com/wiwitech1/mecanet-backend.git)   | develop | d45ae01   | feat(integration): connect backend with frontend | Final adjustments for communication between views and RESTful API            | 05/07/2025          |
@@ -4860,25 +4851,101 @@ A continuación, se presenta una tabla con los commits relevantes del repositori
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
-Durante este sprint final, se logró la integración completa entre el frontend y backend de la aplicación Mecanet. Esto permitió una experiencia funcional completa para los usuarios del sistema, incluyendo registro de activos, planificación de mantenimientos, seguimiento de órdenes, administración de personal e integración con Calendar Service. Todas las vistas fueron conectadas a sus respectivos servicios y endpoints, permitiendo la navegación fluida entre módulos.<br/>
+Durante este sprint, se completó con éxito la integración del frontend y backend del sistema Mecanet, logrando una plataforma funcional que permite la gestión de usuarios, activos, inventario, planes de mantenimiento, órdenes de trabajo y solicitudes de repuestos. Además, se implementó la autenticación por roles y la integración con un servicio externo de envío de correos electrónicos (Email Service), lo que mejora la experiencia del usuario y automatiza las notificaciones clave del sistema.<br/>
 
-A continuación, se presentan evidencias visuales de las funcionalidades clave integradas:<br/>
+A continuación, se presentan evidencias visuales de las funcionalidades integradas:<br/>
 
-#### Evidencia 1: 
+#### Evidencia 1: Visualización de calendario de mantenimiento
+
+
+#### Evidencia 2: Generación de reporte técnico de órdenes de trabajo
+
+
+#### Evidencia 3: Solicitud de repuestos 
+
+
+#### Evidencia 4: Integración con Email Service
+
+
+#### Evidencia 5: Registro de técnicos 
+
 
 
 #### Enlace al repositorio del frontend: [mecanet-frontend](https://github.com/wiwitech1/mecanet-frontend.git)
 
 
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+Durante este sprint, se completó la documentación de todos los servicios RESTful implementados en el backend de Mecanet, utilizando la herramienta Swagger UI para facilitar la validación e interacción con los endpoints desde el navegador. Esta documentación incluye descripciones claras de las rutas, parámetros requeridos, estructuras de respuesta, posibles códigos de error y ejemplos de uso.
+
+La documentación fue generada automáticamente desde las anotaciones del código fuente en los controladores y servicios de la API, y se encuentra disponible para su consulta en el entorno de desarrollo.
+
+A continuación, se muestran capturas de evidencia de la documentación de servicios:
+
+#### Evidencia 1: Documentación Swagger - Autenticación y gestión de usuarios
 
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### Evidencia 2: Documentación Swagger - Gestión de activos y órdenes de trabajo
+
+
+#### Evidencia 3: Documentación Swagger - Inventario y solicitudes de repuestos
+
+
+#### Evidencia 4: Documentación Swagger - Métricas y reportes
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Durante el Sprint 4, se llevó a cabo el despliegue exitoso de la aplicación completa Mecanet, incluyendo tanto el backend como el frontend integrados. El sistema quedó alojado en servidores accesibles a través de Internet, permitiendo la navegación completa por todas las funcionalidades implementadas: gestión de usuarios, activos, planes de mantenimiento, inventario, métricas y reportes.
+
+El despliegue se realizó utilizando GitHub Actions para automatizar los flujos de integración continua (CI) y entrega continua (CD), garantizando así que cada cambio aprobado en las ramas principales se refleje en el entorno de producción de manera controlada.
+
+A continuación, se presentan las evidencias correspondientes al despliegue del sistema:
+
+#### Evidencia 1: Repositorio backend con configuración de GitHub Actions para despliegue continuo
+
+
+#### Evidencia 2: Confirmación del build exitoso y despliegue automático
+
+
+#### Evidencia 3: Aplicación frontend desplegada en entorno accesible vía navegador
+
+
+#### Evidencia 4: URL del entorno productivo
 
 
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+Durante el Sprint 4, el equipo colaboró de manera eficiente en la integración final de la aplicación Mecanet, uniendo frontend y backend, asegurando así una plataforma navegable, funcional y estable. Se implementaron nuevas funcionalidades clave como la visualización de métricas en dashboard, el reporte de órdenes de trabajo, el registro de técnicos y la integración con servicios externos como Email Service. La colaboración fue fundamental para coordinar tareas interdependientes y lograr una entrega cohesiva.
+
+A continuación, se detalla la participación específica de cada integrante del equipo en las áreas funcionales trabajadas durante el sprint:
+
+| **Nombre**                           | **Actividad**                                                                                                                                                             |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Agreda Sobrino, Ariana Cecilia**   | Implementó componentes visuales del dashboard de métricas y el formulario de registro de técnicos en el frontend. Participó en la validación de filtros de mantenimiento. |
+| **Belledonne Espinoza, Claudia**     | Encargada de la integración del backend con el frontend, así como de conectar múltiples endpoints. También colaboró en el consumo de métricas y solicitud de repuestos.   |
+| **Elera Rodríguez, Mauricio Daniel** | Responsable del desarrollo del módulo de reportes de órdenes de trabajo y conexión con la API de inventario. Apoyó en validaciones y pruebas de integración.              |
+| **Qqueso Rodríguez, Britney Delhy**  | Lideró la conexión del calendario de mantenimiento con el backend y el desarrollo de la vista de inventario. Participó en la integración con el Email Service.            |
+
+
+
+#### Evidencia de colaboración en GitHub
+A continuación, se presentan capturas del repositorio oficial del proyecto que muestran la actividad y contribución de todos los miembros del equipo durante el Sprint 4:<br/>
+
+Captura de colaboracion en github:
+
+![image](https://github.com/user-attachments/assets/bcc0f50d-0c07-4656-89f8-210dc6ff022a)
+![image](https://github.com/user-attachments/assets/07cba899-1fc5-4a11-ba40-a5ef7148554d)
+![image](https://github.com/user-attachments/assets/61829674-ca49-413b-8d10-aac189bc426c)
+![image](https://github.com/user-attachments/assets/8c8fd376-b266-436e-80fc-3202e65e115a)
+![image](https://github.com/user-attachments/assets/0eafee43-5903-4e80-a80f-44884748a53d)
+![image](https://github.com/user-attachments/assets/bd8b15c8-4036-4cea-b3a2-f9d7930d4fd3)
+
+
+
+#### Repositorio de trabajo:
+* Repositorio del Backend en GitHub: https://github.com/wiwitech1/mecanet-backend.git
+
+Durante todo el Sprint, se mantuvo una comunicación continua entre los integrantes mediante reuniones de seguimiento, planificación y revisión. Se utilizaron herramientas como GitHub, Trello y Discord para coordinar las tareas, revisar avances y resolver bloqueos de forma inmediata. La sinergia del equipo fue clave para alcanzar con éxito los objetivos planteados en el Sprint 4.
 
 
 #### Repositorio de trabajo:
@@ -5058,7 +5125,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 |**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
 | :- | :- | :- | :- |
 |1| No hay formulario de contacto en la landing page | 3 | Usability: Help and documentation |
-|2| El formulario de registro solo permite registro para administradores de mantenimineto | 4 | Usability: Flexibility and efficiency of use |
+|2| El formulario de registro solicita muy poca información del usuario | 4 | Usability: Aesthetic and minimalist design |
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
