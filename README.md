@@ -5292,17 +5292,11 @@ McKinsey & Company. (2021). Innovación a través de la disrupción digital en s
 # Anexos
 
 
-Link del Proyecto Desplegado: https://agreeable-moss-0b81a851e.6.azurestaticapps.net/
+Link del Frontend Desplegado: https://agreeable-moss-0b81a851e.6.azurestaticapps.net/
 
-Link del Backed del proyecto desplegado: https://mecanetbackend-hjexa7d8bkfybmfv.centralus-01.azurewebsites.net/swagger-ui/index.html
+Link del Backend del proyecto desplegado: https://mecanetbackend-hjexa7d8bkfybmfv.centralus-01.azurewebsites.net/swagger-ui/index.html
 
 Link de la Landing Page: https://kind-wave-030d8c21e.6.azurestaticapps.net/
-
-
-Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=0-1&t=TNttHot2q3YOT97v-1
-
-Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
-
 
 Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
 
@@ -5314,14 +5308,17 @@ Link del Repositorio del frontend: https://github.com/wiwitech1/mecanet-frontend
 
 Link del Repositorio del backend: https://github.com/wiwitech1/mecanet-backend.git
 
+Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=0-1&t=TNttHot2q3YOT97v-1
 
-Link del Video About the Product Youtube: https://www.youtube.com/watch?v=QKpEu8YCnMQ&t=1s&ab_channel=Mayo
+Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
 
-Link del Video About the Product Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQBg5fvni5RItoLVHdwa7wUBntB9q7JdxX9SudQ-9-9Mmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4oQ5W
+Link del Video About the Product 
+- Youtube: https://www.youtube.com/watch?v=QKpEu8YCnMQ&t=1s&ab_channel=Mayo
+- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQBg5fvni5RItoLVHdwa7wUBntB9q7JdxX9SudQ-9-9Mmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4oQ5W
 
 Link del Video About the Team: 
-Youtube: https://www.youtube.com/watch?v=I3xC4kqr_JM&t=17s&ab_channel=Mayo
-Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EWEM9HSeWsdFu8SPEfLrA9gBxlL6piY2xSpWZxuUL9f22A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lJDaly
+- Youtube: https://www.youtube.com/watch?v=I3xC4kqr_JM&t=17s&ab_channel=Mayo
+- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EWEM9HSeWsdFu8SPEfLrA9gBxlL6piY2xSpWZxuUL9f22A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lJDaly
 
 Video de Exposición TF: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
