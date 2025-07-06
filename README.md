@@ -732,7 +732,7 @@ Hemos observado un factor crítico que afecta a muchas industrias manufactureras
 **User Assumptions** <br/>
 
 **¿Quién es mi usuario?** <br/>
-Nuestros usuarios son técnicos de mantenimiento, jefes de planta, supervisores industriales y responsables de inventario que necesitan controlar el estado operativo de las máquinas y ejecutar mantenimientos con eficacia. <br/>
+Nuestros usuarios son técnicos de mantenimiento y administradores de mantenimiento que necesitan controlar el estado operativo de las máquinas y ejecutar mantenimientos con eficacia. <br/>
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?** <br/>
 Mecanet se integra directamente en la rutina diaria de trabajo industrial: planificación de tareas, ejecución de mantenimientos, gestión de inventario y análisis de reportes operativos. <br/>
@@ -744,14 +744,14 @@ El descontrol en los mantenimientos, la falta de trazabilidad de órdenes de tra
 Se usa al inicio de la jornada para revisar tareas asignadas, durante el día para registrar mantenimientos y repuestos utilizados, y al cierre de turnos para reportar avances o fallas detectadas. <br/>
 
 **¿Qué características son importantes?** <br/>
-Gestión de órdenes de servicio, agenda de citas, control de inventario de repuestos, historial de mantenimiento por vehículo, notificaciones automáticas, generación de presupuestos, seguimiento del progreso de trabajos y reportes de desempeño del taller. <br/>
+Gestión de órdenes de servicio, agenda de citas, control de inventario de repuestos, historial de mantenimiento por maquinaria, notificaciones automáticas, generación de presupuestos, seguimiento del progreso de trabajos y reportes de desempeño del taller. <br/>
 
 **¿Cómo debe verse nuestro producto y cómo debe comportarse?** <br/>
 Debe tener un diseño limpio y profesional, con navegación clara y flujos rápidos. Debe permitir operar fácilmente desde computadoras o dispositivos móviles, ofrecer acceso rápido a información clave y simplificar la digitalización de procesos técnicos. <br/>
 
 **Business Assumptions** <br/>
 
-Creemos que las empresas industriales necesitan una plataforma centralizada y fácil de usar para gestionar el mantenimiento de sus máquinas de forma eficiente. Mecanaut resolverá esta necesidad conectando activos, tareas, repuestos y personal técnico en una sola herramienta, mejorando así la planificación, ejecución y seguimiento de los mantenimientos. <br/>
+Creemos que las empresas industriales necesitan una plataforma centralizada y fácil de usar para gestionar el mantenimiento de sus máquinas de forma eficiente. Mecanet resolverá esta necesidad conectando activos, tareas, repuestos y personal técnico en una sola herramienta, mejorando así la planificación, ejecución y seguimiento de los mantenimientos. <br/>
 
 Nuestros primeros clientes serán medianas y grandes industrias que aún utilizan métodos manuales y buscan digitalizar sus procesos para reducir paros no programados y mejorar la productividad. Les ofreceremos una solución con precios escalables y accesibles, soporte técnico y capacitación especializada. <br/>
 
@@ -759,8 +759,8 @@ Nuestros primeros clientes serán medianas y grandes industrias que aún utiliza
 **Creemos que** la integración del control del mantenimiento mediante Mecanet optimizará la eficiencia operativa y minimizará los tiempos de inactividad en las industrias.<br/>
 **Sabremos que hemos tenido éxito cuando** veamos una disminución del 30% en los paros no programados y un aumento del 25% en la puntualidad de los mantenimientos en los primeros 6 meses.<br/>
 
-**Creemos que** ofrecer alertas automáticas y programación inteligente optimizará la planificación del mantenimiento preventivo.<br/>
-**Sabremos que hemos tenido éxito cuando** el 80% de los usuarios técnicos activen las alertas automáticas y al menos el 60% de las tareas se programen con antelación en los primeros 3 meses.<br/>
+**Creemos que** las empresas estarán dispuestas a digitalizar su proceso de mantenimiento si perciben beneficios claros en eficiencia y ahorro de costos.<br/>
+**Sabremos que hemos tenido éxito cuando** al menos el 60% de las empresas contactadas acepten una demo del sistema y el 30% implementen un piloto.<br/>
 
 **Creemos que** integrar un sistema de gestión de repuestos reducirá los retrasos por falta de materiales.<br/>
 **Sabremos que hemos tenido éxito cuando** el tiempo promedio entre fallo y solución disminuya un 20%, y el 70% de los mantenimientos se realicen con repuestos disponibles al primer intento.<br/>
@@ -769,25 +769,76 @@ Nuestros primeros clientes serán medianas y grandes industrias que aún utiliza
 **Sabremos que hemos tenido éxito cuando** al menos el 90% de los usuarios nuevos completen su primera orden de trabajo sin necesidad de asistencia en el primer mes.<br/>
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](img/mecanaut-lean-ux-canvas.png)
+![Lean UX Canvas](img/sprint4/mecanet-lean-ux-canvas.png)
 
 ## 1.3. Segmentos objetivo
-### Segmento 1: Empresas — Administradores Industriales y Responsables de Producción (Decisores Estratégicos)
+### Segmento 1: Empresas — Administrador de mantenimiento
 
-**Perfil del Usuario:**
+**Descripción del perfil:**
+Profesional encargado de la planificación, supervisión y control de las actividades de mantenimiento dentro de una planta industrial. Tiene a su cargo la gestión de recursos técnicos y humanos, la programación de mantenimientos preventivos y correctivos, y el seguimiento de indicadores de rendimiento (KPIs) como MTTR y MTBF.
 
-- Administradores de mantenimiento, administradores, directores de planta, encargados de producción o calidad.  
-- Poseen una perspectiva estratégica, enfocados en optimizar la eficiencia operativa.  
-- Su rol incluye cumplir con indicadores clave como: Disponibilidad de maquinaria Productividad Reducción de costos.  
+**Características demográficas:**
 
-### Segmento 2: Trabajadores — Técnicos y Supervisores de Mantenimiento (Usuarios Operativos)
+* Edad: 25 a 55 años
 
-**Perfil del Usuario:**
+* Formación: Ingeniería Mecánica, Industrial o afines
 
-- Técnicos de campo, supervisores de mantenimiento y operarios industriales.  
-- Interactúan directamente con equipos críticos en plantas productivas.  
-- Ejecutan tareas de mantenimiento preventivo y correctivo.  
-- Registran incidencias diarias.
+* Experiencia laboral: Generalmente entre 5 a 15 años en plantas industriales
+
+* Ubicación: Predominantemente en zonas urbanas e industriales
+
+* Nivel tecnológico: Medio a alto (uso habitual de herramientas digitales y software ERP)
+
+**Datos de sustento:**
+
+* Según datos del INEI (2023), más del 68% de medianas y grandes empresas industriales peruanas cuentan con un área de mantenimiento formalizada.
+
+* El 52% de los encargados de mantenimiento en dichas empresas han adoptado sistemas digitales para planificación de órdenes de trabajo.
+
+**Necesidades clave:**
+
+* Control y trazabilidad de las órdenes de trabajo.
+
+* Generación de reportes y métricas para toma de decisiones.
+
+* Coordinación eficiente con técnicos y supervisores.
+
+* Integración con calendarios y sistemas externos.
+
+### Segmento 2: Trabajadores — Técnicos de mantenimiento
+
+**Descripción del perfil:**
+Profesional técnico operativo encargado de ejecutar las tareas de mantenimiento preventivo y correctivo, siguiendo las órdenes asignadas por el administrador. Utiliza herramientas físicas y digitales para el reporte de actividades, inspección de maquinaria y solicitud de repuestos.
+
+**Características demográficas:**
+
+* Edad: 20 a 40 años
+
+* Formación: Técnico en mantenimiento industrial, electromecánica o afines
+
+* Experiencia laboral: 1 a 10 años en plantas industriales o manufactureras
+
+* Ubicación: Zonas industriales o aledañas
+
+* Nivel tecnológico: Medio (uso de dispositivos móviles para lectura de órdenes y registro de tareas)
+
+**Datos de sustento:**
+
+* Según la Encuesta Nacional de Demanda Ocupacional (ENEDEO 2022), los técnicos de mantenimiento se encuentran entre los 10 perfiles más demandados por la industria manufacturera.
+
+* El 63% de los técnicos en plantas de más de 50 trabajadores utilizan aplicaciones móviles o tabletas para reportar actividades.
+
+**Necesidades clave:**
+
+* Acceso rápido y claro a sus órdenes de trabajo asignadas.
+
+* Posibilidad de registrar avances y observaciones en tiempo real.
+
+* Visualización de inventario disponible.
+
+* Registro y seguimiento de tareas realizadas.
+
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -986,7 +1037,7 @@ Nuestros primeros clientes serán medianas y grandes industrias que aún utiliza
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-#### Segmento 1: Administradores y Responsables de Producción
+#### Segmento 1: Administrador de mantenimiento
 **Dirigido a:**  
 Personas encargadas de la gestión operativa y estratégica en empresas industriales, con poder de decisión sobre procesos, recursos y coordinación de áreas como producción y mantenimiento.
 
@@ -1010,7 +1061,7 @@ Conocer cómo gestionan actualmente el mantenimiento, cómo enfrentan las fallas
 13. Imagina que tienes una plataforma como Mecanet a tu disposición, la cual te permite gestionar de manera digital el mantenimiento, las fallas y las órdenes de trabajo. ¿Qué funcionalidades crees que serían las más útiles para ti y tu equipo en la gestión del mantenimiento?
 
 
-#### Segmento 2: Técnicos y Operarios de Mantenimiento
+#### Segmento 2: Técnicos de mantenimiento
 **Dirigido a:**  
 Técnicos, mecánicos y operarios que trabajan directamente con las máquinas en planta. Suelen ser quienes detectan, reportan y resuelven fallas, así como quienes ejecutan el mantenimiento preventivo o correctivo.
 
@@ -1037,11 +1088,11 @@ Comprender su experiencia directa con las máquinas, cómo reportan fallas, qué
 
 El registro de entrevistas es fundamental para recopilar la experiencia real de los técnicos y operarios en sus tareas de mantenimiento. Nos permite organizar y analizar mejor la información, identificar necesidades comunes y tomar decisiones basadas en lo que realmente viven los usuarios. Así, Mecanet puede adaptarse mejor a sus necesidades y aportar soluciones útiles.
 
-### Segmento 1: Administradores y Responsables de Producción
+### Segmento 1: Administradores de mantenimiento
 
 #### Entrevista #1
 - **Nombre completo:** Grisel Arones  
-- **Edad:** 24 años  
+- **Edad:** 25 años  
 - **Cargo / Rol en la empresa:** Asistente de Logística y Planta  
 - **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 0:00 s
@@ -1058,7 +1109,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
  <img src="img/segmento-objetivo/arnol.jpg">
 
 
-### Segmento 2: Técnicos y Operarios de Mantenimiento
+### Segmento 2: Técnicos de Mantenimiento
 
 #### Entrevista #1
 - **Nombre completo:** Jhohan De la Cruz  
@@ -1072,7 +1123,7 @@ El registro de entrevistas es fundamental para recopilar la experiencia real de 
 #### Entrevista #2
 - **Nombre completo:** César Gallo  
 - **Edad:** 48 años  
-- **Puesto o función que desempeñas:** Soy conductor de camión volquete  
+- **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico
 - **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EZ7oSsX0nrZDsIMT8lkDthsBA9RviiJDwZU5koSlpWHjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JQ6Yce)
 - **Inicio:** 17:06 s
 - **Fin:** 25:31 s
@@ -1120,17 +1171,17 @@ Se espera que Mecanet tenga monitoreo en tiempo real, alertas automáticas y un 
 
 A continuación, se presentará los 2 user persona de acuerdo al segmento objetivo encontrado: <br/>
 
-**User persona #1: Administradores y Responsables de Producción** <br/>
+**User persona #1: Administradores de mantenimiento** <br/>
 
 ![User persona #1](img/Carlos-Mendoza-user-persona1.png)
 
-**User persona #2: Técnicos y Operarios de Mantenimiento** <br/>
+**User persona #2: Técnicos de mantenimiento** <br/>
 
 ![User persona #2:](img/Juan-Martínez-user-persona.png)
 
 ### 2.3.2. User Task Matrix
 
-**Segmento #1: Administradores y Responsables de Producción** <br/>
+**Segmento #1: Administradores de mantenimiento** <br/>
 
 |Tarea|Frecuencia|Importancia|
 |-----|-----------|----------|
@@ -1142,7 +1193,7 @@ A continuación, se presentará los 2 user persona de acuerdo al segmento objeti
 |Definir estrategias para reducir costos operativos relacionados al mantenimiento|Sometimes|High|
 <br/>
 
-**Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
+**Segmento #2: Técnicos de mantenimiento** <br/>
 
 |Tarea|Frecuencia|Importancia|
 |-------|---------|-----------|
@@ -1156,26 +1207,26 @@ A continuación, se presentará los 2 user persona de acuerdo al segmento objeti
 ### 2.3.3. User Journey Mapping
 **Segmento #1: Administradores y Responsables de Producción** <br/>
 
-![Segmento #1: Administradores y Responsables de Producción](img/Customer-journey-map-1.1.png)
+![Segmento #1: Administradores de mantenimiento](img/Customer-journey-map-1.1.png)
 <br/>
 
 **Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
 
-![Segmento #2: Técnicos y Operarios de Mantenimiento](img/Customer-journey-map-2.png)
+![Segmento #2: Técnicos de mantenimiento](img/Customer-journey-map-2.png)
 
 ### 2.3.4. Empathy Mapping
 A continuación, se mostrarán los Empathy Mapping creados para cada perfil de usuario identificado en nuestros dos segmentos objetivo. Estos mapas nos ayudarán a comprender mejor a nuestros clientes y, así, optimizar la aplicación. <br/>
 
-**Segmento #1: Administradores y Responsables de Producción** <br/>
-![Segmento #1: Administradores y Responsables de Producción](img/Empathy-map-segmento1.1.png) <br/>
+**Segmento #1: Administradores de mantenimiento** <br/>
+![Segmento #1: Administradores de mantenimiento](img/Empathy-map-segmento1.1.png) <br/>
 
-**Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
-![Segmento #2: Técnicos y Operarios de Mantenimiento](img/Empathy-map-segmento2.png) <br/>
+**Segmento #2: Técnicos de mantenimiento** <br/>
+![Segmento #2: Técnicos de mantenimiento](img/Empathy-map-segmento2.png) <br/>
 
 ### 2.3.5. As-is Scenario Mapping
 En esta sección, se presenta el As-Is Scenario Mapping de los segmentos objetivo. Este mapeo nos permite identificar y comprender a fondo los puntos de contacto que tiene el usuario a lo largo de su interacción.
 
-**Segmento #1: Administradores y Responsables de Producción** <br/>
+**Segmento #1: Administradores de mantenimiento** <br/>
 
 **Brainstorm individually:** <br/>
 ![Brainstorm individually 1](img/As-is-Scenario-Mapping-1.1.jpg) <br/>
@@ -1197,7 +1248,7 @@ En esta sección, se presenta el As-Is Scenario Mapping de los segmentos objetiv
 - Qué tan involucrado está en el seguimiento post-implementación de herramientas digitales.
 
 
-**Segmento #2: Técnicos y Operarios de Mantenimiento** <br/>
+**Segmento #2: Técnicos de mantenimiento** <br/>
 
 **Brainstorm individually:** <br/>
 ![Brainstorm individually 2](img/As-is-Scenario-Mapping-2.1.jpg) <br/>
@@ -1242,12 +1293,12 @@ Este glosario define los términos esenciales de nuestro sistema de gestión de 
 
 ## 3.1. To-Be Scenario Mapping
 
-El *To-Be Scenario Mapping* describe cómo será el proceso ideal de gestión de mantenimiento con **Mecanet**, destacando mejoras respecto al estado actual. Este enfoque permite visualizar de forma clara y compartida el flujo de trabajo futuro, optimizado y más eficiente para los dos perfiles clave: **Administrador Industrial** y **Técnico de Mantenimiento**. Al anticipar este escenario, se identifican oportunidades de mejora, se alinean los objetivos del proyecto y se facilita la planificación, implementación y comunicación de los cambios necesarios.  
+El *To-Be Scenario Mapping* describe cómo será el proceso ideal de gestión de mantenimiento con **Mecanet**, destacando mejoras respecto al estado actual. Este enfoque permite visualizar de forma clara y compartida el flujo de trabajo futuro, optimizado y más eficiente para los dos perfiles clave: **Administrador de mantenimiento** y **Técnico de mantenimiento**. Al anticipar este escenario, se identifican oportunidades de mejora, se alinean los objetivos del proyecto y se facilita la planificación, implementación y comunicación de los cambios necesarios.  
 [Visualiza el escenario en Miro](https://miro.com/app/board/uXjVI-VfEvI=/?share_link_id=129646866929)
 
 
 
-#### ● To-Be del Segmento 1: Administradores o Responsables de Producción
+#### ● To-Be del Segmento 1: Administradores de mantenimiento
 
 **Brainstorm individually:**
 
@@ -1257,7 +1308,7 @@ Las ideas seleccionadas para el Segmento 1 se centran en la **automatización de
 Se descartaron ideas como la capacitación continua dentro del software, ya que no eran prioritarias para los objetivos inmediatos del proyecto.
 <img src="img/segmento-objetivo/segmento1.jpg">
 
-#### ● To-Be del Segmento 2: Técnicos y Operarios de Mantenimiento
+#### ● To-Be del Segmento 2: Técnicos de mantenimiento
 
 **Brainstorm individually:**
 
@@ -4948,9 +4999,6 @@ Captura de colaboracion en github:
 Durante todo el Sprint, se mantuvo una comunicación continua entre los integrantes mediante reuniones de seguimiento, planificación y revisión. Se utilizaron herramientas como GitHub, Trello y Discord para coordinar las tareas, revisar avances y resolver bloqueos de forma inmediata. La sinergia del equipo fue clave para alcanzar con éxito los objetivos planteados en el Sprint 4.
 
 
-#### Repositorio de trabajo:
-* Repositorio del Backend en GitHub: https://github.com/wiwitech1/mecanet-backend.git
-
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -4974,7 +5022,7 @@ Para estas entrevistas de validación, se mostrará la Landing Page desarrollada
 
 **Preguntas sobre la aplicación**
 
-**Para Administradores Industriales y Responsables de Producción**
+**Para Administrador de mantenimiento**
 Se considerará los userflows de:
 
 * Creación de cuenta e inicio de sesión
@@ -4997,7 +5045,7 @@ Se considerará los userflows de:
 
 6. ¿Te parece que la organización de la aplicación se entiende y comprende fácilmente?
 
-**Para Técnicos y Supervisores de Mantenimiento**
+**Para Técnicos de Mantenimiento**
 Se considerará los userflows de:
 
 * Creación de cuenta e inicio de sesión
@@ -5026,14 +5074,19 @@ Se considerará los userflows de:
 - **Fin:** 9:48 s
  <img src="img/interviews/entrevista-validacion-administrador-1.png"> 
 
+**Resumen de entrevista:** En esta entrevista con Cesar Gonzales, administrador de producción, se presentó la landing page y la aplicación web de Mecanet. Cesar encontró la landing page muy clara y con un diseño profesional que transmitía seriedad y le generó interés en solicitar una demo. Respecto a la aplicación web, la creación de cuenta le pareció clara y sencilla. Además, destacó la facilidad del proceso para agregar maquinaria y para generar planes mensuales. En general, consideró la organización de la aplicación muy intuitiva y de fácil comprensión.
+
+
 #### Entrevista #2
 - **Nombre completo:** Edward Rodriguez
 - **Edad:** 28
-- **Cargo / Rol en la empresa:** Administrador de producción
+- **Cargo / Rol en la empresa:** Administrador de mantenimiento
 - **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
 - **Inicio:** 9:49 s
 - **Fin:** 21:40 s
  <img src="img/interviews/entrevista-validacion-administrador-2.png">
+
+ **Resumen de entrevista:** Edward consideró la landing page útil, clara y concisa, aunque sugirió orientar más el aspecto visual hacia lo industrial con imágenes específicas. Comprendió el propósito de Mecanet de inmediato y mostró interés en probar la aplicación. En cuanto a la aplicación web, la experiencia de creación de cuenta le resultó sencilla e intuitiva, y calificó el proceso para agregar maquinaria como muy fácil y amigable. Resaltó la facilidad para identificar las opciones de registro y la claridad de la funcionalidad para generar planes mensuales, confirmando que la organización general de la aplicación es fácil de entender y comprender.
 
 #### Entrevista #3
 - **Nombre completo:** Yvania Ortiz
@@ -5043,6 +5096,8 @@ Se considerará los userflows de:
 - **Inicio:** 21:41 s
 - **Fin:** 31:14 s
  <img src="img/interviews/entrevista-validacion-administrador-3.png">
+
+ **Resumen de entrevista:** Yvania encontró la landing page útil, pero sugirió añadir más casos de éxito y detalles en la información. Propuso incluir imágenes reales de talleres en el diseño visual para una mejor conexión con el usuario. Respecto a la aplicación web, la creación de cuenta le pareció sencilla e intuitiva, sugiriendo la opción de registro con LinkedIn. El proceso para agregar maquinaria le resultó fácil y claro, y aunque la organización de la aplicación le generó una leve confusión inicial, la encontró muy intuitiva y fácil de usar al explorarla.
 
 ### Segmento 2: Técnicos de Mantenimiento
 
@@ -5055,6 +5110,8 @@ Se considerará los userflows de:
 - **Fin:** 40:04 s
  <img src="img/interviews/entrevista-validacion-tecnico-1.png">
 
+**Resumen de entrevista:** Antony encontró la landing page clara y con la información adecuada, y percibió su aspecto visual como apropiado para el sector, comprendiendo fácilmente el propósito del software. Se mostró interesado en usarlo, a pesar de utilizar SAP. Respecto a la aplicación web, el proceso de creación de cuenta le pareció sencillo. Las órdenes de trabajo le resultaron claras y el checklist reflejó las tareas típicas. Pudo completar los campos fácilmente y consideró muy importante la opción de subir imágenes o comentarios como evidencia. Para mejorar la experiencia, sugirió que la aplicación fuera rápida, accesible desde dispositivos móviles.
+
 #### Entrevista #2
 - **Nombre completo:** Darlin Castillo
 - **Edad:** 23
@@ -5064,6 +5121,8 @@ Se considerará los userflows de:
 - **Fin:** 49:45 s
  <img src="img/interviews/entrevista-validacion-tecnico-2.png">
 
+ **Resumen de entrevista:** Darlin consideró la información de la landing page bastante útil. Aunque la información era clara, le gustaría ver más detalles sobre su funcionamiento y beneficios diarios. El aspecto visual le pareció profesional, pero le faltaban información e imágenes relacionadas con el mantenimiento. Respecto a la aplicación web, la creación de cuenta fue clara. Las órdenes de trabajo le quedaron claras, pero sugirió que las ordenes de trabajo críticas aparecieran en rojo o con una alarma. El checklist reflejó sus tareas y pudo completar campos fácilmente. Confirmó la importancia de subir imágenes o comentarios y deseó acceder a la aplicación desde cualquier dispositivo, para una experiencia más rápida y cómoda.
+
 #### Entrevista #3
 - **Nombre completo:** Leonardo Ramirez
 - **Edad:** 25 años  
@@ -5072,6 +5131,8 @@ Se considerará los userflows de:
 - **Inicio:** 49:46 s
 - **Fin:** 58:53 s
  <img src="img/interviews/entrevista-validacion-tecnico-3.png">
+
+ **Resumen de entrevista:** Leonardo consideró la información de la landing page útil,pero le gustaría más detalles sobre la aplicación. El diseño le pareció profesional y comprendió que el propósito era gestionar el mantenimiento, pero le faltó especificación sobre tipos de equipos. Se animaría a usarla si otros compañeros la utilizaran o si hubiera un video corto demostrando su uso. En la aplicación web, la creación de cuenta y la gestión de órdenes de trabajo le parecieron muy claras. El checklist reflejó sus tareas típicas y pudo completar campos fácilmente. Finalmente, expresó la importancia de subir fotos o archivos como evidencia.
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
@@ -5125,7 +5186,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 |**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
 | :- | :- | :- | :- |
 |1| No hay formulario de contacto en la landing page | 3 | Usability: Help and documentation |
-|2| El formulario de registro solicita muy poca información del usuario | 4 | Usability: Aesthetic and minimalist design |
+|2| El formulario de registro solicita muy poca información del usuario | 2 | Usability: Aesthetic and minimalist design |
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
