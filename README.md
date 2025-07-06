@@ -1960,14 +1960,14 @@ Impact Mapping es una herramienta muy útil que nos permite visualizar y planifi
 [Ver mapa en Miro](https://miro.com/app/board/uXjVI-Ud85A=/?share_link_id=366979847971)
 
 
-- #### Segmento 1: Users
+- #### Segmento 1: Administrador de mantenimiento
 
 
   <img src="img/segmento-objetivo/impactmapping1.jpg">
 
 
 
-- #### Segmento 2: Users
+- #### Segmento 2: Técnico de mantenimiento
   <img src="img/segmento-objetivo/impactmapping2.jpg">
 
 
@@ -4676,11 +4676,11 @@ El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando
     </tr>
      <tr>
         <td>Sprint 4 Velocity  </td>
-        <td>35 Story Points.</td>
+        <td>22 Story Points.</td>
     </tr>
      <tr>
         <td>Sum of Story Points  </td>
-        <td>34 Story Points.</td>
+        <td>22 Story Points.</td>
     </tr>
 </table>
 
@@ -5069,9 +5069,9 @@ Se considerará los userflows de:
 - **Nombre completo:** Cesar Gonzales
 - **Edad:** 28
 - **Cargo / Rol en la empresa:**  Administrador de producción
-- **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
+- **Enlace del video:** [Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
 - **Inicio:** 0:00 s
-- **Fin:** 9:48 s
+- **Fin:** 9:46 s
  <img src="img/interviews/entrevista-validacion-administrador-1.png"> 
 
 **Resumen de entrevista:** En esta entrevista con Cesar Gonzales, administrador de producción, se presentó la landing page y la aplicación web de Mecanet. Cesar encontró la landing page muy clara y con un diseño profesional que transmitía seriedad y le generó interés en solicitar una demo. Respecto a la aplicación web, la creación de cuenta le pareció clara y sencilla. Además, destacó la facilidad del proceso para agregar maquinaria y para generar planes mensuales. En general, consideró la organización de la aplicación muy intuitiva y de fácil comprensión.
@@ -5081,9 +5081,9 @@ Se considerará los userflows de:
 - **Nombre completo:** Edward Rodriguez
 - **Edad:** 28
 - **Cargo / Rol en la empresa:** Administrador de mantenimiento
-- **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
-- **Inicio:** 9:49 s
-- **Fin:** 21:40 s
+- **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
+- **Inicio:** 9:47 s
+- **Fin:** 22:52 s
  <img src="img/interviews/entrevista-validacion-administrador-2.png">
 
  **Resumen de entrevista:** Edward consideró la landing page útil, clara y concisa, aunque sugirió orientar más el aspecto visual hacia lo industrial con imágenes específicas. Comprendió el propósito de Mecanet de inmediato y mostró interés en probar la aplicación. En cuanto a la aplicación web, la experiencia de creación de cuenta le resultó sencilla e intuitiva, y calificó el proceso para agregar maquinaria como muy fácil y amigable. Resaltó la facilidad para identificar las opciones de registro y la claridad de la funcionalidad para generar planes mensuales, confirmando que la organización general de la aplicación es fácil de entender y comprender.
@@ -5092,9 +5092,9 @@ Se considerará los userflows de:
 - **Nombre completo:** Yvania Ortiz
 - **Edad:** 25
 - **Cargo / Rol en la empresa:** Administradora de producción
-- **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
-- **Inicio:** 21:41 s
-- **Fin:** 31:14 s
+- **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
+- **Inicio:** 22:53 s
+- **Fin:** 33:53 s
  <img src="img/interviews/entrevista-validacion-administrador-3.png">
 
  **Resumen de entrevista:** Yvania encontró la landing page útil, pero sugirió añadir más casos de éxito y detalles en la información. Propuso incluir imágenes reales de talleres en el diseño visual para una mejor conexión con el usuario. Respecto a la aplicación web, la creación de cuenta le pareció sencilla e intuitiva, sugiriendo la opción de registro con LinkedIn. El proceso para agregar maquinaria le resultó fácil y claro, y aunque la organización de la aplicación le generó una leve confusión inicial, la encontró muy intuitiva y fácil de usar al explorarla.
@@ -5105,9 +5105,9 @@ Se considerará los userflows de:
 - **Nombre completo:**  Antony Ramos
 - **Edad:**  27
 - **Puesto o función que desempeñas:** Técnico de mantenimiento predictivo
-- **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
-- **Inicio:** 31:42 s
-- **Fin:** 40:04 s
+- **Enlace del video:** [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
+- **Inicio:** 33:54 s
+- **Fin:** 42:36 s
  <img src="img/interviews/entrevista-validacion-tecnico-1.png">
 
 **Resumen de entrevista:** Antony encontró la landing page clara y con la información adecuada, y percibió su aspecto visual como apropiado para el sector, comprendiendo fácilmente el propósito del software. Se mostró interesado en usarlo, a pesar de utilizar SAP. Respecto a la aplicación web, el proceso de creación de cuenta le pareció sencillo. Las órdenes de trabajo le resultaron claras y el checklist reflejó las tareas típicas. Pudo completar los campos fácilmente y consideró muy importante la opción de subir imágenes o comentarios como evidencia. Para mejorar la experiencia, sugirió que la aplicación fuera rápida, accesible desde dispositivos móviles.
@@ -5116,9 +5116,9 @@ Se considerará los userflows de:
 - **Nombre completo:** Darlin Castillo
 - **Edad:** 23
 - **Puesto o función que desempeñas:** Técnico de mantenimiento 
-- **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
-- **Inicio:** 40:04 s
-- **Fin:** 49:45 s
+- **Enlace del video:** [Entrevista 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
+- **Inicio:** 42:37 s
+- **Fin:** 52:26 s
  <img src="img/interviews/entrevista-validacion-tecnico-2.png">
 
  **Resumen de entrevista:** Darlin consideró la información de la landing page bastante útil. Aunque la información era clara, le gustaría ver más detalles sobre su funcionamiento y beneficios diarios. El aspecto visual le pareció profesional, pero le faltaban información e imágenes relacionadas con el mantenimiento. Respecto a la aplicación web, la creación de cuenta fue clara. Las órdenes de trabajo le quedaron claras, pero sugirió que las ordenes de trabajo críticas aparecieran en rojo o con una alarma. El checklist reflejó sus tareas y pudo completar campos fácilmente. Confirmó la importancia de subir imágenes o comentarios y deseó acceder a la aplicación desde cualquier dispositivo, para una experiencia más rápida y cómoda.
@@ -5127,9 +5127,9 @@ Se considerará los userflows de:
 - **Nombre completo:** Leonardo Ramirez
 - **Edad:** 25 años  
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
-- **Enlace del video:** [Entrevista 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK)
-- **Inicio:** 49:46 s
-- **Fin:** 58:53 s
+- **Enlace del video:** [Entrevista 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
+- **Inicio:** 52:27 s
+- **Fin:** 1:02:06 s
  <img src="img/interviews/entrevista-validacion-tecnico-3.png">
 
  **Resumen de entrevista:** Leonardo consideró la información de la landing page útil,pero le gustaría más detalles sobre la aplicación. El diseño le pareció profesional y comprendió que el propósito era gestionar el mantenimiento, pero le faltó especificación sobre tipos de equipos. Se animaría a usarla si otros compañeros la utilizaran o si hubiera un video corto demostrando su uso. En la aplicación web, la creación de cuenta y la gestión de órdenes de trabajo le parecieron muy claras. El checklist reflejó sus tareas típicas y pudo completar campos fácilmente. Finalmente, expresó la importancia de subir fotos o archivos como evidencia.
