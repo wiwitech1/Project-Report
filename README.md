@@ -5084,7 +5084,7 @@ Se considerará los userflows de:
 - **Enlace del video:** [Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
 - **Inicio:** 9:47 s
 - **Fin:** 22:52 s
- <img src="img/interviews/entrevista-validacion-administrador-2.png">
+ <img src="img/sprint4/entrevista-validacion-administrador-2.png">
 
  **Resumen de entrevista:** Edward consideró la landing page útil, clara y concisa, aunque sugirió orientar más el aspecto visual hacia lo industrial con imágenes específicas. Comprendió el propósito de Mecanet de inmediato y mostró interés en probar la aplicación. En cuanto a la aplicación web, la experiencia de creación de cuenta le resultó sencilla e intuitiva, y calificó el proceso para agregar maquinaria como muy fácil y amigable. Resaltó la facilidad para identificar las opciones de registro y la claridad de la funcionalidad para generar planes mensuales, confirmando que la organización general de la aplicación es fácil de entender y comprender.
 
@@ -5095,7 +5095,7 @@ Se considerará los userflows de:
 - **Enlace del video:** [Entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9qA2Bl)
 - **Inicio:** 22:53 s
 - **Fin:** 33:53 s
- <img src="img/interviews/entrevista-validacion-administrador-3.png">
+ <img src="img/sprint4/entrevista-validacion-administrador-3.png">
 
  **Resumen de entrevista:** Yvania encontró la landing page útil, pero sugirió añadir más casos de éxito y detalles en la información. Propuso incluir imágenes reales de talleres en el diseño visual para una mejor conexión con el usuario. Respecto a la aplicación web, la creación de cuenta le pareció sencilla e intuitiva, sugiriendo la opción de registro con LinkedIn. El proceso para agregar maquinaria le resultó fácil y claro, y aunque la organización de la aplicación le generó una leve confusión inicial, la encontró muy intuitiva y fácil de usar al explorarla.
 
