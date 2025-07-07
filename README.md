@@ -5376,5 +5376,7 @@ Link del Video About the Team:
 
 Video de Exposición TF: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
+Link de las entrevistas de análisis a segmentos objetivos: https://upcedupe-my.sharepoint.com/personal/u20211g671_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211g671%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4304%2DWiwiTech%2Dneedfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6d6de6d5%2D3904%2D4f6b%2Dab04%2D3d5a01a8c950
+
 Link de las entrevivistas de validación:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK
 
