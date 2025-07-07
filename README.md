@@ -2299,6 +2299,11 @@ El C2 hace “zoom” dentro del sistema y destaca los contenedores lógicos. Pa
 
 En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los C3 de los bounded contexts identificados:
 
+* C3 DIAGRAM:  
+  <div>
+    <p align="center"><img src="img/ddd/c3.png" alt="c3: Work Order Context Components.png" width="700px" /></p>
+  </div>
+
 * Work Order Context:  
   <div>
     <p align="center"><img src="img/ddd/workorder.png" alt="c3: Work Order Context Components.png" width="700px" /></p>
@@ -2340,7 +2345,7 @@ A continuación, los diagramas de componentes a nivel de front.
 
 * Maintance Planning Context:  
     ![maintenanceñ](https://github.com/user-attachments/assets/4be85550-021c-42d2-b99d-69614f825914)
-
+s
 * Inventary Context:  
     ![inventoryparts](https://github.com/user-attachments/assets/73cbd400-0da6-4610-9578-eee70680956d)
 
@@ -4691,13 +4696,20 @@ Durante este sprint, se completó con éxito la integración del frontend y back
 A continuación, se presentan evidencias visuales de las funcionalidades integradas:<br/>
 
 #### Evidencia 1: Visualización de calendario de mantenimiento
+![image](/img/evidence-front/img1.png)
 
 
-#### Evidencia 2: Generación de reporte técnico de órdenes de trabajo
 
+#### Evidencia 2: Gestión de Maquinarias
+![image](/img/evidence-front/img2.png)
+![image](/img/evidence-front/img3.png)
+![image](/img/evidence-front/img4.png)
 
-#### Evidencia 3: Solicitud de repuestos 
+#### Evidencia 3: Gestión de Lineas de Producción
 
+![image](/img/evidence-front/img5.png)
+![image](/img/evidence-front/img6.png)
+![image](/img/evidence-front/img7.png)
 
 #### Evidencia 4: Integración con Email Service
 
@@ -5210,16 +5222,29 @@ El despliegue se realizó utilizando GitHub Actions para automatizar los flujos 
 
 A continuación, se presentan las evidencias correspondientes al despliegue del sistema:
 
-#### Evidencia 1: Repositorio backend con configuración de GitHub Actions para despliegue continuo
+#### Evidencia 1: Repositorio backend con configuración de GitHub para despliegue 
+
+![Evidencia au1:](/img/evidence-front/img8.png)
+  https://github.com/wiwitech1/mecanet-backend
 
 
 #### Evidencia 2: Confirmación del build exitoso y despliegue automático
+Backend
+![Evidencia au1:](/img/evidence-front/img9.png)
 
+Frontend
+![Evidencia au1:](/img/evidence-front/img10.png)
 
-#### Evidencia 3: Aplicación frontend desplegada en entorno accesible vía navegador
+#### Evidencia 3: URL del entorno productivo
 
+Frontend: https://agreeable-moss-0b81a851e.6.azurestaticapps.net
+Backend: https://mecanetbackend-hjexa7d8bkfybmfv.centralus-01.azurewebsites.net/swagger-ui/index.html
 
-#### Evidencia 4: URL del entorno productivo
+#### Evidencia 4: Configuración de Email y Cloudinary en el backend
+![Evidencia au1:](/img/evidence-front/img11.png)
+![Evidencia au1:](/img/evidence-front/img12.png)
+![Evidencia au1:](/img/evidence-front/img13.png)
+
 
 
 
