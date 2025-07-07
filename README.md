@@ -5632,7 +5632,7 @@ Link del Video About the Team:
 - Youtube: https://youtu.be/hPjQ2KmTaJc
 - Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EX76tS-Dm4dLrL-p8kWQry0BvFrJg5E_LhOPLoCTAmDbVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DWtFV9
 
-Video de Exposición TF: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
+Video de Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EXEXeb1MBIdIr-T31vOjerUBEmbTZzQcMy1AjAjKDJFdxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nhkalm
 
 Link de las entrevivistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UyjdRf
 
