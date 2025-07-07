@@ -4794,7 +4794,7 @@ Fomentar aún más la documentación técnica paso a paso, especialmente en las 
 
 # Video About-the-Team.
 ![image](https://github.com/user-attachments/assets/e49e1d18-5bf0-437b-b7ff-104f30b9a989)
-link: https://www.youtube.com/watch?v=I3xC4kqr_JM&ab_channel=Mayo
+link: https://youtu.be/hPjQ2KmTaJc
 
 
 # Bibliografía
