@@ -406,7 +406,7 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>Durante TB3, me encargué de corregir y refactorizar los bounded contexts de maquinarias e inventario en el frontend y backend. Para lograrlo, comuniqué claramente al equipo los cambios necesarios en la estructura del dominio, justificando las decisiones tomadas y resolviendo dudas en reuniones grupales. Además, adapté mi forma de explicar dependiendo del nivel técnico de cada integrante, facilitando el entendimiento tanto del impacto funcional como del diseño en capas, asegurando así una implementación coherente en ambos lados del sistema.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>Durante la entrega final del proyecto, comuniqué de forma oral las decisiones relacionadas con la visualización del dashboard de métricas y el registro de técnicos. Coordiné con mis compañeros para asegurar que estas funcionalidades fueran correctamente integradas en el sistema, explicando con claridad el comportamiento esperado, los flujos de datos implicados y la validación funcional necesaria. Adapté mi lenguaje técnico y visual en función de los roles del equipo, facilitando la comprensión y la ejecución conjunta.</p>
           <br>
 
         
@@ -418,7 +418,7 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>Durante TB2, presenté un modelo actualizado del diagrama de base de datos y del diagrama de clases, asegurando que su estructura fuera comprendida por todos los miembros del equipo. Me centré en el bounded context de mantenimiento, y comuniqué sus responsabilidades, entidades clave y relaciones de forma clara, contribuyendo a que tanto diseñadores como desarrolladores alinearan sus tareas con la lógica del dominio.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>En la fase final del proyecto, lideré las reuniones técnicas para coordinar la integración del backend con el frontend. Me encargué de explicar el funcionamiento de los endpoints y su consumo desde las vistas, resolviendo dudas relacionadas con filtros, métricas, inventario y solicitudes. Esta comunicación constante con los distintos miembros del equipo permitió asegurar una integración exitosa y un entendimiento común del flujo de información en el sistema.</p>
           <br>
 
           
@@ -430,7 +430,7 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>Durante TB2, expuse el diagrama de clases que elaboré, explicando la lógica detrás de la organización del modelo. Aporté también en la definición de la base de datos y me enfoqué en el bounded context de usuarios y gestión de activos (Asset Management), comunicando de manera efectiva sus entidades clave y relaciones, permitiendo que tanto diseñadores como programadores comprendieran e implementaran correctamente su estructura.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>Durante la entrega final, presenté el diseño e implementación del módulo de reportes de órdenes de trabajo, detallando su lógica de consolidación de datos y la integración con el frontend. A través de explicaciones orales, coordiné ajustes necesarios con otros desarrolladores y validé con el equipo el correcto uso de la API de inventario. Mi participación permitió alinear expectativas y resolver interdependencias técnicas mediante un lenguaje claro y preciso.</p>
           <br>
 
           
@@ -442,55 +442,19 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>Durante TB2, conduje entrevistas de validación y presenté los hallazgos obtenidos de manera clara y estructurada. Además, me encargué de documentar el Sprint 3, dejando registro del avance del equipo y comunicando oralmente los puntos clave del progreso y próximos pasos en las reuniones grupales.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>En esta última etapa, comuniqué oralmente al equipo los detalles funcionales de la conexión entre el calendario de mantenimiento y el backend, así como la lógica detrás de la solicitud de repuestos y el manejo del inventario. También coordiné con los responsables de backend y frontend para asegurar la integración del Email Service, explicando con claridad los requisitos técnicos y verificaciones necesarias. Esta comunicación efectiva permitió una implementación sincrónica y funcional.</p>
       </td>
       <br>
       <td>
-        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p>Durante esta etapa, mi capacidad para comunicar ideas de forma clara y visual fue clave para que todo el equipo comprendiera la propuesta general del sistema. Al presentar wireframes, diagramas y prototipos, adapté mi lenguaje según el público, logrando que tanto mis compañeros como los docentes pudieran visualizar el flujo y diseño del sistema, lo cual fortaleció el trabajo colaborativo desde el inicio.</p>
+        <p>El equipo mostró una comunicación escrita clara y estructurada en documentos clave como el Lean UX Canvas, las historias de usuario y la planificación de sprints. Esta habilidad permitió establecer una base común de entendimiento y facilitar el seguimiento de tareas tanto entre integrantes del equipo como con los docentes.</p>
         <p><b>TP1:</b></p>
-        <p>Al liderar el desarrollo del módulo de planificación de mantenimiento, así como otras funcionalidades esenciales, reforcé mi habilidad de comunicar decisiones técnicas de forma efectiva. Esto facilitó que mis aportes se integraran sin dificultad con el trabajo del resto del equipo, asegurando una solución coherente y técnicamente sólida.</p>
+        <p>Durante esta fase, se mejoró la redacción técnica mediante la documentación de estructuras de base de datos, lógica de funcionalidades y definiciones de entidades. Esta comunicación por escrito fue esencial para guiar el desarrollo, registrar decisiones y facilitar la colaboración entre roles diversos dentro del equipo.</p>
         <p><b>TB2:</b></p>
-        <p>En esta fase, reforcé mi comunicación técnica al presentar diagramas actualizados y coordinar con mis compañeros sobre las correcciones necesarias en los bounded contexts. Al explicar de forma clara las decisiones estructurales del sistema, logré que el equipo pudiera ajustar e implementar los cambios de manera alineada, fortaleciendo la cohesión entre frontend y backend.</p>
+        <p>Durante esta entrega, se continuó fortaleciendo la documentación técnica del sistema, en especial con la descripción detallada de bounded contexts, diagramas de clases actualizados y flujos de datos. El lenguaje empleado fue claro y preciso, permitiendo a todos los integrantes comprender las relaciones entre los módulos, las funcionalidades y su implementación.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>Durante la entrega final del proyecto, la comunicación fue fundamental para coordinar eficientemente la integración del sistema Mecanet. A medida que conectamos el frontend con el backend y se implementaron funcionalidades clave como el dashboard de métricas, reportes y Email Service, cada miembro del equipo asumió un rol activo en reuniones técnicas y sesiones de validación. Esta comunicación efectiva permitió alcanzar una plataforma navegable, funcional y estable, alineada con la meta del sprint, y garantizó una experiencia de usuario fluida e integral.</p>
           <br>
-          
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
-       <p><b>TB1:</b></p>
-        <p>Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto. Al comunicar de forma clara mis propuestas sobre el análisis competitivo, las historias de usuario y la estructuración del backlog, ayudé a que el equipo comprendiera los objetivos comunes y asumiera responsabilidades de manera organizada. Adapté mi forma de comunicar según fuera necesario, tanto en redacciones como en exposiciones orales.</p>
-        <p><b>TP1:</b></p>
-        <p>Liderar el desarrollo del módulo de inicio de sesión, así como contribuir con funcionalidades como la consulta de órdenes diarias y el registro de maquinarias, me permitió poner en práctica una comunicación técnica efectiva. Coordiné decisiones clave con mis compañeros, facilitando la comprensión mutua y asegurando que nuestras soluciones estuvieran alineadas con la estructura general del sistema.</p>
-        <p><b>TB2:</b></p>
-        <p>En esta etapa, reforcé mi habilidad para explicar conceptos técnicos al presentar el diagrama actualizado de la base de datos y el diagrama de clases. Al enfocarme en el bounded context de mantenimiento, comuniqué de manera clara sus componentes y relaciones, lo cual permitió una comprensión compartida entre los distintos roles del equipo y facilitó su implementación tanto en el backend como en el frontend.</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-          
-
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p>El trabajo que realicé durante TB1 fortaleció la comunicación dentro del equipo. Al presentar wireframes, mock-ups y prototipos interactivos, logré transmitir de manera visual y precisa la estructura y experiencia esperada de la aplicación. Esta claridad ayudó a alinear expectativas y facilitó que todos comprendiéramos mejor el producto final, fomentando así la toma de decisiones conjuntas y una colaboración más efectiva.</p>
-        <p><b>TP1:</b></p>
-        <p>Liderar la implementación del módulo de órdenes de trabajo me permitió comunicar decisiones técnicas clave relacionadas con órdenes correctivas, asignación de técnicos y sesiones. Coordiné constantemente con mis compañeros para asegurar que mi parte se integrara correctamente con los demás módulos, adaptando mi lenguaje según fuera necesario para garantizar una comprensión común entre desarrolladores y diseñadores.</p>
-        <p><b>TB2:</b></p>
-        <p>Durante TB2, reforcé mi comunicación técnica al presentar el diagrama de clases y discutir aportes en la base de datos. También participé activamente en el desarrollo del bounded context de usuarios y gestión de activos (Asset Management), explicando de forma clara cómo se estructuraban las entidades y relaciones, lo que facilitó una implementación coherente en todo el equipo.</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-
-          
-<p><b>Britney Delhy Qqueso Rodriguez</b></p>
-       <p><b>TB1:</b></p>
-        <p>Mi participación en el desarrollo de entregables iniciales como el Lean UX Canvas, entrevistas y mapas de empatía permitió una comunicación efectiva entre los miembros del equipo y los usuarios. Al expresar con claridad nuestras hipótesis, perfiles de usuario y necesidades identificadas, contribuí a crear un ambiente colaborativo y enfocado, donde cada integrante comprendía su rol dentro del proyecto.</p>
-        <p><b>TP1:</b></p>
-        <p>Asumí el liderazgo en la creación del registro de cuentas y líneas de producción, y modelé la entidad de órdenes de trabajo. A lo largo de esta fase, comuniqué de manera clara la lógica detrás de mis decisiones técnicas, facilitando que mi trabajo se integrara de forma coherente con otros módulos. Esta experiencia fortaleció mi capacidad de explicar ideas complejas en términos accesibles para todo el equipo.</p>
-        <p><b>TB2:</b></p>
-        <p>Durante TB2, conduje entrevistas de validación y compartí los resultados con el equipo de forma estructurada. También documenté el desarrollo del Sprint 3, explicando claramente el avance y los desafíos enfrentados. Esta comunicación continua ayudó a mantener alineado al equipo y permitió tomar decisiones oportunas basadas en la retroalimentación obtenida.</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-        <br>
       </td>
     </tr>
 
@@ -505,7 +469,7 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>Durante TB2, redacté explicaciones detalladas para los cambios realizados en los bounded contexts del sistema, tanto en el backend como en el frontend. Mi comunicación escrita ayudó a documentar las decisiones técnicas de forma clara, permitiendo que los miembros del equipo entendieran las correcciones estructurales necesarias para asegurar la coherencia del sistema.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>Documenté el comportamiento esperado de las métricas (MTBF, MTTR, disponibilidad) y del registro de técnicos, incluyendo los endpoints consumidos y los datos mostrados en la interfaz. Esta documentación sirvió de referencia para el equipo de pruebas y facilitó la verificación cruzada de funcionalidades. También colaboré en la redacción de comentarios y observaciones en los canales de trabajo para guiar los ajustes necesarios.</p>
           <br>
 
           
@@ -517,7 +481,7 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>En TB2, elaboré documentación técnica que explicaba las actualizaciones del diagrama de base de datos y del diagrama de clases. Además, escribí descripciones claras sobre el bounded context de mantenimiento, lo que permitió al equipo comprender fácilmente su estructura, relaciones internas y cómo debían implementarse en el sistema.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>En esta entrega, elaboré documentación técnica sobre la integración de múltiples endpoints del backend con el frontend, registrando las rutas, parámetros y estructuras de respuesta esperadas. También documenté los casos de uso implementados para solicitud de repuestos, filtros y métricas. Este material fue clave para el equipo en el proceso de validación funcional y garantizó que todos comprendieran los detalles técnicos de las nuevas funcionalidades.</p>
           <br>
 
           
@@ -529,7 +493,7 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>Durante TB2, participé en la elaboración del diagrama de clases y en la documentación relacionada con el bounded context de usuarios y gestión de activos. Me aseguré de dejar por escrito la estructura y relaciones entre entidades, facilitando que el equipo comprendiera la lógica implementada tanto en frontend como en backend.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>Documenté el funcionamiento del módulo de reportes de órdenes de trabajo, describiendo su estructura técnica y los endpoints utilizados. Asimismo, dejé registros escritos de la conexión con el módulo de inventario, detallando las entidades implicadas y sus relaciones. Esta documentación ayudó al equipo a verificar la correcta integración de datos y facilitó el trabajo de pruebas.</p>
           <br>
 
           
@@ -541,55 +505,19 @@ Criterio:  Capacidad de comunicarse efectivamente con un rango de audiencias.
         <p><b>TB2:</b></p>
         <p>En TB2, redacté las observaciones obtenidas en entrevistas de validación, resumiendo los hallazgos y plasmándolos en un lenguaje claro y directo para orientar mejoras. También me encargué de la documentación del Sprint 3, registrando por escrito los avances del equipo y facilitando una visión compartida del progreso logrado.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>Redacté la descripción funcional de la conexión entre el calendario de mantenimiento y la API correspondiente, así como de las vistas implementadas para solicitud de repuestos y revisión de inventario. Además, dejé constancia escrita de la lógica de validación implementada y participé en la documentación de la integración con el Email Service. Estas contribuciones facilitaron la comprensión compartida del funcionamiento del sistema final.</p>
       </td>
       
 <td>
-    <p><b>Ariana Cecilia Agreda Sobrino</b></p>
-        <p><b>TB1:</b></p>
-        <p>Esta etapa me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Propicié un entorno de trabajo inclusivo y orientado a resultados, y me comprometo a seguir manteniendo ese enfoque en los siguientes sprints.</p>
-        <p><b>TP1:</b></p>
-        <p>Esta experiencia fortaleció mi capacidad para coordinar y colaborar activamente dentro del equipo. Logré equilibrar la planificación de tareas con la participación de todos los miembros, facilitando así un avance ordenado y un cumplimiento efectivo de los objetivos del sprint.</p>
-        <p><b>TB2:</b></p>
-        <p>Durante esta etapa, trabajé junto al equipo en la corrección de los bounded contexts de maquinarias e inventario, promoviendo una colaboración efectiva entre frontend y backend. Esta experiencia me ayudó a consolidar habilidades de planificación y comunicación técnica, fomentando la inclusión de ideas y asegurando que el trabajo colectivo avanzara con coherencia y metas claras.</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-
-          
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p>Mi enfoque en la planificación y documentación permitió establecer una base sólida para el trabajo del equipo. Fomenté la participación de todos los integrantes desde el inicio, ayudando a que los objetivos del sprint fueran comprendidos y alcanzados de forma coordinada. Esta experiencia reforzó mi compromiso con el trabajo colaborativo y la inclusión de ideas diversas.</p>
+        <p>En esta entrega el equipo mostró una comunicación escrita clara y estructurada en documentos clave como el Lean UX Canvas, las historias de usuario y la planificación de sprints. Esta habilidad permitió establecer una base común de entendimiento y facilitar el seguimiento de tareas tanto entre integrantes del equipo como con los docentes.</p>
         <p><b>TP1:</b></p>
-        <p>Liderar el módulo de planificación de mantenimiento me permitió aplicar un enfoque estructurado para definir objetivos claros, distribuir tareas de manera equitativa y mantener una comunicación constante con el equipo. También participé en el desarrollo del registro de cuentas y autenticación, reforzando así la integración entre módulos y asegurando el cumplimiento de las metas del sprint.</p>
+        <p>Durante esta fase, se mejoró la redacción técnica mediante la documentación de estructuras de base de datos, lógica de funcionalidades y definiciones de entidades. Esta comunicación por escrito fue esencial para guiar el desarrollo, registrar decisiones y facilitar la colaboración entre roles diversos dentro del equipo.</p>
         <p><b>TB2:</b></p>
-        <p>En esta fase, colaboré con el equipo en la actualización del diagrama de base de datos y el diagrama de clases. Además, trabajé activamente en el bounded context de mantenimiento, guiando su definición desde una visión estructurada y clara. Esta experiencia fortaleció mis habilidades de liderazgo técnico, planificación conjunta y trabajo inclusivo para lograr resultados compartidos.</p>
+        <p>En esta entrega, se continuó fortaleciendo la documentación técnica del sistema, en especial con la descripción detallada de bounded contexts, diagramas de clases actualizados y flujos de datos. El lenguaje empleado fue claro y preciso, permitiendo a todos los integrantes comprender las relaciones entre los módulos, las funcionalidades y su implementación.</p>
         <p><b>TF:</b></p>
-        <p>-</p>
+        <p>En esta entrega, se implementaron y registraron de forma clara y precisa las rutas de los servicios RESTful, la lógica de consumo desde el frontend, el funcionamiento del Email Service, los filtros dinámicos, el dashboard de métricas y los reportes de órdenes de trabajo. Esta documentación fue compartida entre roles técnicos y no técnicos, facilitando validaciones cruzadas y pruebas funcionales. La capacidad para expresar nuestras decisiones y configuraciones por escrito contribuyó directamente al despliegue de una plataforma operativa, en concordancia con los objetivos establecidos del sprint.</p>
           <br>
-        
-
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p>Trabajar en la programación de la landing page me permitió colaborar estrechamente con el equipo, organizar nuestras tareas de desarrollo y alinear los esfuerzos individuales hacia objetivos comunes. Esta experiencia fortaleció mi compromiso con la planificación compartida y el respeto por las contribuciones de cada integrante.</p>
-        <p><b>TP1:</b></p>
-        <p>Al liderar el desarrollo del módulo de órdenes de trabajo, mantuve una comunicación constante con mis compañeros para asegurar la integración fluida de sus módulos con el mío. Esta coordinación activa me permitió alinear las funcionalidades, planificar en conjunto y contribuir a la construcción de un entorno de trabajo colaborativo y orientado al cumplimiento de metas claras.</p>
-        <p><b>TB2:</b></p>
-        <p>Durante TB2, participé en la elaboración del diagrama de clases, el diseño de la base de datos y el desarrollo del bounded context de usuarios y gestión de activos. Mi contribución se centró en facilitar un diseño coherente a través de la planificación técnica conjunta, manteniendo una comunicación abierta para asegurar que todos los cambios se comprendieran e implementaran correctamente.</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-          <br>
-          
-<p><b>Britney Delhy Qqueso Rodriguez</b></p>
-       <p><b>TB1:</b></p>
-        <p>Durante esta etapa, el trabajo coordinado entre todos los miembros del equipo permitió avanzar de manera organizada. Mi participación en entrevistas, mapeos y planificación ayudó a integrar distintas perspectivas en los entregables, promoviendo así un entorno inclusivo donde cada aporte fue valorado y enfocado en el logro de los objetivos comunes.</p>
-        <p><b>TP1:</b></p>
-        <p>Mi trabajo en el desarrollo del registro de cuentas y líneas de producción implicó una colaboración constante con los demás responsables de módulo. Participé activamente en la planificación de tareas y promoví que todas las ideas fueran escuchadas, lo que permitió mantener una estructura de trabajo equitativa y cumplir con los entregables propuestos de manera efectiva.</p>
-        <p><b>TB2:</b></p>
-        <p>Durante TB2, me encargué de las entrevistas de validación y de la documentación del Sprint 3. Estas actividades me permitieron contribuir a la planificación y evaluación del trabajo del equipo, promoviendo una visión compartida de los avances y fomentando un entorno colaborativo donde las decisiones se basaban en evidencia y comunicación clara.</p>
-        <p><b>TF:</b></p>
-        <p>-</p>
-        <br>
       </td>
     </tr>
   </tbody>
@@ -5325,5 +5253,4 @@ Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_u
 
 Video de Exposición TF: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
-Link de las entrevivistas de validación:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK
-
+Link de las entrevivistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8itkYC
