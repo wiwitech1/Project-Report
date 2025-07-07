@@ -5237,7 +5237,7 @@ Enlace al vídeo de Microsoft Stream: [Video About The Product]()
 En la actualidad, muchas empresas industriales enfrentan problemas debido al uso de métodos manuales y herramientas dispersas para gestionar el mantenimiento de sus activos. Esto genera ineficiencias, paros no programados y decisiones basadas en información incompleta o errónea.
 
 ### La Solución de Mecanet
-Mecanets proporciona una plataforma digital integral para gestionar el mantenimiento de activos de forma centralizada. Esto incluye la planificación de mantenimientos, gestión de inventarios, generación de reportes técnicos y registro de activos, todo en una sola interfaz amigable y fácil de usar.
+Mecanet proporciona una plataforma digital integral para gestionar el mantenimiento de activos de forma centralizada. Esto incluye la planificación de mantenimientos, gestión de inventarios, generación de reportes técnicos y registro de activos, todo en una sola interfaz amigable y fácil de usar.
 
 ### Beneficios Clave para los Usuarios
 
@@ -5249,7 +5249,7 @@ Mecanets proporciona una plataforma digital integral para gestionar el mantenimi
 La plataforma de Mecanet mejora la eficiencia operativa al automatizar tareas repetitivas y ofrecer una visibilidad clara de los indicadores clave de rendimiento (KPIs), lo que permite decisiones más rápidas y basadas en datos.
 
 ### Enfoque en la Simplicidad
-Mecanets ha sido diseñado para ofrecer soluciones prácticas y de impacto inmediato. Se han evitado características que no generaban un valor directo, como sistemas de retroalimentación complejos, para centrarse en lo esencial.
+Mecanet ha sido diseñado para ofrecer soluciones prácticas y de impacto inmediato. Se han evitado características que no generaban un valor directo, como sistemas de retroalimentación complejos, para centrarse en lo esencial.
 
 ### Accesibilidad y Facilidad de Uso
 La interfaz ha sido pensada para ser intuitiva, incluso para usuarios con poca experiencia en tecnología. El diseño visual con colores y tipografía claras facilita la navegación, especialmente en entornos industriales.
@@ -5258,17 +5258,47 @@ La interfaz ha sido pensada para ser intuitiva, incluso para usuarios con poca e
 Las mejoras están alineadas con las necesidades reales de los usuarios, basadas en entrevistas y en un análisis detallado de los flujos de trabajo actuales. La plataforma se adapta a las tareas diarias de los usuarios sin sobrecargarlo de funciones innecesarias.
 
 ### Mercado Potencial
-Mecanets tiene un mercado claro entre medianas empresas industriales de Latinoamérica que no han adoptado soluciones digitales completas para la gestión de mantenimiento, pero que buscan aumentar su eficiencia sin recurrir a sistemas demasiado complejos o costosos.
+Mecanet tiene un mercado claro entre medianas empresas industriales de Latinoamérica que no han adoptado soluciones digitales completas para la gestión de mantenimiento, pero que buscan aumentar su eficiencia sin recurrir a sistemas demasiado complejos o costosos.
 
 ### Visión a Futuro
-Mecanets no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
+Mecanet no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
 
-Durante el Sprint 2, el equipo logró avances significativos en el desarrollo e integración de los componentes del sistema. Se cumplió con el Sprint Backlog priorizado, incluyendo funcionalidades clave y su despliegue exitoso en entornos cloud. Las siguientes conclusiones resumen los aprendizajes y resultados:
+### Sprint 1
+- Durante el Sprint 1, el equipo logró desplegar la primera versión funcional de la Landing Page de Mecanet, cumpliendo con el objetivo de presentar de forma clara y atractiva la propuesta de valor del sistema. Se implementaron secciones clave —como el Hero, Navbar, Benefits, Pricing, FAQ y Footer— garantizando coherencia visual, navegación intuitiva y compatibilidad en distintos dispositivos.
+- Gracias a este entregable, Mecanet ya cuenta con una vitrina digital que comunica sus beneficios, planes y funcionalidades, lo cual sienta las bases para captar la atención de clientes potenciales y validar la propuesta frente a usuarios reales.
+- Además, el equipo demostró un alto nivel de coordinación y colaboración, distribuyendo tareas específicas por componente y manteniendo un flujo de integración y despliegue continuo (CI/CD) mediante GitHub Actions y Azure Static Web Apps.
+- El enfoque de este primer Sprint fue totalmente orientado a la presentación visual y estructura base, por lo que la integración con backend y la documentación de servicios quedan planificadas para los próximos Sprints.
 
+### Sprint 2
+- Durante el Sprint 2, el equipo logró avances significativos en el desarrollo e integración de los componentes del sistema. Se cumplió con el Sprint Backlog priorizado, incluyendo funcionalidades clave y su despliegue exitoso en entornos cloud. Las siguientes conclusiones resumen los aprendizajes y resultados:
 - Se consolidó la colaboración entre los líderes de aspecto y los integrantes del equipo, lo que permitió una mayor fluidez en la comunicación y ejecución de tareas.
 - Se logró el despliegue completo de la Landing Page, la Aplicación Web y los Servicios Web, lo que marca un hito en la visibilidad externa y validación de funcionalidades mínimas del producto.
 - La documentación de los servicios y el código fue completada de forma satisfactoria, facilitando el entendimiento común del proyecto entre los miembros actuales y futuros.
 - El equipo mostró mejoras en la capacidad de estimación y asignación de tareas, logrando entregar dentro del tiempo previsto.
+
+### Sprint 3
+- Durante el Sprint 3, el equipo desarrolló e implementó la lógica principal del backend de Mecanet, cumpliendo con el Backlog priorizado de endpoints REST para usuarios, roles, activos, inventario, órdenes de trabajo y métricas.
+- Se validó la correcta comunicación entre módulos mediante pruebas locales y despliegue en la nube (Azure), sentando la base técnica para la integración con el frontend.
+- La documentación de los servicios se completó usando Swagger, garantizando que los endpoints puedan ser consultados y probados fácilmente por el equipo de desarrollo.
+- Se reforzó la estructura de seguridad básica del sistema, incorporando validaciones y control de acceso mediante autenticación y hash de contraseñas.
+- El equipo mantuvo una coordinación efectiva para el modelado de entidades, controladores REST y pipeline de despliegue, asegurando la escalabilidad y mantenibilidad del backend.
+
+### Sprint 4
+
+- Durante el Sprint 4, el equipo completó la integración total entre frontend y backend, asegurando una versión navegable y funcional de Mecanet.
+- Se validó la conexión en tiempo real de todos los módulos clave: usuarios, activos, inventario, mantenimiento, métricas y reportes.
+- Se implementó y probó el servicio externo de envío de correos, ampliando la interacción y notificaciones automáticas para los usuarios.
+- Se consolidó la documentación técnica de todos los servicios RESTful con Swagger, garantizando su consulta y prueba directa.
+- Se logró el despliegue final en producción con flujos CI/CD, validando que el sistema opera correctamente en un entorno real y accesible.
+
+El proyecto Mecanet permitió validar que muchas empresas industriales aún dependen de métodos manuales y herramientas dispersas para gestionar el mantenimiento de activos, confirmando el Problem Statement inicial.
+
+A través de los Sprints, se demostró que una plataforma centralizada es viable técnica y funcionalmente, facilitando la planificación de mantenimientos, la gestión de activos, inventario y órdenes de trabajo, alineándose con los Hypotheses Statements y cumpliendo los criterios de éxito definidos en Lean UX.
+
+La implementación incremental y validación de cada módulo evidenció que los segmentos de usuarios (administradores y técnicos) valoran la simplicidad, la automatización de procesos clave y la visualización clara de información, confirmando varios assumptions del diseño inicial.
+
+El despliegue en entornos reales y la integración de servicios externos (como Email Service) reforzaron la escalabilidad y sostenibilidad del modelo, sentando las bases para la evolución futura del producto digital.
+
 
 ## Recomendaciones 
 
@@ -5280,7 +5310,31 @@ Optimizar la gestión del tiempo y recursos en tareas críticas, especialmente a
 
 Continuar promoviendo las retrospectivas internas de equipo al final de cada Sprint, lo que ha demostrado ser útil para identificar obstáculos y mejorar la dinámica de trabajo. <br/>
 
-Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. <br/>
+Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. 
+
+Continuar con pruebas de usuario más amplias para recoger feedback real de empresas objetivo, mejorando flujos de uso, reportes y notificaciones según la experiencia directa de los técnicos y administradores.
+
+Desarrollar módulos complementarios como métricas avanzadas (predictivas) y tableros de BI que potencien la toma de decisiones estratégicas de mantenimiento.
+
+Explorar integraciones con IoT o sensores en tiempo real para automatizar aún más la captura de datos de activos y líneas de producción.
+
+Definir un Roadmap de funcionalidades priorizando la mejora continua de la interfaz, la automatización de tareas repetitivas y la ampliación de servicios externos como pagos, alertas SMS o integraciones con ERPs.
+
+Mantener el flujo de CI/CD y despliegue en la nube, revisando periódicamente la arquitectura para sostener escalabilidad y seguridad conforme crezca la base de usuarios.
+
+Extender la integración con sistemas de autenticación corporativa (SSO) para facilitar la adopción en medianas y grandes empresas.
+
+Explorar modelos de suscripción escalable, integrando pasarelas de pago que permitan monetizar nuevas funciones premium.
+
+Implementar dashboards personalizables para que cada rol (admin, técnico, supervisor) tenga métricas y vistas adaptadas a sus tareas diarias.
+
+Potenciar la automatización de alertas vía email o SMS ante incidencias críticas, mantenimiento pendiente o baja de inventario.
+
+Ampliar las pruebas de estrés y seguridad para validar la robustez del backend frente a picos de uso y posibles vulnerabilidades.
+
+Mantener actualizado el entorno de documentación técnica, con diagramas de arquitectura y ejemplos de integración, para apoyar la escalabilidad del equipo y facilitar auditorías externas.
+
+<br/>
 
 # Video About-the-Team.
 ![image](https://github.com/user-attachments/assets/e49e1d18-5bf0-437b-b7ff-104f30b9a989)
