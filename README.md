@@ -252,7 +252,8 @@ En esta entrega, hemos implementado con éxito el backend de la aplicación web 
 
 ## TF1
 En esta entrega, hemos integrado con éxito el backend y el frontend de la aplicación, lo cual representa un hito importante. Este logro fue posible gracias a la coordinación del equipo, asegurando una conexión fluida entre ambas capas y avanzando significativamente en la funcionalidad del proyecto.
-![Contributions tb2](https://github.com/user-attachments/assets/b19e49a7-d1ba-46a0-b559-987ec7a38872)
+![image](https://github.com/user-attachments/assets/4a374e47-3daf-4e06-898e-6da678cd07a0)
+
 
 
 # Contenido
@@ -4912,12 +4913,12 @@ A continuación, se presentan capturas del repositorio oficial del proyecto que 
 
 Captura de colaboracion en github:
 
-![image](https://github.com/user-attachments/assets/bcc0f50d-0c07-4656-89f8-210dc6ff022a)
-![image](https://github.com/user-attachments/assets/07cba899-1fc5-4a11-ba40-a5ef7148554d)
-![image](https://github.com/user-attachments/assets/61829674-ca49-413b-8d10-aac189bc426c)
-![image](https://github.com/user-attachments/assets/8c8fd376-b266-436e-80fc-3202e65e115a)
-![image](https://github.com/user-attachments/assets/0eafee43-5903-4e80-a80f-44884748a53d)
-![image](https://github.com/user-attachments/assets/bd8b15c8-4036-4cea-b3a2-f9d7930d4fd3)
+Repositorio del Backend:
+![image](https://github.com/user-attachments/assets/7eaaba9d-2b67-4af3-a34f-e682a068d635)
+![image](https://github.com/user-attachments/assets/270967fe-c752-4d06-a717-3b036798bbc6)
+![image](https://github.com/user-attachments/assets/85dafd71-c8f8-465f-aaf9-87cfae236210)
+
+Repositorio del Frontend:
 
 
 
@@ -5165,7 +5166,7 @@ Enlace al vídeo de Microsoft Stream: [Video About The Product]()
 En la actualidad, muchas empresas industriales enfrentan problemas debido al uso de métodos manuales y herramientas dispersas para gestionar el mantenimiento de sus activos. Esto genera ineficiencias, paros no programados y decisiones basadas en información incompleta o errónea.
 
 ### La Solución de Mecanet
-Mecanets proporciona una plataforma digital integral para gestionar el mantenimiento de activos de forma centralizada. Esto incluye la planificación de mantenimientos, gestión de inventarios, generación de reportes técnicos y registro de activos, todo en una sola interfaz amigable y fácil de usar.
+Mecanet proporciona una plataforma digital integral para gestionar el mantenimiento de activos de forma centralizada. Esto incluye la planificación de mantenimientos, gestión de inventarios, generación de reportes técnicos y registro de activos, todo en una sola interfaz amigable y fácil de usar.
 
 ### Beneficios Clave para los Usuarios
 
@@ -5177,7 +5178,7 @@ Mecanets proporciona una plataforma digital integral para gestionar el mantenimi
 La plataforma de Mecanet mejora la eficiencia operativa al automatizar tareas repetitivas y ofrecer una visibilidad clara de los indicadores clave de rendimiento (KPIs), lo que permite decisiones más rápidas y basadas en datos.
 
 ### Enfoque en la Simplicidad
-Mecanets ha sido diseñado para ofrecer soluciones prácticas y de impacto inmediato. Se han evitado características que no generaban un valor directo, como sistemas de retroalimentación complejos, para centrarse en lo esencial.
+Mecanet ha sido diseñado para ofrecer soluciones prácticas y de impacto inmediato. Se han evitado características que no generaban un valor directo, como sistemas de retroalimentación complejos, para centrarse en lo esencial.
 
 ### Accesibilidad y Facilidad de Uso
 La interfaz ha sido pensada para ser intuitiva, incluso para usuarios con poca experiencia en tecnología. El diseño visual con colores y tipografía claras facilita la navegación, especialmente en entornos industriales.
@@ -5186,17 +5187,47 @@ La interfaz ha sido pensada para ser intuitiva, incluso para usuarios con poca e
 Las mejoras están alineadas con las necesidades reales de los usuarios, basadas en entrevistas y en un análisis detallado de los flujos de trabajo actuales. La plataforma se adapta a las tareas diarias de los usuarios sin sobrecargarlo de funciones innecesarias.
 
 ### Mercado Potencial
-Mecanets tiene un mercado claro entre medianas empresas industriales de Latinoamérica que no han adoptado soluciones digitales completas para la gestión de mantenimiento, pero que buscan aumentar su eficiencia sin recurrir a sistemas demasiado complejos o costosos.
+Mecanet tiene un mercado claro entre medianas empresas industriales de Latinoamérica que no han adoptado soluciones digitales completas para la gestión de mantenimiento, pero que buscan aumentar su eficiencia sin recurrir a sistemas demasiado complejos o costosos.
 
 ### Visión a Futuro
-Mecanets no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
+Mecanet no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
 
-Durante el Sprint 2, el equipo logró avances significativos en el desarrollo e integración de los componentes del sistema. Se cumplió con el Sprint Backlog priorizado, incluyendo funcionalidades clave y su despliegue exitoso en entornos cloud. Las siguientes conclusiones resumen los aprendizajes y resultados:
+### Sprint 1
+- Durante el Sprint 1, el equipo logró desplegar la primera versión funcional de la Landing Page de Mecanet, cumpliendo con el objetivo de presentar de forma clara y atractiva la propuesta de valor del sistema. Se implementaron secciones clave —como el Hero, Navbar, Benefits, Pricing, FAQ y Footer— garantizando coherencia visual, navegación intuitiva y compatibilidad en distintos dispositivos.
+- Gracias a este entregable, Mecanet ya cuenta con una vitrina digital que comunica sus beneficios, planes y funcionalidades, lo cual sienta las bases para captar la atención de clientes potenciales y validar la propuesta frente a usuarios reales.
+- Además, el equipo demostró un alto nivel de coordinación y colaboración, distribuyendo tareas específicas por componente y manteniendo un flujo de integración y despliegue continuo (CI/CD) mediante GitHub Actions y Azure Static Web Apps.
+- El enfoque de este primer Sprint fue totalmente orientado a la presentación visual y estructura base, por lo que la integración con backend y la documentación de servicios quedan planificadas para los próximos Sprints.
 
+### Sprint 2
+- Durante el Sprint 2, el equipo logró avances significativos en el desarrollo e integración de los componentes del sistema. Se cumplió con el Sprint Backlog priorizado, incluyendo funcionalidades clave y su despliegue exitoso en entornos cloud. Las siguientes conclusiones resumen los aprendizajes y resultados:
 - Se consolidó la colaboración entre los líderes de aspecto y los integrantes del equipo, lo que permitió una mayor fluidez en la comunicación y ejecución de tareas.
 - Se logró el despliegue completo de la Landing Page, la Aplicación Web y los Servicios Web, lo que marca un hito en la visibilidad externa y validación de funcionalidades mínimas del producto.
 - La documentación de los servicios y el código fue completada de forma satisfactoria, facilitando el entendimiento común del proyecto entre los miembros actuales y futuros.
 - El equipo mostró mejoras en la capacidad de estimación y asignación de tareas, logrando entregar dentro del tiempo previsto.
+
+### Sprint 3
+- Durante el Sprint 3, el equipo desarrolló e implementó la lógica principal del backend de Mecanet, cumpliendo con el Backlog priorizado de endpoints REST para usuarios, roles, activos, inventario, órdenes de trabajo y métricas.
+- Se validó la correcta comunicación entre módulos mediante pruebas locales y despliegue en la nube (Azure), sentando la base técnica para la integración con el frontend.
+- La documentación de los servicios se completó usando Swagger, garantizando que los endpoints puedan ser consultados y probados fácilmente por el equipo de desarrollo.
+- Se reforzó la estructura de seguridad básica del sistema, incorporando validaciones y control de acceso mediante autenticación y hash de contraseñas.
+- El equipo mantuvo una coordinación efectiva para el modelado de entidades, controladores REST y pipeline de despliegue, asegurando la escalabilidad y mantenibilidad del backend.
+
+### Sprint 4
+
+- Durante el Sprint 4, el equipo completó la integración total entre frontend y backend, asegurando una versión navegable y funcional de Mecanet.
+- Se validó la conexión en tiempo real de todos los módulos clave: usuarios, activos, inventario, mantenimiento, métricas y reportes.
+- Se implementó y probó el servicio externo de envío de correos, ampliando la interacción y notificaciones automáticas para los usuarios.
+- Se consolidó la documentación técnica de todos los servicios RESTful con Swagger, garantizando su consulta y prueba directa.
+- Se logró el despliegue final en producción con flujos CI/CD, validando que el sistema opera correctamente en un entorno real y accesible.
+
+El proyecto Mecanet permitió validar que muchas empresas industriales aún dependen de métodos manuales y herramientas dispersas para gestionar el mantenimiento de activos, confirmando el Problem Statement inicial.
+
+A través de los Sprints, se demostró que una plataforma centralizada es viable técnica y funcionalmente, facilitando la planificación de mantenimientos, la gestión de activos, inventario y órdenes de trabajo, alineándose con los Hypotheses Statements y cumpliendo los criterios de éxito definidos en Lean UX.
+
+La implementación incremental y validación de cada módulo evidenció que los segmentos de usuarios (administradores y técnicos) valoran la simplicidad, la automatización de procesos clave y la visualización clara de información, confirmando varios assumptions del diseño inicial.
+
+El despliegue en entornos reales y la integración de servicios externos (como Email Service) reforzaron la escalabilidad y sostenibilidad del modelo, sentando las bases para la evolución futura del producto digital.
+
 
 ## Recomendaciones 
 
@@ -5208,7 +5239,31 @@ Optimizar la gestión del tiempo y recursos en tareas críticas, especialmente a
 
 Continuar promoviendo las retrospectivas internas de equipo al final de cada Sprint, lo que ha demostrado ser útil para identificar obstáculos y mejorar la dinámica de trabajo. <br/>
 
-Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. <br/>
+Fomentar aún más la documentación técnica paso a paso, especialmente en las tareas relacionadas con infraestructura y despliegue, para facilitar el onboarding de nuevos miembros o el traspaso de responsabilidades. 
+
+Continuar con pruebas de usuario más amplias para recoger feedback real de empresas objetivo, mejorando flujos de uso, reportes y notificaciones según la experiencia directa de los técnicos y administradores.
+
+Desarrollar módulos complementarios como métricas avanzadas (predictivas) y tableros de BI que potencien la toma de decisiones estratégicas de mantenimiento.
+
+Explorar integraciones con IoT o sensores en tiempo real para automatizar aún más la captura de datos de activos y líneas de producción.
+
+Definir un Roadmap de funcionalidades priorizando la mejora continua de la interfaz, la automatización de tareas repetitivas y la ampliación de servicios externos como pagos, alertas SMS o integraciones con ERPs.
+
+Mantener el flujo de CI/CD y despliegue en la nube, revisando periódicamente la arquitectura para sostener escalabilidad y seguridad conforme crezca la base de usuarios.
+
+Extender la integración con sistemas de autenticación corporativa (SSO) para facilitar la adopción en medianas y grandes empresas.
+
+Explorar modelos de suscripción escalable, integrando pasarelas de pago que permitan monetizar nuevas funciones premium.
+
+Implementar dashboards personalizables para que cada rol (admin, técnico, supervisor) tenga métricas y vistas adaptadas a sus tareas diarias.
+
+Potenciar la automatización de alertas vía email o SMS ante incidencias críticas, mantenimiento pendiente o baja de inventario.
+
+Ampliar las pruebas de estrés y seguridad para validar la robustez del backend frente a picos de uso y posibles vulnerabilidades.
+
+Mantener actualizado el entorno de documentación técnica, con diagramas de arquitectura y ejemplos de integración, para apoyar la escalabilidad del equipo y facilitar auditorías externas.
+
+<br/>
 
 # Video About-the-Team.
 ![image](https://github.com/user-attachments/assets/e49e1d18-5bf0-437b-b7ff-104f30b9a989)
@@ -5220,17 +5275,11 @@ McKinsey & Company. (2021). Innovación a través de la disrupción digital en s
 # Anexos
 
 
-Link del Proyecto Desplegado: https://agreeable-moss-0b81a851e.6.azurestaticapps.net/
+Link del Frontend Desplegado: https://agreeable-moss-0b81a851e.6.azurestaticapps.net/
 
-Link del Backed del proyecto desplegado: https://mecanetbackend-hjexa7d8bkfybmfv.centralus-01.azurewebsites.net/swagger-ui/index.html
+Link del Backend del proyecto desplegado: https://mecanetbackend-hjexa7d8bkfybmfv.centralus-01.azurewebsites.net/swagger-ui/index.html
 
 Link de la Landing Page: https://kind-wave-030d8c21e.6.azurestaticapps.net/
-
-
-Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=0-1&t=TNttHot2q3YOT97v-1
-
-Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
-
 
 Link del Repositorio del Proyecto: https://github.com/wiwitech1/mecanet-frontend
 
@@ -5242,15 +5291,25 @@ Link del Repositorio del frontend: https://github.com/wiwitech1/mecanet-frontend
 
 Link del Repositorio del backend: https://github.com/wiwitech1/mecanet-backend.git
 
+Link del Figma: https://www.figma.com/design/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=0-1&t=TNttHot2q3YOT97v-1
 
-Link del Video About the Product Youtube: https://www.youtube.com/watch?v=QKpEu8YCnMQ&t=1s&ab_channel=Mayo
+Link del Prototipo: https://www.figma.com/proto/DrWdD2WCsYdhWQ633erUJM/Mecanet?node-id=344-4101&p=f&t=TNttHot2q3YOT97v-0&scaling=scale-down-width&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=344%3A4101&show-proto-sidebar=1
 
-Link del Video About the Product Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQBg5fvni5RItoLVHdwa7wUBntB9q7JdxX9SudQ-9-9Mmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4oQ5W
+Link del Video About the Product 
+- Youtube: https://www.youtube.com/watch?v=QKpEu8YCnMQ&t=1s&ab_channel=Mayo
+- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQBg5fvni5RItoLVHdwa7wUBntB9q7JdxX9SudQ-9-9Mmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4oQ5W
 
 Link del Video About the Team: 
-Youtube: https://www.youtube.com/watch?v=I3xC4kqr_JM&t=17s&ab_channel=Mayo
-Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EWEM9HSeWsdFu8SPEfLrA9gBxlL6piY2xSpWZxuUL9f22A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lJDaly
+- Youtube: https://youtu.be/hPjQ2KmTaJc
+- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EX76tS-Dm4dLrL-p8kWQry0BvFrJg5E_LhOPLoCTAmDbVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DWtFV9
 
 Video de Exposición TF: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
+<<<<<<< HEAD
 Link de las entrevivistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUiXdf_6LnZIiGxwJgROXkcBURzF0AMJ_nUwZndGzflvUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=79sxBy
+=======
+Link de las entrevistas de análisis a segmentos objetivos: https://upcedupe-my.sharepoint.com/personal/u20211g671_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211g671%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4304%2DWiwiTech%2Dneedfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6d6de6d5%2D3904%2D4f6b%2Dab04%2D3d5a01a8c950
+
+Link de las entrevivistas de validación:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ETCj9AQp_-tPoAxzmTIGVsoBPan3zeHY5eAfF8H56F881w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eO1gKK
+
+>>>>>>> 963aa393f4c7689fbf66c94a7c63114ec67dae61
