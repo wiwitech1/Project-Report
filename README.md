@@ -4846,6 +4846,9 @@ A continuación, se presentan evidencias visuales de las funcionalidades integra
 
 #### Evidencia 4: Integración con Email Service
 
+![image](https://github.com/user-attachments/assets/fd76d02d-d3ae-463f-964c-b77ddcf4fd0f)
+![image](https://github.com/user-attachments/assets/5304add6-444b-4586-abca-e06831f6d565)
+
 
 #### Evidencia 5: Registro de técnicos 
 
