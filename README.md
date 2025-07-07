@@ -4984,12 +4984,12 @@ A continuación, se presentan capturas del repositorio oficial del proyecto que 
 
 Captura de colaboracion en github:
 
-![image](https://github.com/user-attachments/assets/bcc0f50d-0c07-4656-89f8-210dc6ff022a)
-![image](https://github.com/user-attachments/assets/07cba899-1fc5-4a11-ba40-a5ef7148554d)
-![image](https://github.com/user-attachments/assets/61829674-ca49-413b-8d10-aac189bc426c)
-![image](https://github.com/user-attachments/assets/8c8fd376-b266-436e-80fc-3202e65e115a)
-![image](https://github.com/user-attachments/assets/0eafee43-5903-4e80-a80f-44884748a53d)
-![image](https://github.com/user-attachments/assets/bd8b15c8-4036-4cea-b3a2-f9d7930d4fd3)
+Repositorio del Backend:
+![image](https://github.com/user-attachments/assets/7eaaba9d-2b67-4af3-a34f-e682a068d635)
+![image](https://github.com/user-attachments/assets/270967fe-c752-4d06-a717-3b036798bbc6)
+![image](https://github.com/user-attachments/assets/85dafd71-c8f8-465f-aaf9-87cfae236210)
+
+Repositorio del Frontend:
 
 
 
