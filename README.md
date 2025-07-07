@@ -4862,17 +4862,415 @@ La documentación fue generada automáticamente desde las anotaciones del códig
 
 A continuación, se muestran capturas de evidencia de la documentación de servicios:
 
+<br>
+
 #### Evidencia 1: Documentación Swagger - Autenticación y gestión de usuarios
 
+##### Tenant Registration (POST)
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/tenants/register` | POST | `/api/tenants/register` |
+
+---
+
+**Parámetros (Request Body):**  
+```
+{
+  "ruc": "12345678901",
+  "legalName": "ClauTech Solutions S.A.C.",
+  "commercialName": "ClauTech",
+  "address": "Av. Siempre Viva 123",
+  "city": "Lima",
+  "country": "Perú",
+  "tenantPhone": "+51 987654321",
+  "tenantEmail": "contacto@clautech.com",
+  "website": "https://www.clautech.com",
+  "subscriptionPlanId": 1,
+  "username": "clau",
+  "password": "clau",
+  "email": "clau@clautech.com",
+  "firstName": "Claudia",
+  "lastName": "Ramírez"
+}
+```
+
+**Ejemplo Response (200 OK):**  
+```
+{
+  "id": 1,
+  "username": "clau",
+  "name": "Claudia Ramírez",
+  "email": "clau@clautech.com",
+  "roles": [
+    "ROLE_ADMIN"
+  ]
+}
+```
+
+**Descripción:**  
+Permite registrar una nueva compañía (Tenant) junto con su usuario administrador, asignando el plan de suscripción y generando credenciales de acceso iniciales.
+
+![Evidencia au1:](/img/sprint-4/1.png)
+![Evidencia au1:](/img/sprint-4/2.png)
+
+<br>
+
+
+##### Authentication Sign-In (POST)
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/authentication/sign-in` | POST | `/api/v1/authentication/sign-in` |
+
+---
+
+**Parámetros (Request Body):**  
+```
+{
+  "username": "clau",
+  "password": "clau"
+}
+```
+
+**Ejemplo Response (200 OK):**  
+```
+{
+  "id": 1,
+  "username": "clau",
+  "token": "eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJjbGF1In0..."
+}
+```
+
+**Descripción:**  
+Permite autenticar un usuario mediante sus credenciales (`username` y `password`) y devuelve un **token JWT** para autorización de futuras peticiones.
+
+![Evidencia au1:](/img/sprint-4/3.png)
+![Evidencia au1:](/img/sprint-4/4.png)
+
+<br>
+
+##### Users (GET)
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/users` | GET | `/api/v1/users` |
+
+---
+
+**Parámetros:**  
+_No requiere parámetros._
+
+**Ejemplo Response (200 OK):**  
+```
+[
+  {
+    "id": 1,
+    "username": "clau",
+    "name": "Claudia Ramírez",
+    "email": "clau@clautech.com",
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  }
+]
+```
+
+**Descripción:**  
+Devuelve la lista de usuarios registrados para el tenant actual, mostrando información básica y roles asociados.
+
+![Evidencia au1:](/img/sprint-4/5.png)
+
+<br>
 
 #### Evidencia 2: Documentación Swagger - Gestión de activos y órdenes de trabajo
 
 
+<br>
+
 #### Evidencia 3: Documentación Swagger - Inventario y solicitudes de repuestos
 
+##### Inventory Items (POST)
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/inventory-items` | POST | `/api/v1/inventory-items` |
+
+---
+
+**Parámetros (Request Body):**  
+```
+{
+  "sku": "string",
+  "name": "string",
+  "description": "string",
+  "category": "string",
+  "unit": "string",
+  "unitPrice": 0,
+  "minimumStock": 0,
+  "location": "string",
+  "plantId": 0,
+  "compatibleMachineIds": [
+    0
+  ]
+}
+```
+
+**Ejemplo Response (200 OK):**  
+```
+{
+  "id": 0,
+  "sku": "string",
+  "name": "string",
+  "description": "string",
+  "category": "string",
+  "unit": "string",
+  "unitPrice": 0,
+  "currentStock": 0,
+  "minimumStock": 0,
+  "location": "string",
+  "compatibleMachineIds": [
+    0
+  ],
+  "status": "string",
+  "createdAt": "2025-07-07T05:40:21.209Z",
+  "updatedAt": "2025-07-07T05:40:21.209Z"
+}
+```
+
+**Descripción:**  
+Crea un nuevo ítem de inventario con los datos especificados, incluyendo datos de ubicación, stock mínimo, precio unitario y máquinas compatibles.
+
+![Evidencia au1:](/img/sprint-4/6.png)
+![Evidencia au1:](/img/sprint-4/7.png)
+
+<br>
+
+##### Inventory Items - Add Inventory Stock (POST)
+
+Este endpoint permite **agregar stock** a un ítem de inventario existente. Es útil para registrar ingresos de materiales, compras o devoluciones de piezas.
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/inventory-items/{itemId}/add-stock` | POST | `/api/v1/inventory-items/1/add-stock` |
+
+---
+
+**Parámetros Path:**  
+- `itemId` (integer): ID del ítem de inventario al que se le agregará stock.
+
+**Parámetros (Request Body):**
+```json
+{
+  "quantity": 10,
+  "reason": "string",
+  "unitCost": 10,
+  "reference": "11"
+}
+```
+
+**Ejemplo Response:**
+```json
+{
+  "id": 1,
+  "sku": "ABC123",
+  "name": "Motor Eléctrico 5HP",
+  "description": "Motor eléctrico de 5 caballos de fuerza, ideal para maquinaria industrial.",
+  "category": "REPUESTO",
+  "unit": "pieza",
+  "unitPrice": 1500,
+  "currentStock": 10,
+  "minimumStock": 10,
+  "location": "A1-B2-3",
+  "compatibleMachineIds": [
+    201,
+    202
+  ],
+  "status": "ACTIVE",
+  "createdAt": "2025-07-07T00:43:24.727Z",
+  "updatedAt": "2025-07-07T00:49:09.591Z"
+}
+```
+
+![Evidencia au1:](/img/sprint-4/8.png)
+![Evidencia au1:](/img/sprint-4/9.png)
+
+<br>
+
+##### Inventory Items - Remove Stock (POST)
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/inventory-items/{itemId}/remove-stock` | POST | `/api/v1/inventory-items/{itemId}/remove-stock` |
+
+---
+
+**Parámetros Path:**  
+- `itemId`: ID del ítem de inventario (integer)
+
+**Parámetros (Request Body):**  
+```
+{
+  "quantity": 0,
+  "reason": "string",
+  "reference": "string",
+  "machineId": 0
+}
+```
+
+**Ejemplo Response (200 OK):**  
+```
+{
+  "id": 1,
+  "sku": "ABC123",
+  "name": "Motor Eléctrico 5HP",
+  "description": "Motor eléctrico de 5 caballos de fuerza, ideal para maquinaria industrial.",
+  "category": "REPUESTO",
+  "unit": "pieza",
+  "unitPrice": 1500,
+  "currentStock": 10,
+  "minimumStock": 10,
+  "location": "A1-B2-3",
+  "compatibleMachineIds": [
+    201,
+    202
+  ],
+  "status": "ACTIVE",
+  "createdAt": "2025-07-07T00:43:24.727Z",
+  "updatedAt": "2025-07-07T00:49:09.591Z"
+}
+```
+
+**Descripción:**  
+Remueve stock del ítem de inventario indicado. Requiere `quantity`, `reason` de retiro, `reference` de operación y `machineId` relacionada si aplica.
+
+![Evidencia au1:](/img/sprint-4/10.png)
+![Evidencia au1:](/img/sprint-4/11.png)
+
+
+<br>
 
 #### Evidencia 4: Documentación Swagger - Métricas y reportes
 
+##### Metric Definitions - Get All Metrics (GET)
+
+Devuelve el catálogo global de métricas registradas en el sistema, con su nombre, unidad de medida e identificador. Útil para cargar listas de métricas en formularios o reportes.
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/metric-definitions` | GET | `/api/v1/metric-definitions` |
+
+---
+
+**Parámetros Path:**  
+_No aplica._
+
+**Parámetros (Request Body):**  
+_No aplica._
+
+**Ejemplo Response:**
+```
+[
+  {
+    "id": 1,
+    "name": "Kilometraje",
+    "unit": "km"
+  },
+  {
+    "id": 2,
+    "name": "Horas de uso",
+    "unit": "h"
+  },
+  {
+    "id": 3,
+    "name": "Ciclos de trabajo",
+    "unit": "ciclos"
+  },
+  {
+    "id": 4,
+    "name": "Horas de motor",
+    "unit": "h"
+  },
+  {
+    "id": 5,
+    "name": "Temperatura",
+    "unit": "°C"
+  }
+]
+```
+![Evidencia au1:](/img/sprint-4/12.png)
+![Evidencia au1:](/img/sprint-4/13.png)
+
+<br>
+
+##### Machine Metrics - Record Metric (POST)
+
+Este endpoint permite **registrar una nueva medición** (valor y timestamp) para una máquina específica y una métrica específica. Se utiliza para actualizar lecturas operativas como kilometraje, horas de uso, ciclos, etc.
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/machines/{machineId}/metrics` | POST | `/api/v1/machines/1/metrics` |
+
+---
+
+**Parámetros Path:**  
+- `machineId` (integer): ID de la máquina a la que se le registra la métrica.
+
+**Parámetros (Request Body):**
+```json
+{
+  "metricId": 1,
+  "value": 0.1,
+  "measuredAt": "2025-07-07T06:06:21.093Z"
+}
+```
+
+**Ejemplo Response:**  
+`201 Created` (Sin cuerpo en respuesta, solo cabeceras de confirmación)
+
+**Descripción:**  
+Permite almacenar una nueva lectura de métrica para una máquina. Requiere `metricId` existente, `value` numérico de la lectura y `measuredAt` como fecha ISO8601.
+
+![Evidencia au1:](/img/sprint-4/14.png)
+![Evidencia au1:](/img/sprint-4/15.png)
+
+<br>
+
+##### Machine Metrics - Get Current Metrics (GET)
+
+Obtiene el valor más reciente de cada métrica actualmente registrada para la máquina especificada.
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/machines/{machineId}/metrics` | GET | `/api/v1/machines/1/metrics` |
+
+---
+
+**Parámetros Path:**  
+- `machineId` (integer): ID de la máquina de la cual se desea consultar las métricas actuales.
+
+**Parámetros (Request Body):**  
+_No aplica para este método GET._
+
+**Ejemplo Response:**
+```json
+{
+  "metricId": 1,
+  "metricName": "Kilometraje",
+  "unit": "km",
+  "value": 0.1,
+  "measuredAt": "2025-07-07T06:06:21.093Z"
+}
+```
+
+**Descripción:**  
+Este endpoint retorna un listado con el último valor registrado de cada métrica vinculada a la máquina especificada. Es útil para monitorear en tiempo real indicadores como kilometraje, horas de uso, temperatura, entre otros.
+
+
+![Evidencia au1:](/img/sprint-4/16.png)
+![Evidencia au1:](/img/sprint-4/17.png)
+
+<br>
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 Durante el Sprint 4, se llevó a cabo el despliegue exitoso de la aplicación completa Mecanet, incluyendo tanto el backend como el frontend integrados. El sistema quedó alojado en servidores accesibles a través de Internet, permitiendo la navegación completa por todas las funcionalidades implementadas: gestión de usuarios, activos, planes de mantenimiento, inventario, métricas y reportes.
