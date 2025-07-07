@@ -252,7 +252,8 @@ En esta entrega, hemos implementado con éxito el backend de la aplicación web 
 
 ## TF1
 En esta entrega, hemos integrado con éxito el backend y el frontend de la aplicación, lo cual representa un hito importante. Este logro fue posible gracias a la coordinación del equipo, asegurando una conexión fluida entre ambas capas y avanzando significativamente en la funcionalidad del proyecto.
-![Contributions tb2](https://github.com/user-attachments/assets/b19e49a7-d1ba-46a0-b559-987ec7a38872)
+![image](https://github.com/user-attachments/assets/4a374e47-3daf-4e06-898e-6da678cd07a0)
+
 
 
 # Contenido
