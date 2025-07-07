@@ -5371,8 +5371,8 @@ Link del Video About the Product
 - Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQBg5fvni5RItoLVHdwa7wUBntB9q7JdxX9SudQ-9-9Mmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S4oQ5W
 
 Link del Video About the Team: 
-- Youtube: https://www.youtube.com/watch?v=I3xC4kqr_JM&t=17s&ab_channel=Mayo
-- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EWEM9HSeWsdFu8SPEfLrA9gBxlL6piY2xSpWZxuUL9f22A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lJDaly
+- Youtube: https://youtu.be/hPjQ2KmTaJc
+- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EX76tS-Dm4dLrL-p8kWQry0BvFrJg5E_LhOPLoCTAmDbVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DWtFV9
 
 Video de Exposición TF: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/ElPzoam4P69JnQw_Xb0NQjsB-xNWCkOJnwn8TIbYh0_tjg?e=xfiiNU
 
