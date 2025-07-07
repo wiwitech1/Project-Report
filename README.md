@@ -4842,6 +4842,79 @@ Devuelve la lista de usuarios registrados para el tenant actual, mostrando infor
 <br>
 
 #### Evidencia 2: Documentación Swagger - Gestión de activos y órdenes de trabajo
+##### Work Orders - Get Work Orders by Status (GET)
+
+Permite **consultar todas las órdenes de trabajo** filtradas por estado (`status`). Si no se envía estado, retorna todas.
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/workorders` | GET | `/api/v1/workorders?status=NEW` |
+
+---
+
+**Parámetros Query:**  
+- `status` (string): Estado de la orden de trabajo a filtrar (`NEW`, `IN_PROGRESS`, `COMPLETED`, etc.).
+
+**Parámetros (Request Body):**  
+_No requiere body._
+
+**Ejemplo Response:**
+```json
+[
+  {
+    "id": 1751878790287,
+    "planId": 1,
+    "taskId": 1,
+    "machineId": 1,
+    "title": "Hacer cosa 1",
+    "description": "XD ch1",
+    "status": "NEW",
+    "executedTechnicians": null,
+    "requiredSkillIds": [],
+    "schedule": null,
+    "executionWindow": null,
+    "conclusions": null,
+    "comments": [],
+    "photos": [],
+    "tenantId": 1,
+    "createdAt": "2025-07-07T03:58:29.29",
+    "updatedAt": "2025-07-07T03:58:29.29"
+  }
+]
+```
+![image](https://github.com/user-attachments/assets/c216f4c8-cb19-45d7-ab8b-9c9a1158858e)
+
+<br>
+
+##### Work Orders - Start Work Order Execution (POST)
+
+Este endpoint permite **iniciar la ejecución de una orden de trabajo** asignando técnicos y registrando la fecha y hora de inicio. Es fundamental para controlar el progreso de las OT en planta.
+
+| Endpoint | Verbo HTTP | Sintaxis |
+|----------|-------------|----------|
+| `/api/v1/workorders/{id}/start` | POST | `/api/v1/workorders/1/start` |
+
+---
+
+**Parámetros Path:**  
+- `id` (integer): ID de la orden de trabajo a iniciar.
+
+**Parámetros (Request Body):**
+```json
+{
+  "workOrderId": {
+    "value": 1
+  },
+  "technicianId": {
+    "value": 1
+  },
+  "startAt": "2025-07-07T09:12:12.265Z"
+}
+```
+Descripción:
+Este proceso cambia el estado de la orden de trabajo a “En ejecución”, registra el técnico responsable y almacena la hora de inicio. Se usa para gestionar reportes de avance, tiempos de intervención y costos asociados.
+
+![image](https://github.com/user-attachments/assets/2ea8ef8e-1f66-43b3-b2c0-307bb94e75d7)
 
 
 <br>
